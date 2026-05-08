@@ -12941,7 +12941,7 @@
     "original_repo_count": 0,
     "total_repo_count": 1,
     "total_contributions": 217,
-    "user_type": "developer"
+    "user_type": "questioner"
   },
   {
     "user_name": "zihengwang2",
@@ -25973,5 +25973,117 @@
     "total_repo_count": 0,
     "total_contributions": 0,
     "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "Messi8",
+    "nick_name": "cin",
+    "user_id": 11153735,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "gcw_KLOHF9d6",
+    "nick_name": "gcw_KLOHF9d6",
+    "user_id": 11148245,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "zcklllyao",
+    "nick_name": "zcklllyao",
+    "user_id": 1884418,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "qq_48081447",
+    "nick_name": "火色八月",
+    "user_id": 2532917,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "weixin_56406373",
+    "nick_name": "mmbudaomei",
+    "user_id": 2640362,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "HW_KK",
+    "nick_name": "HW_KK",
+    "user_id": 5269053,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 137,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "yangjinwen",
+    "nick_name": "yangjinwen",
+    "user_id": 11031518,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 3,
+    "original_repo_count": 0,
+    "total_repo_count": 2,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "ZifanMa",
+    "nick_name": "mazifan",
+    "user_id": 5273689,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 3,
+    "original_repo_count": 3,
+    "total_repo_count": 29,
+    "total_contributions": 839,
+    "user_type": "developer"
   }
 ]
