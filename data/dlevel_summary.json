@@ -2,14 +2,14 @@
   "generated_at": "2026-05-09",
   "global_counts": {
     "d0": 982,
-    "d1": 471,
-    "d2": 480,
+    "d1": 470,
+    "d2": 481,
     "total": 1933
   },
   "repo_counts": {
     "cann/ge": {
-      "d0": 435,
-      "d1": 179,
+      "d0": 434,
+      "d1": 180,
       "d2": 153,
       "total": 767
     },
@@ -33,8 +33,8 @@
     },
     "Ascend/torchair": {
       "d0": 512,
-      "d1": 244,
-      "d2": 297,
+      "d1": 243,
+      "d2": 298,
       "total": 1053
     }
   },
@@ -9142,9 +9142,10 @@
       {
         "user_name": "sjtulxh",
         "nick_name": "sjtulxh",
-        "level": "d0",
+        "level": "d1",
         "sources": [
-          "star"
+          "star",
+          "issue"
         ],
         "star_time": "2025-12-30T01:10:29.000+00:00",
         "fans_count": 0,
@@ -11713,7 +11714,7 @@
       },
       {
         "user_name": "yanzhenghang",
-        "nick_name": "yanzhenghang",
+        "nick_name": "严正行",
         "level": "d2",
         "sources": [
           "fork",
@@ -48514,10 +48515,11 @@
       {
         "user_name": "yu_qinfei",
         "nick_name": "yu_qinfei",
-        "level": "d1",
+        "level": "d2",
         "sources": [
           "fork",
-          "pr"
+          "pr",
+          "merged_pr"
         ],
         "star_time": "",
         "fans_count": null,
@@ -50315,8 +50317,8 @@
     },
     {
       "month": "2025-12",
-      "d0": 647,
-      "d1": 43,
+      "d0": 646,
+      "d1": 44,
       "d2": 94,
       "new_stars": 784,
       "cumulative": 1329
