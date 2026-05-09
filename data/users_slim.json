@@ -1,5 +1,18 @@
 [
   {
+    "user_name": "sun_xuexin",
+    "nick_name": "sun-xuexin",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 222,
+    "developer_source": "internal"
+  },
+  {
     "user_name": "zhunaipan",
     "nick_name": "zhunaipan",
     "starred_repos": [
@@ -5341,19 +5354,6 @@
     "developer_source": "internal"
   },
   {
-    "user_name": "sun_xuexin",
-    "nick_name": "sun-xuexin",
-    "starred_repos": [
-      "cann/ge",
-      "cann/hixl"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 222,
-    "developer_source": "internal"
-  },
-  {
     "user_name": "jiangxinyu3",
     "nick_name": "izanaami",
     "starred_repos": [
@@ -9952,7 +9952,8 @@
     "nick_name": "xbjlu",
     "starred_repos": [
       "cann/hixl",
-      "cann/torchtitan-npu"
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
     ],
     "user_type": "star_enthusiast",
     "fans_count": 0,
@@ -10941,6 +10942,66 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "sijieaaa",
+    "nick_name": "sijieaaa",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 2,
+    "total_contributions": 5,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "gcw_LE99omsm",
+    "nick_name": "Cherrie_lee",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "m0_62051609",
+    "nick_name": "m0_62051609",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "siling",
+    "nick_name": "siling",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "qiuqiuyahhhh",
+    "nick_name": "奇奇怪怪的史迪仔",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
     "user_name": "zcklllyao",
     "nick_name": "zcklllyao",
     "starred_repos": [
@@ -11131,18 +11192,6 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 1,
-    "developer_source": "external"
-  },
-  {
-    "user_name": "qiuqiuyahhhh",
-    "nick_name": "奇奇怪怪的史迪仔",
-    "starred_repos": [
-      "cann/torchtitan-npu"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0,
     "developer_source": "external"
   },
   {
@@ -11410,6 +11459,30 @@
     "original_repo_count": 0,
     "total_contributions": 198,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "Lee19890906",
+    "nick_name": "Lee",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 5,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "HengjiaL",
+    "nick_name": "HengjiaL",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1,
+    "developer_source": "external"
   },
   {
     "user_name": "ZifanMa",

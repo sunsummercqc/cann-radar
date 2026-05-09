@@ -26085,5 +26085,89 @@
     "total_repo_count": 29,
     "total_contributions": 839,
     "user_type": "developer"
+  },
+  {
+    "user_name": "gcw_LE99omsm",
+    "nick_name": "Cherrie_lee",
+    "user_id": 7571597,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "sijieaaa",
+    "nick_name": "sijieaaa",
+    "user_id": 7104087,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 2,
+    "total_repo_count": 2,
+    "total_contributions": 5,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "m0_62051609",
+    "nick_name": "m0_62051609",
+    "user_id": 5687499,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "siling",
+    "nick_name": "siling",
+    "user_id": 233747,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "Lee19890906",
+    "nick_name": "Lee",
+    "user_id": 5843130,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 5,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "HengjiaL",
+    "nick_name": "HengjiaL",
+    "user_id": 7162570,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 2,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 1,
+    "user_type": "developer"
   }
 ]

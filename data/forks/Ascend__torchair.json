@@ -1,5 +1,27 @@
 [
   {
+    "id": 9851982,
+    "namespace": "OblivionZHU/torchair",
+    "name": "torchair",
+    "web_url": "https://gitcode.com/OblivionZHU/torchair",
+    "http_url_to_repo": "https://gitcode.com/OblivionZHU/torchair.git",
+    "created_at": "2026-05-09T10:51:24.685+08:00",
+    "creator_username": "OblivionZHU",
+    "creator_nick_name": "OblivionZHU",
+    "forked_from": "Ascend/torchair"
+  },
+  {
+    "id": 9851477,
+    "namespace": "chenjiale56/torchair",
+    "name": "torchair",
+    "web_url": "https://gitcode.com/chenjiale56/torchair",
+    "http_url_to_repo": "https://gitcode.com/chenjiale56/torchair.git",
+    "created_at": "2026-05-09T09:40:19.354+08:00",
+    "creator_username": "chenjiale56",
+    "creator_nick_name": "chenjl",
+    "forked_from": "Ascend/torchair"
+  },
+  {
     "id": 9850574,
     "namespace": "captainmiaow/torchair",
     "name": "torchair",

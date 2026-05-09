@@ -1,5 +1,16 @@
 [
   {
+    "id": 9852098,
+    "namespace": "chentianyu19/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/chentianyu19/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/chentianyu19/graph-autofusion.git",
+    "created_at": "2026-05-09T11:05:24.411+08:00",
+    "creator_username": "chentianyu19",
+    "creator_nick_name": "chentianyu19",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
     "id": 9849107,
     "namespace": "zqmin/graph-autofusion",
     "name": "graph-autofusion",

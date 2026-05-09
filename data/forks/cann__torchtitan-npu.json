@@ -1,5 +1,49 @@
 [
   {
+    "id": 9852079,
+    "namespace": "gcw_LE99omsm/torchtitan-npu",
+    "name": "torchtitan-npu",
+    "web_url": "https://gitcode.com/gcw_LE99omsm/torchtitan-npu",
+    "http_url_to_repo": "https://gitcode.com/gcw_LE99omsm/torchtitan-npu.git",
+    "created_at": "2026-05-09T11:02:43.319+08:00",
+    "creator_username": "gcw_LE99omsm",
+    "creator_nick_name": "Cherrie_lee",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
+    "id": 9851940,
+    "namespace": "m0_62051609/torchtitan-npu",
+    "name": "torchtitan-npu",
+    "web_url": "https://gitcode.com/m0_62051609/torchtitan-npu",
+    "http_url_to_repo": "https://gitcode.com/m0_62051609/torchtitan-npu.git",
+    "created_at": "2026-05-09T10:45:26.235+08:00",
+    "creator_username": "m0_62051609",
+    "creator_nick_name": "m0_62051609",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
+    "id": 9851903,
+    "namespace": "siling/torchtitan-npu",
+    "name": "torchtitan-npu",
+    "web_url": "https://gitcode.com/siling/torchtitan-npu",
+    "http_url_to_repo": "https://gitcode.com/siling/torchtitan-npu.git",
+    "created_at": "2026-05-09T10:40:49.671+08:00",
+    "creator_username": "siling",
+    "creator_nick_name": "siling",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
+    "id": 9851880,
+    "namespace": "qiuqiuyahhhh/torchtitan-npu",
+    "name": "torchtitan-npu",
+    "web_url": "https://gitcode.com/qiuqiuyahhhh/torchtitan-npu",
+    "http_url_to_repo": "https://gitcode.com/qiuqiuyahhhh/torchtitan-npu.git",
+    "created_at": "2026-05-09T10:37:58.140+08:00",
+    "creator_username": "qiuqiuyahhhh",
+    "creator_nick_name": "奇奇怪怪的史迪仔",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
     "id": 9850703,
     "namespace": "zcklllyao/torchtitan-npu",
     "name": "torchtitan-npu",
