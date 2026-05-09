@@ -904,7 +904,8 @@
     "user_name": "whitelee3",
     "nick_name": "whitelee3",
     "starred_repos": [
-      "cann/ge"
+      "cann/ge",
+      "Ascend/torchair"
     ],
     "user_type": "die_hard_fan",
     "fans_count": 0,
@@ -7410,7 +7411,7 @@
   },
   {
     "user_name": "ruixue11",
-    "nick_name": "guaguanotsweet",
+    "nick_name": "ruixue",
     "starred_repos": [
       "cann/hixl"
     ],
@@ -10940,6 +10941,18 @@
     "original_repo_count": 37,
     "total_contributions": 628,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "m0_74782060",
+    "nick_name": "Covertrick",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
   },
   {
     "user_name": "sijieaaa",

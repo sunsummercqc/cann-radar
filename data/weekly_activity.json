@@ -152,7 +152,7 @@
     {
       "name": "torchair",
       "path": "Ascend/torchair",
-      "total": 3022,
+      "total": 3025,
       "data": [
         1,
         8,
@@ -300,13 +300,13 @@
         42,
         66,
         16,
-        18
+        21
       ]
     },
     {
       "name": "ge",
       "path": "cann/ge",
-      "total": 2683,
+      "total": 2688,
       "data": [
         0,
         0,
@@ -448,19 +448,19 @@
         168,
         218,
         204,
-        229,
+        230,
         141,
         89,
         206,
         277,
         199,
-        163
+        167
       ]
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "total": 444,
+      "total": 445,
       "data": [
         0,
         0,
@@ -608,13 +608,13 @@
         22,
         22,
         18,
-        11
+        12
       ]
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "total": 352,
+      "total": 353,
       "data": [
         0,
         0,
@@ -762,7 +762,7 @@
         25,
         23,
         31,
-        21
+        22
       ]
     },
     {

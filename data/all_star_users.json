@@ -690,7 +690,8 @@
     "user_id": 7246551,
     "avatar": null,
     "starred_repos": [
-      "cann/ge"
+      "cann/ge",
+      "Ascend/torchair"
     ]
   },
   {
@@ -5763,7 +5764,7 @@
   },
   {
     "user_name": "ruixue11",
-    "nick_name": "guaguanotsweet",
+    "nick_name": "ruixue",
     "user_id": 6831696,
     "avatar": null,
     "starred_repos": [
@@ -8422,6 +8423,15 @@
     "avatar": "https://cdn-img.gitcode.com/da/cc/5d0a0c9c1fca5243d1ba0dc98041d00c95be5c1d74769ff86ec6f62ffd050cce.png",
     "starred_repos": [
       "cann/graph-autofusion"
+    ]
+  },
+  {
+    "user_name": "m0_74782060",
+    "nick_name": "Covertrick",
+    "user_id": 4720348,
+    "avatar": "https://cdn-img.gitcode.com/eb/ac/5664186e7b82782a51c29673bf9332b788d75a1bcddca4dce7bf9f8fe7c401de.png",
+    "starred_repos": [
+      "cann/torchtitan-npu"
     ]
   },
   {
