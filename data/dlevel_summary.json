@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-09",
+  "generated_at": "2026-05-10",
   "global_counts": {
     "d0": 982,
-    "d1": 470,
+    "d1": 471,
     "d2": 481,
-    "total": 1933
+    "total": 1934
   },
   "repo_counts": {
     "cann/ge": {
       "d0": 434,
-      "d1": 180,
+      "d1": 181,
       "d2": 153,
-      "total": 767
+      "total": 768
     },
     "cann/hixl": {
       "d0": 491,
@@ -919,6 +919,20 @@
         "starred_repos": [
           "cann/ge"
         ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "Hcool",
+        "nick_name": "Hcool",
+        "level": "d0",
+        "sources": [
+          "fork"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
         "developer_source": "external"
       },
       {
@@ -5835,9 +5849,11 @@
       {
         "user_name": "jiangxinyu3",
         "nick_name": "izanaami",
-        "level": "d0",
+        "level": "d1",
         "sources": [
-          "star"
+          "star",
+          "fork",
+          "pr"
         ],
         "star_time": "2025-12-30T01:05:36.000+00:00",
         "fans_count": 0,
@@ -50317,8 +50333,8 @@
     },
     {
       "month": "2025-12",
-      "d0": 646,
-      "d1": 44,
+      "d0": 645,
+      "d1": 45,
       "d2": 94,
       "new_stars": 784,
       "cumulative": 1329
