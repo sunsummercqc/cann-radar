@@ -4,8 +4,8 @@
     "new_stars": 238,
     "cumulative": 238,
     "contributor": 115,
-    "questioner": 16,
-    "developer": 56,
+    "questioner": 18,
+    "developer": 54,
     "star_enthusiast": 31,
     "die_hard_fan": 20
   },
@@ -24,8 +24,8 @@
     "new_stars": 784,
     "cumulative": 1332,
     "contributor": 293,
-    "questioner": 28,
-    "developer": 354,
+    "questioner": 29,
+    "developer": 353,
     "star_enthusiast": 87,
     "die_hard_fan": 22
   },
@@ -53,30 +53,30 @@
     "month": "2026-03",
     "new_stars": 232,
     "cumulative": 1843,
-    "contributor": 50,
+    "contributor": 51,
     "questioner": 28,
     "developer": 48,
     "star_enthusiast": 28,
-    "die_hard_fan": 78
+    "die_hard_fan": 77
   },
   {
     "month": "2026-04",
     "new_stars": 311,
     "cumulative": 2154,
     "contributor": 85,
-    "questioner": 22,
-    "developer": 70,
+    "questioner": 23,
+    "developer": 69,
     "star_enthusiast": 22,
     "die_hard_fan": 112
   },
   {
     "month": "2026-05",
-    "new_stars": 56,
-    "cumulative": 2210,
+    "new_stars": 64,
+    "cumulative": 2218,
     "contributor": 2,
-    "questioner": 8,
-    "developer": 21,
+    "questioner": 9,
+    "developer": 23,
     "star_enthusiast": 1,
-    "die_hard_fan": 24
+    "die_hard_fan": 29
   }
 ]

@@ -1,5 +1,12 @@
 [
   {
+    "iid": 372,
+    "state": "opened",
+    "created_at": "2026-05-11",
+    "closed_at": "",
+    "author": "dingdairong"
+  },
+  {
     "iid": 371,
     "state": "opened",
     "created_at": "2026-05-09",
@@ -64,9 +71,9 @@
   },
   {
     "iid": 362,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-05",
-    "closed_at": "",
+    "closed_at": "2026-05-11",
     "author": "yuchen97"
   },
   {
@@ -239,9 +246,9 @@
   },
   {
     "iid": 334,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-24",
-    "closed_at": "",
+    "closed_at": "2026-05-11",
     "author": "imhandsome1"
   },
   {
@@ -260,9 +267,9 @@
   },
   {
     "iid": 330,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-21",
-    "closed_at": "",
+    "closed_at": "2026-05-11",
     "author": "LetsAiGo"
   },
   {

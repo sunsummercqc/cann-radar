@@ -5662,6 +5662,15 @@
     ]
   },
   {
+    "user_name": "super_chao_x",
+    "nick_name": "super_chao_x",
+    "user_id": 10635465,
+    "avatar": null,
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
     "user_name": "weixin_56406373",
     "nick_name": "mmbudaomei",
     "user_id": 2640362,
@@ -6043,8 +6052,8 @@
     ]
   },
   {
-    "user_name": "lhh_",
-    "nick_name": "lhh_",
+    "user_name": "Cristiano_Ronaldo",
+    "nick_name": "Cristiano_Ronaldo ",
     "user_id": 10650914,
     "avatar": null,
     "starred_repos": [
@@ -8211,6 +8220,15 @@
     ]
   },
   {
+    "user_name": "qqqZZZ_3",
+    "nick_name": "qqqZZZ_3",
+    "user_id": 8986448,
+    "avatar": null,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ]
+  },
+  {
     "user_name": "gcw_KLOHF9d6",
     "nick_name": "gcw_KLOHF9d6",
     "user_id": 11148245,
@@ -8423,6 +8441,33 @@
     "avatar": "https://cdn-img.gitcode.com/da/cc/5d0a0c9c1fca5243d1ba0dc98041d00c95be5c1d74769ff86ec6f62ffd050cce.png",
     "starred_repos": [
       "cann/graph-autofusion"
+    ]
+  },
+  {
+    "user_name": "haha_cy",
+    "nick_name": "haha",
+    "user_id": 5257550,
+    "avatar": "https://cdn-img.gitcode.com/cf/cb/cf177c148bdd8b046f4a8d4151d1966bcb72590692bb98664e513a2833db76fd.png",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "met3or1te",
+    "nick_name": "chenzijian",
+    "user_id": 7008589,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "dyj_dyj",
+    "nick_name": "dyj",
+    "user_id": 10045322,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu"
     ]
   },
   {
@@ -8822,6 +8867,33 @@
     "avatar": "",
     "starred_repos": [
       "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "Rukiya1207",
+    "nick_name": "Rukiya1207",
+    "user_id": 2351519,
+    "avatar": null,
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "kuhn7",
+    "nick_name": "kuhn7",
+    "user_id": 6914885,
+    "avatar": null,
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "Love1101",
+    "nick_name": "Love1101",
+    "user_id": 9481254,
+    "avatar": null,
+    "starred_repos": [
+      "Ascend/torchair"
     ]
   },
   {
