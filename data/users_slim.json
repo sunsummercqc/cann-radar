@@ -10967,6 +10967,18 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "yanxiang123456",
+    "nick_name": "yanxiang123456",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 7,
+    "developer_source": "external"
+  },
+  {
     "user_name": "haha_cy",
     "nick_name": "haha",
     "starred_repos": [
@@ -11532,6 +11544,54 @@
     "original_repo_count": 0,
     "total_contributions": 198,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "gcw_WQwixzCa",
+    "nick_name": "gcw_WQwixzCa",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "qq_51534257",
+    "nick_name": "qinyuanshou",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "weixin_53122897",
+    "nick_name": "徂川.",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "charon__x",
+    "nick_name": "charon__x",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
   },
   {
     "user_name": "Rukiya1207",
@@ -12723,7 +12783,7 @@
   },
   {
     "user_name": "m0_64261837",
-    "nick_name": "一直努力奋斗的喵",
+    "nick_name": "喵喵",
     "starred_repos": [
       "Ascend/torchair"
     ],
@@ -14895,7 +14955,7 @@
   },
   {
     "user_name": "shenshuxin",
-    "nick_name": "byte199910",
+    "nick_name": "shuxin",
     "starred_repos": [
       "Ascend/torchair"
     ],
@@ -16191,7 +16251,7 @@
   },
   {
     "user_name": "clinglai0517",
-    "nick_name": "clinglai0517",
+    "nick_name": "clinglai",
     "starred_repos": [
       "Ascend/torchair"
     ],

@@ -388,7 +388,7 @@
     "user_name": "gothizzz",
     "nick_name": "gothizzz",
     "user_id": 6168773,
-    "avatar": null,
+    "avatar": "https://cdn-img.gitcode.com/fa/cc/f0a7c02c6ca6748bcf48d6cd8532ab353f8ce7005ec803607cef7464509a4fbb.png?time=1778576462618",
     "starred_repos": [
       "cann/ge"
     ]
@@ -8444,6 +8444,15 @@
     ]
   },
   {
+    "user_name": "yanxiang123456",
+    "nick_name": "yanxiang123456",
+    "user_id": 11210499,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "haha_cy",
     "nick_name": "haha",
     "user_id": 5257550,
@@ -8867,6 +8876,42 @@
     "avatar": "",
     "starred_repos": [
       "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "gcw_WQwixzCa",
+    "nick_name": "gcw_WQwixzCa",
+    "user_id": 11198075,
+    "avatar": "",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "qq_51534257",
+    "nick_name": "qinyuanshou",
+    "user_id": 2571594,
+    "avatar": "https://cdn-img.gitcode.com/aa/dc/91a87a8046dce27654bc45d0f3066d1b1bdb085b9e84668a8cd6d06cb93e9e38.jpg",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "weixin_53122897",
+    "nick_name": "徂川.",
+    "user_id": 910117,
+    "avatar": "https://cdn-img.gitcode.com/cb/ab/66c9b6ab1e0c2472773feac021a45d9ee768a377fe521e832d276788b6b67ecf.jpg",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "charon__x",
+    "nick_name": "charon__x",
+    "user_id": 7300465,
+    "avatar": "https://cdn-img.gitcode.com/ff/cc/4109f7fc27449c28e99a039fb054b2b29d1b920e4ee2d0e316a707175c7f151d.png",
+    "starred_repos": [
+      "Ascend/torchair"
     ]
   },
   {
@@ -9404,7 +9449,7 @@
     "user_name": "yefeicoding",
     "nick_name": "yefeicoding",
     "user_id": 7165973,
-    "avatar": null,
+    "avatar": "https://cdn-img.gitcode.com/fd/ba/fd4524558b85a3fa3012feda6b0948f80023d74f5b8fefee0fccf12823d33a2d.png?time=1778567897848",
     "starred_repos": [
       "Ascend/torchair"
     ]
@@ -9762,7 +9807,7 @@
   },
   {
     "user_name": "m0_64261837",
-    "nick_name": "一直努力奋斗的喵",
+    "nick_name": "喵喵",
     "user_id": 1211662,
     "avatar": "https://cdn-img.gitcode.com/ec/de/e509cde13d6958d30c51b9555f8058776d9f16b77f622f8c0d7dc6b8a01fe4a7.png",
     "starred_repos": [
@@ -11391,7 +11436,7 @@
   },
   {
     "user_name": "shenshuxin",
-    "nick_name": "byte199910",
+    "nick_name": "shuxin",
     "user_id": 9146451,
     "avatar": null,
     "starred_repos": [
@@ -12363,7 +12408,7 @@
   },
   {
     "user_name": "clinglai0517",
-    "nick_name": "clinglai0517",
+    "nick_name": "clinglai",
     "user_id": 7705518,
     "avatar": "",
     "starred_repos": [

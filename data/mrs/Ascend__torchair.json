@@ -1,17 +1,25 @@
 [
   {
-    "iid": 3035,
+    "iid": 3036,
     "state": "opened",
-    "created_at": "2026-05-11",
+    "created_at": "2026-05-12",
     "merged_at": "",
+    "closed_at": "",
+    "author": "alistair_pan"
+  },
+  {
+    "iid": 3035,
+    "state": "merged",
+    "created_at": "2026-05-11",
+    "merged_at": "2026-05-12",
     "closed_at": "",
     "author": "fu-hao-huawei"
   },
   {
     "iid": 3034,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-05-11",
-    "merged_at": "",
+    "merged_at": "2026-05-12",
     "closed_at": "",
     "author": "gleaming-spark"
   },
@@ -4537,10 +4545,10 @@
   },
   {
     "iid": 2468,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-01-07",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-05-12",
     "author": "huairuchen"
   },
   {
