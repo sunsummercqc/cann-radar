@@ -2,14 +2,14 @@
   "generated_at": "2026-05-13",
   "source_count": 2,
   "discussion_count": 2,
-  "external_count": 13,
+  "external_count": 14,
   "internal_count": 3,
-  "total_unique_participants": 16,
+  "total_unique_participants": 17,
   "trend": [
     {
       "date": "2026-05-13",
-      "external_count": 13,
-      "total_unique_participants": 16
+      "external_count": 14,
+      "total_unique_participants": 17
     }
   ],
   "participants": [
@@ -66,6 +66,24 @@
       ],
       "first_seen_at": "2026-05-13T16:12:05+08:00",
       "last_seen_at": "2026-05-13T16:12:05+08:00"
+    },
+    {
+      "user_name": "aaiii",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/2",
+          "title": "有奖问答 | HIXL基础知识-第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T19:17:58+08:00",
+      "last_seen_at": "2026-05-13T19:17:58+08:00"
     },
     {
       "user_name": "abc--158",
@@ -318,10 +336,10 @@
       "org": "cann/hixl",
       "number": "2",
       "title": "有奖问答 | HIXL基础知识-第一期",
-      "comment_total": 16,
+      "comment_total": 17,
       "reply_total": 8,
-      "unique_participants": 15,
-      "external_participants": 13
+      "unique_participants": 16,
+      "external_participants": 14
     }
   ],
   "errors": [],

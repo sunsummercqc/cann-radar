@@ -1,24 +1,24 @@
 {
   "generated_at": "2026-05-13",
   "global_counts": {
-    "d0": 979,
-    "d1": 590,
+    "d0": 980,
+    "d1": 592,
     "d2": 488,
-    "total": 2057,
+    "total": 2060,
     "d0_external": 637,
-    "d1_external": 386,
+    "d1_external": 388,
     "d2_external": 130
   },
   "repo_counts": {
     "cann/ge": {
       "d0": 435,
-      "d1": 202,
+      "d1": 204,
       "d2": 155,
-      "total": 792,
+      "total": 794,
       "d0_external": 169,
-      "d1_external": 109,
+      "d1_external": 111,
       "d2_external": 8,
-      "discussion_d1_external": 18
+      "discussion_d1_external": 19
     },
     "cann/hixl": {
       "d0": 491,
@@ -41,20 +41,20 @@
       "discussion_d1_external": 0
     },
     "cann/torchtitan-npu": {
-      "d0": 78,
-      "d1": 55,
+      "d0": 77,
+      "d1": 57,
       "d2": 25,
-      "total": 158,
+      "total": 159,
       "d0_external": 33,
       "d1_external": 52,
       "d2_external": 4,
       "discussion_d1_external": 47
     },
     "Ascend/torchair": {
-      "d0": 516,
+      "d0": 517,
       "d1": 287,
       "d2": 298,
-      "total": 1101,
+      "total": 1102,
       "d0_external": 302,
       "d1_external": 176,
       "d2_external": 113,
@@ -5024,6 +5024,20 @@
         "developer_source": "external"
       },
       {
+        "user_name": "gcw_vTFrY5o4",
+        "nick_name": "gcw_vTFrY5o4",
+        "level": "d1",
+        "sources": [
+          "discussion"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
+        "developer_source": "external"
+      },
+      {
         "user_name": "gcw_xljEvKEv",
         "nick_name": "gcw_xljEvKEv",
         "level": "d1",
@@ -8842,6 +8856,20 @@
           "cann/graph-autofusion"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "qq_40181027",
+        "nick_name": "qq_40181027",
+        "level": "d1",
+        "sources": [
+          "issue"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
+        "developer_source": "external"
       },
       {
         "user_name": "qq_40405058",
@@ -24978,7 +25006,7 @@
           "star",
           "fork"
         ],
-        "star_time": "2025-11-03T01:32:23.000+00:00",
+        "star_time": "2026-05-13T13:32:26.000+00:00",
         "fans_count": 0,
         "original_repo_count": 1,
         "total_contributions": 133,
@@ -33405,6 +33433,24 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "wangyunxiang1",
+        "nick_name": "wangyunxiang",
+        "level": "d1",
+        "sources": [
+          "fork",
+          "pr"
+        ],
+        "star_time": "",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 5385,
+        "starred_repos": [
+          "cann/ge",
+          "cann/graph-autofusion"
+        ],
+        "developer_source": "internal"
+      },
+      {
         "user_name": "wanlinan",
         "nick_name": "wanlinan",
         "level": "d0",
@@ -34015,9 +34061,10 @@
       {
         "user_name": "zhong_lin",
         "nick_name": "zhong_lin",
-        "level": "d0",
+        "level": "d1",
         "sources": [
-          "star"
+          "star",
+          "issue"
         ],
         "star_time": "2026-04-16T14:21:20.000+00:00",
         "fans_count": 1,
@@ -38758,6 +38805,20 @@
           "Ascend/torchair"
         ],
         "developer_source": "external"
+      },
+      {
+        "user_name": "fanzijian",
+        "nick_name": "fanzijian",
+        "level": "d0",
+        "sources": [
+          "fork"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
+        "developer_source": "internal"
       },
       {
         "user_name": "fbbccc",
@@ -52300,11 +52361,11 @@
     },
     {
       "month": "2025-11",
-      "d0": 239,
+      "d0": 238,
       "d1": 37,
       "d2": 34,
-      "new_stars": 310,
-      "cumulative": 545
+      "new_stars": 309,
+      "cumulative": 544
     },
     {
       "month": "2025-12",
@@ -52312,7 +52373,7 @@
       "d1": 46,
       "d2": 94,
       "new_stars": 784,
-      "cumulative": 1329
+      "cumulative": 1328
     },
     {
       "month": "2026-01",
@@ -52320,7 +52381,7 @@
       "d1": 26,
       "d2": 23,
       "new_stars": 190,
-      "cumulative": 1519
+      "cumulative": 1518
     },
     {
       "month": "2026-02",
@@ -52328,7 +52389,7 @@
       "d1": 19,
       "d2": 7,
       "new_stars": 89,
-      "cumulative": 1608
+      "cumulative": 1607
     },
     {
       "month": "2026-03",
@@ -52336,22 +52397,22 @@
       "d1": 27,
       "d2": 25,
       "new_stars": 232,
-      "cumulative": 1840
+      "cumulative": 1839
     },
     {
       "month": "2026-04",
-      "d0": 243,
-      "d1": 30,
+      "d0": 242,
+      "d1": 31,
       "d2": 36,
       "new_stars": 309,
-      "cumulative": 2149
+      "cumulative": 2148
     },
     {
       "month": "2026-05",
-      "d0": 58,
+      "d0": 59,
       "d1": 36,
       "d2": 5,
-      "new_stars": 99,
+      "new_stars": 100,
       "cumulative": 2248
     }
   ],
@@ -52368,6 +52429,13 @@
       "first_seen_at": "2026-05-13T17:33:38+08:00",
       "nick_name": "",
       "top_comments": 1,
+      "replies": 0
+    },
+    "aaiii": {
+      "repo_path": "Ascend/torchair",
+      "first_seen_at": "2026-05-13T15:07:30+08:00",
+      "nick_name": "",
+      "top_comments": 3,
       "replies": 0
     },
     "Avicii999": {
@@ -52410,6 +52478,13 @@
       "first_seen_at": "2026-05-13T17:39:40+08:00",
       "nick_name": "",
       "top_comments": 2,
+      "replies": 0
+    },
+    "gcw_vTFrY5o4": {
+      "repo_path": "cann/ge",
+      "first_seen_at": "2026-05-13T22:00:59+08:00",
+      "nick_name": "",
+      "top_comments": 1,
       "replies": 0
     },
     "gem_111": {
@@ -52950,13 +53025,6 @@
       "nick_name": "",
       "top_comments": 0,
       "replies": 1
-    },
-    "aaiii": {
-      "repo_path": "Ascend/torchair",
-      "first_seen_at": "2026-05-13T15:07:30+08:00",
-      "nick_name": "",
-      "top_comments": 1,
-      "replies": 0
     },
     "avela": {
       "repo_path": "Ascend/torchair",

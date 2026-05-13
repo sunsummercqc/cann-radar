@@ -4,22 +4,22 @@
       "name": "torchair",
       "path": "Ascend/torchair",
       "merged": 2162,
-      "open": 249,
-      "total": 2411
+      "open": 250,
+      "total": 2412
     },
     {
       "name": "ge",
       "path": "cann/ge",
-      "merged": 1407,
-      "open": 196,
-      "total": 1603
+      "merged": 1420,
+      "open": 187,
+      "total": 1607
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
       "merged": 364,
-      "open": 33,
-      "total": 397
+      "open": 34,
+      "total": 398
     },
     {
       "name": "graph-autofusion",
@@ -32,8 +32,8 @@
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
       "merged": 136,
-      "open": 20,
-      "total": 156
+      "open": 21,
+      "total": 157
     }
   ],
   "unique_authors": 637,

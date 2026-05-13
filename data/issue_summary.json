@@ -5,21 +5,21 @@
       "path": "cann/ge",
       "avg_days": 10.2,
       "closed": 315,
-      "opened": 38
+      "opened": 40
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
       "avg_days": 12.8,
       "closed": 214,
-      "opened": 40
+      "opened": 41
     },
     {
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
       "avg_days": 16.0,
       "closed": 13,
-      "opened": 11
+      "opened": 12
     },
     {
       "name": "graph-autofusion",
