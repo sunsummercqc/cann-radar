@@ -26365,5 +26365,47 @@
     "total_repo_count": 1,
     "total_contributions": 7,
     "user_type": "contributor"
+  },
+  {
+    "user_name": "mangungun",
+    "nick_name": "漫滚滚",
+    "user_id": 1096978,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "jia-jianyong",
+    "nick_name": "贾剑勇",
+    "user_id": 6929075,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 8,
+    "total_contributions": 164,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "ren-mengguang",
+    "nick_name": "ren-mengguang",
+    "user_id": 6235441,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 9,
+    "total_contributions": 905,
+    "user_type": "contributor"
   }
 ]

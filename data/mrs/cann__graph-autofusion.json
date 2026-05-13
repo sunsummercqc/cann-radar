@@ -2777,10 +2777,10 @@
   },
   {
     "iid": 24,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2025-12-02",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-05-13",
     "author": "jikai-tyler"
   },
   {
@@ -2905,10 +2905,10 @@
   },
   {
     "iid": 8,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2025-11-03",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-05-13",
     "author": "shengnan666"
   },
   {

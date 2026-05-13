@@ -8444,6 +8444,15 @@
     ]
   },
   {
+    "user_name": "ren-mengguang",
+    "nick_name": "ren-mengguang",
+    "user_id": 6235441,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "yanxiang123456",
     "nick_name": "yanxiang123456",
     "user_id": 11210499,
@@ -8876,6 +8885,24 @@
     "avatar": "",
     "starred_repos": [
       "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "jia-jianyong",
+    "nick_name": "贾剑勇",
+    "user_id": 6929075,
+    "avatar": "https://cdn-img.gitcode.com/bf/ad/7bfad38ee9a05c997003a89716cbb1d4815317fdd4c825178faab4d0134852b9.jpg",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "mangungun",
+    "nick_name": "漫滚滚",
+    "user_id": 1096978,
+    "avatar": "https://cdn-img.gitcode.com/de/ea/d1e3e7a1b90c2ce7a86934fdaa55ac9eb0e0520a639a09360b2fbd51c5f1c11c.jpg",
+    "starred_repos": [
+      "Ascend/torchair"
     ]
   },
   {

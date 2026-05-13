@@ -10967,6 +10967,18 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "ren-mengguang",
+    "nick_name": "ren-mengguang",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 905,
+    "developer_source": "internal"
+  },
+  {
     "user_name": "yanxiang123456",
     "nick_name": "yanxiang123456",
     "starred_repos": [
@@ -11544,6 +11556,30 @@
     "original_repo_count": 0,
     "total_contributions": 198,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "jia-jianyong",
+    "nick_name": "贾剑勇",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 164,
+    "developer_source": "internal"
+  },
+  {
+    "user_name": "mangungun",
+    "nick_name": "漫滚滚",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
   },
   {
     "user_name": "gcw_WQwixzCa",
