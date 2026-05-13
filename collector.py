@@ -532,6 +532,93 @@ def collect_discussion_participants():
     return summary
 
 
+def collect_repo_discussions():
+    """采集各仓库配置的讨论帖评论者，并按仓库保存到 data/repo_discussions/{repo_path}.json"""
+    print("\n=== 步骤：采集各仓库的讨论帖参与者 ===")
+    repos = active_repo_configs()
+    if not repos:
+        print("  无启用的仓库配置，跳过")
+        return
+
+    repo_discussions_dir = DATA_DIR / "repo_discussions"
+    repo_discussions_dir.mkdir(exist_ok=True)
+
+    internal_set = load_internal_developers()
+
+    for repo in repos:
+        repo_path = repo["path"]
+        discussions_cfg = repo.get("discussions", [])
+        if not discussions_cfg:
+            print(f"  {repo_path}: 无讨论帖配置，跳过")
+            continue
+
+        enabled_discussions = [d for d in discussions_cfg if d.get("enabled", True)]
+        if not enabled_discussions:
+            print(f"  {repo_path}: 无启用的讨论帖，跳过")
+            continue
+
+        print(f"\n  {repo_path}: 采集 {len(enabled_discussions)} 个讨论帖")
+        fetched = []
+        errors = []
+
+        for disc_cfg in enabled_discussions:
+            url = disc_cfg.get("url", "")
+            if not url:
+                continue
+
+            match = re.search(r'gitcode\.com/([^/]+)/([^/]+)/discussions/(\d+)', url)
+            if not match:
+                print(f"    ✗ 无法解析讨论帖 URL: {url}")
+                errors.append({"url": url, "error": "无法解析 URL"})
+                continue
+
+            org = match.group(1)
+            repo_name = match.group(2)
+            number = match.group(3)
+            
+            repo_path_for_api = f"{org}/{repo_name}"
+
+            print(f"    抓取 {url}")
+            try:
+                data = fetch_discussion_comments({
+                    "url": url,
+                    "org": repo_path_for_api,
+                    "number": number,
+                    "source_type": 2,
+                })
+                if data.get("error"):
+                    errors.append({"url": url, "error": data["error"]})
+                    print(f"      ✗ 失败: {data['error']}")
+                else:
+                    fetched.append(data)
+                    print(f"      ✓ 顶层评论 {data['comment_total']} 条，回复 {data['reply_total']} 条")
+            except Exception as e:
+                errors.append({"url": url, "error": str(e)})
+                print(f"      ✗ 失败: {e}")
+
+            time.sleep(REQUEST_DELAY)
+
+        if not fetched:
+            print(f"  {repo_path}: 未成功采集任何讨论帖")
+            continue
+
+        summary = build_discussion_participants_summary(
+            fetched,
+            internal_developers=internal_set,
+        )
+
+        summary["repo_path"] = repo_path
+        summary["errors"] = errors
+
+        safe_name = repo_path.replace("/", "__")
+        output_path = repo_discussions_dir / f"{safe_name}.json"
+        save_json(output_path, summary)
+
+        print(f"  ✓ {repo_path}: 共 {summary['total_unique_participants']} 位参与者（内部 {summary['internal_count']}，外部 {summary['external_count']}），已保存到 {output_path}")
+
+    print("\n  ✓ 所有仓库讨论帖采集完成")
+
+
 # ─── 步骤 1：采集仓库列表及详情 ───────────────────────────────────────────────
 
 def collect_repos():
@@ -1437,8 +1524,13 @@ def generate_dlevel_summary():
     """
     生成 D0/D1/D2 分层汇总数据，保存到 data/dlevel_summary.json。
     D0：Star/Fork 用户（排除 D1/D2）
-    D1：Issue 作者或 PR 作者（排除 D2）
+    D1：Issue 作者、PR 作者 或 讨论评论者（排除 D2，且讨论评论者需为外部且未在其他仓贡献）
     D2：至少合入 1 个 PR 的用户
+
+    讨论评论者的特殊处理：
+    - 仅统计外部讨论参与者
+    - 排除已经是各仓库 D1/D2 的外部开发者（通过 issue/PR 判断）
+    - 跨仓重复的讨论参与者按最早评论时间划分到对应仓库
     """
     print("\n=== 生成 D0/D1/D2 汇总数据 ===")
 
@@ -1449,6 +1541,7 @@ def generate_dlevel_summary():
     forks_dir = DATA_DIR / "forks"
     issues_dir = DATA_DIR / "issues"
     mrs_dir = DATA_DIR / "mrs"
+    repo_discussions_dir = DATA_DIR / "repo_discussions"
     if not repos or not stars_dir.exists() or not forks_dir.exists() or not issues_dir.exists() or not mrs_dir.exists():
         print("  缺少必要数据，请先运行 repos/stars/forks/issues/mrs/users-slim")
         return
@@ -1462,10 +1555,13 @@ def generate_dlevel_summary():
     } for u in users_slim}
 
     priority = {"d0": 0, "d1": 1, "d2": 2}
-    repo_counts = {}
-    repo_users = {}
-    global_levels = {}
-    monthly = {}
+
+    repo_issue_authors = {}
+    repo_pr_authors = {}
+    repo_merged_authors = {}
+    repo_star_map = {}
+    repo_fork_map = {}
+    repo_discussion_participants = {}
 
     for repo in repos:
         repo_path = repo["path"]
@@ -1501,18 +1597,102 @@ def generate_dlevel_summary():
         pr_authors = {m.get("author") for m in mrs if m.get("author")}
         merged_authors = {m.get("author") for m in mrs if m.get("author") and m.get("state") == "merged" and m.get("merged_at")}
 
-        all_repo_usernames = set(star_map) | set(fork_map) | issue_authors | pr_authors | merged_authors
+        repo_star_map[repo_path] = star_map
+        repo_fork_map[repo_path] = fork_map
+        repo_issue_authors[repo_path] = issue_authors
+        repo_pr_authors[repo_path] = pr_authors
+        repo_merged_authors[repo_path] = merged_authors
+
+        discussion_participants = {}
+        if repo_discussions_dir.exists():
+            discussion_data = load_json(repo_discussions_dir / f"{safe_name}.json")
+            if discussion_data and discussion_data.get("participants"):
+                for p in discussion_data["participants"]:
+                    uname = p.get("user_name")
+                    if uname and p.get("developer_source") == "external":
+                        discussion_participants[uname] = {
+                            "first_seen_at": p.get("first_seen_at", ""),
+                            "nick_name": p.get("nick_name", ""),
+                            "top_comments": p.get("top_comments", 0),
+                            "replies": p.get("replies", 0),
+                        }
+        repo_discussion_participants[repo_path] = discussion_participants
+
+    all_existing_d1_d2_external = set()
+    for repo_path, merged_authors in repo_merged_authors.items():
+        all_existing_d1_d2_external.update(merged_authors - internal_set)
+    for repo_path, issue_authors in repo_issue_authors.items():
+        all_existing_d1_d2_external.update(issue_authors - internal_set)
+    for repo_path, pr_authors in repo_pr_authors.items():
+        all_existing_d1_d2_external.update(pr_authors - internal_set)
+
+    all_discussion_commenters = {}
+    for repo_path, participants in repo_discussion_participants.items():
+        for uname, info in participants.items():
+            if uname in all_existing_d1_d2_external:
+                continue
+            if uname not in all_discussion_commenters:
+                all_discussion_commenters[uname] = []
+            all_discussion_commenters[uname].append({
+                "repo_path": repo_path,
+                "first_seen_at": info.get("first_seen_at", ""),
+                "nick_name": info.get("nick_name", ""),
+                "top_comments": info.get("top_comments", 0),
+                "replies": info.get("replies", 0),
+            })
+
+    discussion_commenter_assignment = {}
+    for uname, repos_info in all_discussion_commenters.items():
+        repos_info.sort(key=lambda x: x.get("first_seen_at", "") or "")
+        assigned_repo = repos_info[0]["repo_path"]
+        discussion_commenter_assignment[uname] = {
+            "repo_path": assigned_repo,
+            "first_seen_at": repos_info[0].get("first_seen_at", ""),
+            "nick_name": repos_info[0].get("nick_name", ""),
+            "top_comments": sum(r.get("top_comments", 0) for r in repos_info),
+            "replies": sum(r.get("replies", 0) for r in repos_info),
+        }
+
+    repo_counts = {}
+    repo_users = {}
+    global_levels = {}
+    monthly = {}
+
+    for repo in repos:
+        repo_path = repo["path"]
+        star_map = repo_star_map[repo_path]
+        fork_map = repo_fork_map[repo_path]
+        issue_authors = repo_issue_authors[repo_path]
+        pr_authors = repo_pr_authors[repo_path]
+        merged_authors = repo_merged_authors[repo_path]
+
+        discussion_commenters_in_repo = {
+            uname: info for uname, info in discussion_commenter_assignment.items()
+            if info.get("repo_path") == repo_path
+        }
+
+        all_repo_usernames = set(star_map) | set(fork_map) | issue_authors | pr_authors | merged_authors | set(discussion_commenters_in_repo)
         users = []
         counts = {"d0": 0, "d1": 0, "d2": 0, "total": 0}
+        counts_external = {"d0": 0, "d1": 0, "d2": 0}
+        discussion_d1_external = []
+
         for uname in sorted(all_repo_usernames):
             if uname in merged_authors:
                 level = "d2"
             elif uname in issue_authors or uname in pr_authors:
                 level = "d1"
+            elif uname in discussion_commenters_in_repo:
+                level = "d1"
             else:
                 level = "d0"
             counts[level] += 1
             counts["total"] += 1
+            dev_source = "internal" if uname in internal_set else "external"
+            if dev_source == "external":
+                counts_external[level] += 1
+                if level == "d1" and uname in discussion_commenters_in_repo:
+                    discussion_d1_external.append(uname)
             meta = user_meta.get(uname, {})
             sources = []
             if uname in star_map:
@@ -1525,10 +1705,13 @@ def generate_dlevel_summary():
                 sources.append("pr")
             if uname in merged_authors:
                 sources.append("merged_pr")
+            if uname in discussion_commenters_in_repo:
+                sources.append("discussion")
             star_time = star_map.get(uname, {}).get("star_time", "")
+            nick_name = meta.get("nick_name") or star_map.get(uname, {}).get("nick_name") or fork_map.get(uname, {}).get("nick_name") or discussion_commenters_in_repo.get(uname, {}).get("nick_name") or uname
             users.append({
                 "user_name": uname,
-                "nick_name": meta.get("nick_name") or star_map.get(uname, {}).get("nick_name") or fork_map.get(uname, {}).get("nick_name") or uname,
+                "nick_name": nick_name,
                 "level": level,
                 "sources": sources,
                 "star_time": star_time,
@@ -1536,7 +1719,7 @@ def generate_dlevel_summary():
                 "original_repo_count": meta.get("original_repo_count"),
                 "total_contributions": meta.get("total_contributions"),
                 "starred_repos": meta.get("starred_repos", []),
-                "developer_source": "internal" if uname in internal_set else "external",
+                "developer_source": dev_source,
             })
             if uname not in global_levels or priority[level] > priority[global_levels[uname]]:
                 global_levels[uname] = level
@@ -1546,12 +1729,23 @@ def generate_dlevel_summary():
                 monthly.setdefault(ym, {"d0": 0, "d1": 0, "d2": 0})
                 monthly[ym][level] += 1
 
+        counts["d0_external"] = counts_external["d0"]
+        counts["d1_external"] = counts_external["d1"]
+        counts["d2_external"] = counts_external["d2"]
+        counts["discussion_d1_external"] = len(discussion_d1_external)
         repo_counts[repo_path] = counts
         repo_users[repo_path] = users
 
     global_counts = {"d0": 0, "d1": 0, "d2": 0, "total": len(global_levels)}
-    for level in global_levels.values():
+    global_counts_external = {"d0": 0, "d1": 0, "d2": 0}
+    for uname, level in global_levels.items():
         global_counts[level] += 1
+        if uname not in internal_set:
+            global_counts_external[level] += 1
+
+    global_counts["d0_external"] = global_counts_external["d0"]
+    global_counts["d1_external"] = global_counts_external["d1"]
+    global_counts["d2_external"] = global_counts_external["d2"]
 
     star_timeline = []
     cumulative = 0
@@ -1573,9 +1767,12 @@ def generate_dlevel_summary():
         "repo_counts": repo_counts,
         "repo_users": repo_users,
         "star_timeline": star_timeline,
+        "discussion_commenter_assignment": discussion_commenter_assignment,
     }
     save_json(DATA_DIR / "dlevel_summary.json", result)
     print(f"  ✓ 已保存 D0/D1/D2 汇总到 data/dlevel_summary.json")
+    total_discussion_d1 = sum(c.get("discussion_d1_external", 0) for c in repo_counts.values())
+    print(f"    讨论帖贡献的外部 D1 开发者: {total_discussion_d1} 位")
     return result
 
 
@@ -1729,6 +1926,8 @@ def main():
         generate_dlevel_summary()
     elif cmd == "discussions":
         collect_discussion_participants()
+    elif cmd == "repo-discussions":
+        collect_repo_discussions()
     elif cmd == "all":
         t_all = time.time()
 
@@ -1772,13 +1971,14 @@ def main():
                     print(f"  ✗ {name} 失败: {e}")
 
         # Layer 6: 聚合数据可并发
-        with ThreadPoolExecutor(max_workers=5) as pool:
+        with ThreadPoolExecutor(max_workers=6) as pool:
             layer6 = {
                 pool.submit(generate_dlevel_summary): "dlevels",
                 pool.submit(generate_issue_summary): "issue-summary",
                 pool.submit(generate_mr_summary): "mr-summary",
                 pool.submit(generate_weekly_activity): "weekly",
                 pool.submit(collect_discussion_participants): "discussions",
+                pool.submit(collect_repo_discussions): "repo-discussions",
             }
             for future in as_completed(layer6):
                 name = layer6[future]

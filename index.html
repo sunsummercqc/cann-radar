@@ -351,6 +351,11 @@
         </div>
       </div>
     </div>
+    <div class="chart-box" style="margin-bottom:20px" id="repo-discussion-section" style="display:none">
+      <h2>讨论帖参与者分析</h2>
+      <div class="repo-stats" id="repo-discussion-stats" style="margin-bottom:16px"></div>
+      <div id="repo-discussion-list" style="max-height:400px;overflow-y:auto"></div>
+    </div>
     <div class="chart-box">
       <div class="user-list-header">
         <h2 id="user-list-title">Star 用户列表</h2>
@@ -1424,6 +1429,79 @@ async function main() {
         }],
       });
       window.addEventListener('resize', () => mrChart2.resize());
+    }
+
+    const repoDiscussionAssignment = dlevelSummary.discussion_commenter_assignment || {};
+    const discussionCommentersInRepo = Object.entries(repoDiscussionAssignment)
+      .filter(([uname, info]) => info.repo_path === repoPath)
+      .map(([uname, info]) => ({ user_name: uname, ...info }));
+
+    const safeName = repoPath.replace('/', '__');
+    let repoDiscussionData = null;
+    try {
+      repoDiscussionData = await loadJSON(`data/repo_discussions/${safeName}.json`);
+    } catch (e) {
+      repoDiscussionData = null;
+    }
+
+    const discussionSection = document.getElementById('repo-discussion-section');
+    if (discussionCommentersInRepo.length > 0 || (repoDiscussionData && repoDiscussionData.participants)) {
+      discussionSection.style.display = 'block';
+      const totalDiscussions = repoDiscussionData?.discussion_count || repoDiscussionData?.source_count || 0;
+      const totalParticipants = repoDiscussionData?.total_unique_participants || 0;
+      const externalParticipants = repoDiscussionData?.external_count || 0;
+      const discussionD1External = summaryCounts?.discussion_d1_external || discussionCommentersInRepo.length;
+
+      document.getElementById('repo-discussion-stats').innerHTML = [
+        ['讨论帖数', totalDiscussions],
+        ['总参与者', totalParticipants],
+        ['外部参与者', externalParticipants],
+        ['讨论贡献D1', discussionD1External, '计入外部D1统计'],
+      ].map(([lbl, val, hint]) =>
+        `<div class="repo-stat"><div class="val" style="font-size:20px">${val ?? '-'}</div><div class="lbl">${lbl}${hint ? `<br><small style="font-size:10px;color:var(--text-4)">${hint}</small>` : ''}</div></div>`
+      ).join('');
+
+      if (discussionCommentersInRepo.length > 0) {
+        const participantListHtml = `
+          <div style="margin-top:16px">
+            <div style="font-size:13px;color:var(--text-2);margin-bottom:12px">
+              讨论帖贡献的外部D1开发者（按最早评论时间归属本仓，已排除其他仓D1/D2开发者）：
+            </div>
+            <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px">
+              ${discussionCommentersInRepo.slice(0, 50).map(p => `
+                <div style="background:var(--bg-2);padding:12px;border-radius:8px;border:1px solid var(--border)">
+                  <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
+                    <a href="https://gitcode.com/${p.user_name}" target="_blank" style="font-weight:600;color:var(--text);text-decoration:none">${p.nick_name || p.user_name}</a>
+                    <div style="font-size:11px;color:var(--text-3);margin-left:auto">外部D1</div>
+                  </div>
+                  <div style="font-size:11px;color:var(--text-3)">
+                    评论 ${p.top_comments || 0} 条 · 回复 ${p.replies || 0} 条
+                  </div>
+                  ${p.first_seen_at ? `
+                    <div style="margin-top:8px;font-size:11px;color:var(--text-4)">
+                      首次参与：${p.first_seen_at ? p.first_seen_at.slice(0, 10) : '-'}
+                    </div>
+                  ` : ''}
+                </div>
+              `).join('')}
+            </div>
+            ${discussionCommentersInRepo.length > 50 ? `
+              <div style="margin-top:12px;font-size:12px;color:var(--text-3)">
+                仅显示前 50 位，共 ${discussionCommentersInRepo.length} 位讨论帖贡献者
+              </div>
+            ` : ''}
+          </div>
+        `;
+        document.getElementById('repo-discussion-list').innerHTML = participantListHtml;
+      } else {
+        document.getElementById('repo-discussion-list').innerHTML = `
+          <div style="color:var(--text-3);font-size:13px;text-align:center;padding:20px">
+            本仓库讨论帖暂无符合条件的D1外部贡献者（需为外部且未在其他仓有Issue/PR贡献）
+          </div>
+        `;
+      }
+    } else {
+      discussionSection.style.display = 'none';
     }
 
     // 用户列表
