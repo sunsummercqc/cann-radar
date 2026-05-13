@@ -308,7 +308,7 @@
     {
       "name": "ge",
       "path": "cann/ge",
-      "total": 2803,
+      "total": 2818,
       "data": [
         0,
         0,
@@ -457,13 +457,13 @@
         277,
         199,
         179,
-        104
+        119
       ]
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "total": 463,
+      "total": 467,
       "data": [
         0,
         0,
@@ -612,13 +612,13 @@
         22,
         18,
         14,
-        16
+        20
       ]
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "total": 372,
+      "total": 373,
       "data": [
         0,
         0,
@@ -767,7 +767,7 @@
         23,
         31,
         26,
-        15
+        16
       ]
     },
     {

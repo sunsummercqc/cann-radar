@@ -61,9 +61,9 @@
   },
   {
     "month": "2026-04",
-    "new_stars": 310,
-    "cumulative": 2153,
-    "contributor": 84,
+    "new_stars": 309,
+    "cumulative": 2152,
+    "contributor": 83,
     "questioner": 23,
     "developer": 69,
     "star_enthusiast": 22,
@@ -71,12 +71,12 @@
   },
   {
     "month": "2026-05",
-    "new_stars": 78,
-    "cumulative": 2231,
-    "contributor": 5,
+    "new_stars": 99,
+    "cumulative": 2251,
+    "contributor": 6,
     "questioner": 9,
-    "developer": 25,
+    "developer": 26,
     "star_enthusiast": 5,
-    "die_hard_fan": 34
+    "die_hard_fan": 53
   }
 ]

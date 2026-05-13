@@ -12,14 +12,14 @@
       "path": "cann/hixl",
       "avg_days": 12.8,
       "closed": 214,
-      "opened": 35
+      "opened": 40
     },
     {
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
-      "avg_days": 16.1,
-      "closed": 12,
-      "opened": 12
+      "avg_days": 16.0,
+      "closed": 13,
+      "opened": 11
     },
     {
       "name": "graph-autofusion",

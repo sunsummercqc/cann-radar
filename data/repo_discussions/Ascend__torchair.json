@@ -2,14 +2,14 @@
   "generated_at": "2026-05-13",
   "source_count": 4,
   "discussion_count": 4,
-  "external_count": 36,
+  "external_count": 46,
   "internal_count": 1,
-  "total_unique_participants": 37,
+  "total_unique_participants": 47,
   "trend": [
     {
       "date": "2026-05-13",
-      "external_count": 36,
-      "total_unique_participants": 37
+      "external_count": 46,
+      "total_unique_participants": 47
     }
   ],
   "participants": [
@@ -48,6 +48,42 @@
       ],
       "first_seen_at": "2026-05-12T16:18:13+08:00",
       "last_seen_at": "2026-05-12T17:06:42+08:00"
+    },
+    {
+      "user_name": "NJ22",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/8",
+          "title": "答题赢福利🔥|  零基础玩转 TorchAir 第一期",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T17:30:46+08:00",
+      "last_seen_at": "2026-05-13T17:30:58+08:00"
+    },
+    {
+      "user_name": "qiufeifeiya0",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/8",
+          "title": "答题赢福利🔥|  零基础玩转 TorchAir 第一期",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T16:02:54+08:00",
+      "last_seen_at": "2026-05-13T16:03:16+08:00"
     },
     {
       "user_name": "2401_85434963",
@@ -194,6 +230,24 @@
       "last_seen_at": "2026-05-13T15:56:13+08:00"
     },
     {
+      "user_name": "bear_two_2",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/8",
+          "title": "答题赢福利🔥|  零基础玩转 TorchAir 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T17:31:29+08:00",
+      "last_seen_at": "2026-05-13T17:31:29+08:00"
+    },
+    {
       "user_name": "Drone1",
       "nick_name": "",
       "developer_source": "external",
@@ -228,6 +282,24 @@
       ],
       "first_seen_at": "2026-05-13T15:54:07+08:00",
       "last_seen_at": "2026-05-13T15:54:07+08:00"
+    },
+    {
+      "user_name": "EzioZHOU",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/8",
+          "title": "答题赢福利🔥|  零基础玩转 TorchAir 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T16:02:21+08:00",
+      "last_seen_at": "2026-05-13T16:02:21+08:00"
     },
     {
       "user_name": "Fyx---",
@@ -320,6 +392,24 @@
       "last_seen_at": "2026-05-13T15:06:19+08:00"
     },
     {
+      "user_name": "gcw_FpB8gF48",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/8",
+          "title": "答题赢福利🔥|  零基础玩转 TorchAir 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T16:01:41+08:00",
+      "last_seen_at": "2026-05-13T16:01:41+08:00"
+    },
+    {
       "user_name": "gcw_iOC0unxK",
       "nick_name": "",
       "developer_source": "external",
@@ -356,6 +446,24 @@
       "last_seen_at": "2026-05-12T21:38:21+08:00"
     },
     {
+      "user_name": "gcw_uZu4O3i5",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/8",
+          "title": "答题赢福利🔥|  零基础玩转 TorchAir 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T17:39:40+08:00",
+      "last_seen_at": "2026-05-13T17:39:40+08:00"
+    },
+    {
       "user_name": "Hamk",
       "nick_name": "",
       "developer_source": "external",
@@ -374,6 +482,24 @@
       "last_seen_at": "2026-05-13T15:42:44+08:00"
     },
     {
+      "user_name": "jinn0118",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/8",
+          "title": "答题赢福利🔥|  零基础玩转 TorchAir 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T17:35:46+08:00",
+      "last_seen_at": "2026-05-13T17:35:46+08:00"
+    },
+    {
       "user_name": "lsh191531",
       "nick_name": "",
       "developer_source": "external",
@@ -390,6 +516,42 @@
       ],
       "first_seen_at": "2026-05-13T15:42:18+08:00",
       "last_seen_at": "2026-05-13T15:42:18+08:00"
+    },
+    {
+      "user_name": "lx116645",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/8",
+          "title": "答题赢福利🔥|  零基础玩转 TorchAir 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T17:32:33+08:00",
+      "last_seen_at": "2026-05-13T17:32:33+08:00"
+    },
+    {
+      "user_name": "m0_62995661",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/8",
+          "title": "答题赢福利🔥|  零基础玩转 TorchAir 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T16:09:46+08:00",
+      "last_seen_at": "2026-05-13T16:09:46+08:00"
     },
     {
       "user_name": "m0_64261837",
@@ -678,6 +840,24 @@
       ],
       "first_seen_at": "2026-05-13T15:48:13+08:00",
       "last_seen_at": "2026-05-13T15:48:13+08:00"
+    },
+    {
+      "user_name": "zzsw1227",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/8",
+          "title": "答题赢福利🔥|  零基础玩转 TorchAir 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T17:32:29+08:00",
+      "last_seen_at": "2026-05-13T17:32:29+08:00"
     }
   ],
   "discussions": [
@@ -716,10 +896,10 @@
       "org": "Ascend/torchair",
       "number": "8",
       "title": "答题赢福利🔥|  零基础玩转 TorchAir 第一期",
-      "comment_total": 38,
+      "comment_total": 50,
       "reply_total": 1,
-      "unique_participants": 37,
-      "external_participants": 36
+      "unique_participants": 47,
+      "external_participants": 46
     }
   ],
   "errors": [
