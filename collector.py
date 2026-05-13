@@ -1970,15 +1970,16 @@ def main():
                 except Exception as e:
                     print(f"  ✗ {name} 失败: {e}")
 
-        # Layer 6: 聚合数据可并发
-        with ThreadPoolExecutor(max_workers=6) as pool:
+        # Layer 6: 先采集讨论帖，再生成聚合数据
+        collect_repo_discussions()
+
+        with ThreadPoolExecutor(max_workers=5) as pool:
             layer6 = {
                 pool.submit(generate_dlevel_summary): "dlevels",
                 pool.submit(generate_issue_summary): "issue-summary",
                 pool.submit(generate_mr_summary): "mr-summary",
                 pool.submit(generate_weekly_activity): "weekly",
                 pool.submit(collect_discussion_participants): "discussions",
-                pool.submit(collect_repo_discussions): "repo-discussions",
             }
             for future in as_completed(layer6):
                 name = layer6[future]
