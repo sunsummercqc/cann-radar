@@ -13288,7 +13288,7 @@
     "original_repo_count": 0,
     "total_repo_count": 0,
     "total_contributions": 18,
-    "user_type": "questioner"
+    "user_type": "contributor"
   },
   {
     "user_name": "isaacxu",
@@ -26407,5 +26407,49 @@
     "total_repo_count": 9,
     "total_contributions": 905,
     "user_type": "contributor"
+  },
+  {
+    "user_name": "gcw_eLsDoXhz",
+    "nick_name": "gcw_eLsDoXhz",
+    "user_id": 10584714,
+    "starred_repos": [
+      "cann/ge",
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "star_enthusiast"
+  },
+  {
+    "user_name": "avela",
+    "nick_name": "Avela",
+    "user_id": 7891816,
+    "starred_repos": [
+      "cann/ge",
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "star_enthusiast"
+  },
+  {
+    "user_name": "gca_u2401_84226613",
+    "nick_name": "2401_84226613",
+    "user_id": 8528595,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
   }
 ]

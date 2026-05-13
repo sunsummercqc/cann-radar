@@ -1,5 +1,31 @@
 [
   {
+    "user_name": "avela",
+    "nick_name": "Avela",
+    "starred_repos": [
+      "cann/ge",
+      "Ascend/torchair"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "gcw_eLsDoXhz",
+    "nick_name": "gcw_eLsDoXhz",
+    "starred_repos": [
+      "cann/ge",
+      "Ascend/torchair"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
     "user_name": "sun_xuexin",
     "nick_name": "sun-xuexin",
     "starred_repos": [
@@ -9839,7 +9865,7 @@
       "cann/hixl",
       "Ascend/torchair"
     ],
-    "user_type": "questioner",
+    "user_type": "contributor",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 18,
@@ -11556,6 +11582,18 @@
     "original_repo_count": 0,
     "total_contributions": 198,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "gca_u2401_84226613",
+    "nick_name": "2401_84226613",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
   },
   {
     "user_name": "jia-jianyong",

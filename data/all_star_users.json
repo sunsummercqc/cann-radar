@@ -1,5 +1,25 @@
 [
   {
+    "user_name": "avela",
+    "nick_name": "Avela",
+    "user_id": 7891816,
+    "avatar": "https://cdn-img.gitcode.com/cf/cd/9576cf06cdde1005f8393446cb357915997e8895390d01b918fe3ce5d7190455.png",
+    "starred_repos": [
+      "cann/ge",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "gcw_eLsDoXhz",
+    "nick_name": "gcw_eLsDoXhz",
+    "user_id": 10584714,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ge",
+      "Ascend/torchair"
+    ]
+  },
+  {
     "user_name": "sun_xuexin",
     "nick_name": "sun-xuexin",
     "user_id": 4850110,
@@ -8885,6 +8905,15 @@
     "avatar": "",
     "starred_repos": [
       "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "gca_u2401_84226613",
+    "nick_name": "2401_84226613",
+    "user_id": 8528595,
+    "avatar": "",
+    "starred_repos": [
+      "Ascend/torchair"
     ]
   },
   {
