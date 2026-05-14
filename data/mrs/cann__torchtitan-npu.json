@@ -1,5 +1,21 @@
 [
   {
+    "iid": 195,
+    "state": "opened",
+    "created_at": "2026-05-14",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "hitwdy"
+  },
+  {
+    "iid": 194,
+    "state": "opened",
+    "created_at": "2026-05-14",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "hitwdy"
+  },
+  {
     "iid": 193,
     "state": "opened",
     "created_at": "2026-05-13",
@@ -377,10 +393,10 @@
   },
   {
     "iid": 146,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-24",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-05-14",
     "author": "mystri"
   },
   {

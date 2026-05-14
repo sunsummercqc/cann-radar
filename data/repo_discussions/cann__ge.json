@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-13",
+  "generated_at": "2026-05-14",
   "source_count": 3,
   "discussion_count": 3,
-  "external_count": 24,
+  "external_count": 26,
   "internal_count": 1,
-  "total_unique_participants": 25,
+  "total_unique_participants": 27,
   "trend": [
     {
-      "date": "2026-05-13",
-      "external_count": 24,
-      "total_unique_participants": 25
+      "date": "2026-05-14",
+      "external_count": 26,
+      "total_unique_participants": 27
     }
   ],
   "participants": [
@@ -120,6 +120,24 @@
       ],
       "first_seen_at": "2026-05-13T15:48:22+08:00",
       "last_seen_at": "2026-05-13T15:48:22+08:00"
+    },
+    {
+      "user_name": "DDyde",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/ge/discussions/3",
+          "title": "有奖问答 | GE基础知识-第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-14T08:17:23+08:00",
+      "last_seen_at": "2026-05-14T08:17:23+08:00"
     },
     {
       "user_name": "dyjhappy",
@@ -392,6 +410,24 @@
       "last_seen_at": "2026-05-13T19:07:33+08:00"
     },
     {
+      "user_name": "SUN_Flower_001",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/ge/discussions/3",
+          "title": "有奖问答 | GE基础知识-第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-14T15:25:34+08:00",
+      "last_seen_at": "2026-05-14T15:25:34+08:00"
+    },
+    {
       "user_name": "wanghhhxxz",
       "nick_name": "",
       "developer_source": "external",
@@ -490,10 +526,10 @@
       "org": "cann/ge",
       "number": "3",
       "title": "有奖问答 | GE基础知识-第一期",
-      "comment_total": 24,
+      "comment_total": 26,
       "reply_total": 2,
-      "unique_participants": 25,
-      "external_participants": 24
+      "unique_participants": 27,
+      "external_participants": 26
     }
   ],
   "errors": [],

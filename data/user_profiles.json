@@ -26731,5 +26731,19 @@
     "total_repo_count": 0,
     "total_contributions": 0,
     "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "duyiming3",
+    "nick_name": "duyiming3",
+    "user_id": 7121292,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 1,
+    "total_repo_count": 6,
+    "total_contributions": 566,
+    "user_type": "developer"
   }
 ]
