@@ -1,5 +1,21 @@
 [
   {
+    "iid": 378,
+    "state": "merged",
+    "created_at": "2026-05-14",
+    "merged_at": "2026-05-14",
+    "closed_at": "",
+    "author": "Achilles_d"
+  },
+  {
+    "iid": 377,
+    "state": "opened",
+    "created_at": "2026-05-14",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "sjtulxh"
+  },
+  {
     "iid": 376,
     "state": "merged",
     "created_at": "2026-05-14",
@@ -9,17 +25,17 @@
   },
   {
     "iid": 375,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-05-14",
-    "merged_at": "",
+    "merged_at": "2026-05-14",
     "closed_at": "",
     "author": "yrz1027"
   },
   {
     "iid": 374,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-05-14",
-    "merged_at": "",
+    "merged_at": "2026-05-14",
     "closed_at": "",
     "author": "Achilles_d"
   },
@@ -33,9 +49,9 @@
   },
   {
     "iid": 372,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-05-13",
-    "merged_at": "",
+    "merged_at": "2026-05-14",
     "closed_at": "",
     "author": "xingzhixiong"
   },
