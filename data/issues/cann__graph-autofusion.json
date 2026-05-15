@@ -4,342 +4,489 @@
     "state": "opened",
     "created_at": "2026-05-11",
     "closed_at": "",
-    "author": "zqmin"
+    "author": "zqmin",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/50"
   },
   {
     "iid": 49,
     "state": "opened",
     "created_at": "2026-05-08",
     "closed_at": "",
-    "author": "gcw_V3YyYBt1"
+    "author": "gcw_V3YyYBt1",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/49"
   },
   {
     "iid": 48,
     "state": "closed",
     "created_at": "2026-04-30",
     "closed_at": "2026-05-09",
-    "author": "shengnan666"
+    "author": "shengnan666",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/48"
   },
   {
     "iid": 47,
     "state": "closed",
     "created_at": "2026-04-30",
     "closed_at": "2026-05-09",
-    "author": "shengnan666"
+    "author": "shengnan666",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/47"
   },
   {
     "iid": 46,
     "state": "closed",
     "created_at": "2026-04-30",
     "closed_at": "2026-05-09",
-    "author": "shengnan666"
+    "author": "shengnan666",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/46"
   },
   {
     "iid": 45,
     "state": "closed",
     "created_at": "2026-04-30",
     "closed_at": "2026-04-30",
-    "author": "shengnan666"
+    "author": "shengnan666",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/45"
   },
   {
     "iid": 44,
     "state": "opened",
     "created_at": "2026-04-28",
     "closed_at": "",
-    "author": "wangxiaotian995"
+    "author": "wangxiaotian995",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/44"
   },
   {
     "iid": 43,
     "state": "opened",
     "created_at": "2026-04-27",
     "closed_at": "",
-    "author": "fott"
+    "author": "fott",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/43"
   },
   {
     "iid": 42,
     "state": "closed",
     "created_at": "2026-04-27",
     "closed_at": "2026-05-06",
-    "author": "Illli_"
+    "author": "Illli_",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/42"
   },
   {
     "iid": 41,
     "state": "closed",
     "created_at": "2026-04-20",
     "closed_at": "2026-04-30",
-    "author": "July_feb"
+    "author": "July_feb",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/41"
   },
   {
     "iid": 40,
     "state": "closed",
     "created_at": "2026-04-17",
     "closed_at": "2026-04-18",
-    "author": "wanglong9"
+    "author": "wanglong9",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/40"
   },
   {
     "iid": 38,
     "state": "closed",
     "created_at": "2026-04-10",
     "closed_at": "2026-04-14",
-    "author": "gcw_pfzw85mp"
+    "author": "gcw_pfzw85mp",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/38"
   },
   {
     "iid": 37,
     "state": "closed",
     "created_at": "2026-04-10",
     "closed_at": "2026-04-11",
-    "author": "wanglong9"
+    "author": "wanglong9",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/37"
   },
   {
     "iid": 36,
     "state": "closed",
     "created_at": "2026-04-10",
     "closed_at": "2026-04-13",
-    "author": "wanglong9"
+    "author": "wanglong9",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/36"
   },
   {
     "iid": 35,
     "state": "closed",
     "created_at": "2026-04-09",
     "closed_at": "2026-04-10",
-    "author": "gcw_pfzw85mp"
+    "author": "gcw_pfzw85mp",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/35"
   },
   {
     "iid": 34,
     "state": "closed",
     "created_at": "2026-04-03",
     "closed_at": "2026-04-07",
-    "author": "gcw_pfzw85mp"
+    "author": "gcw_pfzw85mp",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/34"
   },
   {
     "iid": 33,
     "state": "closed",
     "created_at": "2026-04-02",
     "closed_at": "2026-04-03",
-    "author": "tmj1128"
+    "author": "tmj1128",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/33"
   },
   {
     "iid": 32,
     "state": "closed",
     "created_at": "2026-03-09",
     "closed_at": "2026-03-09",
-    "author": "gcw_pfzw85mp"
+    "author": "gcw_pfzw85mp",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/32"
   },
   {
     "iid": 31,
     "state": "closed",
     "created_at": "2026-02-24",
     "closed_at": "2026-04-09",
-    "author": "gcw_pfzw85mp"
+    "author": "gcw_pfzw85mp",
+    "labels": [],
+    "user_notes_count": 6,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/31"
   },
   {
     "iid": 30,
     "state": "closed",
     "created_at": "2026-02-24",
     "closed_at": "2026-02-25",
-    "author": "gcw_pfzw85mp"
+    "author": "gcw_pfzw85mp",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/30"
   },
   {
     "iid": 29,
     "state": "closed",
     "created_at": "2026-02-24",
     "closed_at": "2026-02-25",
-    "author": "gcw_pfzw85mp"
+    "author": "gcw_pfzw85mp",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/29"
   },
   {
     "iid": 28,
     "state": "closed",
     "created_at": "2026-02-11",
     "closed_at": "2026-02-27",
-    "author": "tmj1128"
+    "author": "tmj1128",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/28"
   },
   {
     "iid": 27,
     "state": "closed",
     "created_at": "2026-02-11",
     "closed_at": "2026-02-14",
-    "author": "zjun0"
+    "author": "zjun0",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/27"
   },
   {
     "iid": 26,
     "state": "closed",
     "created_at": "2026-02-11",
     "closed_at": "2026-02-25",
-    "author": "zjun0"
+    "author": "zjun0",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/26"
   },
   {
     "iid": 25,
     "state": "closed",
     "created_at": "2026-02-11",
     "closed_at": "2026-02-14",
-    "author": "zjun0"
+    "author": "zjun0",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/25"
   },
   {
     "iid": 24,
     "state": "closed",
     "created_at": "2026-01-31",
     "closed_at": "2026-02-05",
-    "author": "capt4in"
+    "author": "capt4in",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/24"
   },
   {
     "iid": 23,
     "state": "closed",
     "created_at": "2026-01-31",
     "closed_at": "2026-02-04",
-    "author": "weixin_39767879"
+    "author": "weixin_39767879",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/23"
   },
   {
     "iid": 22,
     "state": "closed",
     "created_at": "2026-01-21",
     "closed_at": "2026-01-21",
-    "author": "liuhanwen8"
+    "author": "liuhanwen8",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/22"
   },
   {
     "iid": 21,
     "state": "closed",
     "created_at": "2026-01-15",
     "closed_at": "2026-01-15",
-    "author": "liuks"
+    "author": "liuks",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/21"
   },
   {
     "iid": 20,
     "state": "closed",
     "created_at": "2026-01-14",
     "closed_at": "2026-03-09",
-    "author": "gcw_pfzw85mp"
+    "author": "gcw_pfzw85mp",
+    "labels": [],
+    "user_notes_count": 6,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/20"
   },
   {
     "iid": 19,
     "state": "closed",
     "created_at": "2026-01-14",
     "closed_at": "2026-02-25",
-    "author": "gcw_pfzw85mp"
+    "author": "gcw_pfzw85mp",
+    "labels": [],
+    "user_notes_count": 8,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/19"
   },
   {
     "iid": 18,
     "state": "closed",
     "created_at": "2026-01-14",
     "closed_at": "2026-02-09",
-    "author": "gcw_pfzw85mp"
+    "author": "gcw_pfzw85mp",
+    "labels": [],
+    "user_notes_count": 7,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/18"
   },
   {
     "iid": 17,
     "state": "closed",
     "created_at": "2026-01-14",
     "closed_at": "2026-01-22",
-    "author": "gcw_pfzw85mp"
+    "author": "gcw_pfzw85mp",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/17"
   },
   {
     "iid": 16,
     "state": "closed",
     "created_at": "2026-01-14",
     "closed_at": "2026-02-09",
-    "author": "2301_78074311"
+    "author": "2301_78074311",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/16"
   },
   {
     "iid": 15,
     "state": "closed",
     "created_at": "2026-01-14",
     "closed_at": "2026-01-15",
-    "author": "liuks"
+    "author": "liuks",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/15"
   },
   {
     "iid": 14,
     "state": "closed",
     "created_at": "2026-01-14",
     "closed_at": "2026-01-15",
-    "author": "liuks"
+    "author": "liuks",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/14"
   },
   {
     "iid": 13,
     "state": "closed",
     "created_at": "2025-12-09",
     "closed_at": "2026-02-09",
-    "author": "lookat119"
+    "author": "lookat119",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/13"
   },
   {
     "iid": 12,
     "state": "closed",
     "created_at": "2025-12-09",
     "closed_at": "2026-02-09",
-    "author": "lookat119"
+    "author": "lookat119",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/12"
   },
   {
     "iid": 11,
     "state": "closed",
     "created_at": "2025-12-01",
     "closed_at": "2025-12-12",
-    "author": "SHshenhao"
+    "author": "SHshenhao",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/11"
   },
   {
     "iid": 10,
     "state": "closed",
     "created_at": "2025-11-28",
     "closed_at": "2025-12-12",
-    "author": "jgong5"
+    "author": "jgong5",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/10"
   },
   {
     "iid": 9,
     "state": "closed",
     "created_at": "2025-11-18",
     "closed_at": "2025-12-09",
-    "author": "xdnjust"
+    "author": "xdnjust",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/9"
   },
   {
     "iid": 8,
     "state": "closed",
     "created_at": "2025-11-17",
     "closed_at": "2026-03-16",
-    "author": "zhanj"
+    "author": "zhanj",
+    "labels": [],
+    "user_notes_count": 16,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/8"
   },
   {
     "iid": 7,
     "state": "closed",
     "created_at": "2025-11-14",
     "closed_at": "2025-11-14",
-    "author": "tmj1128"
+    "author": "tmj1128",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/7"
   },
   {
     "iid": 6,
     "state": "closed",
     "created_at": "2025-11-11",
     "closed_at": "2025-11-12",
-    "author": "zhanj"
+    "author": "zhanj",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/6"
   },
   {
     "iid": 5,
     "state": "closed",
     "created_at": "2025-11-06",
     "closed_at": "2025-11-07",
-    "author": "zjun0"
+    "author": "zjun0",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/5"
   },
   {
     "iid": 4,
     "state": "closed",
     "created_at": "2025-11-03",
     "closed_at": "2025-11-17",
-    "author": "zhanj"
+    "author": "zhanj",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/4"
   },
   {
     "iid": 3,
     "state": "closed",
     "created_at": "2025-11-03",
     "closed_at": "2025-11-10",
-    "author": "shengnan666"
+    "author": "shengnan666",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/3"
   },
   {
     "iid": 2,
     "state": "closed",
     "created_at": "2025-11-03",
     "closed_at": "2025-11-17",
-    "author": "shengnan666"
+    "author": "shengnan666",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/2"
   },
   {
     "iid": 1,
     "state": "closed",
     "created_at": "2025-10-31",
     "closed_at": "2026-03-09",
-    "author": "shengnan666"
+    "author": "shengnan666",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/1"
   }
 ]

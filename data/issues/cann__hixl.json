@@ -1,1794 +1,2572 @@
 [
   {
+    "iid": 272,
+    "state": "opened",
+    "created_at": "2026-05-15",
+    "closed_at": "",
+    "author": "OPALUS",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/272"
+  },
+  {
     "iid": 271,
     "state": "opened",
     "created_at": "2026-05-14",
     "closed_at": "",
-    "author": "M__Cheng"
+    "author": "M__Cheng",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/271"
   },
   {
     "iid": 270,
     "state": "opened",
     "created_at": "2026-05-13",
     "closed_at": "",
-    "author": "he_ziwei"
+    "author": "he_ziwei",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/270"
   },
   {
     "iid": 269,
     "state": "opened",
     "created_at": "2026-05-13",
     "closed_at": "",
-    "author": "huchunmei_123"
+    "author": "huchunmei_123",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/269"
   },
   {
     "iid": 268,
     "state": "opened",
     "created_at": "2026-05-13",
     "closed_at": "",
-    "author": "huchunmei_123"
+    "author": "huchunmei_123",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/268"
   },
   {
     "iid": 267,
     "state": "opened",
     "created_at": "2026-05-13",
     "closed_at": "",
-    "author": "huchunmei_123"
+    "author": "huchunmei_123",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/267"
   },
   {
     "iid": 266,
     "state": "opened",
     "created_at": "2026-05-13",
     "closed_at": "",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/266"
   },
   {
     "iid": 265,
     "state": "opened",
     "created_at": "2026-05-13",
     "closed_at": "",
-    "author": "huchunmei_123"
+    "author": "huchunmei_123",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/265"
   },
   {
     "iid": 264,
     "state": "opened",
     "created_at": "2026-05-12",
     "closed_at": "",
-    "author": "he_ziwei"
+    "author": "he_ziwei",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/264"
   },
   {
     "iid": 263,
     "state": "closed",
     "created_at": "2026-05-12",
     "closed_at": "2026-05-14",
-    "author": "gcw_RywTBohB"
+    "author": "gcw_RywTBohB",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/263"
   },
   {
     "iid": 262,
     "state": "closed",
     "created_at": "2026-05-12",
     "closed_at": "2026-05-14",
-    "author": "gcw_RywTBohB"
+    "author": "gcw_RywTBohB",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/262"
   },
   {
     "iid": 261,
     "state": "closed",
     "created_at": "2026-05-12",
     "closed_at": "2026-05-14",
-    "author": "gcw_RywTBohB"
+    "author": "gcw_RywTBohB",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/261"
   },
   {
     "iid": 260,
     "state": "closed",
     "created_at": "2026-05-12",
     "closed_at": "2026-05-14",
-    "author": "gcw_RywTBohB"
+    "author": "gcw_RywTBohB",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/260"
   },
   {
     "iid": 259,
     "state": "opened",
     "created_at": "2026-05-12",
     "closed_at": "",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/259"
   },
   {
     "iid": 258,
     "state": "opened",
     "created_at": "2026-05-11",
     "closed_at": "",
-    "author": "youyx"
+    "author": "youyx",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/258"
   },
   {
     "iid": 257,
     "state": "opened",
     "created_at": "2026-05-11",
     "closed_at": "",
-    "author": "tianlianga1"
+    "author": "tianlianga1",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/257"
   },
   {
     "iid": 256,
     "state": "opened",
     "created_at": "2026-05-11",
     "closed_at": "",
-    "author": "wenke1312"
+    "author": "wenke1312",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/256"
   },
   {
     "iid": 255,
     "state": "opened",
     "created_at": "2026-05-11",
     "closed_at": "",
-    "author": "wenke1312"
+    "author": "wenke1312",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/255"
   },
   {
     "iid": 254,
     "state": "closed",
     "created_at": "2026-05-08",
     "closed_at": "2026-05-11",
-    "author": "A-Liuhao"
+    "author": "A-Liuhao",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/254"
   },
   {
     "iid": 253,
     "state": "opened",
     "created_at": "2026-05-08",
     "closed_at": "",
-    "author": "A-Liuhao"
+    "author": "A-Liuhao",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/253"
   },
   {
     "iid": 252,
     "state": "opened",
     "created_at": "2026-05-08",
     "closed_at": "",
-    "author": "weixin_44928100"
+    "author": "weixin_44928100",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/252"
   },
   {
     "iid": 251,
     "state": "closed",
     "created_at": "2026-05-08",
     "closed_at": "2026-05-14",
-    "author": "weixin_44928100"
+    "author": "weixin_44928100",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/251"
   },
   {
     "iid": 250,
     "state": "closed",
     "created_at": "2026-05-08",
     "closed_at": "2026-05-14",
-    "author": "zhao-pengboA"
+    "author": "zhao-pengboA",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/250"
   },
   {
     "iid": 249,
     "state": "closed",
     "created_at": "2026-05-07",
     "closed_at": "2026-05-11",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/249"
   },
   {
     "iid": 248,
     "state": "closed",
     "created_at": "2026-05-07",
     "closed_at": "2026-05-11",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/248"
   },
   {
     "iid": 247,
     "state": "closed",
     "created_at": "2026-05-07",
     "closed_at": "2026-05-11",
-    "author": "jpollo"
+    "author": "jpollo",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/247"
   },
   {
     "iid": 246,
     "state": "opened",
     "created_at": "2026-05-06",
     "closed_at": "",
-    "author": "ZhaoBaiwei"
+    "author": "ZhaoBaiwei",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/246"
   },
   {
     "iid": 245,
     "state": "opened",
     "created_at": "2026-05-06",
     "closed_at": "",
-    "author": "M__Cheng"
+    "author": "M__Cheng",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/245"
   },
   {
     "iid": 244,
     "state": "opened",
     "created_at": "2026-05-06",
     "closed_at": "",
-    "author": "AlexRen998916"
+    "author": "AlexRen998916",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/244"
   },
   {
     "iid": 243,
     "state": "closed",
     "created_at": "2026-05-04",
     "closed_at": "2026-05-14",
-    "author": "P1GGYii"
+    "author": "P1GGYii",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/243"
   },
   {
     "iid": 242,
     "state": "opened",
     "created_at": "2026-05-04",
     "closed_at": "",
-    "author": "P1GGYii"
+    "author": "P1GGYii",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/242"
   },
   {
     "iid": 241,
     "state": "closed",
     "created_at": "2026-04-30",
     "closed_at": "2026-05-08",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/241"
   },
   {
     "iid": 240,
     "state": "closed",
     "created_at": "2026-04-30",
     "closed_at": "2026-05-11",
-    "author": "tangjie66"
+    "author": "tangjie66",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/240"
   },
   {
     "iid": 239,
     "state": "closed",
     "created_at": "2026-04-29",
     "closed_at": "2026-05-12",
-    "author": "Leo___Gao"
+    "author": "Leo___Gao",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/239"
   },
   {
     "iid": 238,
     "state": "closed",
     "created_at": "2026-04-29",
     "closed_at": "2026-05-08",
-    "author": "Leo___Gao"
+    "author": "Leo___Gao",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/238"
   },
   {
     "iid": 237,
     "state": "closed",
     "created_at": "2026-04-29",
     "closed_at": "2026-05-06",
-    "author": "lvran01"
+    "author": "lvran01",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/hixl/issues/237"
   },
   {
     "iid": 236,
     "state": "opened",
     "created_at": "2026-04-29",
     "closed_at": "",
-    "author": "A-Liuhao"
+    "author": "A-Liuhao",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/236"
   },
   {
     "iid": 229,
     "state": "opened",
     "created_at": "2026-04-28",
     "closed_at": "",
-    "author": "xumengxuan"
+    "author": "xumengxuan",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/229"
   },
   {
     "iid": 227,
     "state": "opened",
     "created_at": "2026-04-28",
     "closed_at": "",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/227"
   },
   {
     "iid": 226,
     "state": "closed",
     "created_at": "2026-04-28",
     "closed_at": "2026-05-11",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/226"
   },
   {
     "iid": 225,
     "state": "closed",
     "created_at": "2026-04-27",
     "closed_at": "2026-05-14",
-    "author": "A-Liuhao"
+    "author": "A-Liuhao",
+    "labels": [],
+    "user_notes_count": 7,
+    "web_url": "https://gitcode.com/cann/hixl/issues/225"
   },
   {
     "iid": 224,
     "state": "closed",
     "created_at": "2026-04-27",
     "closed_at": "2026-04-28",
-    "author": "A-Liuhao"
+    "author": "A-Liuhao",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/224"
   },
   {
     "iid": 223,
     "state": "closed",
     "created_at": "2026-04-27",
     "closed_at": "2026-05-07",
-    "author": "A-Liuhao"
+    "author": "A-Liuhao",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/223"
   },
   {
     "iid": 222,
     "state": "opened",
     "created_at": "2026-04-24",
     "closed_at": "",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/222"
   },
   {
     "iid": 221,
     "state": "closed",
     "created_at": "2026-04-24",
     "closed_at": "2026-04-24",
-    "author": "lyy_666"
+    "author": "lyy_666",
+    "labels": [],
+    "user_notes_count": 9,
+    "web_url": "https://gitcode.com/cann/hixl/issues/221"
   },
   {
     "iid": 220,
     "state": "closed",
     "created_at": "2026-04-23",
     "closed_at": "2026-04-23",
-    "author": "zhao-pengboA"
+    "author": "zhao-pengboA",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/220"
   },
   {
     "iid": 219,
     "state": "closed",
     "created_at": "2026-04-23",
     "closed_at": "2026-04-27",
-    "author": "chengdu_xiaowu"
+    "author": "chengdu_xiaowu",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/219"
   },
   {
     "iid": 218,
     "state": "closed",
     "created_at": "2026-04-22",
     "closed_at": "2026-05-06",
-    "author": "he_ziwei"
+    "author": "he_ziwei",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/218"
   },
   {
     "iid": 217,
     "state": "closed",
     "created_at": "2026-04-22",
     "closed_at": "2026-04-23",
-    "author": "lvran01"
+    "author": "lvran01",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/217"
   },
   {
     "iid": 216,
     "state": "closed",
     "created_at": "2026-04-21",
     "closed_at": "2026-05-06",
-    "author": "ZhaoBaiwei"
+    "author": "ZhaoBaiwei",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/216"
   },
   {
     "iid": 215,
     "state": "closed",
     "created_at": "2026-04-21",
     "closed_at": "2026-04-22",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/215"
   },
   {
     "iid": 214,
     "state": "closed",
     "created_at": "2026-04-21",
     "closed_at": "2026-04-22",
-    "author": "zhujingjing"
+    "author": "zhujingjing",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/214"
   },
   {
     "iid": 213,
     "state": "closed",
     "created_at": "2026-04-21",
     "closed_at": "2026-04-22",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/213"
   },
   {
     "iid": 212,
     "state": "closed",
     "created_at": "2026-04-21",
     "closed_at": "2026-04-22",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/212"
   },
   {
     "iid": 211,
     "state": "closed",
     "created_at": "2026-04-21",
     "closed_at": "2026-04-22",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/211"
   },
   {
     "iid": 210,
     "state": "closed",
     "created_at": "2026-04-20",
     "closed_at": "2026-04-27",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/210"
   },
   {
     "iid": 209,
     "state": "closed",
     "created_at": "2026-04-20",
     "closed_at": "2026-04-27",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/209"
   },
   {
     "iid": 208,
     "state": "opened",
     "created_at": "2026-04-20",
     "closed_at": "",
-    "author": "Ming-Yan"
+    "author": "Ming-Yan",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/208"
   },
   {
     "iid": 207,
     "state": "opened",
     "created_at": "2026-04-20",
     "closed_at": "",
-    "author": "Ming-Yan"
+    "author": "Ming-Yan",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/207"
   },
   {
     "iid": 206,
     "state": "closed",
     "created_at": "2026-04-20",
     "closed_at": "2026-04-29",
-    "author": "huchunmei_123"
+    "author": "huchunmei_123",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/206"
   },
   {
     "iid": 205,
     "state": "closed",
     "created_at": "2026-04-20",
     "closed_at": "2026-04-21",
-    "author": "ZhouZongjin"
+    "author": "ZhouZongjin",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/hixl/issues/205"
   },
   {
     "iid": 198,
     "state": "closed",
     "created_at": "2026-04-17",
     "closed_at": "2026-04-27",
-    "author": "huchunmei_123"
+    "author": "huchunmei_123",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/198"
   },
   {
     "iid": 197,
     "state": "closed",
     "created_at": "2026-04-17",
     "closed_at": "2026-04-22",
-    "author": "huchunmei_123"
+    "author": "huchunmei_123",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/197"
   },
   {
     "iid": 196,
     "state": "opened",
     "created_at": "2026-04-16",
     "closed_at": "",
-    "author": "A-Liuhao"
+    "author": "A-Liuhao",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/196"
   },
   {
     "iid": 195,
     "state": "closed",
     "created_at": "2026-04-16",
     "closed_at": "2026-04-23",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/195"
   },
   {
     "iid": 194,
     "state": "opened",
     "created_at": "2026-04-16",
     "closed_at": "",
-    "author": "A-Liuhao"
+    "author": "A-Liuhao",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/194"
   },
   {
     "iid": 193,
     "state": "closed",
     "created_at": "2026-04-16",
     "closed_at": "2026-05-08",
-    "author": "he_ziwei"
+    "author": "he_ziwei",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/193"
   },
   {
     "iid": 192,
     "state": "closed",
     "created_at": "2026-04-15",
     "closed_at": "2026-04-16",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/192"
   },
   {
     "iid": 191,
     "state": "closed",
     "created_at": "2026-04-15",
     "closed_at": "2026-04-24",
-    "author": "ZhaoBaiwei"
+    "author": "ZhaoBaiwei",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/191"
   },
   {
     "iid": 190,
     "state": "closed",
     "created_at": "2026-04-14",
     "closed_at": "2026-05-06",
-    "author": "liyu_ascend"
+    "author": "liyu_ascend",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/190"
   },
   {
     "iid": 189,
     "state": "closed",
     "created_at": "2026-04-14",
     "closed_at": "2026-04-27",
-    "author": "tanteacher"
+    "author": "tanteacher",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/189"
   },
   {
     "iid": 188,
     "state": "opened",
     "created_at": "2026-04-14",
     "closed_at": "",
-    "author": "AlexRen998916"
+    "author": "AlexRen998916",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/188"
   },
   {
     "iid": 187,
     "state": "closed",
     "created_at": "2026-04-14",
     "closed_at": "2026-04-23",
-    "author": "u014270003"
+    "author": "u014270003",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/187"
   },
   {
     "iid": 186,
     "state": "closed",
     "created_at": "2026-04-13",
     "closed_at": "2026-04-14",
-    "author": "xumengxuan"
+    "author": "xumengxuan",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/186"
   },
   {
     "iid": 185,
     "state": "closed",
     "created_at": "2026-04-13",
     "closed_at": "2026-04-14",
-    "author": "tianlianga1"
+    "author": "tianlianga1",
+    "labels": [],
+    "user_notes_count": 9,
+    "web_url": "https://gitcode.com/cann/hixl/issues/185"
   },
   {
     "iid": 184,
     "state": "closed",
     "created_at": "2026-04-13",
     "closed_at": "2026-04-22",
-    "author": "ZhaoBaiwei"
+    "author": "ZhaoBaiwei",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/184"
   },
   {
     "iid": 183,
     "state": "closed",
     "created_at": "2026-04-11",
     "closed_at": "2026-04-22",
-    "author": "u010199356"
+    "author": "u010199356",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/hixl/issues/183"
   },
   {
     "iid": 182,
     "state": "closed",
     "created_at": "2026-04-11",
     "closed_at": "2026-04-11",
-    "author": "tianlianga1"
+    "author": "tianlianga1",
+    "labels": [],
+    "user_notes_count": 12,
+    "web_url": "https://gitcode.com/cann/hixl/issues/182"
   },
   {
     "iid": 181,
     "state": "opened",
     "created_at": "2026-04-10",
     "closed_at": "",
-    "author": "lugang11"
+    "author": "lugang11",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/181"
   },
   {
     "iid": 180,
     "state": "closed",
     "created_at": "2026-04-08",
     "closed_at": "2026-04-20",
-    "author": "wanglong9"
+    "author": "wanglong9",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/180"
   },
   {
     "iid": 179,
     "state": "closed",
     "created_at": "2026-04-07",
     "closed_at": "2026-05-06",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/179"
   },
   {
     "iid": 178,
     "state": "closed",
     "created_at": "2026-04-07",
     "closed_at": "2026-04-08",
-    "author": "qq_34873042"
+    "author": "qq_34873042",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/178"
   },
   {
     "iid": 177,
     "state": "closed",
     "created_at": "2026-04-03",
     "closed_at": "2026-04-24",
-    "author": "qq_29707523"
+    "author": "qq_29707523",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/177"
   },
   {
     "iid": 176,
     "state": "opened",
     "created_at": "2026-04-03",
     "closed_at": "",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/176"
   },
   {
     "iid": 175,
     "state": "closed",
     "created_at": "2026-04-03",
     "closed_at": "2026-04-24",
-    "author": "gcw_pfzw85mp"
+    "author": "gcw_pfzw85mp",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/175"
   },
   {
     "iid": 174,
     "state": "opened",
     "created_at": "2026-04-03",
     "closed_at": "",
-    "author": "jiazhaoyang"
+    "author": "jiazhaoyang",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/174"
   },
   {
     "iid": 173,
     "state": "closed",
     "created_at": "2026-04-02",
     "closed_at": "2026-04-24",
-    "author": "cann_cm"
+    "author": "cann_cm",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/173"
   },
   {
     "iid": 172,
     "state": "opened",
     "created_at": "2026-04-02",
     "closed_at": "",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/172"
   },
   {
     "iid": 171,
     "state": "closed",
     "created_at": "2026-04-02",
     "closed_at": "2026-04-03",
-    "author": "KKKzkx"
+    "author": "KKKzkx",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/171"
   },
   {
     "iid": 170,
     "state": "closed",
     "created_at": "2026-03-30",
     "closed_at": "2026-04-10",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/170"
   },
   {
     "iid": 169,
     "state": "closed",
     "created_at": "2026-03-28",
     "closed_at": "2026-04-03",
-    "author": "xumengxuan"
+    "author": "xumengxuan",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/169"
   },
   {
     "iid": 168,
     "state": "closed",
     "created_at": "2026-03-27",
     "closed_at": "2026-03-31",
-    "author": "jieke275"
+    "author": "jieke275",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/168"
   },
   {
     "iid": 167,
     "state": "opened",
     "created_at": "2026-03-26",
     "closed_at": "",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/167"
   },
   {
     "iid": 166,
     "state": "closed",
     "created_at": "2026-03-26",
     "closed_at": "2026-04-02",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/166"
   },
   {
     "iid": 165,
     "state": "closed",
     "created_at": "2026-03-26",
     "closed_at": "2026-04-08",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/165"
   },
   {
     "iid": 164,
     "state": "closed",
     "created_at": "2026-03-26",
     "closed_at": "2026-04-02",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/164"
   },
   {
     "iid": 163,
     "state": "closed",
     "created_at": "2026-03-26",
     "closed_at": "2026-04-02",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/163"
   },
   {
     "iid": 162,
     "state": "closed",
     "created_at": "2026-03-26",
     "closed_at": "2026-04-02",
-    "author": "chengdu_xiaowu"
+    "author": "chengdu_xiaowu",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/162"
   },
   {
     "iid": 161,
     "state": "closed",
     "created_at": "2026-03-24",
     "closed_at": "2026-03-25",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/161"
   },
   {
     "iid": 160,
     "state": "closed",
     "created_at": "2026-03-24",
     "closed_at": "2026-03-24",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/160"
   },
   {
     "iid": 159,
     "state": "closed",
     "created_at": "2026-03-24",
     "closed_at": "2026-03-27",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/159"
   },
   {
     "iid": 158,
     "state": "closed",
     "created_at": "2026-03-24",
     "closed_at": "2026-03-24",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/158"
   },
   {
     "iid": 157,
     "state": "closed",
     "created_at": "2026-03-23",
     "closed_at": "2026-04-17",
-    "author": "yilunh"
+    "author": "yilunh",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/157"
   },
   {
     "iid": 156,
     "state": "closed",
     "created_at": "2026-03-20",
     "closed_at": "2026-04-01",
-    "author": "gcw_uHTeVGM0"
+    "author": "gcw_uHTeVGM0",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/156"
   },
   {
     "iid": 154,
     "state": "closed",
     "created_at": "2026-03-20",
     "closed_at": "2026-03-23",
-    "author": "ascend-robot"
+    "author": "ascend-robot",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/154"
   },
   {
     "iid": 153,
     "state": "closed",
     "created_at": "2026-03-19",
     "closed_at": "2026-04-09",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/153"
   },
   {
     "iid": 152,
     "state": "closed",
     "created_at": "2026-03-19",
     "closed_at": "2026-03-24",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/152"
   },
   {
     "iid": 151,
     "state": "closed",
     "created_at": "2026-03-19",
     "closed_at": "2026-03-26",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/151"
   },
   {
     "iid": 150,
     "state": "closed",
     "created_at": "2026-03-18",
     "closed_at": "2026-03-26",
-    "author": "windlzr"
+    "author": "windlzr",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/150"
   },
   {
     "iid": 149,
     "state": "closed",
     "created_at": "2026-03-18",
     "closed_at": "2026-03-24",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/149"
   },
   {
     "iid": 148,
     "state": "closed",
     "created_at": "2026-03-17",
     "closed_at": "2026-03-19",
-    "author": "gcw_hESHsBck"
+    "author": "gcw_hESHsBck",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/148"
   },
   {
     "iid": 147,
     "state": "closed",
     "created_at": "2026-03-17",
     "closed_at": "2026-03-24",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/147"
   },
   {
     "iid": 146,
     "state": "closed",
     "created_at": "2026-03-16",
     "closed_at": "2026-03-24",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/146"
   },
   {
     "iid": 145,
     "state": "closed",
     "created_at": "2026-03-16",
     "closed_at": "2026-03-24",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/145"
   },
   {
     "iid": 144,
     "state": "closed",
     "created_at": "2026-03-16",
     "closed_at": "2026-03-23",
-    "author": "liweijie2000"
+    "author": "liweijie2000",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/144"
   },
   {
     "iid": 143,
     "state": "closed",
     "created_at": "2026-03-12",
     "closed_at": "2026-03-13",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/143"
   },
   {
     "iid": 142,
     "state": "closed",
     "created_at": "2026-03-12",
     "closed_at": "2026-03-25",
-    "author": "M__Cheng"
+    "author": "M__Cheng",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/142"
   },
   {
     "iid": 141,
     "state": "closed",
     "created_at": "2026-03-11",
     "closed_at": "2026-03-12",
-    "author": "wufeng15"
+    "author": "wufeng15",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/141"
   },
   {
     "iid": 140,
     "state": "closed",
     "created_at": "2026-03-10",
     "closed_at": "2026-04-17",
-    "author": "Michael-Yi"
+    "author": "Michael-Yi",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/140"
   },
   {
     "iid": 139,
     "state": "closed",
     "created_at": "2026-03-10",
     "closed_at": "2026-03-11",
-    "author": "zhang-wangze"
+    "author": "zhang-wangze",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/139"
   },
   {
     "iid": 138,
     "state": "closed",
     "created_at": "2026-03-10",
     "closed_at": "2026-04-30",
-    "author": "jiazhaoyang"
+    "author": "jiazhaoyang",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/138"
   },
   {
     "iid": 137,
     "state": "closed",
     "created_at": "2026-03-09",
     "closed_at": "2026-03-10",
-    "author": "wufeng15"
+    "author": "wufeng15",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/137"
   },
   {
     "iid": 136,
     "state": "closed",
     "created_at": "2026-03-08",
     "closed_at": "2026-03-25",
-    "author": "hjchen2"
+    "author": "hjchen2",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/136"
   },
   {
     "iid": 135,
     "state": "closed",
     "created_at": "2026-03-08",
     "closed_at": "2026-03-11",
-    "author": "zhanghongge"
+    "author": "zhanghongge",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/135"
   },
   {
     "iid": 134,
     "state": "closed",
     "created_at": "2026-03-06",
     "closed_at": "2026-03-13",
-    "author": "he_ziwei"
+    "author": "he_ziwei",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/134"
   },
   {
     "iid": 133,
     "state": "closed",
     "created_at": "2026-03-06",
     "closed_at": "2026-03-11",
-    "author": "cuixiaojin"
+    "author": "cuixiaojin",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/133"
   },
   {
     "iid": 132,
     "state": "closed",
     "created_at": "2026-03-06",
     "closed_at": "2026-03-17",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/132"
   },
   {
     "iid": 131,
     "state": "closed",
     "created_at": "2026-03-05",
     "closed_at": "2026-03-06",
-    "author": "jiangyaoguo"
+    "author": "jiangyaoguo",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/131"
   },
   {
     "iid": 130,
     "state": "closed",
     "created_at": "2026-03-05",
     "closed_at": "2026-03-23",
-    "author": "Y11451"
+    "author": "Y11451",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/130"
   },
   {
     "iid": 129,
     "state": "closed",
     "created_at": "2026-03-05",
     "closed_at": "2026-03-10",
-    "author": "sinat_22339175"
+    "author": "sinat_22339175",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/129"
   },
   {
     "iid": 128,
     "state": "closed",
     "created_at": "2026-03-04",
     "closed_at": "2026-04-14",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/128"
   },
   {
     "iid": 127,
     "state": "closed",
     "created_at": "2026-03-04",
     "closed_at": "2026-03-05",
-    "author": "heartStrive"
+    "author": "heartStrive",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/127"
   },
   {
     "iid": 126,
     "state": "closed",
     "created_at": "2026-03-03",
     "closed_at": "2026-03-04",
-    "author": "A-Liuhao"
+    "author": "A-Liuhao",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/126"
   },
   {
     "iid": 125,
     "state": "closed",
     "created_at": "2026-03-02",
     "closed_at": "2026-03-11",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/125"
   },
   {
     "iid": 124,
     "state": "closed",
     "created_at": "2026-03-02",
     "closed_at": "2026-03-09",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/124"
   },
   {
     "iid": 123,
     "state": "closed",
     "created_at": "2026-03-02",
     "closed_at": "2026-03-10",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/123"
   },
   {
     "iid": 122,
     "state": "closed",
     "created_at": "2026-03-02",
     "closed_at": "2026-03-02",
-    "author": "wenke1312"
+    "author": "wenke1312",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/122"
   },
   {
     "iid": 121,
     "state": "closed",
     "created_at": "2026-02-28",
     "closed_at": "2026-03-03",
-    "author": "gcw_UQE6G7Ro"
+    "author": "gcw_UQE6G7Ro",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/121"
   },
   {
     "iid": 120,
     "state": "closed",
     "created_at": "2026-02-27",
     "closed_at": "2026-02-28",
-    "author": "jiangyaoguo"
+    "author": "jiangyaoguo",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/120"
   },
   {
     "iid": 119,
     "state": "closed",
     "created_at": "2026-02-27",
     "closed_at": "2026-02-28",
-    "author": "gfmyeung"
+    "author": "gfmyeung",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/119"
   },
   {
     "iid": 118,
     "state": "closed",
     "created_at": "2026-02-26",
     "closed_at": "2026-02-27",
-    "author": "A-Liuhao"
+    "author": "A-Liuhao",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/118"
   },
   {
     "iid": 117,
     "state": "closed",
     "created_at": "2026-02-25",
     "closed_at": "2026-02-27",
-    "author": "gcw_Z35TLLfa"
+    "author": "gcw_Z35TLLfa",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/117"
   },
   {
     "iid": 116,
     "state": "closed",
     "created_at": "2026-02-13",
     "closed_at": "2026-02-25",
-    "author": "duduzeng"
+    "author": "duduzeng",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/116"
   },
   {
     "iid": 115,
     "state": "closed",
     "created_at": "2026-02-13",
     "closed_at": "2026-02-14",
-    "author": "duduzeng"
+    "author": "duduzeng",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/115"
   },
   {
     "iid": 114,
     "state": "closed",
     "created_at": "2026-02-12",
     "closed_at": "2026-03-03",
-    "author": "wandongdong"
+    "author": "wandongdong",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/hixl/issues/114"
   },
   {
     "iid": 113,
     "state": "closed",
     "created_at": "2026-02-11",
     "closed_at": "2026-02-13",
-    "author": "duduzeng"
+    "author": "duduzeng",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/113"
   },
   {
     "iid": 112,
     "state": "closed",
     "created_at": "2026-02-11",
     "closed_at": "2026-04-01",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 6,
+    "web_url": "https://gitcode.com/cann/hixl/issues/112"
   },
   {
     "iid": 111,
     "state": "closed",
     "created_at": "2026-02-10",
     "closed_at": "2026-02-25",
-    "author": "wandongdong"
+    "author": "wandongdong",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/hixl/issues/111"
   },
   {
     "iid": 110,
     "state": "closed",
     "created_at": "2026-02-10",
     "closed_at": "2026-03-06",
-    "author": "ZhaoBaiwei"
+    "author": "ZhaoBaiwei",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/110"
   },
   {
     "iid": 109,
     "state": "closed",
     "created_at": "2026-02-10",
     "closed_at": "2026-02-27",
-    "author": "heijian123"
+    "author": "heijian123",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/109"
   },
   {
     "iid": 108,
     "state": "closed",
     "created_at": "2026-02-10",
     "closed_at": "2026-02-14",
-    "author": "yuanlang321"
+    "author": "yuanlang321",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/108"
   },
   {
     "iid": 107,
     "state": "closed",
     "created_at": "2026-02-09",
     "closed_at": "2026-02-09",
-    "author": "ZhaoBaiwei"
+    "author": "ZhaoBaiwei",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/107"
   },
   {
     "iid": 106,
     "state": "closed",
     "created_at": "2026-02-09",
     "closed_at": "2026-02-09",
-    "author": "M__Cheng"
+    "author": "M__Cheng",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/106"
   },
   {
     "iid": 105,
     "state": "closed",
     "created_at": "2026-02-09",
     "closed_at": "2026-02-09",
-    "author": "sinat_22339175"
+    "author": "sinat_22339175",
+    "labels": [],
+    "user_notes_count": 6,
+    "web_url": "https://gitcode.com/cann/hixl/issues/105"
   },
   {
     "iid": 104,
     "state": "closed",
     "created_at": "2026-02-06",
     "closed_at": "2026-02-10",
-    "author": "wandongdong"
+    "author": "wandongdong",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/104"
   },
   {
     "iid": 103,
     "state": "closed",
     "created_at": "2026-02-05",
     "closed_at": "2026-02-09",
-    "author": "wandongdong"
+    "author": "wandongdong",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/103"
   },
   {
     "iid": 102,
     "state": "closed",
     "created_at": "2026-02-05",
     "closed_at": "2026-02-24",
-    "author": "ascend-robot"
+    "author": "ascend-robot",
+    "labels": [],
+    "user_notes_count": 7,
+    "web_url": "https://gitcode.com/cann/hixl/issues/102"
   },
   {
     "iid": 101,
     "state": "closed",
     "created_at": "2026-02-05",
     "closed_at": "2026-02-09",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/101"
   },
   {
     "iid": 100,
     "state": "closed",
     "created_at": "2026-02-04",
     "closed_at": "2026-02-05",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/100"
   },
   {
     "iid": 99,
     "state": "closed",
     "created_at": "2026-02-04",
     "closed_at": "2026-03-27",
-    "author": "songmingyang"
+    "author": "songmingyang",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/99"
   },
   {
     "iid": 98,
     "state": "closed",
     "created_at": "2026-02-03",
     "closed_at": "2026-02-03",
-    "author": "youyx"
+    "author": "youyx",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/98"
   },
   {
     "iid": 97,
     "state": "closed",
     "created_at": "2026-02-03",
     "closed_at": "2026-02-04",
-    "author": "youyx"
+    "author": "youyx",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/97"
   },
   {
     "iid": 96,
     "state": "closed",
     "created_at": "2026-01-31",
     "closed_at": "2026-02-04",
-    "author": "weixin_39767879"
+    "author": "weixin_39767879",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/96"
   },
   {
     "iid": 95,
     "state": "closed",
     "created_at": "2026-01-29",
     "closed_at": "2026-02-09",
-    "author": "Sterling-Gong"
+    "author": "Sterling-Gong",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/95"
   },
   {
     "iid": 94,
     "state": "closed",
     "created_at": "2026-01-29",
     "closed_at": "2026-02-04",
-    "author": "capt4in"
+    "author": "capt4in",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/94"
   },
   {
     "iid": 93,
     "state": "closed",
     "created_at": "2026-01-28",
     "closed_at": "2026-01-28",
-    "author": "M__Cheng"
+    "author": "M__Cheng",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/93"
   },
   {
     "iid": 92,
     "state": "closed",
     "created_at": "2026-01-27",
     "closed_at": "2026-02-06",
-    "author": "jonyguo"
+    "author": "jonyguo",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/92"
   },
   {
     "iid": 91,
     "state": "closed",
     "created_at": "2026-01-23",
     "closed_at": "2026-02-04",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/91"
   },
   {
     "iid": 90,
     "state": "closed",
     "created_at": "2026-01-22",
     "closed_at": "2026-02-03",
-    "author": "ZhaoBaiwei"
+    "author": "ZhaoBaiwei",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/90"
   },
   {
     "iid": 89,
     "state": "closed",
     "created_at": "2026-01-21",
     "closed_at": "2026-02-13",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/89"
   },
   {
     "iid": 88,
     "state": "opened",
     "created_at": "2026-01-21",
     "closed_at": "",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/88"
   },
   {
     "iid": 87,
     "state": "closed",
     "created_at": "2026-01-20",
     "closed_at": "2026-01-28",
-    "author": "songmingyang"
+    "author": "songmingyang",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/87"
   },
   {
     "iid": 86,
     "state": "closed",
     "created_at": "2026-01-19",
     "closed_at": "2026-02-10",
-    "author": "yuanlang321"
+    "author": "yuanlang321",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/86"
   },
   {
     "iid": 85,
     "state": "closed",
     "created_at": "2026-01-16",
     "closed_at": "2026-01-17",
-    "author": "hjchen2"
+    "author": "hjchen2",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/hixl/issues/85"
   },
   {
     "iid": 84,
     "state": "closed",
     "created_at": "2026-01-16",
     "closed_at": "2026-01-31",
-    "author": "huchunmei_123"
+    "author": "huchunmei_123",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/84"
   },
   {
     "iid": 83,
     "state": "closed",
     "created_at": "2026-01-16",
     "closed_at": "2026-01-29",
-    "author": "huchunmei_123"
+    "author": "huchunmei_123",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/83"
   },
   {
     "iid": 82,
     "state": "closed",
     "created_at": "2026-01-14",
     "closed_at": "2026-01-29",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/82"
   },
   {
     "iid": 81,
     "state": "closed",
     "created_at": "2026-01-14",
     "closed_at": "2026-01-29",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/81"
   },
   {
     "iid": 80,
     "state": "closed",
     "created_at": "2026-01-14",
     "closed_at": "2026-01-22",
-    "author": "m0_37870649"
+    "author": "m0_37870649",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/80"
   },
   {
     "iid": 79,
     "state": "closed",
     "created_at": "2026-01-13",
     "closed_at": "2026-01-16",
-    "author": "heijian123"
+    "author": "heijian123",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/79"
   },
   {
     "iid": 78,
     "state": "closed",
     "created_at": "2026-01-13",
     "closed_at": "2026-01-22",
-    "author": "wandongdong"
+    "author": "wandongdong",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/78"
   },
   {
     "iid": 77,
     "state": "closed",
     "created_at": "2026-01-10",
     "closed_at": "2026-01-14",
-    "author": "Sterling-Gong"
+    "author": "Sterling-Gong",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/77"
   },
   {
     "iid": 76,
     "state": "closed",
     "created_at": "2026-01-09",
     "closed_at": "2026-02-12",
-    "author": "yuanlang321"
+    "author": "yuanlang321",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/76"
   },
   {
     "iid": 75,
     "state": "closed",
     "created_at": "2026-01-09",
     "closed_at": "2026-02-24",
-    "author": "jiazhaoyang"
+    "author": "jiazhaoyang",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/75"
   },
   {
     "iid": 74,
     "state": "closed",
     "created_at": "2026-01-08",
     "closed_at": "2026-01-12",
-    "author": "yejiajun"
+    "author": "yejiajun",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/74"
   },
   {
     "iid": 73,
     "state": "closed",
     "created_at": "2026-01-08",
     "closed_at": "2026-01-13",
-    "author": "sinat_22339175"
+    "author": "sinat_22339175",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/73"
   },
   {
     "iid": 72,
     "state": "closed",
     "created_at": "2026-01-07",
     "closed_at": "2026-01-07",
-    "author": "yejiajun"
+    "author": "yejiajun",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/hixl/issues/72"
   },
   {
     "iid": 71,
     "state": "closed",
     "created_at": "2026-01-05",
     "closed_at": "2026-01-07",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/71"
   },
   {
     "iid": 70,
     "state": "closed",
     "created_at": "2026-01-05",
     "closed_at": "2026-01-07",
-    "author": "yejiajun"
+    "author": "yejiajun",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/70"
   },
   {
     "iid": 69,
     "state": "closed",
     "created_at": "2026-01-05",
     "closed_at": "2026-01-07",
-    "author": "whh_smile"
+    "author": "whh_smile",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/69"
   },
   {
     "iid": 68,
     "state": "closed",
     "created_at": "2025-12-31",
     "closed_at": "2026-01-07",
-    "author": "Sterling-Gong"
+    "author": "Sterling-Gong",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/68"
   },
   {
     "iid": 67,
     "state": "closed",
     "created_at": "2025-12-30",
     "closed_at": "2026-02-27",
-    "author": "lugang11"
+    "author": "lugang11",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/67"
   },
   {
     "iid": 66,
     "state": "closed",
     "created_at": "2025-12-30",
     "closed_at": "2025-12-30",
-    "author": "ascend-robot"
+    "author": "ascend-robot",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/66"
   },
   {
     "iid": 65,
     "state": "closed",
     "created_at": "2025-12-29",
     "closed_at": "2026-01-04",
-    "author": "gcw_Lh0bwqQJ"
+    "author": "gcw_Lh0bwqQJ",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/65"
   },
   {
     "iid": 64,
     "state": "closed",
     "created_at": "2025-12-26",
     "closed_at": "2026-03-09",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/hixl/issues/64"
   },
   {
     "iid": 63,
     "state": "closed",
     "created_at": "2025-12-25",
     "closed_at": "2025-12-26",
-    "author": "qlang"
+    "author": "qlang",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/63"
   },
   {
     "iid": 62,
     "state": "closed",
     "created_at": "2025-12-24",
     "closed_at": "2025-12-26",
-    "author": "AlexRen998916"
+    "author": "AlexRen998916",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/62"
   },
   {
     "iid": 61,
     "state": "closed",
     "created_at": "2025-12-24",
     "closed_at": "2025-12-29",
-    "author": "bululu123"
+    "author": "bululu123",
+    "labels": [],
+    "user_notes_count": 7,
+    "web_url": "https://gitcode.com/cann/hixl/issues/61"
   },
   {
     "iid": 60,
     "state": "closed",
     "created_at": "2025-12-24",
     "closed_at": "2025-12-25",
-    "author": "dingdairong"
+    "author": "dingdairong",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/60"
   },
   {
     "iid": 59,
     "state": "closed",
     "created_at": "2025-12-23",
     "closed_at": "2025-12-25",
-    "author": "q60099284"
+    "author": "q60099284",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/59"
   },
   {
     "iid": 58,
     "state": "closed",
     "created_at": "2025-12-22",
     "closed_at": "2025-12-24",
-    "author": "q60099284"
+    "author": "q60099284",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/58"
   },
   {
     "iid": 57,
     "state": "closed",
     "created_at": "2025-12-22",
     "closed_at": "2026-02-25",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/57"
   },
   {
     "iid": 56,
     "state": "closed",
     "created_at": "2025-12-20",
     "closed_at": "2025-12-26",
-    "author": "x1314aq"
+    "author": "x1314aq",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/56"
   },
   {
     "iid": 55,
     "state": "closed",
     "created_at": "2025-12-18",
     "closed_at": "2025-12-25",
-    "author": "waimaidaole"
+    "author": "waimaidaole",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/55"
   },
   {
     "iid": 54,
     "state": "closed",
     "created_at": "2025-12-17",
     "closed_at": "2025-12-29",
-    "author": "x1314aq"
+    "author": "x1314aq",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/hixl/issues/54"
   },
   {
     "iid": 53,
     "state": "closed",
     "created_at": "2025-12-16",
     "closed_at": "2025-12-21",
-    "author": "qq_54572005"
+    "author": "qq_54572005",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/hixl/issues/53"
   },
   {
     "iid": 52,
     "state": "closed",
     "created_at": "2025-12-11",
     "closed_at": "2025-12-17",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/52"
   },
   {
     "iid": 51,
     "state": "closed",
     "created_at": "2025-12-10",
     "closed_at": "2025-12-10",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/51"
   },
   {
     "iid": 50,
     "state": "closed",
     "created_at": "2025-12-10",
     "closed_at": "2025-12-16",
-    "author": "lookat119"
+    "author": "lookat119",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/50"
   },
   {
     "iid": 49,
     "state": "closed",
     "created_at": "2025-12-08",
     "closed_at": "2025-12-15",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/49"
   },
   {
     "iid": 48,
     "state": "closed",
     "created_at": "2025-12-03",
     "closed_at": "2025-12-05",
-    "author": "weixin_43469570"
+    "author": "weixin_43469570",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/48"
   },
   {
     "iid": 46,
     "state": "closed",
     "created_at": "2025-12-01",
     "closed_at": "2025-12-16",
-    "author": "ZhaoBaiwei"
+    "author": "ZhaoBaiwei",
+    "labels": [],
+    "user_notes_count": 6,
+    "web_url": "https://gitcode.com/cann/hixl/issues/46"
   },
   {
     "iid": 45,
     "state": "closed",
     "created_at": "2025-12-01",
     "closed_at": "2025-12-11",
-    "author": "luoayang"
+    "author": "luoayang",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/45"
   },
   {
     "iid": 44,
     "state": "closed",
     "created_at": "2025-12-01",
     "closed_at": "2025-12-03",
-    "author": "Mknmkn123"
+    "author": "Mknmkn123",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/44"
   },
   {
     "iid": 43,
     "state": "closed",
     "created_at": "2025-11-29",
     "closed_at": "2025-12-16",
-    "author": "gcw_V70cs4TN"
+    "author": "gcw_V70cs4TN",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/43"
   },
   {
     "iid": 42,
     "state": "closed",
     "created_at": "2025-11-29",
     "closed_at": "2026-02-10",
-    "author": "M__Cheng"
+    "author": "M__Cheng",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/42"
   },
   {
     "iid": 41,
     "state": "closed",
     "created_at": "2025-11-29",
     "closed_at": "2025-12-01",
-    "author": "zhong_lin"
+    "author": "zhong_lin",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/41"
   },
   {
     "iid": 40,
     "state": "closed",
     "created_at": "2025-11-28",
     "closed_at": "2026-02-13",
-    "author": "xumengxuan"
+    "author": "xumengxuan",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/40"
   },
   {
     "iid": 39,
     "state": "closed",
     "created_at": "2025-11-28",
     "closed_at": "2026-02-14",
-    "author": "AlexRen998916"
+    "author": "AlexRen998916",
+    "labels": [],
+    "user_notes_count": 6,
+    "web_url": "https://gitcode.com/cann/hixl/issues/39"
   },
   {
     "iid": 38,
     "state": "closed",
     "created_at": "2025-11-28",
     "closed_at": "2026-02-24",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/38"
   },
   {
     "iid": 37,
     "state": "closed",
     "created_at": "2025-11-28",
     "closed_at": "2026-02-25",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/37"
   },
   {
     "iid": 36,
     "state": "closed",
     "created_at": "2025-11-26",
     "closed_at": "2025-11-28",
-    "author": "yuanlang321"
+    "author": "yuanlang321",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/36"
   },
   {
     "iid": 35,
     "state": "closed",
     "created_at": "2025-11-25",
     "closed_at": "2025-11-29",
-    "author": "qwqinyang"
+    "author": "qwqinyang",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/35"
   },
   {
     "iid": 34,
     "state": "closed",
     "created_at": "2025-11-24",
     "closed_at": "2025-11-25",
-    "author": "yuanlang321"
+    "author": "yuanlang321",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/34"
   },
   {
     "iid": 33,
     "state": "closed",
     "created_at": "2025-11-19",
     "closed_at": "2026-01-06",
-    "author": "youyx"
+    "author": "youyx",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/33"
   },
   {
     "iid": 32,
     "state": "closed",
     "created_at": "2025-11-18",
     "closed_at": "2025-12-12",
-    "author": "fangxinnan"
+    "author": "fangxinnan",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/32"
   },
   {
     "iid": 31,
     "state": "closed",
     "created_at": "2025-11-15",
     "closed_at": "2025-11-21",
-    "author": "yuanlang321"
+    "author": "yuanlang321",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/31"
   },
   {
     "iid": 30,
     "state": "closed",
     "created_at": "2025-11-14",
     "closed_at": "2025-11-20",
-    "author": "ye-wo-dong-shan"
+    "author": "ye-wo-dong-shan",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/30"
   },
   {
     "iid": 29,
     "state": "closed",
     "created_at": "2025-11-14",
     "closed_at": "2025-11-14",
-    "author": "yuanlang321"
+    "author": "yuanlang321",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/29"
   },
   {
     "iid": 28,
     "state": "closed",
     "created_at": "2025-11-13",
     "closed_at": "2026-01-07",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 8,
+    "web_url": "https://gitcode.com/cann/hixl/issues/28"
   },
   {
     "iid": 27,
     "state": "closed",
     "created_at": "2025-11-13",
     "closed_at": "2025-12-03",
-    "author": "liyu_ascend"
+    "author": "liyu_ascend",
+    "labels": [],
+    "user_notes_count": 7,
+    "web_url": "https://gitcode.com/cann/hixl/issues/27"
   },
   {
     "iid": 26,
     "state": "closed",
     "created_at": "2025-11-08",
     "closed_at": "2025-11-08",
-    "author": "youyx"
+    "author": "youyx",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/26"
   },
   {
     "iid": 25,
     "state": "closed",
     "created_at": "2025-11-06",
     "closed_at": "2025-11-06",
-    "author": "wujiao_swag"
+    "author": "wujiao_swag",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/25"
   },
   {
     "iid": 24,
     "state": "closed",
     "created_at": "2025-11-06",
     "closed_at": "2025-11-18",
-    "author": "cuixiaojin"
+    "author": "cuixiaojin",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/24"
   },
   {
     "iid": 23,
     "state": "closed",
     "created_at": "2025-11-06",
     "closed_at": "2025-11-06",
-    "author": "ZhaoBaiwei"
+    "author": "ZhaoBaiwei",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/23"
   },
   {
     "iid": 22,
     "state": "closed",
     "created_at": "2025-11-05",
     "closed_at": "2025-11-14",
-    "author": "youyx"
+    "author": "youyx",
+    "labels": [],
+    "user_notes_count": 8,
+    "web_url": "https://gitcode.com/cann/hixl/issues/22"
   },
   {
     "iid": 21,
     "state": "closed",
     "created_at": "2025-11-05",
     "closed_at": "2025-11-05",
-    "author": "zhengwu7"
+    "author": "zhengwu7",
+    "labels": [],
+    "user_notes_count": 7,
+    "web_url": "https://gitcode.com/cann/hixl/issues/21"
   },
   {
     "iid": 20,
     "state": "closed",
     "created_at": "2025-11-04",
     "closed_at": "2025-12-31",
-    "author": "ZhaoBaiwei"
+    "author": "ZhaoBaiwei",
+    "labels": [],
+    "user_notes_count": 6,
+    "web_url": "https://gitcode.com/cann/hixl/issues/20"
   },
   {
     "iid": 19,
     "state": "closed",
     "created_at": "2025-11-03",
     "closed_at": "2025-11-24",
-    "author": "dty_30041779"
+    "author": "dty_30041779",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/19"
   },
   {
     "iid": 18,
     "state": "closed",
     "created_at": "2025-11-03",
     "closed_at": "2025-11-20",
-    "author": "q60099284"
+    "author": "q60099284",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/18"
   },
   {
     "iid": 17,
     "state": "closed",
     "created_at": "2025-10-30",
     "closed_at": "2025-10-30",
-    "author": "ZhaoBaiwei"
+    "author": "ZhaoBaiwei",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/17"
   },
   {
     "iid": 16,
     "state": "closed",
     "created_at": "2025-10-30",
     "closed_at": "2025-10-30",
-    "author": "mrh1024"
+    "author": "mrh1024",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/16"
   },
   {
     "iid": 15,
     "state": "closed",
     "created_at": "2025-10-29",
     "closed_at": "2025-10-29",
-    "author": "happppy"
+    "author": "happppy",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/15"
   },
   {
     "iid": 14,
     "state": "closed",
     "created_at": "2025-10-29",
     "closed_at": "2025-10-29",
-    "author": "happppy"
+    "author": "happppy",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/14"
   },
   {
     "iid": 13,
     "state": "closed",
     "created_at": "2025-10-29",
     "closed_at": "2025-11-21",
-    "author": "weixin_45443546"
+    "author": "weixin_45443546",
+    "labels": [],
+    "user_notes_count": 10,
+    "web_url": "https://gitcode.com/cann/hixl/issues/13"
   },
   {
     "iid": 12,
     "state": "closed",
     "created_at": "2025-10-25",
     "closed_at": "2025-11-19",
-    "author": "weixin_45443546"
+    "author": "weixin_45443546",
+    "labels": [],
+    "user_notes_count": 15,
+    "web_url": "https://gitcode.com/cann/hixl/issues/12"
   },
   {
     "iid": 11,
     "state": "closed",
     "created_at": "2025-10-24",
     "closed_at": "2025-12-31",
-    "author": "Orangesir"
+    "author": "Orangesir",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/hixl/issues/11"
   },
   {
     "iid": 10,
     "state": "closed",
     "created_at": "2025-10-24",
     "closed_at": "2025-12-22",
-    "author": "ZhaoBaiwei"
+    "author": "ZhaoBaiwei",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/10"
   },
   {
     "iid": 9,
     "state": "closed",
     "created_at": "2025-10-23",
     "closed_at": "2025-10-24",
-    "author": "youyx"
+    "author": "youyx",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/9"
   },
   {
     "iid": 8,
     "state": "closed",
     "created_at": "2025-10-23",
     "closed_at": "2025-10-24",
-    "author": "hjchen2"
+    "author": "hjchen2",
+    "labels": [],
+    "user_notes_count": 18,
+    "web_url": "https://gitcode.com/cann/hixl/issues/8"
   },
   {
     "iid": 7,
     "state": "closed",
     "created_at": "2025-10-23",
     "closed_at": "2025-12-05",
-    "author": "M__Cheng"
+    "author": "M__Cheng",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/7"
   },
   {
     "iid": 6,
     "state": "closed",
     "created_at": "2025-10-23",
     "closed_at": "2025-10-27",
-    "author": "A-Liuhao"
+    "author": "A-Liuhao",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/6"
   },
   {
     "iid": 5,
     "state": "closed",
     "created_at": "2025-10-23",
     "closed_at": "2025-11-20",
-    "author": "AlexRen998916"
+    "author": "AlexRen998916",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/5"
   },
   {
     "iid": 4,
     "state": "closed",
     "created_at": "2025-10-21",
     "closed_at": "2025-10-22",
-    "author": "usagigi"
+    "author": "usagigi",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/4"
   },
   {
     "iid": 3,
     "state": "closed",
     "created_at": "2025-10-17",
     "closed_at": "2025-10-30",
-    "author": "A-Liuhao"
+    "author": "A-Liuhao",
+    "labels": [],
+    "user_notes_count": 9,
+    "web_url": "https://gitcode.com/cann/hixl/issues/3"
   },
   {
     "iid": 2,
     "state": "closed",
     "created_at": "2025-10-17",
     "closed_at": "2026-01-15",
-    "author": "leichaoaizhaojie"
+    "author": "leichaoaizhaojie",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/2"
   },
   {
     "iid": 1,
     "state": "closed",
     "created_at": "2025-10-16",
     "closed_at": "2025-12-08",
-    "author": "zhaozhihui"
+    "author": "zhaozhihui",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/1"
   }
 ]

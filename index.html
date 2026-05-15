@@ -336,6 +336,7 @@
           <div id="chart-repo-issue-resolve" style="height:260px"></div>
         </div>
       </div>
+      <div id="special-issue-stats" style="margin-top:20px"></div>
     </div>
     <div class="chart-box" style="margin-bottom:20px" id="mr-section">
       <h2>MR 分析</h2>
@@ -1307,6 +1308,96 @@ async function main() {
           : val;
         return `<div class="repo-stat"><div class="val" style="font-size:20px">${valHtml}</div><div class="lbl">${lbl}</div></div>`;
       }).join('');
+
+      // 特殊规则统计
+      const now = new Date();
+      const oneDayMs = 86400000;
+      const fourteenDaysMs = 14 * oneDayMs;
+      const ninetyDaysMs = 90 * oneDayMs;
+
+      // 1. 24小时内未回复的issue
+      const noReplyIn24h = issues.filter(i => {
+        if (i.state !== 'opened') return false;
+        const created = new Date(i.created_at);
+        const elapsed = now - created;
+        return elapsed > oneDayMs && (i.user_notes_count || 0) === 0;
+      }).sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+
+      // 2. 非requirement且超过14天未关闭的issue
+      const nonRequirementOver14d = issues.filter(i => {
+        if (i.state !== 'opened') return false;
+        const labels = i.labels || [];
+        const isRequirement = labels.some(l => l.toLowerCase().includes('requirement'));
+        if (isRequirement) return false;
+        const created = new Date(i.created_at);
+        return (now - created) > fourteenDaysMs;
+      }).sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+
+      // 3. requirement且超过90天未关闭的issue
+      const requirementOver90d = issues.filter(i => {
+        if (i.state !== 'opened') return false;
+        const labels = i.labels || [];
+        const isRequirement = labels.some(l => l.toLowerCase().includes('requirement'));
+        if (!isRequirement) return false;
+        const created = new Date(i.created_at);
+        return (now - created) > ninetyDaysMs;
+      }).sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+
+      // 渲染特殊统计
+      const specialHtml = `
+        <div style="border-top:1px solid var(--border-2);padding-top:16px;margin-top:16px">
+          <div style="font-size:14px;font-weight:600;color:var(--text);margin-bottom:12px">特殊规则统计</div>
+          <div style="display:grid;gap:12px">
+            ${noReplyIn24h.length > 0 ? `
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px">
+                <div style="font-size:13px;font-weight:600;color:#e05f5f;margin-bottom:8px">24小时内未回复 (${noReplyIn24h.length}) <span style="font-size:11px;font-weight:400;color:var(--text-4);margin-left:6px">注：仅统计无任何评论的issue</span></div>
+                <div style="font-size:12px;color:var(--text-3);line-height:1.6">
+                  ${noReplyIn24h.slice(0, 10).map(i => {
+                    const days = Math.floor((now - new Date(i.created_at)) / oneDayMs);
+                    const url = i.web_url || `https://gitcode.com/${repoPath}/issues/${i.iid}`;
+                    return `<div style="margin-bottom:4px"><a href="${url}" target="_blank" style="color:var(--accent);text-decoration:none">#${i.iid}</a> · 创建 ${i.created_at} · 已 ${days} 天未回复</div>`;
+                  }).join('')}
+                  ${noReplyIn24h.length > 10 ? `<div style="color:var(--text-4);margin-top:8px">仅显示前 10 条，共 ${noReplyIn24h.length} 条</div>` : ''}
+                </div>
+              </div>
+            ` : ''}
+            ${nonRequirementOver14d.length > 0 ? `
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px">
+                <div style="font-size:13px;font-weight:600;color:#f5a623;margin-bottom:8px">非Requirement超过14天未关闭 (${nonRequirementOver14d.length})</div>
+                <div style="font-size:12px;color:var(--text-3);line-height:1.6">
+                  ${nonRequirementOver14d.slice(0, 10).map(i => {
+                    const days = Math.floor((now - new Date(i.created_at)) / oneDayMs);
+                    const url = i.web_url || `https://gitcode.com/${repoPath}/issues/${i.iid}`;
+                    const labelStr = (i.labels || []).join(', ') || '无标签';
+                    return `<div style="margin-bottom:4px"><a href="${url}" target="_blank" style="color:var(--accent);text-decoration:none">#${i.iid}</a> · 创建 ${i.created_at} · 已 ${days} 天 · ${labelStr}</div>`;
+                  }).join('')}
+                  ${nonRequirementOver14d.length > 10 ? `<div style="color:var(--text-4);margin-top:8px">仅显示前 10 条，共 ${nonRequirementOver14d.length} 条</div>` : ''}
+                </div>
+              </div>
+            ` : ''}
+            ${requirementOver90d.length > 0 ? `
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px">
+                <div style="font-size:13px;font-weight:600;color:#5b8def;margin-bottom:8px">Requirement超过90天未关闭 (${requirementOver90d.length})</div>
+                <div style="font-size:12px;color:var(--text-3);line-height:1.6">
+                  ${requirementOver90d.slice(0, 10).map(i => {
+                    const days = Math.floor((now - new Date(i.created_at)) / oneDayMs);
+                    const url = i.web_url || `https://gitcode.com/${repoPath}/issues/${i.iid}`;
+                    const labelStr = (i.labels || []).join(', ');
+                    return `<div style="margin-bottom:4px"><a href="${url}" target="_blank" style="color:var(--accent);text-decoration:none">#${i.iid}</a> · 创建 ${i.created_at} · 已 ${days} 天 · ${labelStr}</div>`;
+                  }).join('')}
+                  ${requirementOver90d.length > 10 ? `<div style="color:var(--text-4);margin-top:8px">仅显示前 10 条，共 ${requirementOver90d.length} 条</div>` : ''}
+                </div>
+              </div>
+            ` : ''}
+            ${noReplyIn24h.length === 0 && nonRequirementOver14d.length === 0 && requirementOver90d.length === 0 ? `
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px;text-align:center;color:var(--text-3);font-size:12px">
+                ✓ 无需关注的特殊Issue
+              </div>
+            ` : ''}
+          </div>
+        </div>
+      `;
+      document.getElementById('special-issue-stats').innerHTML = specialHtml;
 
       // Issue 创建 / 关闭趋势
       const createMap = {}, closeMap = {};

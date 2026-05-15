@@ -4,174 +4,249 @@
     "state": "opened",
     "created_at": "2026-05-13",
     "closed_at": "",
-    "author": "zhong_lin"
+    "author": "zhong_lin",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/25"
   },
   {
     "iid": 24,
     "state": "opened",
     "created_at": "2026-05-12",
     "closed_at": "",
-    "author": "dty_30041779"
+    "author": "dty_30041779",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/24"
   },
   {
     "iid": 23,
     "state": "opened",
     "created_at": "2026-05-12",
     "closed_at": "",
-    "author": "dty_30041779"
+    "author": "dty_30041779",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/23"
   },
   {
     "iid": 22,
     "state": "closed",
     "created_at": "2026-05-11",
     "closed_at": "2026-05-12",
-    "author": "calvinhuang"
+    "author": "calvinhuang",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/22"
   },
   {
     "iid": 21,
     "state": "opened",
     "created_at": "2026-05-11",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/21"
   },
   {
     "iid": 20,
     "state": "opened",
     "created_at": "2026-05-11",
     "closed_at": "",
-    "author": "dty_30041779"
+    "author": "dty_30041779",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/20"
   },
   {
     "iid": 19,
     "state": "closed",
     "created_at": "2026-05-09",
     "closed_at": "2026-05-11",
-    "author": "qq_27037555"
+    "author": "qq_27037555",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/19"
   },
   {
     "iid": 18,
     "state": "closed",
     "created_at": "2026-05-09",
     "closed_at": "2026-05-12",
-    "author": "qq_27037555"
+    "author": "qq_27037555",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/18"
   },
   {
     "iid": 17,
     "state": "opened",
     "created_at": "2026-05-08",
     "closed_at": "",
-    "author": "weixin_59837223"
+    "author": "weixin_59837223",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/17"
   },
   {
     "iid": 16,
     "state": "opened",
     "created_at": "2026-04-30",
     "closed_at": "",
-    "author": "liuyuanchen1"
+    "author": "liuyuanchen1",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/16"
   },
   {
     "iid": 15,
     "state": "closed",
     "created_at": "2026-04-28",
     "closed_at": "2026-05-13",
-    "author": "weixin_59837223"
+    "author": "weixin_59837223",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/15"
   },
   {
     "iid": 14,
     "state": "opened",
     "created_at": "2026-04-28",
     "closed_at": "",
-    "author": "weixin_59837223"
+    "author": "weixin_59837223",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/14"
   },
   {
     "iid": 13,
     "state": "opened",
     "created_at": "2026-04-28",
     "closed_at": "",
-    "author": "weixin_59837223"
+    "author": "weixin_59837223",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/13"
   },
   {
     "iid": 12,
     "state": "opened",
     "created_at": "2026-04-28",
     "closed_at": "",
-    "author": "weixin_59837223"
+    "author": "weixin_59837223",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/12"
   },
   {
     "iid": 11,
     "state": "closed",
     "created_at": "2026-04-28",
     "closed_at": "2026-05-06",
-    "author": "weixin_47893573"
+    "author": "weixin_47893573",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/11"
   },
   {
     "iid": 10,
     "state": "closed",
     "created_at": "2026-04-28",
     "closed_at": "2026-05-09",
-    "author": "qiuqiuyahhhh"
+    "author": "qiuqiuyahhhh",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/10"
   },
   {
     "iid": 9,
     "state": "closed",
     "created_at": "2026-04-27",
     "closed_at": "2026-05-06",
-    "author": "aoyoukeji"
+    "author": "aoyoukeji",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/9"
   },
   {
     "iid": 8,
     "state": "closed",
     "created_at": "2026-04-27",
     "closed_at": "2026-05-06",
-    "author": "Yong-An"
+    "author": "Yong-An",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/8"
   },
   {
     "iid": 7,
     "state": "opened",
     "created_at": "2026-04-24",
     "closed_at": "",
-    "author": "liuyuanchen1"
+    "author": "liuyuanchen1",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/7"
   },
   {
     "iid": 6,
     "state": "closed",
     "created_at": "2026-04-23",
     "closed_at": "2026-04-24",
-    "author": "dty_30041779"
+    "author": "dty_30041779",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/6"
   },
   {
     "iid": 5,
     "state": "opened",
     "created_at": "2026-04-09",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/5"
   },
   {
     "iid": 4,
     "state": "closed",
     "created_at": "2026-02-13",
     "closed_at": "2026-04-13",
-    "author": "mystri"
+    "author": "mystri",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/4"
   },
   {
     "iid": 3,
     "state": "closed",
     "created_at": "2026-02-07",
     "closed_at": "2026-02-24",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/3"
   },
   {
     "iid": 2,
     "state": "closed",
     "created_at": "2026-02-01",
     "closed_at": "2026-04-13",
-    "author": "lrwei0709"
+    "author": "lrwei0709",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/2"
   },
   {
     "iid": 1,
     "state": "closed",
     "created_at": "2026-01-27",
     "closed_at": "2026-01-29",
-    "author": "zhanghz1"
+    "author": "zhanghz1",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/1"
   }
 ]
