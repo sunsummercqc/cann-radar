@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9260575,
+    "name": "cann-learning-hub",
+    "path": "cann/cann-learning-hub",
+    "description": "CANN 学习中心仓，支持在线互动运行、边学边练，提供教程、示例与优化方案，一站式助力昇腾开发者快速上手。",
+    "star_count": 79,
+    "forks_count": 54,
+    "watch_count": 2,
+    "open_issues_count": 23,
+    "open_mr_count": 17,
+    "release_count": 0,
+    "created_at": "2026-02-25T17:50:30.044+08:00",
+    "updated_at": "2026-04-27T11:04:25.962+08:00",
+    "last_activity_at": "2026-05-15T17:51:23.432+08:00",
+    "default_branch": "master",
+    "language": "Jupyter Notebook",
+    "visibility": "public"
+  },
+  {
+    "id": 9516645,
+    "name": "cann-competitions",
+    "path": "cann/cann-competitions",
+    "description": "本仓库用于 CANN 开源社区各类竞赛、开源课题、社区任务等课题发布、开发者作品提交和展示。",
+    "star_count": 11,
+    "forks_count": 95,
+    "watch_count": 0,
+    "open_issues_count": 4,
+    "open_mr_count": 35,
+    "release_count": 0,
+    "created_at": "2026-03-26T17:33:11.242+08:00",
+    "updated_at": "2026-04-13T14:29:15.493+08:00",
+    "last_activity_at": "2026-05-15T16:22:42.003+08:00",
+    "default_branch": "master",
+    "language": "C++",
+    "visibility": "public"
+  }
+]

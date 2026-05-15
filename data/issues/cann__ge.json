@@ -1,5 +1,38 @@
 [
   {
+    "iid": 385,
+    "state": "opened",
+    "created_at": "2026-05-15",
+    "closed_at": "",
+    "author": "soulboy66",
+    "title": "[Bug-Report|缺陷反馈]: 自定义算子入图报错",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/ge/issues/385"
+  },
+  {
+    "iid": 384,
+    "state": "opened",
+    "created_at": "2026-05-15",
+    "closed_at": "",
+    "author": "stevenaw0",
+    "title": "新增TensorMove消除优化二期（特殊源节点 + 多TM消费 + 冲突检查）",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/ge/issues/384"
+  },
+  {
+    "iid": 383,
+    "state": "opened",
+    "created_at": "2026-05-15",
+    "closed_at": "",
+    "author": "pan-tong",
+    "title": "[Feature|需求建议] 支持常量折叠 V2 Host CPU 与 AICPU 路由能力",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/383"
+  },
+  {
     "iid": 382,
     "state": "opened",
     "created_at": "2026-05-14",
@@ -18,7 +51,7 @@
     "author": "Mexyy",
     "title": "[Feature-Request|需求反馈]: 【外部开发者】在流分配日志里添加graph name打印",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/381"
   },
   {

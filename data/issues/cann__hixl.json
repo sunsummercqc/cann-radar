@@ -1,13 +1,57 @@
 [
   {
-    "iid": 272,
+    "iid": 276,
     "state": "opened",
     "created_at": "2026-05-15",
     "closed_at": "",
+    "author": "A-Liuhao",
+    "title": "[Bug-Report|缺陷反馈]: .pre-commit-config.yaml中使用了github链接，导致CI超时",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/276"
+  },
+  {
+    "iid": 275,
+    "state": "opened",
+    "created_at": "2026-05-15",
+    "closed_at": "",
+    "author": "lining23666",
+    "title": "[RFC]: HIXL支持UBoE协议传输",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/275"
+  },
+  {
+    "iid": 274,
+    "state": "opened",
+    "created_at": "2026-05-15",
+    "closed_at": "",
+    "author": "qq_41478219",
+    "title": "[Question|问题咨询]: 我的服务器配置如下应该如何搭建相关大模型部署环境",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/274"
+  },
+  {
+    "iid": 273,
+    "state": "opened",
+    "created_at": "2026-05-15",
+    "closed_at": "",
+    "author": "qq_41478219",
+    "title": "[Question|问题咨询]:  HIXL 对 Device UBoE 的支持在实际业务中如何使用？与现有传输模式有何关系？",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/273"
+  },
+  {
+    "iid": 272,
+    "state": "closed",
+    "created_at": "2026-05-15",
+    "closed_at": "2026-05-15",
     "author": "OPALUS",
     "title": "[Question|问题咨询]:  Can't find remoteBuffer by key[0x12c1c0000000][262144]",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/272"
   },
   {
@@ -144,9 +188,9 @@
   },
   {
     "iid": 259,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-12",
-    "closed_at": "",
+    "closed_at": "2026-05-15",
     "author": "Mknmkn123",
     "title": "[Documentation|文档反馈]: skill扫描文档问题",
     "labels": [],
@@ -177,9 +221,9 @@
   },
   {
     "iid": 256,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-11",
-    "closed_at": "",
+    "closed_at": "2026-05-15",
     "author": "wenke1312",
     "title": "[Question|问题咨询]: mooncake store使用ascend协议，单卡未注册地址为啥也可以正常运行，地址注册是必须的？",
     "labels": [],
@@ -188,13 +232,13 @@
   },
   {
     "iid": 255,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-11",
-    "closed_at": "",
+    "closed_at": "2026-05-15",
     "author": "wenke1312",
     "title": "[Bug-Report|缺陷反馈]: mooncake store使用ascend协议，注册时会存现报错",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/255"
   },
   {
@@ -221,13 +265,13 @@
   },
   {
     "iid": 252,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-08",
-    "closed_at": "",
+    "closed_at": "2026-05-15",
     "author": "weixin_44928100",
     "title": "[Question|问题咨询]: 配置好mooncake store，使用vllm bench进行多轮测试，第一轮ttft能下降，第二轮ttft与关闭prefix caching一样，没有提升，日志显示external prefix caching rate都是保持的50%",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/252"
   },
   {
@@ -331,9 +375,9 @@
   },
   {
     "iid": 242,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-04",
-    "closed_at": "",
+    "closed_at": "2026-05-15",
     "author": "P1GGYii",
     "title": "[Bug-Report|缺陷反馈]: 对端交换的内存描述符校验不完整，cache_table_size 未校验 （cwe-20）",
     "labels": [],
@@ -480,7 +524,7 @@
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: 双机执行， 使能传输后端引擎=hixl，建链报错",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/222"
   },
   {
@@ -700,7 +744,7 @@
     "author": "A-Liuhao",
     "title": "【💡需求征集】：2026 H1",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/196"
   },
   {

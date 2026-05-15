@@ -1,5 +1,16 @@
 [
   {
+    "iid": 474,
+    "state": "opened",
+    "created_at": "2026-05-15",
+    "closed_at": "",
+    "author": "yijiliang",
+    "title": "[Bug]: gmm算子跑图模式传入的转置信息失效，变为不转置",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/474"
+  },
+  {
     "iid": 473,
     "state": "opened",
     "created_at": "2026-05-14",

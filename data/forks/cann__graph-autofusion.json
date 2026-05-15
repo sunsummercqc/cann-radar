@@ -1,5 +1,137 @@
 [
   {
+    "id": 9889991,
+    "namespace": "gcw_t89VpmIb/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/gcw_t89VpmIb/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/gcw_t89VpmIb/graph-autofusion.git",
+    "created_at": "2026-05-15T17:02:57.179+08:00",
+    "creator_username": "gcw_t89VpmIb",
+    "creator_nick_name": "gcw_t89VpmIb",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 9889990,
+    "namespace": "wem603947175/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/wem603947175/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/wem603947175/graph-autofusion.git",
+    "created_at": "2026-05-15T17:02:53.860+08:00",
+    "creator_username": "wem603947175",
+    "creator_nick_name": "西山枫叶",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 9889709,
+    "namespace": "cuixinglong/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/cuixinglong/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/cuixinglong/graph-autofusion.git",
+    "created_at": "2026-05-15T16:27:35.646+08:00",
+    "creator_username": "cuixinglong",
+    "creator_nick_name": "cuixinglong",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 9889551,
+    "namespace": "wei_shi/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/wei_shi/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/wei_shi/graph-autofusion.git",
+    "created_at": "2026-05-15T16:08:13.233+08:00",
+    "creator_username": "wei_shi",
+    "creator_nick_name": "wei_shi",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 9889513,
+    "namespace": "zhyai1998/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/zhyai1998/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/zhyai1998/graph-autofusion.git",
+    "created_at": "2026-05-15T16:04:00.568+08:00",
+    "creator_username": "zhyai1998",
+    "creator_nick_name": "zhyai1998",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 9888911,
+    "namespace": "gcw_bA9hA4oX/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/gcw_bA9hA4oX/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/gcw_bA9hA4oX/graph-autofusion.git",
+    "created_at": "2026-05-15T14:51:37.049+08:00",
+    "creator_username": "gcw_bA9hA4oX",
+    "creator_nick_name": "gcw_bA9hA4oX",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 9888798,
+    "namespace": "GGBond008/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/GGBond008/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/GGBond008/graph-autofusion.git",
+    "created_at": "2026-05-15T14:38:27.964+08:00",
+    "creator_username": "GGBond008",
+    "creator_nick_name": "清显~",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 9888551,
+    "namespace": "wangyanxue08/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/wangyanxue08/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/wangyanxue08/graph-autofusion.git",
+    "created_at": "2026-05-15T14:03:48.307+08:00",
+    "creator_username": "wangyanxue08",
+    "creator_nick_name": "小白学习者",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 9888227,
+    "namespace": "LLCRY923/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/LLCRY923/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/LLCRY923/graph-autofusion.git",
+    "created_at": "2026-05-15T12:43:34.866+08:00",
+    "creator_username": "LLCRY923",
+    "creator_nick_name": "LLCh",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 9887117,
+    "namespace": "smartsyoung/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/smartsyoung/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/smartsyoung/graph-autofusion.git",
+    "created_at": "2026-05-15T09:51:53.555+08:00",
+    "creator_username": "smartsyoung",
+    "creator_nick_name": "smartsyoung",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 9886942,
+    "namespace": "sophia1213/graph-autofusion_trunk",
+    "name": "graph-autofusion_trunk",
+    "web_url": "https://gitcode.com/sophia1213/graph-autofusion_trunk",
+    "http_url_to_repo": "https://gitcode.com/sophia1213/graph-autofusion_trunk.git",
+    "created_at": "2026-05-15T09:22:30.489+08:00",
+    "creator_username": "sophia1213",
+    "creator_nick_name": "Sophia1213",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 9886884,
+    "namespace": "qq_40517592/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/qq_40517592/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/qq_40517592/graph-autofusion.git",
+    "created_at": "2026-05-15T09:10:29.392+08:00",
+    "creator_username": "qq_40517592",
+    "creator_nick_name": "code17",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
     "id": 9885514,
     "namespace": "ghyxq1010/graph-autofusion",
     "name": "graph-autofusion",

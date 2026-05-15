@@ -1,0 +1,677 @@
+{
+  "generated_at": "2026-05-15",
+  "source_count": 2,
+  "discussion_count": 2,
+  "external_count": 30,
+  "internal_count": 5,
+  "total_unique_participants": 35,
+  "trend": [
+    {
+      "date": "2026-05-15",
+      "external_count": 30,
+      "total_unique_participants": 35
+    }
+  ],
+  "participants": [
+    {
+      "user_name": "Albertq",
+      "nick_name": "",
+      "developer_source": "internal",
+      "top_comments": 2,
+      "replies": 37,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/2",
+          "title": "【2026_CANN 算子挑战赛江山赛区】",
+          "top_comments": 2,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 0,
+          "replies": 37
+        }
+      ],
+      "first_seen_at": "2026-04-25T09:23:10+08:00",
+      "last_seen_at": "2026-05-15T17:54:21+08:00"
+    },
+    {
+      "user_name": "m0_72496284",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 2,
+          "replies": 4
+        }
+      ],
+      "first_seen_at": "2026-05-02T00:05:49+08:00",
+      "last_seen_at": "2026-05-13T15:02:40+08:00"
+    },
+    {
+      "user_name": "gcw_tW1DwpsF",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 2,
+          "replies": 3
+        }
+      ],
+      "first_seen_at": "2026-04-29T19:43:20+08:00",
+      "last_seen_at": "2026-05-06T16:58:30+08:00"
+    },
+    {
+      "user_name": "HELLOI9",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 2,
+          "replies": 2
+        }
+      ],
+      "first_seen_at": "2026-04-29T18:54:26+08:00",
+      "last_seen_at": "2026-05-07T12:27:40+08:00"
+    },
+    {
+      "user_name": "index0118",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 3
+        }
+      ],
+      "first_seen_at": "2026-04-30T16:08:29+08:00",
+      "last_seen_at": "2026-05-05T20:54:58+08:00"
+    },
+    {
+      "user_name": "mlewis",
+      "nick_name": "",
+      "developer_source": "internal",
+      "top_comments": 0,
+      "replies": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 0,
+          "replies": 3
+        }
+      ],
+      "first_seen_at": "2026-05-09T14:03:48+08:00",
+      "last_seen_at": "2026-05-12T15:14:32+08:00"
+    },
+    {
+      "user_name": "qq_19315059",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 2,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-05-07T17:59:49+08:00",
+      "last_seen_at": "2026-05-10T17:26:29+08:00"
+    },
+    {
+      "user_name": "Scipio",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 3,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 3,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-30T12:44:26+08:00",
+      "last_seen_at": "2026-05-10T19:37:19+08:00"
+    },
+    {
+      "user_name": "fuyangchenghu",
+      "nick_name": "",
+      "developer_source": "internal",
+      "top_comments": 0,
+      "replies": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 0,
+          "replies": 2
+        }
+      ],
+      "first_seen_at": "2026-04-29T19:30:52+08:00",
+      "last_seen_at": "2026-04-29T20:07:43+08:00"
+    },
+    {
+      "user_name": "hxf635663114",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-04-27T17:32:20+08:00",
+      "last_seen_at": "2026-04-29T15:32:49+08:00"
+    },
+    {
+      "user_name": "liudi5525",
+      "nick_name": "",
+      "developer_source": "internal",
+      "top_comments": 0,
+      "replies": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 0,
+          "replies": 2
+        }
+      ],
+      "first_seen_at": "2026-05-07T20:42:35+08:00",
+      "last_seen_at": "2026-05-08T14:11:06+08:00"
+    },
+    {
+      "user_name": "LLl312",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-05-06T13:32:08+08:00",
+      "last_seen_at": "2026-05-08T13:53:02+08:00"
+    },
+    {
+      "user_name": "qq_34490014",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T12:20:43+08:00",
+      "last_seen_at": "2026-05-13T12:30:19+08:00"
+    },
+    {
+      "user_name": "qq_43209828",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-30T11:23:04+08:00",
+      "last_seen_at": "2026-05-01T16:31:23+08:00"
+    },
+    {
+      "user_name": "qq_61637710",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-05-08T16:32:49+08:00",
+      "last_seen_at": "2026-05-08T16:36:54+08:00"
+    },
+    {
+      "user_name": "qq_63462298",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-04-30T10:47:19+08:00",
+      "last_seen_at": "2026-04-30T18:47:39+08:00"
+    },
+    {
+      "user_name": "Xdeyi",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 0,
+      "replies": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 0,
+          "replies": 2
+        }
+      ],
+      "first_seen_at": "2026-04-28T21:23:27+08:00",
+      "last_seen_at": "2026-04-29T18:15:49+08:00"
+    },
+    {
+      "user_name": "delight1009",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-24T20:45:40+08:00",
+      "last_seen_at": "2026-04-24T20:45:40+08:00"
+    },
+    {
+      "user_name": "dkdfcd123",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-29T18:41:04+08:00",
+      "last_seen_at": "2026-04-29T18:41:04+08:00"
+    },
+    {
+      "user_name": "Fmyh1828",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-29T19:30:56+08:00",
+      "last_seen_at": "2026-04-29T19:30:56+08:00"
+    },
+    {
+      "user_name": "gca_u2401_85892522",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-04T10:48:06+08:00",
+      "last_seen_at": "2026-05-04T10:48:06+08:00"
+    },
+    {
+      "user_name": "gcw_tgPdOLZT",
+      "nick_name": "",
+      "developer_source": "internal",
+      "top_comments": 0,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 0,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-05-06T10:19:09+08:00",
+      "last_seen_at": "2026-05-06T10:19:09+08:00"
+    },
+    {
+      "user_name": "Hamk",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-01T20:53:01+08:00",
+      "last_seen_at": "2026-05-01T20:53:01+08:00"
+    },
+    {
+      "user_name": "klein_gt",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-14T20:33:00+08:00",
+      "last_seen_at": "2026-05-14T20:33:00+08:00"
+    },
+    {
+      "user_name": "LLLL1X",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-09T17:41:35+08:00",
+      "last_seen_at": "2026-05-09T17:41:35+08:00"
+    },
+    {
+      "user_name": "m0_61949215",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T11:59:51+08:00",
+      "last_seen_at": "2026-04-25T11:59:51+08:00"
+    },
+    {
+      "user_name": "m0_70267477",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-07T17:39:37+08:00",
+      "last_seen_at": "2026-05-07T17:39:37+08:00"
+    },
+    {
+      "user_name": "m0_73390923",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-09T15:34:04+08:00",
+      "last_seen_at": "2026-05-09T15:34:04+08:00"
+    },
+    {
+      "user_name": "MachineF",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-30T17:53:13+08:00",
+      "last_seen_at": "2026-04-30T17:53:13+08:00"
+    },
+    {
+      "user_name": "q12q31w",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-07T17:15:30+08:00",
+      "last_seen_at": "2026-05-07T17:15:30+08:00"
+    },
+    {
+      "user_name": "qq_42948721",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-12T12:21:47+08:00",
+      "last_seen_at": "2026-05-12T12:21:47+08:00"
+    },
+    {
+      "user_name": "qq_73135919111111111111111jeq",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-09T13:29:28+08:00",
+      "last_seen_at": "2026-05-09T13:29:28+08:00"
+    },
+    {
+      "user_name": "Taylor_hong",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-08T00:20:44+08:00",
+      "last_seen_at": "2026-05-08T00:20:44+08:00"
+    },
+    {
+      "user_name": "zhouwenqinb666",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-15T16:32:38+08:00",
+      "last_seen_at": "2026-05-15T16:32:38+08:00"
+    },
+    {
+      "user_name": "ZikQ522",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T12:24:46+08:00",
+      "last_seen_at": "2026-05-13T12:24:46+08:00"
+    }
+  ],
+  "discussions": [
+    {
+      "url": "https://gitcode.com/cann/cann-competitions/discussions/2",
+      "org": "cann/cann-competitions",
+      "number": "2",
+      "title": "【2026_CANN 算子挑战赛江山赛区】",
+      "comment_total": 2,
+      "reply_total": 0,
+      "unique_participants": 1,
+      "external_participants": 0
+    },
+    {
+      "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+      "org": "cann/cann-competitions",
+      "number": "1",
+      "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+      "comment_total": 37,
+      "reply_total": 68,
+      "unique_participants": 35,
+      "external_participants": 30
+    }
+  ],
+  "errors": [],
+  "repo_path": "cann/cann-competitions"
+}

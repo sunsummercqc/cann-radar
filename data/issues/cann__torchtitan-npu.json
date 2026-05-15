@@ -1,5 +1,16 @@
 [
   {
+    "iid": 26,
+    "state": "opened",
+    "created_at": "2026-05-15",
+    "closed_at": "",
+    "author": "xuyujun",
+    "title": "[Bug] config_registry.py 中存在硬编码绝对路径和敏感个人信息",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/26"
+  },
+  {
     "iid": 25,
     "state": "opened",
     "created_at": "2026-05-13",
@@ -56,9 +67,9 @@
   },
   {
     "iid": 20,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-11",
-    "closed_at": "",
+    "closed_at": "2026-05-15",
     "author": "dty_30041779",
     "title": "[Bug-Report|缺陷反馈]: dsv32，8机加载权重，4k序列，oom报错",
     "labels": [],
