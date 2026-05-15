@@ -1315,7 +1315,7 @@ async function main() {
       const fourteenDaysMs = 14 * oneDayMs;
       const ninetyDaysMs = 90 * oneDayMs;
 
-      // 1. 24小时内未回复的issue
+      // 1. 24小时内未回复的issue（按创建时间降序，最新优先）
       const noReplyIn24h = issues.filter(i => {
         if (i.state !== 'opened') return false;
         const created = new Date(i.created_at);
@@ -1323,7 +1323,7 @@ async function main() {
         return elapsed > oneDayMs && (i.user_notes_count || 0) === 0;
       }).sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
 
-      // 2. 非requirement且超过14天未关闭的issue
+      // 2. 非requirement且超过14天未关闭的issue（按创建时间降序）
       const nonRequirementOver14d = issues.filter(i => {
         if (i.state !== 'opened') return false;
         const labels = i.labels || [];
@@ -1333,7 +1333,7 @@ async function main() {
         return (now - created) > fourteenDaysMs;
       }).sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
 
-      // 3. requirement且超过90天未关闭的issue
+      // 3. requirement且超过90天未关闭的issue（按创建时间降序）
       const requirementOver90d = issues.filter(i => {
         if (i.state !== 'opened') return false;
         const labels = i.labels || [];
@@ -1343,7 +1343,7 @@ async function main() {
         return (now - created) > ninetyDaysMs;
       }).sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
 
-      // 渲染特殊统计
+      // 渲染特殊统计的HTML结构
       const specialHtml = `
         <div style="border-top:1px solid var(--border-2);padding-top:16px;margin-top:16px">
           <div style="font-size:14px;font-weight:600;color:var(--text);margin-bottom:12px">特殊规则统计</div>
@@ -1351,42 +1351,22 @@ async function main() {
             ${noReplyIn24h.length > 0 ? `
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px">
                 <div style="font-size:13px;font-weight:600;color:#e05f5f;margin-bottom:8px">24小时内未回复 (${noReplyIn24h.length}) <span style="font-size:11px;font-weight:400;color:var(--text-4);margin-left:6px">注：仅统计无任何评论的issue</span></div>
-                <div style="font-size:12px;color:var(--text-3);line-height:1.6">
-                  ${noReplyIn24h.slice(0, 10).map(i => {
-                    const days = Math.floor((now - new Date(i.created_at)) / oneDayMs);
-                    const url = i.web_url || `https://gitcode.com/${repoPath}/issues/${i.iid}`;
-                    return `<div style="margin-bottom:4px"><a href="${url}" target="_blank" style="color:var(--accent);text-decoration:none">#${i.iid}</a> · 创建 ${i.created_at} · 已 ${days} 天未回复</div>`;
-                  }).join('')}
-                  ${noReplyIn24h.length > 10 ? `<div style="color:var(--text-4);margin-top:8px">仅显示前 10 条，共 ${noReplyIn24h.length} 条</div>` : ''}
-                </div>
+                <div id="no-reply-list" style="font-size:12px;color:var(--text-3);line-height:1.6"></div>
+                <div id="no-reply-pagination" class="pagination" style="margin-top:8px"></div>
               </div>
             ` : ''}
             ${nonRequirementOver14d.length > 0 ? `
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px">
                 <div style="font-size:13px;font-weight:600;color:#f5a623;margin-bottom:8px">非Requirement超过14天未关闭 (${nonRequirementOver14d.length})</div>
-                <div style="font-size:12px;color:var(--text-3);line-height:1.6">
-                  ${nonRequirementOver14d.slice(0, 10).map(i => {
-                    const days = Math.floor((now - new Date(i.created_at)) / oneDayMs);
-                    const url = i.web_url || `https://gitcode.com/${repoPath}/issues/${i.iid}`;
-                    const labelStr = (i.labels || []).join(', ') || '无标签';
-                    return `<div style="margin-bottom:4px"><a href="${url}" target="_blank" style="color:var(--accent);text-decoration:none">#${i.iid}</a> · 创建 ${i.created_at} · 已 ${days} 天 · ${labelStr}</div>`;
-                  }).join('')}
-                  ${nonRequirementOver14d.length > 10 ? `<div style="color:var(--text-4);margin-top:8px">仅显示前 10 条，共 ${nonRequirementOver14d.length} 条</div>` : ''}
-                </div>
+                <div id="non-req-list" style="font-size:12px;color:var(--text-3);line-height:1.6"></div>
+                <div id="non-req-pagination" class="pagination" style="margin-top:8px"></div>
               </div>
             ` : ''}
             ${requirementOver90d.length > 0 ? `
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px">
                 <div style="font-size:13px;font-weight:600;color:#5b8def;margin-bottom:8px">Requirement超过90天未关闭 (${requirementOver90d.length})</div>
-                <div style="font-size:12px;color:var(--text-3);line-height:1.6">
-                  ${requirementOver90d.slice(0, 10).map(i => {
-                    const days = Math.floor((now - new Date(i.created_at)) / oneDayMs);
-                    const url = i.web_url || `https://gitcode.com/${repoPath}/issues/${i.iid}`;
-                    const labelStr = (i.labels || []).join(', ');
-                    return `<div style="margin-bottom:4px"><a href="${url}" target="_blank" style="color:var(--accent);text-decoration:none">#${i.iid}</a> · 创建 ${i.created_at} · 已 ${days} 天 · ${labelStr}</div>`;
-                  }).join('')}
-                  ${requirementOver90d.length > 10 ? `<div style="color:var(--text-4);margin-top:8px">仅显示前 10 条，共 ${requirementOver90d.length} 条</div>` : ''}
-                </div>
+                <div id="req-list" style="font-size:12px;color:var(--text-3);line-height:1.6"></div>
+                <div id="req-pagination" class="pagination" style="margin-top:8px"></div>
               </div>
             ` : ''}
             ${noReplyIn24h.length === 0 && nonRequirementOver14d.length === 0 && requirementOver90d.length === 0 ? `
@@ -1398,6 +1378,72 @@ async function main() {
         </div>
       `;
       document.getElementById('special-issue-stats').innerHTML = specialHtml;
+
+      // 分页渲染函数
+      const SPECIAL_PAGE_SIZE = 10;
+      let specialIssuePages = { noReply: 1, nonReq: 1, req: 1 };
+
+      function renderSpecialIssueList(list, containerId, page, type) {
+        const total = list.length;
+        const totalPages = Math.ceil(total / SPECIAL_PAGE_SIZE);
+        const start = (page - 1) * SPECIAL_PAGE_SIZE;
+        const pageItems = list.slice(start, start + SPECIAL_PAGE_SIZE);
+
+        const listHtml = pageItems.map((i, idx) => {
+          const days = Math.floor((now - new Date(i.created_at)) / oneDayMs);
+          const url = i.web_url || `https://gitcode.com/${repoPath}/issues/${i.iid}`;
+          const labelStr = type === 'noReply' ? '' : ` · ${(i.labels || []).join(', ') || '无标签'}`;
+          return `<div style="margin-bottom:4px"><span style="color:var(--text-4);font-size:11px">${start + idx + 1}</span> <a href="${url}" target="_blank" style="color:var(--accent);text-decoration:none">#${i.iid}</a> · 创建 ${i.created_at} · 已 ${days} 天${type === 'noReply' ? '未回复' : ''}${labelStr}</div>`;
+        }).join('');
+        document.getElementById(containerId).innerHTML = listHtml;
+
+        // 分页控件
+        const pagContainer = document.getElementById(containerId.replace('-list', '-pagination'));
+        if (totalPages <= 1) {
+          pagContainer.innerHTML = '';
+          return;
+        }
+
+        let pagHtml = '';
+        if (page > 1) pagHtml += `<button class="page-btn" data-page="${page-1}" data-type="${type}">‹</button>`;
+        const range = 5;
+        let s = Math.max(1, page - 2), e = Math.min(totalPages, s + range - 1);
+        if (e - s < range - 1) s = Math.max(1, e - range + 1);
+        for (let p = s; p <= e; p++) {
+          pagHtml += `<button class="page-btn${p === page ? ' active' : ''}" data-page="${p}" data-type="${type}">${p}</button>`;
+        }
+        if (page < totalPages) pagHtml += `<button class="page-btn" data-page="${page+1}" data-type="${type}">›</button>`;
+        pagHtml += `<span class="page-info">共 ${total} 条 / ${totalPages} 页</span>`;
+        pagContainer.innerHTML = pagHtml;
+      }
+
+      // 初始渲染
+      if (noReplyIn24h.length > 0) {
+        renderSpecialIssueList(noReplyIn24h, 'no-reply-list', 1, 'noReply');
+      }
+      if (nonRequirementOver14d.length > 0) {
+        renderSpecialIssueList(nonRequirementOver14d, 'non-req-list', 1, 'nonReq');
+      }
+      if (requirementOver90d.length > 0) {
+        renderSpecialIssueList(requirementOver90d, 'req-list', 1, 'req');
+      }
+
+      // 分页点击事件
+      document.getElementById('special-issue-stats').addEventListener('click', e => {
+        const btn = e.target.closest('.page-btn');
+        if (!btn) return;
+        const page = Number(btn.dataset.page);
+        const type = btn.dataset.type;
+        specialIssuePages[type] = page;
+        
+        if (type === 'noReply') {
+          renderSpecialIssueList(noReplyIn24h, 'no-reply-list', page, 'noReply');
+        } else if (type === 'nonReq') {
+          renderSpecialIssueList(nonRequirementOver14d, 'non-req-list', page, 'nonReq');
+        } else if (type === 'req') {
+          renderSpecialIssueList(requirementOver90d, 'req-list', page, 'req');
+        }
+      });
 
       // Issue 创建 / 关闭趋势
       const createMap = {}, closeMap = {};
