@@ -2,13 +2,6 @@ repos:
 - path: cann/ge
   display_name: GE
   enabled: true
-  discussions:
-  - url: https://gitcode.com/cann/ge/discussions/1
-    enabled: true
-  - url: https://gitcode.com/cann/ge/discussions/2
-    enabled: true
-  - url: https://gitcode.com/cann/ge/discussions/3
-    enabled: true
   goals:
   - metric: star
     label: Star 数
@@ -38,11 +31,6 @@ repos:
 - path: cann/hixl
   display_name: hixl
   enabled: true
-  discussions:
-  - url: https://gitcode.com/cann/hixl/discussions/1
-    enabled: true
-  - url: https://gitcode.com/cann/hixl/discussions/2
-    enabled: true
   goals:
   - metric: star
     label: Star 数
@@ -70,15 +58,6 @@ repos:
 - path: cann/graph-autofusion
   display_name: auto-fusion
   enabled: true
-  discussions:
-  - url: https://gitcode.com/cann/graph-autofusion/discussions/1
-    enabled: true
-  - url: https://gitcode.com/cann/graph-autofusion/discussions/2
-    enabled: true
-  - url: https://gitcode.com/cann/graph-autofusion/discussions/3
-    enabled: true
-  - url: https://gitcode.com/cann/graph-autofusion/discussions/4
-    enabled: true
   goals:
   - metric: star
     label: Star 数
@@ -106,11 +85,6 @@ repos:
 - path: cann/torchtitan-npu
   display_name: torchtitan-npu
   enabled: true
-  discussions:
-  - url: https://gitcode.com/cann/torchtitan-npu/discussions/1
-    enabled: true
-  - url: https://gitcode.com/cann/torchtitan-npu/discussions/2
-    enabled: true
   goals:
   - metric: star
     label: Star 数
@@ -138,23 +112,6 @@ repos:
 - path: Ascend/torchair
   display_name: TorchAir
   enabled: true
-  discussions:
-  - url: https://gitcode.com/Ascend/torchair/discussions/1
-    enabled: true
-  - url: https://gitcode.com/Ascend/torchair/discussions/2
-    enabled: true
-  - url: https://gitcode.com/Ascend/torchair/discussions/3
-    enabled: true
-  - url: https://gitcode.com/Ascend/torchair/discussions/4
-    enabled: true
-  - url: https://gitcode.com/Ascend/torchair/discussions/5
-    enabled: true
-  - url: https://gitcode.com/Ascend/torchair/discussions/6
-    enabled: true
-  - url: https://gitcode.com/Ascend/torchair/discussions/7
-    enabled: true
-  - url: https://gitcode.com/Ascend/torchair/discussions/8
-    enabled: true
   goals:
   - metric: star
     label: Star 数

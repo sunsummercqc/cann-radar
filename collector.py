@@ -532,9 +532,18 @@ def collect_discussion_participants():
     return summary
 
 
+def get_repo_discussion_list(repo_path, page=1, per_page=100):
+    """获取仓库的讨论帖列表。"""
+    return post_json(
+        f"{DISCUSS_BASE}/page",
+        {"source_id": repo_path, "source_type": 2, "page": page, "per_page": per_page},
+        referer=f"https://gitcode.com/{repo_path}/discussions",
+    )
+
+
 def collect_repo_discussions():
-    """采集各仓库配置的讨论帖评论者，并按仓库保存到 data/repo_discussions/{repo_path}.json"""
-    print("\n=== 步骤：采集各仓库的讨论帖参与者 ===")
+    """自动发现并采集各仓库的所有讨论帖评论者，保存到 data/repo_discussions/{repo_path}.json"""
+    print("\n=== 步骤：自动采集各仓库的讨论帖参与者 ===")
     repos = active_repo_configs()
     if not repos:
         print("  无启用的仓库配置，跳过")
@@ -547,42 +556,65 @@ def collect_repo_discussions():
 
     for repo in repos:
         repo_path = repo["path"]
+        print(f"\n  {repo_path}: 自动发现讨论帖...")
+
+        # 自动获取该仓库的所有讨论帖列表
+        all_discussions = []
+        page = 1
+        while True:
+            list_data = get_repo_discussion_list(repo_path, page=page, per_page=100)
+            if not list_data or not list_data.get("records"):
+                break
+            records = list_data.get("records", [])
+            for r in records:
+                serial_number = r.get("serial_number")
+                if serial_number:
+                    url = f"https://gitcode.com/{repo_path}/discussions/{serial_number}"
+                    all_discussions.append({
+                        "url": url,
+                        "number": str(serial_number),
+                        "title": r.get("title") or "",
+                        "comment_total": r.get("comment_total") or 0,
+                        "reply_total": r.get("reply_total") or 0,
+                    })
+            total_pages = list_data.get("pages") or 1
+            if page >= total_pages or len(records) < 100:
+                break
+            page += 1
+            time.sleep(REQUEST_DELAY)
+
+        if not all_discussions:
+            print(f"    未发现任何讨论帖")
+            continue
+
+        # 可选：通过 repos.yml 的 discussions 配置过滤（如禁用某些讨论帖）
         discussions_cfg = repo.get("discussions", [])
-        if not discussions_cfg:
-            print(f"  {repo_path}: 无讨论帖配置，跳过")
-            continue
+        disabled_numbers = set()
+        for d in discussions_cfg:
+            if not d.get("enabled", True):
+                url = d.get("url", "")
+                match = re.search(r'/discussions/(\d+)', url)
+                if match:
+                    disabled_numbers.add(match.group(1))
 
-        enabled_discussions = [d for d in discussions_cfg if d.get("enabled", True)]
+        enabled_discussions = [d for d in all_discussions if d.get("number") not in disabled_numbers]
         if not enabled_discussions:
-            print(f"  {repo_path}: 无启用的讨论帖，跳过")
+            print(f"    所有讨论帖已被禁用，跳过")
             continue
 
-        print(f"\n  {repo_path}: 采集 {len(enabled_discussions)} 个讨论帖")
+        print(f"    发现 {len(all_discussions)} 个讨论帖，采集 {len(enabled_discussions)} 个")
+
         fetched = []
         errors = []
 
-        for disc_cfg in enabled_discussions:
-            url = disc_cfg.get("url", "")
-            if not url:
-                continue
-
-            match = re.search(r'gitcode\.com/([^/]+)/([^/]+)/discussions/(\d+)', url)
-            if not match:
-                print(f"    ✗ 无法解析讨论帖 URL: {url}")
-                errors.append({"url": url, "error": "无法解析 URL"})
-                continue
-
-            org = match.group(1)
-            repo_name = match.group(2)
-            number = match.group(3)
-            
-            repo_path_for_api = f"{org}/{repo_name}"
-
-            print(f"    抓取 {url}")
+        for disc in enabled_discussions:
+            url = disc["url"]
+            number = disc["number"]
+            print(f"    抓取 #{number}: {disc.get('title', '')[:40]}...")
             try:
                 data = fetch_discussion_comments({
                     "url": url,
-                    "org": repo_path_for_api,
+                    "org": repo_path,
                     "number": number,
                     "source_type": 2,
                 })
