@@ -1169,6 +1169,7 @@ def _fetch_repo_issues(repo, issues_dir):
                 "created_at":      (issue.get("created_at") or "")[:10],
                 "closed_at":       closed_raw[:10] if closed_raw else "",
                 "author":          (issue.get("author") or {}).get("username", ""),
+                "title":           issue.get("title") or "",
                 "labels":          [label.get("name", "") if isinstance(label, dict) else str(label) for label in labels],
                 "user_notes_count": issue.get("user_notes_count") or 0,
                 "web_url":         issue.get("web_url") or "",

@@ -5,6 +5,7 @@
     "created_at": "2026-05-13",
     "closed_at": "",
     "author": "zhong_lin",
+    "title": "[Bug-Report|缺陷反馈]: DeepSeek-V4 moe实现中，num_expert_groups默认值有问题，导致计算逻辑和官方不符",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/25"
@@ -15,6 +16,7 @@
     "created_at": "2026-05-12",
     "closed_at": "",
     "author": "dty_30041779",
+    "title": "[Bug-Report|缺陷反馈]: dsv4功能不通，'OptimizersContainer' has no attribute 'Config'报错",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/24"
@@ -25,6 +27,7 @@
     "created_at": "2026-05-12",
     "closed_at": "",
     "author": "dty_30041779",
+    "title": "[Question|问题咨询]: dsv32，开启pp切分的场景下，pipeline_parallel_schedule配置为InterleavedZeroBubble时会报错",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/23"
@@ -35,6 +38,7 @@
     "created_at": "2026-05-11",
     "closed_at": "2026-05-12",
     "author": "calvinhuang",
+    "title": "[Requirement|需求建议]:  DeepSeek V4训练在MA云上拉起需要glibc 2.34版本的镜像环境，现有镜像版本为glibc 2.38",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/22"
@@ -45,6 +49,7 @@
     "created_at": "2026-05-11",
     "closed_at": "",
     "author": "hitwdy",
+    "title": "[Requirement|需求建议]: torchtitan-npu 适配torchtitan主线重构待办事项",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/21"
@@ -55,6 +60,7 @@
     "created_at": "2026-05-11",
     "closed_at": "",
     "author": "dty_30041779",
+    "title": "[Bug-Report|缺陷反馈]: dsv32，8机加载权重，4k序列，oom报错",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/20"
@@ -65,6 +71,7 @@
     "created_at": "2026-05-09",
     "closed_at": "2026-05-11",
     "author": "qq_27037555",
+    "title": "[Question|问题咨询]: DeepSeek v4 dockerfile文件咨询",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/19"
@@ -75,6 +82,7 @@
     "created_at": "2026-05-09",
     "closed_at": "2026-05-12",
     "author": "qq_27037555",
+    "title": "[Question|问题咨询]: deepseekv4训练拉起报TCP相关错误",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/18"
@@ -85,6 +93,7 @@
     "created_at": "2026-05-08",
     "closed_at": "",
     "author": "weixin_59837223",
+    "title": "[Bug-Report|缺陷反馈]: A3环境测试dsv4模型，pipeline_parallel_degree = 2切分失败",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/17"
@@ -95,6 +104,7 @@
     "created_at": "2026-04-30",
     "closed_at": "",
     "author": "liuyuanchen1",
+    "title": "打榜挑战：Qwen3-0.6B性能优化",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/16"
@@ -105,6 +115,7 @@
     "created_at": "2026-04-28",
     "closed_at": "2026-05-13",
     "author": "weixin_59837223",
+    "title": "[Bug-Report|缺陷反馈]: A3环境测试dsv4，设置load_step = 0和initial_load_in_hf = true，checkpoint目录不存在step0，报错FileNotFoundError: --checkpoint.load_step=0 b，     ",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/15"
@@ -115,6 +126,7 @@
     "created_at": "2026-04-28",
     "closed_at": "",
     "author": "weixin_59837223",
+    "title": "[Bug-Report|缺陷反馈]: A3环境测试dsv4，加载保存的checkpoint失败，不支持断点续训",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/14"
@@ -125,6 +137,7 @@
     "created_at": "2026-04-28",
     "closed_at": "",
     "author": "weixin_59837223",
+    "title": "[Bug-Report|缺陷反馈]: A3环境测试dsv4，保存checkpoint失败，只能保存最后一步",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/13"
@@ -135,6 +148,7 @@
     "created_at": "2026-04-28",
     "closed_at": "",
     "author": "weixin_59837223",
+    "title": "[Bug-Report|缺陷反馈]: dsv4，profiling数据采集，设置profile_step_start = 4，实际profiling数据从step2采集",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/12"
@@ -145,6 +159,7 @@
     "created_at": "2026-04-28",
     "closed_at": "2026-05-06",
     "author": "weixin_47893573",
+    "title": "[文档找虫]路径和引号错误",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/11"
@@ -155,6 +170,7 @@
     "created_at": "2026-04-28",
     "closed_at": "2026-05-09",
     "author": "qiuqiuyahhhh",
+    "title": "[Bug-Report|缺陷反馈]",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/10"
@@ -165,6 +181,7 @@
     "created_at": "2026-04-27",
     "closed_at": "2026-05-06",
     "author": "aoyoukeji",
+    "title": "【文档捉虫-问题类型】: DeepSeek 模型名称大小未统一",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/9"
@@ -175,6 +192,7 @@
     "created_at": "2026-04-27",
     "closed_at": "2026-05-06",
     "author": "Yong-An",
+    "title": "[Bug-Report|缺陷反馈]: torchtitan_npu/patches/quantization/quantize.py中gmm路径错误",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/8"
@@ -185,6 +203,7 @@
     "created_at": "2026-04-24",
     "closed_at": "",
     "author": "liuyuanchen1",
+    "title": "[活动]4-6月trochtitan-npu开源仓任务发布：活动一、定向文档找虫",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/7"
@@ -195,6 +214,7 @@
     "created_at": "2026-04-23",
     "closed_at": "2026-04-24",
     "author": "dty_30041779",
+    "title": "[Bug-Report|缺陷反馈]: SDPA Ulysses CP开与不开的loss存在差异",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/6"
@@ -205,6 +225,7 @@
     "created_at": "2026-04-09",
     "closed_at": "",
     "author": "mystri",
+    "title": "[Roadmap] torchtitan-npu Q2 2026 roadmap",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/5"
@@ -215,6 +236,7 @@
     "created_at": "2026-02-13",
     "closed_at": "2026-04-13",
     "author": "mystri",
+    "title": "[Bug-Report|缺陷反馈]: Error when setting TP=2 only",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/4"
@@ -225,6 +247,7 @@
     "created_at": "2026-02-07",
     "closed_at": "2026-02-24",
     "author": "xuyujun",
+    "title": "[Question|问题咨询]: 我该怎么使能swap_optimizer",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/3"
@@ -235,6 +258,7 @@
     "created_at": "2026-02-01",
     "closed_at": "2026-04-13",
     "author": "lrwei0709",
+    "title": "[Bug-Report|缺陷反馈]: 单层稠密模型开启npu_gmm converter后，模型计算精度依然发生改变",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/2"
@@ -245,6 +269,7 @@
     "created_at": "2026-01-27",
     "closed_at": "2026-01-29",
     "author": "zhanghz1",
+    "title": "[bug] DeepSeek-V3.2训练无法正常使能npu的dsa融合算子",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/1"

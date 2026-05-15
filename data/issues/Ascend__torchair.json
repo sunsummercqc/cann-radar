@@ -5,6 +5,7 @@
     "created_at": "2026-05-14",
     "closed_at": "",
     "author": "OblivionZHU",
+    "title": "[Feature]: 拓展配置算子超时时间接口支持入图",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/473"
@@ -15,6 +16,7 @@
     "created_at": "2026-05-14",
     "closed_at": "",
     "author": "Wangyanzhao_13",
+    "title": "[Bug]: 整网 longcat-flash, ge_graph下疑似内存踩踏， 执行加法之后 = 极小值",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/472"
@@ -25,6 +27,7 @@
     "created_at": "2026-05-12",
     "closed_at": "",
     "author": "coconut_tree",
+    "title": "[Usage]: npu_print 内部的实现方式是什么？",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/471"
@@ -35,6 +38,7 @@
     "created_at": "2026-05-08",
     "closed_at": "",
     "author": "NimbleKun",
+    "title": "[Feature]:  转torchair不支持 torch.linalg.inv",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/470"
@@ -45,6 +49,7 @@
     "created_at": "2026-05-08",
     "closed_at": "",
     "author": "zhengyaoff12",
+    "title": "[Bug]: A5环境nz格式tensor在reduce-overhead模式下会自动转成nd格式",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/469"
@@ -55,6 +60,7 @@
     "created_at": "2026-05-08",
     "closed_at": "2026-05-12",
     "author": "goodgood11223",
+    "title": "[Bug]: 使用2.7.1torch_npu包，执行报错ypeError: unsupported operand type(s) for |: 'types.GenericAlias' and 'NoneType'",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/468"
@@ -65,6 +71,7 @@
     "created_at": "2026-05-06",
     "closed_at": "",
     "author": "gcw_Q6Mt7CFQ",
+    "title": "[Doc]: 【文档捉虫-正确性问题】连接地址错误",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/467"
@@ -75,6 +82,7 @@
     "created_at": "2026-05-06",
     "closed_at": "",
     "author": "liuzhuya",
+    "title": "[Bug]: 使用aggressive_opt_strategies报错",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/466"
@@ -85,6 +93,7 @@
     "created_at": "2026-05-06",
     "closed_at": "2026-05-06",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: npugraph_ex模式，单次调用save_npugraph_tensor接口，设置self参数为tensorlist参数和save_name参数报错",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/465"
@@ -95,6 +104,7 @@
     "created_at": "2026-04-29",
     "closed_at": "",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: npugraph_ex，通过post_grad_custom_pre_pass和post_grad_custom_post_pass，设置流场景报错",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/464"
@@ -105,6 +115,7 @@
     "created_at": "2026-04-28",
     "closed_at": "2026-04-28",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: torchair日志打印了许多Registered converter相关的日志",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/463"
@@ -115,6 +126,7 @@
     "created_at": "2026-04-28",
     "closed_at": "",
     "author": "Kiana1216",
+    "title": "[Bug]: 输入tensor带转置时，且tensor有维度值为1的情况下（如[1,32,32]），转置前后会被添加reshape操作",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/462"
@@ -125,6 +137,7 @@
     "created_at": "2026-04-28",
     "closed_at": "2026-05-07",
     "author": "ZhongsJie",
+    "title": "[Usage]: 社区版CANN+A2是否支持inductor-npu-ext？",
     "labels": [],
     "user_notes_count": 6,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/461"
@@ -135,6 +148,7 @@
     "created_at": "2026-04-27",
     "closed_at": "2026-05-07",
     "author": "MissingPompeii",
+    "title": "[Bug]: 当aten.detach被加入aten_lowering名单、但没有加入decompositions_whitelist，原始张量仍然携带着反向传播属性从而导致精度问题",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/460"
@@ -145,6 +159,7 @@
     "created_at": "2026-04-27",
     "closed_at": "2026-05-07",
     "author": "Lvkevin7380",
+    "title": "[Doc]: 【文档捉虫-正确性问题】npugraph_ex集合通信入图章节中包含max-autotune的内容，需要删除",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/459"
@@ -155,6 +170,7 @@
     "created_at": "2026-04-27",
     "closed_at": "2026-05-07",
     "author": "chenzhiyuan0913",
+    "title": "[Usage]: GE图使用动态shape分档后，性能下降了，发现是出现断图，以及很多MEMCPY_ASYNC算子",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/458"
@@ -165,6 +181,7 @@
     "created_at": "2026-04-27",
     "closed_at": "2026-04-29",
     "author": "chansinging",
+    "title": "[Bug]: 升级torch版本，需要torchair  适配修改",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/457"
@@ -175,6 +192,7 @@
     "created_at": "2026-04-27",
     "closed_at": "2026-04-28",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: npugraph_ex起两个线程，1个线程执行静态kernel，1个线程执行torch_npu.npu._aclnn_reselect_static_kernel，报错",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/456"
@@ -185,6 +203,7 @@
     "created_at": "2026-04-26",
     "closed_at": "",
     "author": "xinshuo",
+    "title": "[Doc]: 【定向文档捉虫】",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/455"
@@ -195,6 +214,7 @@
     "created_at": "2026-04-25",
     "closed_at": "2026-05-07",
     "author": "liyuhao21",
+    "title": "[Doc]: 【文档捉虫-规范问题和低级错误】",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/454"
@@ -205,6 +225,7 @@
     "created_at": "2026-04-25",
     "closed_at": "",
     "author": "szhexin",
+    "title": "[Feature]: 对原生接口新增参数",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/453"
@@ -215,6 +236,7 @@
     "created_at": "2026-04-24",
     "closed_at": "",
     "author": "baidu_41609401",
+    "title": "[Usage]:对yolov5进行推理时，报错AssertionError: Guard check failed: 5/0: tensor '___from_numpy(x)' dispatch key set mismatch. expected DispatchKeySet(CPU, BackendSelect, ADInplaceOrView), actual DispatchKeySet",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/451"
@@ -225,6 +247,7 @@
     "created_at": "2026-04-24",
     "closed_at": "2026-04-30",
     "author": "huahuamiaomiao",
+    "title": "[Doc]:  post_grad_custom_pass.md中的描述格式有问题，请修改",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/450"
@@ -235,6 +258,7 @@
     "created_at": "2026-04-24",
     "closed_at": "2026-04-28",
     "author": "tujun6",
+    "title": "[Bug]: 静态图编译coredump",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/449"
@@ -245,6 +269,7 @@
     "created_at": "2026-04-24",
     "closed_at": "2026-05-07",
     "author": "yongchao666",
+    "title": "[Bug]: 整网图模式用例pt2.1升级PT2.7以后出现weightquantbatchmatmulv2算子报错，dump图发现传入这个算子的时候shape已经不对",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/448"
@@ -255,6 +280,7 @@
     "created_at": "2026-04-23",
     "closed_at": "2026-05-07",
     "author": "kevinjia",
+    "title": "[Bug]: npu_add_rms_norm_quant在torch.compile时出现IR未注册报错",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/447"
@@ -265,6 +291,7 @@
     "created_at": "2026-04-23",
     "closed_at": "2026-05-07",
     "author": "Evan112233",
+    "title": "[Bug]: 310 torchair 入图的问题，当compile了两张图后，加载会有显存报错",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/446"
@@ -275,6 +302,7 @@
     "created_at": "2026-04-23",
     "closed_at": "2026-04-25",
     "author": "juxingtaikongyihao",
+    "title": "[Doc]: 【社区任务-定向文档捉虫】",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/445"
@@ -285,6 +313,7 @@
     "created_at": "2026-04-23",
     "closed_at": "2026-04-23",
     "author": "MionLAN",
+    "title": "[Bug]: 新环境按照要求安装7.3.0的torch npu，执行报错，报pkg_resources不存在",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/444"
@@ -295,6 +324,7 @@
     "created_at": "2026-04-22",
     "closed_at": "2026-04-22",
     "author": "xinshuo",
+    "title": "[Doc]: 【社区任务-文档定向捉虫】cann-recipes-infer / models / deepseek-r1超链接地址错误",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/443"
@@ -305,6 +335,7 @@
     "created_at": "2026-04-21",
     "closed_at": "2026-05-07",
     "author": "zhangquanxin",
+    "title": "[Bug]: torchair convert中tensor的format格式信息怎么获取",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/442"
@@ -315,6 +346,7 @@
     "created_at": "2026-04-21",
     "closed_at": "2026-04-30",
     "author": "zihan0007",
+    "title": "[Bug]: CI流水线 ST有报错，分析和修改无关",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/441"
@@ -325,6 +357,7 @@
     "created_at": "2026-04-21",
     "closed_at": "2026-04-22",
     "author": "wangqinyi817",
+    "title": "[Bug]: 继承用例执行报错“Failed to auto-generated converter for aten.sigmoid.default to AscendIR”",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/440"
@@ -335,6 +368,7 @@
     "created_at": "2026-04-21",
     "closed_at": "",
     "author": "dingdairong",
+    "title": "[Doc]: 用data算子的输入输出进行定精度问题的时候，如何把dump的文件喂给单算子复现问题，缺少资料描述，请增加章节说明",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/439"
@@ -345,6 +379,7 @@
     "created_at": "2026-04-20",
     "closed_at": "2026-04-21",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: aclgraph+多流精度异常",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/438"
@@ -355,6 +390,7 @@
     "created_at": "2026-04-20",
     "closed_at": "2026-05-07",
     "author": "socrahow1",
+    "title": "[Bug]: gelu没法入aclgraph图",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/437"
@@ -365,6 +401,7 @@
     "created_at": "2026-04-20",
     "closed_at": "2026-04-21",
     "author": "fengqiuyue",
+    "title": "[Bug]: aclgraph 静态编译无法自动安装编译出来的run包",
     "labels": [],
     "user_notes_count": 12,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/436"
@@ -375,6 +412,7 @@
     "created_at": "2026-04-17",
     "closed_at": "2026-04-20",
     "author": "zhoulong50_hw",
+    "title": "[Bug]: reflection_pad2d_backward跑不起来",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/435"
@@ -385,6 +423,7 @@
     "created_at": "2026-04-17",
     "closed_at": "2026-04-30",
     "author": "m0_57943685",
+    "title": "[Bug]: 启用\"cudagraph_mode\":\"FULL_DECODE_ONLY\"时遇到了算子报错，operator name is muls_add_kernel",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/434"
@@ -395,6 +434,7 @@
     "created_at": "2026-04-17",
     "closed_at": "2026-04-30",
     "author": "m0_58016603",
+    "title": "[Bug]: torch.compile可以正常推理，调用dynamo_export生成air文件之后，原本模型的输入数量为7个，加载air文件进行推理的时候输入数量变为了3个，导致报错",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/433"
@@ -405,6 +445,7 @@
     "created_at": "2026-04-16",
     "closed_at": "2026-04-17",
     "author": "huahuamiaomiao",
+    "title": "[Bug]: 继承用例，torch_npu版本26.1.0-20260415-07执行成功，26.1.0-20260416-07执行失败，报错显示有断图导致执行失败",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/432"
@@ -415,6 +456,7 @@
     "created_at": "2026-04-16",
     "closed_at": "2026-04-30",
     "author": "goodgood11223",
+    "title": "[Bug]: 使用26.1.0-20260416-07的torch_npu包执行，报错TypeError: unsupported operand type(s) for |: 'type' and 'NoneType'",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/431"
@@ -425,6 +467,7 @@
     "created_at": "2026-04-15",
     "closed_at": "2026-04-30",
     "author": "zhangquanxin",
+    "title": "[Bug]: 自定义算子走图模式可选输入在图上没有占位",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/430"
@@ -435,6 +478,7 @@
     "created_at": "2026-04-15",
     "closed_at": "2026-04-15",
     "author": "gcw_W4lZIdpv",
+    "title": "[Doc]: 标题：【社区任务】定向文档捉虫：CONTRIBUTING.md文档中格式问题",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/429"
@@ -445,6 +489,7 @@
     "created_at": "2026-04-15",
     "closed_at": "2026-04-16",
     "author": "zchenbm97",
+    "title": "[Bug]: DinoV3模型开启npugraph_ex推理失败",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/428"
@@ -455,6 +500,7 @@
     "created_at": "2026-04-15",
     "closed_at": "2026-04-15",
     "author": "weixin_42123873",
+    "title": "[Feature]: torchair.compile(model)  会把model对象编译成一个什么文件？",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/427"
@@ -465,6 +511,7 @@
     "created_at": "2026-04-14",
     "closed_at": "2026-04-14",
     "author": "wangqinyi817",
+    "title": "[Bug]: 动态图包含动态GroupedMatmul场景，torchair日志有EROR",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/426"
@@ -475,6 +522,7 @@
     "created_at": "2026-04-13",
     "closed_at": "",
     "author": "dingdairong",
+    "title": "[Feature]: torchair-ge图指定dump fx的格式的时，可以指定py，pbtxt格式。能否支持配置all，一次编译，dump两种格式。",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/425"
@@ -485,6 +533,7 @@
     "created_at": "2026-04-13",
     "closed_at": "2026-04-30",
     "author": "qq_49735440",
+    "title": "[Bug]: 算子本身是aclnn算子，但是静态kernel没有生效",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/424"
@@ -495,6 +544,7 @@
     "created_at": "2026-04-13",
     "closed_at": "2026-04-15",
     "author": "zihan0007",
+    "title": "[Bug]: enable_lite_export能力没有生效",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/423"
@@ -505,6 +555,7 @@
     "created_at": "2026-04-11",
     "closed_at": "2026-04-13",
     "author": "PiyZZ",
+    "title": "[Doc]: 昇腾官网上的图模式使用指南最新已经到7.3.0，当前还是7.2.0,建议修改路径",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/422"
@@ -515,6 +566,7 @@
     "created_at": "2026-04-10",
     "closed_at": "2026-04-15",
     "author": "eternityk",
+    "title": "[Usage]: pytorch v2.7.1分支对应torchair哪个分支",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/420"
@@ -525,6 +577,7 @@
     "created_at": "2026-04-10",
     "closed_at": "2026-04-14",
     "author": "wangqinyi817",
+    "title": "aclgraph动态图，配置config.debug.aclgraph.clone_input=True，设置多流，同一个fx图，变更shape执行多次场景，torchair日志tagged_event_wait校验不到了",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/419"
@@ -535,6 +588,7 @@
     "created_at": "2026-04-09",
     "closed_at": "2026-04-09",
     "author": "rich9527",
+    "title": "[Feature]: debug增加对输入输出Tensor 地址的打印",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/418"
@@ -545,6 +599,7 @@
     "created_at": "2026-04-08",
     "closed_at": "2026-04-16",
     "author": "zhixiong_sun",
+    "title": "[Bug]: acl_graph模式下，开启多流模型精度不对",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/417"
@@ -555,6 +610,7 @@
     "created_at": "2026-04-08",
     "closed_at": "2026-04-16",
     "author": "weixin_59837223",
+    "title": "[Usage]: 如何Dump aclgraph模式下整图，以及算子输入输出，npugraph_ex的options配置代码不知到加在哪里",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/416"
@@ -565,6 +621,7 @@
     "created_at": "2026-04-07",
     "closed_at": "2026-04-16",
     "author": "woodenman",
+    "title": "[Bug]: ",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/415"
@@ -575,6 +632,7 @@
     "created_at": "2026-04-07",
     "closed_at": "2026-05-07",
     "author": "dingdairong",
+    "title": "[Feature]: third_party/secure_c的submodule链接已经不再维护了，请更新至新的链接",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/414"
@@ -585,6 +643,7 @@
     "created_at": "2026-04-07",
     "closed_at": "2026-04-16",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: aclgraph执行报错“When data_ptr is null, allocator must be provided”",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/413"
@@ -595,6 +654,7 @@
     "created_at": "2026-04-03",
     "closed_at": "2026-04-15",
     "author": "zhuyiming3",
+    "title": "[Bug]: 集合通信单算子动态图精度问题",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/412"
@@ -605,6 +665,7 @@
     "created_at": "2026-04-03",
     "closed_at": "2026-04-16",
     "author": "Le_666",
+    "title": "[Bug]: dumpdata发现传递给算子的输入值有nan，导致最终结果全nan",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/411"
@@ -615,6 +676,7 @@
     "created_at": "2026-04-02",
     "closed_at": "2026-04-03",
     "author": "ZhouChuping",
+    "title": "[Usage]: aclnnMoeGatingTopKSoftmax当前M9网络+泛化用例图模式验证，dump图失败",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/409"
@@ -625,6 +687,7 @@
     "created_at": "2026-04-02",
     "closed_at": "2026-04-16",
     "author": "zhaosusu",
+    "title": "[Usage]: A5上如何执行layer_norm的图模式",
     "labels": [],
     "user_notes_count": 6,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/408"
@@ -635,6 +698,7 @@
     "created_at": "2026-04-02",
     "closed_at": "2026-04-09",
     "author": "muzhiyu6",
+    "title": "[Bug]: allgather 算子入图,不支持uint16/32/64",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/407"
@@ -645,6 +709,7 @@
     "created_at": "2026-04-01",
     "closed_at": "2026-04-02",
     "author": "LiNuohang",
+    "title": "[Bug]: torch.compile对比eager多了clone的调用，并导致精度问题。",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/406"
@@ -655,6 +720,7 @@
     "created_at": "2026-04-01",
     "closed_at": "2026-04-07",
     "author": "yao_yao_ling_xian",
+    "title": "[Bug]: reducescatter int float sum不支持问题",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/405"
@@ -665,6 +731,7 @@
     "created_at": "2026-04-01",
     "closed_at": "2026-04-09",
     "author": "fuyunde",
+    "title": "[Bug]: 调用sendrecv算子，使能ge图模式（hcom），数据量为0时错误，send算子往下调用但recv未调用",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/404"
@@ -675,6 +742,7 @@
     "created_at": "2026-04-01",
     "closed_at": "2026-04-01",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: aclgraph使能静态kernel报错AclopStartDumpArgs execute failed",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/403"
@@ -685,6 +753,7 @@
     "created_at": "2026-04-01",
     "closed_at": "2026-04-16",
     "author": "HuXikang",
+    "title": "[Bug]: 调用broadcast算子，使能图模式，输入group_src参数报错",
     "labels": [],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/402"
@@ -695,6 +764,7 @@
     "created_at": "2026-03-31",
     "closed_at": "2026-04-03",
     "author": "liaoqingqing",
+    "title": "[Bug]: 310P环境上使用多lora, torchair+ge入图报错All dims in original shape[-1,1,-1,-1] of frozen data should be greater than 0.",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/401"
@@ -705,6 +775,7 @@
     "created_at": "2026-03-31",
     "closed_at": "2026-04-30",
     "author": "depeng1994",
+    "title": "[Doc]: aclgraph维测日志补充，在社区提供关键日志定位三板斧",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/400"
@@ -715,6 +786,7 @@
     "created_at": "2026-03-31",
     "closed_at": "2026-04-09",
     "author": "qsc97",
+    "title": "[Bug]: torchtitan fdsp2 dsv3训练 aclgrah报错  Do not support TASK_QUEUE_ENABLE = 2",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/399"
@@ -725,6 +797,7 @@
     "created_at": "2026-03-31",
     "closed_at": "2026-04-09",
     "author": "lihao122123e",
+    "title": "[Bug]: 整网模型使能static_kernel不生效",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/398"
@@ -735,6 +808,7 @@
     "created_at": "2026-03-31",
     "closed_at": "2026-04-07",
     "author": "huahuamiaomiao",
+    "title": "[Bug]: fullgraph=False, backend=\"npugraph_ex\", 增加断图（print）后精度异常，torch_npu 26.0.0-20260325-19版本正常，26.0.0-20260326-07精度异常",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/397"
@@ -745,6 +819,7 @@
     "created_at": "2026-03-30",
     "closed_at": "2026-04-09",
     "author": "HuXikang",
+    "title": "[Bug]: 使用npugraph_ex方式使能aclgraph能力，在调用all_to_all_single，输入可均分且不输入output_split_sizes和input_split_sizes参数的场景下，预期走alltoall算子，但实际走了alltoallv算子",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/396"
@@ -755,6 +830,7 @@
     "created_at": "2026-03-30",
     "closed_at": "2026-04-09",
     "author": "weixin_50671961",
+    "title": "[Bug]: 使用torchair.scope.npu_stream_switch接口，进行分流操作，会执行报错",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/395"
@@ -765,6 +841,7 @@
     "created_at": "2026-03-30",
     "closed_at": "2026-04-01",
     "author": "fengqiuyue",
+    "title": "[Usage]: 咨询aclgraph是否支持superkernel",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/394"
@@ -775,6 +852,7 @@
     "created_at": "2026-03-28",
     "closed_at": "2026-04-03",
     "author": "weixin_44180926",
+    "title": "[Bug]: all_to_all_single_npu调用报错",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/393"
@@ -785,6 +863,7 @@
     "created_at": "2026-03-27",
     "closed_at": "2026-04-03",
     "author": "yin-peng",
+    "title": "[Usage]: 关于npu_xxxx.py其中的写法",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/392"
@@ -795,6 +874,7 @@
     "created_at": "2026-03-27",
     "closed_at": "2026-04-09",
     "author": "chenyu10",
+    "title": "[Bug]: aclgraph add算子报错，eager、ge正常",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/391"
@@ -805,6 +885,7 @@
     "created_at": "2026-03-26",
     "closed_at": "2026-04-09",
     "author": "zlz_392499748",
+    "title": "[Doc]: 1971 训练 社区转测 遇到一些 torch的报错 ",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/390"
@@ -815,6 +896,7 @@
     "created_at": "2026-03-26",
     "closed_at": "2026-04-01",
     "author": "AlbertYoung192",
+    "title": "[Bug]: 非量化groupedmatmul算子单多多场景下正确传入的grouplist参数存在数据丢失现象",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/389"
@@ -825,6 +907,7 @@
     "created_at": "2026-03-26",
     "closed_at": "",
     "author": "RQL7",
+    "title": "[Doc]: 文档中依赖不全，安装后执行有模块未安装包错，也没有找到require文件",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/388"
@@ -835,6 +918,7 @@
     "created_at": "2026-03-26",
     "closed_at": "2026-03-26",
     "author": "Evan112233",
+    "title": "[Bug]: 310 torchair 入图 recompile",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/387"
@@ -845,6 +929,7 @@
     "created_at": "2026-03-23",
     "closed_at": "2026-04-01",
     "author": "hanru-xu",
+    "title": "[Doc]: 阅读完有两个问题咨询",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/386"
@@ -855,6 +940,7 @@
     "created_at": "2026-03-23",
     "closed_at": "2026-03-27",
     "author": "qianhongli",
+    "title": "[Bug]: alltoall静态图模式，配置数据量为0，有除零报错",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/385"
@@ -865,6 +951,7 @@
     "created_at": "2026-03-23",
     "closed_at": "2026-03-25",
     "author": "huangyuxiaaaaa",
+    "title": "[Feature]: 新增和修复算子torchair适配",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/384"
@@ -875,6 +962,7 @@
     "created_at": "2026-03-20",
     "closed_at": "2026-03-23",
     "author": "richelieuqian",
+    "title": "[Bug]: 在310环境上, torchair+ge入图报错All dims in original shape[-1] of frozen data should be greater than 0",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/383"
@@ -885,6 +973,7 @@
     "created_at": "2026-03-19",
     "closed_at": "2026-03-26",
     "author": "Jiaqin",
+    "title": "[Usage]: 在aclgraph中使用set_op_timeout_ms接口",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/382"
@@ -895,6 +984,7 @@
     "created_at": "2026-03-19",
     "closed_at": "2026-03-26",
     "author": "socrahow1",
+    "title": "[Bug]: 使用torchair、aclgraph进行推理加速，编译时卡住，没有报错。",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/381"
@@ -905,6 +995,7 @@
     "created_at": "2026-03-18",
     "closed_at": "2026-03-26",
     "author": "wangzhe123456789",
+    "title": "[Bug]: ",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/380"
@@ -915,6 +1006,7 @@
     "created_at": "2026-03-18",
     "closed_at": "2026-03-18",
     "author": "huangyuxiaaaaa",
+    "title": "[Feature]: 新增LogSigmoid算子Torch图",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/379"
@@ -925,6 +1017,7 @@
     "created_at": "2026-03-17",
     "closed_at": "",
     "author": "yeeyanghsia",
+    "title": "[Feature]: 新增LogSigmoidGrad算子Torch图",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/378"
@@ -935,6 +1028,7 @@
     "created_at": "2026-03-16",
     "closed_at": "2026-03-17",
     "author": "urbub",
+    "title": "[Bug]:  torchair.scope.limit_core_num，AIV核数无效",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/377"
@@ -945,6 +1039,7 @@
     "created_at": "2026-03-16",
     "closed_at": "2026-05-07",
     "author": "gcw_pfzw85mp",
+    "title": "[Doc]: 没有cann 9.0.0 的版本配套说明",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/376"
@@ -955,6 +1050,7 @@
     "created_at": "2026-03-14",
     "closed_at": "2026-03-26",
     "author": "liu-zihao35",
+    "title": "[Bug]: scatter_pa_kv_cache 算子入图时对k_cache、v_cache 做了 TensorMove，或导致性能问题",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/375"
@@ -965,6 +1061,7 @@
     "created_at": "2026-03-14",
     "closed_at": "2026-03-26",
     "author": "liu-zihao35",
+    "title": "[Installation]: 安装执行git submodule update --init --recursive失败",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/374"
@@ -975,6 +1072,7 @@
     "created_at": "2026-03-13",
     "closed_at": "2026-03-19",
     "author": "Le_666",
+    "title": "[Usage]: The dtype in num[6] net output of Ascend output: [DT_HIFLOAT8] is not equal to FX graph NetOutput: [DT_UINT8].",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/373"
@@ -985,6 +1083,7 @@
     "created_at": "2026-03-12",
     "closed_at": "2026-03-19",
     "author": "yongchao123",
+    "title": "[Bug]: torch图模式用例出现torch._dynamo.exc.TorchRuntimeError: Dynamo failed to run FX node with fake tensors: call_function <built-in function add>(*(FakeTensor(..., device='npu:2', size=(s0, s1, 5120), dty",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/372"
@@ -995,6 +1094,7 @@
     "created_at": "2026-03-12",
     "closed_at": "2026-03-26",
     "author": "m0_58016603",
+    "title": "[Usage]: torchair dump图报错",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/371"
@@ -1005,6 +1105,7 @@
     "created_at": "2026-03-12",
     "closed_at": "2026-03-19",
     "author": "hanru-xu",
+    "title": "[Bug]: 非BUG，问题咨询",
     "labels": [],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/370"
@@ -1015,6 +1116,7 @@
     "created_at": "2026-03-12",
     "closed_at": "2026-03-25",
     "author": "yuanshuai000",
+    "title": "[Feature]: QBMM-MxA8W4-weight_nz supports compact weight",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/369"
@@ -1025,6 +1127,7 @@
     "created_at": "2026-03-12",
     "closed_at": "2026-03-18",
     "author": "xiejiahao2333",
+    "title": "[Bug]: Qwen3魔改模型编图报错",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/368"
@@ -1035,6 +1138,7 @@
     "created_at": "2026-03-12",
     "closed_at": "2026-03-18",
     "author": "goodgood11223",
+    "title": "[Bug]: npugraph_ex模式调用with torch.npu.npugraph_ex.scope.limit_core_num(12, 24)，执行报错 [ERROR] AttributeError: module 'torch_npu.npu.npugraph_ex' has no attribute 'scope'",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/367"
@@ -1045,6 +1149,7 @@
     "created_at": "2026-03-11",
     "closed_at": "2026-03-18",
     "author": "luckdog111",
+    "title": "[Bug]: 大shape使用aclgraph入图报错the model stream unbind failed，小shape正常。",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/366"
@@ -1055,6 +1160,7 @@
     "created_at": "2026-03-10",
     "closed_at": "2026-03-18",
     "author": "sisyphus11",
+    "title": "[Bug]: 大模型导出om过程中出现了cmo算子，导致模型无法单stream导出，需要定位cmo算子引入的原因",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/365"
@@ -1065,6 +1171,7 @@
     "created_at": "2026-03-09",
     "closed_at": "2026-03-09",
     "author": "clwsy1",
+    "title": "[Usage]:hifloat8进入torch层后会被转换为torch.uint5",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/364"
@@ -1075,6 +1182,7 @@
     "created_at": "2026-03-09",
     "closed_at": "2026-03-10",
     "author": "woodenman",
+    "title": "[Doc]: torchair Dynamo导图功能约束说明不明确",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/363"
@@ -1085,6 +1193,7 @@
     "created_at": "2026-03-09",
     "closed_at": "2026-03-12",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: npugraph_ex报错“Unsupported case with non constant value [{sym}] in sym_list [{syms}].”",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/362"
@@ -1095,6 +1204,7 @@
     "created_at": "2026-03-06",
     "closed_at": "2026-03-12",
     "author": "yangzeheng",
+    "title": "[Usage]: <<<>>>调用算子出现H2D拷贝错误",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/361"
@@ -1105,6 +1215,7 @@
     "created_at": "2026-03-06",
     "closed_at": "2026-03-18",
     "author": "qq_40981258",
+    "title": "[Bug]: 异常报错 main process disappeared",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/360"
@@ -1115,6 +1226,7 @@
     "created_at": "2026-03-06",
     "closed_at": "2026-03-18",
     "author": "MeiWenxuan",
+    "title": "[Usage]: 同样的调用流程，为什么有的算子跑不进图模式",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/359"
@@ -1125,6 +1237,7 @@
     "created_at": "2026-03-05",
     "closed_at": "2026-03-11",
     "author": "yangzeheng",
+    "title": "[Usage]: <<<>>>直调算子工程以aclgraph方式调用报错",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/358"
@@ -1135,6 +1248,7 @@
     "created_at": "2026-03-05",
     "closed_at": "2026-03-09",
     "author": "libohao6",
+    "title": "[Usage]: 请问当算子原型中有可选输出时，是不是不能使用auto_generated_ge_raw_ops.py自动生成converter代码",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/357"
@@ -1145,6 +1259,7 @@
     "created_at": "2026-03-05",
     "closed_at": "2026-03-05",
     "author": "fwx_110",
+    "title": "[Bug]: 更新最新torch_npu包后需要用户自行安装packaging模块，这个模块需要用户去保证吗",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/356"
@@ -1155,6 +1270,7 @@
     "created_at": "2026-03-05",
     "closed_at": "2026-04-09",
     "author": "pan_yao",
+    "title": "[Feature]: torchair支持uint16和uint32类型",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/355"
@@ -1165,6 +1281,7 @@
     "created_at": "2026-03-04",
     "closed_at": "2026-03-12",
     "author": "socrahow1",
+    "title": "[Bug]: torch.nn.Conv2D编译报错",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/354"
@@ -1175,6 +1292,7 @@
     "created_at": "2026-03-04",
     "closed_at": "2026-03-12",
     "author": "socrahow1",
+    "title": "[Bug]: torch.nn.functional.pad算子编译报错",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/353"
@@ -1185,6 +1303,7 @@
     "created_at": "2026-03-04",
     "closed_at": "2026-03-04",
     "author": "clwsy1",
+    "title": "[Usage]: torchair图中添加了cast，导致输入类型发生改变",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/352"
@@ -1195,6 +1314,7 @@
     "created_at": "2026-03-03",
     "closed_at": "2026-04-30",
     "author": "xiongyifu",
+    "title": "[Feature]: RuntimeError: Unsupported torch type 44 by ge",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/351"
@@ -1205,6 +1325,7 @@
     "created_at": "2026-03-03",
     "closed_at": "2026-03-12",
     "author": "wuzhengzhen",
+    "title": "[Bug]: RuntimeError: Unsupported ge type 28 by torch Traceback (most recent call last):   File \"/usr/local/python3.9/lib/python3.9/site-packages/torch_npu/dynamo/torchair/_utils/error_code.py\", line 4",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/350"
@@ -1215,6 +1336,7 @@
     "created_at": "2026-03-02",
     "closed_at": "2026-03-12",
     "author": "chenyia",
+    "title": "[Bug]: torchair图模式，脚本构造三个无执行序依赖的HcomAllToAllV算子，发现两卡算子拓扑序不一致，出现精度问题",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/349"
@@ -1225,6 +1347,7 @@
     "created_at": "2026-03-02",
     "closed_at": "2026-03-04",
     "author": "wuzhengzhen",
+    "title": "While executing %ascendc_add : [num_users=1] = call_function[target=torch.ops.ascendc_ops.ascendc_add.default](args = (%arg0_1, %arg1_1), kwargs = {})",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/348"
@@ -1235,6 +1358,7 @@
     "created_at": "2026-03-02",
     "closed_at": "2026-03-11",
     "author": "woodenman",
+    "title": "[Bug]: 主线程指定多卡加载模型时，开启cache_compile后，第二张卡加载报错",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/347"
@@ -1245,6 +1369,7 @@
     "created_at": "2026-02-28",
     "closed_at": "2026-03-04",
     "author": "SelamatPagi61",
+    "title": "[Bug]: 报错 RuntimeError: Assert graph_data_->input_placements.size() == inputs.size() failed",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/346"
@@ -1255,6 +1380,7 @@
     "created_at": "2026-02-28",
     "closed_at": "2026-03-12",
     "author": "kkasds",
+    "title": "[Bug]: 出现图模式报错，单算子没问题",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/345"
@@ -1265,6 +1391,7 @@
     "created_at": "2026-02-27",
     "closed_at": "2026-03-04",
     "author": "woodenman",
+    "title": "[Bug]: cosyvoice2 torchair编图报错",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/344"
@@ -1275,6 +1402,7 @@
     "created_at": "2026-02-26",
     "closed_at": "2026-02-27",
     "author": "pan_yao",
+    "title": "[Bug]: RuntimeError: Unsupported torch type torch.uint32 by ge   RuntimeError: Unsupported torch type torch.uint16 by ge",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/343"
@@ -1285,6 +1413,7 @@
     "created_at": "2026-02-26",
     "closed_at": "2026-02-26",
     "author": "xuxiongjie",
+    "title": "[Feature]: GMM MxA8W4 与QBMM MxA8W4支持3维scale",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/342"
@@ -1295,6 +1424,7 @@
     "created_at": "2026-02-26",
     "closed_at": "2026-02-28",
     "author": "zlz_392499748",
+    "title": "[Doc]: 310P 推理性能劣化",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/341"
@@ -1305,6 +1435,7 @@
     "created_at": "2026-02-25",
     "closed_at": "2026-03-05",
     "author": "winwei12345",
+    "title": "[Bug]: reduce-overhead入图时，算子def中如果某个Tensor既是输入又是输出，输出时不会写数据到该Tensor",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/340"
@@ -1315,6 +1446,7 @@
     "created_at": "2026-02-25",
     "closed_at": "2026-02-27",
     "author": "zhanj",
+    "title": "[Bug]: 高版本setuptools会出现import torchair失败",
     "labels": [
       "bug"
     ],
@@ -1327,6 +1459,7 @@
     "created_at": "2026-02-25",
     "closed_at": "2026-02-28",
     "author": "yuanshuai000",
+    "title": "[Feature]: 图模式 grouped matmul支持紧凑排布fp4的nz权重",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/338"
@@ -1337,6 +1470,7 @@
     "created_at": "2026-02-25",
     "closed_at": "2026-03-04",
     "author": "AlbertYoung192",
+    "title": "[Bug]: GroupedMatmul算子单多多场景正确传入grouplist参数但识别为null",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/337"
@@ -1347,6 +1481,7 @@
     "created_at": "2026-02-25",
     "closed_at": "2026-03-04",
     "author": "weixin_42123873",
+    "title": "[Doc]: torchair_cache缓存 性能反而劣化",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/336"
@@ -1357,6 +1492,7 @@
     "created_at": "2026-02-25",
     "closed_at": "2026-02-25",
     "author": "xubinglin",
+    "title": "[Doc]: 缺少如何执行st的文档说明",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/335"
@@ -1367,6 +1503,7 @@
     "created_at": "2026-02-24",
     "closed_at": "2026-02-24",
     "author": "hujiawen_kaven",
+    "title": "[Doc]: cann版本配套说明中没有9.0.0版本",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/334"
@@ -1377,6 +1514,7 @@
     "created_at": "2026-02-24",
     "closed_at": "2026-02-27",
     "author": "zlz_392499748",
+    "title": "[Doc]: 用例执行失败",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/333"
@@ -1387,6 +1525,7 @@
     "created_at": "2026-02-14",
     "closed_at": "2026-03-04",
     "author": "qq_43844249",
+    "title": "[Bug]: 第一天代码合入后第二天的主线torch包中没有对应的实现",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/332"
@@ -1397,6 +1536,7 @@
     "created_at": "2026-02-14",
     "closed_at": "2026-02-25",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: aclgraph构造静态addrmsnorm+view+cast，算子在相同stream流，默认开启pattern_fusion_pass，没有融合成torch.ops.npu.npu_add_rms_norm_cast.default",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/331"
@@ -1407,6 +1547,7 @@
     "created_at": "2026-02-13",
     "closed_at": "2026-03-04",
     "author": "macech",
+    "title": "[Usage]: 咨询：torchair convert将wheel中的自定义接口转换成图",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/330"
@@ -1417,6 +1558,7 @@
     "created_at": "2026-02-12",
     "closed_at": "2026-02-25",
     "author": "zihan0007",
+    "title": "[Usage]: config.export.experimental.enable_lite_export = True功能未生效",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/329"
@@ -1427,6 +1569,7 @@
     "created_at": "2026-02-12",
     "closed_at": "2026-02-25",
     "author": "see55",
+    "title": "[Feature]: 310P 支持 acl graph",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/328"
@@ -1437,6 +1580,7 @@
     "created_at": "2026-02-11",
     "closed_at": "2026-02-25",
     "author": "Le_666",
+    "title": "[Usage]: torchair怎么使用自定义数据类型",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/327"
@@ -1447,6 +1591,7 @@
     "created_at": "2026-02-11",
     "closed_at": "2026-02-25",
     "author": "yushutinghz",
+    "title": "[Bug]: 使用pytorch调用hccl的reduce算子，图模式，使用uint64数据类型时报错Graph break under GenericContextWrappingVariable，使用int16/fp16/fp32时报错Error op name:reduce, reason: Attempted to call function marked as skipped",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/326"
@@ -1457,6 +1602,7 @@
     "created_at": "2026-02-11",
     "closed_at": "2026-02-25",
     "author": "yushutinghz",
+    "title": "[Feature]: pytorch调用hccl算子测试时发现uint64/uint32/uint16数据类型报错不支持Unsupported ge dtype 7/8/10/28",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/325"
@@ -1467,6 +1613,7 @@
     "created_at": "2026-02-11",
     "closed_at": "2026-03-14",
     "author": "ZX056288",
+    "title": "[Bug]: torchair Broadcast GE图模式和eager模式对于src的转换不一致导致入图失败",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/324"
@@ -1477,6 +1624,7 @@
     "created_at": "2026-02-11",
     "closed_at": "2026-02-25",
     "author": "rich9527",
+    "title": "[Doc]: aclgraph内存复用，如果用户输入占用内存较大可能会导致OOM，需要在资料中说明",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/323"
@@ -1487,6 +1635,7 @@
     "created_at": "2026-02-10",
     "closed_at": "2026-04-29",
     "author": "Tjh-UKN",
+    "title": "[Feature]: torchair图采集支持提供Const节点映射关系",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/322"
@@ -1497,6 +1646,7 @@
     "created_at": "2026-02-10",
     "closed_at": "2026-03-12",
     "author": "fu-hao-huawei",
+    "title": "[Feature]: torch_npu原生多流api入图",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/321"
@@ -1507,6 +1657,7 @@
     "created_at": "2026-02-09",
     "closed_at": "2026-02-11",
     "author": "weixin_42123873",
+    "title": "[Doc]: 哪个torch版本支持使用**self.one2many语法解包字典为关键字参数",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/320"
@@ -1517,6 +1668,7 @@
     "created_at": "2026-02-09",
     "closed_at": "2026-02-11",
     "author": "gitcode_lijd",
+    "title": "[Usage]: 静态图模式全核 半核作用域疑问",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/319"
@@ -1527,6 +1679,7 @@
     "created_at": "2026-02-09",
     "closed_at": "2026-02-11",
     "author": "kkasds",
+    "title": "[Bug]:  aclgraph在server环境的0115分支出现算子报错",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/318"
@@ -1537,6 +1690,7 @@
     "created_at": "2026-02-09",
     "closed_at": "2026-02-25",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: aclgraph使用多流接口报错torch._dynamo.exc.Unsupported: call_id with args (EventVariable(),)",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/317"
@@ -1547,6 +1701,7 @@
     "created_at": "2026-02-09",
     "closed_at": "2026-02-09",
     "author": "huangyuqian",
+    "title": "[Usage]: 整网跑acl graph，不支持加日志打印",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/316"
@@ -1557,6 +1712,7 @@
     "created_at": "2026-02-09",
     "closed_at": "2026-02-09",
     "author": "zhanj",
+    "title": "[Bug]: aclgraph跨流使用内存时，资料描述有问题。",
     "labels": [
       "bug"
     ],
@@ -1569,6 +1725,7 @@
     "created_at": "2026-02-09",
     "closed_at": "2026-02-25",
     "author": "zzyyh",
+    "title": "[Bug]: touch报错",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/314"
@@ -1579,6 +1736,7 @@
     "created_at": "2026-02-06",
     "closed_at": "2026-02-25",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: aclgraph+cache_compile+eager+静态kernel，以前是cache_compile不生效，静态kernel生效，现在变成了cache_compile生效，静态kernel不生效了",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/313"
@@ -1589,6 +1747,7 @@
     "created_at": "2026-02-05",
     "closed_at": "2026-02-11",
     "author": "yring_8",
+    "title": "[Usage]: ",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/312"
@@ -1599,6 +1758,7 @@
     "created_at": "2026-02-05",
     "closed_at": "2026-02-25",
     "author": "m0_69544124",
+    "title": "[Bug]: 基于modelzoo模型CosyVoice模型做过一些优化，使用了torchair做了性能提升，部署服务化之后。只能支持单并发请求，不支持多并发请求",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/311"
@@ -1609,6 +1769,7 @@
     "created_at": "2026-02-04",
     "closed_at": "2026-03-04",
     "author": "weixin_73791815",
+    "title": "[Bug]: vLLM_Ascend使用编译后的自定义算子, 给出报错:Cannot prepare for replay during capturing stage. during NPU graph capture. If you need this call to be captured, please file an issue.",
     "labels": [],
     "user_notes_count": 7,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/310"
@@ -1619,6 +1780,7 @@
     "created_at": "2026-02-04",
     "closed_at": "2026-02-11",
     "author": "Anonymous1",
+    "title": "[Bug]: 不开super kernel，同一个通信域2个混合算子dtpye不一样, reduce算子bfp16类型，reduce算子int32类型场景，报错torch._dynamo.exc.Unsupported: Attempted to call function marked as skipped",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/309"
@@ -1629,6 +1791,7 @@
     "created_at": "2026-02-03",
     "closed_at": "2026-02-05",
     "author": "rich9527",
+    "title": "[Feature]: 自定义converter导入触发AttributeError时提供错误日志帮助定位",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/308"
@@ -1639,6 +1802,7 @@
     "created_at": "2026-02-03",
     "closed_at": "2026-03-12",
     "author": "ZX056288",
+    "title": "[Feature]: GE Graph流程中增加对权重的处理",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/307"
@@ -1649,6 +1813,7 @@
     "created_at": "2026-02-03",
     "closed_at": "2026-02-11",
     "author": "yongchao123",
+    "title": "[Bug]: torch图模式用例报错",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/306"
@@ -1659,6 +1824,7 @@
     "created_at": "2026-01-31",
     "closed_at": "2026-02-11",
     "author": "liftcube",
+    "title": "[Bug]: 310P3上interpolate算子入图导致性能劣化",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/305"
@@ -1669,6 +1835,7 @@
     "created_at": "2026-01-31",
     "closed_at": "2026-01-31",
     "author": "yin-peng",
+    "title": "[Bug]: GroupedDynamicBlockQuant 输出参数类型y应为hifloat8，但转换后是uint8",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/304"
@@ -1679,6 +1846,7 @@
     "created_at": "2026-01-31",
     "closed_at": "2026-01-31",
     "author": "yin-peng",
+    "title": "[Bug]: GroupedDynamicBlockQuant 入参传入失败",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/303"
@@ -1689,6 +1857,7 @@
     "created_at": "2026-01-31",
     "closed_at": "2026-03-18",
     "author": "ganon0327",
+    "title": "[WIP]: aclgraph 自动函数化reinplace日志优化",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/302"
@@ -1699,6 +1868,7 @@
     "created_at": "2026-01-30",
     "closed_at": "2026-02-11",
     "author": "linengyao",
+    "title": "[Bug]: 入图tiling下沉fx构图错误",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/301"
@@ -1709,6 +1879,7 @@
     "created_at": "2026-01-30",
     "closed_at": "2026-02-11",
     "author": "chengding888",
+    "title": "[Usage]: acl graph断图排查",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/300"
@@ -1719,6 +1890,7 @@
     "created_at": "2026-01-30",
     "closed_at": "2026-02-11",
     "author": "god_ling",
+    "title": "[Bug]: 使能superkernel 报错After you call the torch.ops.air.scope_enter operator, there is no paired call to the torch.ops.air.scope_exit operator",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/299"
@@ -1729,6 +1901,7 @@
     "created_at": "2026-01-30",
     "closed_at": "2026-02-11",
     "author": "fengaov",
+    "title": "[Bug]: 图模式下输出切片（Slice）操作会导致结果精度异常",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/298"
@@ -1739,6 +1912,7 @@
     "created_at": "2026-01-30",
     "closed_at": "2026-02-11",
     "author": "fengaov",
+    "title": "[Bug]: 图模式与融合优化器不兼容问题",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/297"
@@ -1749,6 +1923,7 @@
     "created_at": "2026-01-29",
     "closed_at": "2026-02-11",
     "author": "liu_longlong11111",
+    "title": "[Bug]: ge组件：从obp继承到david的aclgraph用例,在david上报错不支持aclrtCreateEventExWithFlag传入的flag，需上层检查一下入参是否合法",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/296"
@@ -1759,6 +1934,7 @@
     "created_at": "2026-01-28",
     "closed_at": "2026-02-11",
     "author": "zhaosusu",
+    "title": "[Usage]: ge的torchair入口的 torchair入口，max-autotune模式，构造静态addrmsnorm+view+cast时用例编译报错",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/295"
@@ -1769,6 +1945,7 @@
     "created_at": "2026-01-28",
     "closed_at": "2026-02-11",
     "author": "jwhuang17",
+    "title": "[Bug]: 静态图模式算子级联场景，实际走了图模式和单算子混合下发，并且两个算子分别占用一半的卡数，测试的脚本就是构建的一个输入给两个算子",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/294"
@@ -1779,6 +1956,7 @@
     "created_at": "2026-01-27",
     "closed_at": "2026-02-04",
     "author": "cc_beolus",
+    "title": "[Doc]: README操作优化",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/293"
@@ -1789,6 +1967,7 @@
     "created_at": "2026-01-27",
     "closed_at": "2026-02-11",
     "author": "ChenCangtao",
+    "title": "[Feature]: 静态kernel编译时长优化",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/292"
@@ -1799,6 +1978,7 @@
     "created_at": "2026-01-27",
     "closed_at": "2026-02-04",
     "author": "see55",
+    "title": "[Feature]: 求 310P 上也能同样支持 acl graph",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/291"
@@ -1809,6 +1989,7 @@
     "created_at": "2026-01-27",
     "closed_at": "2026-01-27",
     "author": "Sunyp01",
+    "title": "[Usage]: ge.deterministic的option是如何获取的，在哪里设置给GE",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/290"
@@ -1819,6 +2000,7 @@
     "created_at": "2026-01-27",
     "closed_at": "2026-01-29",
     "author": "hyhhh14",
+    "title": "[Bug]: torch2.7.1以上版本，支持原生torch.float8_e8m0fnu，在torch2.7.1以下版本，之前用uint8代替，现在单算子和图模式出现了类型不一致的问题",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/289"
@@ -1829,6 +2011,7 @@
     "created_at": "2026-01-26",
     "closed_at": "2026-01-31",
     "author": "zzy-hw",
+    "title": "[Bug]: triton算子接入npugraph_ex报错",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/288"
@@ -1839,6 +2022,7 @@
     "created_at": "2026-01-26",
     "closed_at": "2026-02-11",
     "author": "BoBean",
+    "title": "[Usage]: Torchair精度问题定位",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/287"
@@ -1849,6 +2033,7 @@
     "created_at": "2026-01-25",
     "closed_at": "2026-02-04",
     "author": "ChenCangtao",
+    "title": "[Bug]: 使用npugraph_ex后端编译运行deepseek，计算图中存在额外tensormove",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/286"
@@ -1859,6 +2044,7 @@
     "created_at": "2026-01-23",
     "closed_at": "2026-02-11",
     "author": "wangchenfeng6",
+    "title": "[Usage]: 空核和非空核连跑，编图失败",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/285"
@@ -1869,6 +2055,7 @@
     "created_at": "2026-01-23",
     "closed_at": "2026-01-24",
     "author": "linglx",
+    "title": "[Doc]: 页面里文档链接不对，链接里缺少en/cn路径",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/284"
@@ -1879,6 +2066,7 @@
     "created_at": "2026-01-23",
     "closed_at": "2026-02-11",
     "author": "weixin_43499740",
+    "title": "[Bug]: 图模式运行AICPU算子，可选tensor不传或传入None时会报空指针的错",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/283"
@@ -1889,6 +2077,7 @@
     "created_at": "2026-01-22",
     "closed_at": "2026-02-11",
     "author": "jwhuang17",
+    "title": "[Bug]: 使用torch2.7.1版本，执行用例时报错：torch._dynamo.exc.InternalTorchDynamoError: IndexError: list index out of range",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/282"
@@ -1899,6 +2088,7 @@
     "created_at": "2026-01-21",
     "closed_at": "2026-01-22",
     "author": "yellowbee",
+    "title": "[Bug]: torch入图顺序发生变化导致特定图融合无法匹配",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/281"
@@ -1909,6 +2099,7 @@
     "created_at": "2026-01-21",
     "closed_at": "2026-02-11",
     "author": "Sunyp01",
+    "title": "[Usage]:TorchAir社区 issue指南",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/280"
@@ -1919,6 +2110,7 @@
     "created_at": "2026-01-21",
     "closed_at": "2026-01-22",
     "author": "liftcube",
+    "title": "[Bug]: 池化算子不能入图",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/279"
@@ -1929,6 +2121,7 @@
     "created_at": "2026-01-20",
     "closed_at": "2026-02-11",
     "author": "yangxinglong",
+    "title": "[Bug]: torchair编译BiRefNet模型精度有问题",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/277"
@@ -1939,6 +2132,7 @@
     "created_at": "2026-01-20",
     "closed_at": "2026-02-07",
     "author": "chenjiale56",
+    "title": "[Bug]: AclGraph模式下流同步报错",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/276"
@@ -1949,6 +2143,7 @@
     "created_at": "2026-01-19",
     "closed_at": "2026-02-11",
     "author": "KenChow",
+    "title": "[Usage]: 有没有更高效的自定义算子入图方法",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/275"
@@ -1959,6 +2154,7 @@
     "created_at": "2026-01-19",
     "closed_at": "2026-02-11",
     "author": "hzp_gitcode",
+    "title": "[Bug]: 从torch层输入到hcomalltoallv的算子入参存在问题",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/274"
@@ -1969,6 +2165,7 @@
     "created_at": "2026-01-15",
     "closed_at": "2026-02-11",
     "author": "u013217006",
+    "title": "[Feature]: 支持nn.functional.interpolate算子",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/273"
@@ -1979,6 +2176,7 @@
     "created_at": "2026-01-15",
     "closed_at": "2026-01-15",
     "author": "fengqiuyue",
+    "title": "[Feature]: 原地更新算子如何适配才在跑图的时候优化掉TensorMove",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/272"
@@ -1989,6 +2187,7 @@
     "created_at": "2026-01-15",
     "closed_at": "2026-01-15",
     "author": "ClarkXie",
+    "title": "[Usage]: 确认torchair通过 Session 配置了未支持的编译option的兼容性",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/271"
@@ -1999,6 +2198,7 @@
     "created_at": "2026-01-15",
     "closed_at": "2026-02-11",
     "author": "yangxinglong",
+    "title": "[Bug]: 使用torchair编译开源模型成功，执行推理报torch.roll操作不支持",
     "labels": [
       "bug"
     ],
@@ -2011,6 +2211,7 @@
     "created_at": "2026-01-14",
     "closed_at": "2026-03-18",
     "author": "depeng1994",
+    "title": "[Usage]: wiki中没有显式的npugraph-ex相关的资料",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/269"
@@ -2021,6 +2222,7 @@
     "created_at": "2026-01-14",
     "closed_at": "",
     "author": "fu-hao-huawei",
+    "title": "[Doc]: TorchAir Roadmap 2026",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/268"
@@ -2031,6 +2233,7 @@
     "created_at": "2026-01-14",
     "closed_at": "2026-02-11",
     "author": "ChengjiaWu",
+    "title": "[Bug]: AclGraph图模式下运行算子在MemCopySync时报错",
     "labels": [
       "bug"
     ],
@@ -2043,6 +2246,7 @@
     "created_at": "2026-01-14",
     "closed_at": "2026-01-29",
     "author": "Sunyp01",
+    "title": "[Bug]: aclgraph入图，aclnnGroupedMatmulV5_1792算子 入参类型报错",
     "labels": [
       "bug"
     ],
@@ -2055,6 +2259,7 @@
     "created_at": "2026-01-14",
     "closed_at": "2026-02-11",
     "author": "love8031425v",
+    "title": "[Bug]: arcface模型npu迁移后，根据入门指导使用torchair，发现Prelu不支持",
     "labels": [
       "bug"
     ],
@@ -2067,6 +2272,7 @@
     "created_at": "2026-01-14",
     "closed_at": "2026-01-21",
     "author": "eco_zsj",
+    "title": "[Bug]: 使用torch2.7.1版本，执行控核用例时报错：Dynamo does not know how to trace builtin operator `str` with argument types ['int'] (has_kwargs False)",
     "labels": [
       "bug"
     ],
@@ -2079,6 +2285,7 @@
     "created_at": "2026-01-12",
     "closed_at": "2026-01-28",
     "author": "yjxxx",
+    "title": "[Bug]: 使用torch2.7.1版本，通过torchair执行图模式reducescatter通信算子superkernel场景用例，报错Unsupported all_reduce op: sum",
     "labels": [
       "bug"
     ],
@@ -2091,6 +2298,7 @@
     "created_at": "2026-01-12",
     "closed_at": "2026-03-12",
     "author": "wangqiang160",
+    "title": "[Feature]:基于memory planning的图优化（cat, split 类）",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/260"
@@ -2101,6 +2309,7 @@
     "created_at": "2026-01-09",
     "closed_at": "2026-02-11",
     "author": "qq_42803442",
+    "title": "[Bug]: torch.compile内部会自动转成.contiguous，但是GE静态图缺了这个自动转contiguous的过程，导致了精度误差",
     "labels": [
       "bug"
     ],
@@ -2113,6 +2322,7 @@
     "created_at": "2026-01-09",
     "closed_at": "2026-01-15",
     "author": "qq_42803442",
+    "title": "[Bug]:  MatMulV2的右矩阵离线提前转置后再MM计算和转置在线随路做后再MM计算存在误差",
     "labels": [
       "bug"
     ],
@@ -2125,6 +2335,7 @@
     "created_at": "2026-01-09",
     "closed_at": "2026-01-14",
     "author": "hzp_gitcode",
+    "title": "[Bug]: 静态图模式测试时，all_to_all_single算子入参维度拦截而结束，注释拦截代码后，算子正常结束并且精度正确",
     "labels": [
       "bug"
     ],
@@ -2137,6 +2348,7 @@
     "created_at": "2026-01-08",
     "closed_at": "2026-02-11",
     "author": "m0_48677678",
+    "title": "[Usage]: 如何开启图模式咨询",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/256"
@@ -2147,6 +2359,7 @@
     "created_at": "2026-01-08",
     "closed_at": "2026-01-16",
     "author": "fanglanyue0916",
+    "title": "[Usage]: vllm 0.11 + CANN 8.5.0 开图模式，日志里打了capture+replay，但从profiling结果来看，并没有走图模式",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/255"
@@ -2157,6 +2370,7 @@
     "created_at": "2026-01-08",
     "closed_at": "2026-02-11",
     "author": "qq_26765989",
+    "title": "[Bug]: 社区CANN8.5alpha002+torch-npu2.8.0 以图模式运行sglang在draft worker初始化时报错，提示graph不能以不同stream运行",
     "labels": [
       "bug"
     ],
@@ -2169,6 +2383,7 @@
     "created_at": "2026-01-07",
     "closed_at": "2026-01-14",
     "author": "Sunyp01",
+    "title": "[Doc]: pr合入的标准",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/252"
@@ -2179,6 +2394,7 @@
     "created_at": "2026-01-07",
     "closed_at": "2026-01-07",
     "author": "shiyuyanHW",
+    "title": "[Usage]: codegen 生成ge构图api时报错",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/251"
@@ -2189,6 +2405,7 @@
     "created_at": "2026-01-07",
     "closed_at": "2026-01-07",
     "author": "JaneConan",
+    "title": "[Usage]: README中的二维码扫描提示该账号异常",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/250"
@@ -2199,6 +2416,7 @@
     "created_at": "2026-01-05",
     "closed_at": "2026-01-21",
     "author": "ChenCangtao",
+    "title": "[Bug]: vllm_ascend npugraph_ex使能静态kernel后程序退出时不会自动进行卸载",
     "labels": [
       "bug"
     ],
@@ -2211,6 +2429,7 @@
     "created_at": "2026-01-05",
     "closed_at": "2026-01-07",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: aclgraph老用例执行报错“cannot import name 'functionalize' from partially initialized module 'functorch'”",
     "labels": [
       "bug"
     ],
@@ -2223,6 +2442,7 @@
     "created_at": "2026-01-04",
     "closed_at": "2026-01-21",
     "author": "fangkang-fk",
+    "title": "[Bug]: TP=4的情况下，ACLGraph图在执行时会在HCCL通信阶段卡死",
     "labels": [
       "bug"
     ],
@@ -2235,6 +2455,7 @@
     "created_at": "2026-01-04",
     "closed_at": "2026-01-09",
     "author": "fengqiuyue",
+    "title": "[Feature]: 新增算子qkv_rms_norm_rope_cache，pta侧测试单算子和动态图精度没有问题，但是静态图精度有误",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/246"
@@ -2245,6 +2466,7 @@
     "created_at": "2025-12-31",
     "closed_at": "2026-01-07",
     "author": "hujiawen_kaven",
+    "title": "[Bug]: 使用torch.matmul，torch air图中多出tensor_move算子，导致后续SuperKernel aicore资源抢占死锁",
     "labels": [
       "bug"
     ],
@@ -2257,6 +2479,7 @@
     "created_at": "2025-12-31",
     "closed_at": "2026-01-06",
     "author": "lidacheng0505",
+    "title": "[Bug]: 模型入GE图后，报错：RuntimeError: Assert graph_data_->input_placements.size() == inputs.size() failed",
     "labels": [
       "bug"
     ],
@@ -2269,6 +2492,7 @@
     "created_at": "2025-12-30",
     "closed_at": "2026-01-21",
     "author": "YUZIWEI",
+    "title": "[Bug]: 注册自定义算子后，使用torchair后算子依然无法入图",
     "labels": [
       "bug"
     ],
@@ -2281,6 +2505,7 @@
     "created_at": "2025-12-29",
     "closed_at": "2025-12-30",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: aclgraph构造静态addrmsnorm+dynamicquant，通过自定义pass入图有精度问题",
     "labels": [
       "bug"
     ],
@@ -2293,6 +2518,7 @@
     "created_at": "2025-12-29",
     "closed_at": "2026-01-12",
     "author": "WenquanYang",
+    "title": "[Bug]: 图模式下引入额外stride和view copy操作",
     "labels": [
       "bug"
     ],
@@ -2305,6 +2531,7 @@
     "created_at": "2025-12-27",
     "closed_at": "2026-02-11",
     "author": "YUZIWEI",
+    "title": "[Feature]: 开源HiFloat8 仿真算子 Pytorch接口 ",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/240"
@@ -2315,6 +2542,7 @@
     "created_at": "2025-12-26",
     "closed_at": "2026-01-14",
     "author": "chenzhiyuan0913",
+    "title": "[Usage]: torch.npu.graph捕获的两张Aclgraph图能否在同一个stream内replay",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/239"
@@ -2325,6 +2553,7 @@
     "created_at": "2025-12-24",
     "closed_at": "2026-01-07",
     "author": "pppipipipi",
+    "title": "[Bug]: transpose在shape中有1时，会替换成reshape-transpose-reshape或者reshape，但是为什么transpose没有替换",
     "labels": [
       "bug"
     ],
@@ -2337,6 +2566,7 @@
     "created_at": "2025-12-23",
     "closed_at": "2026-01-07",
     "author": "caoziniu",
+    "title": "[Bug]: 自定义算子入图报错",
     "labels": [
       "bug"
     ],
@@ -2349,6 +2579,7 @@
     "created_at": "2025-12-23",
     "closed_at": "2026-02-11",
     "author": "pyf9999",
+    "title": "[Bug]: reduce-overhead 模式下，跑qwen2.5-vl-7B 报错： Not allow to synchronize captured-stream, stream_id=7",
     "labels": [
       "bug"
     ],
@@ -2361,6 +2592,7 @@
     "created_at": "2025-12-22",
     "closed_at": "2026-01-07",
     "author": "qq_36620946",
+    "title": "[Bug]:ModuleNotFoundError: No module named 'torchvision_npu'",
     "labels": [
       "bug"
     ],
@@ -2373,6 +2605,7 @@
     "created_at": "2025-12-22",
     "closed_at": "2026-01-07",
     "author": "qq_36620946",
+    "title": "[Usage]: 是否可以在Ascend 310B4芯片上用昇腾NPU运行Qwen2.5-VL-3B模型",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/234"
@@ -2383,6 +2616,7 @@
     "created_at": "2025-12-22",
     "closed_at": "2026-01-07",
     "author": "ChenCangtao",
+    "title": "[Bug]: 使能静态kernel后部分算子出现性能劣化",
     "labels": [
       "bug"
     ],
@@ -2395,6 +2629,7 @@
     "created_at": "2025-12-22",
     "closed_at": "2026-01-21",
     "author": "qq_40981258",
+    "title": "[Bug]: 算子融合如何关闭",
     "labels": [
       "bug"
     ],
@@ -2407,6 +2642,7 @@
     "created_at": "2025-12-19",
     "closed_at": "2026-01-07",
     "author": "lss07",
+    "title": "[Bug]: 开启torchair之后，TensorMove算子耗时飙升",
     "labels": [
       "bug"
     ],
@@ -2419,6 +2655,7 @@
     "created_at": "2025-12-19",
     "closed_at": "2026-01-07",
     "author": "qq_42803442",
+    "title": "[Bug]: 进行torch.compile时报错退出",
     "labels": [
       "bug"
     ],
@@ -2431,6 +2668,7 @@
     "created_at": "2025-12-18",
     "closed_at": "2025-12-18",
     "author": "j00844998",
+    "title": "[Usage]:图模式报错torch.ops.aten._assert_async.msg ge_converter is not implemented!",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/229"
@@ -2441,6 +2679,7 @@
     "created_at": "2025-12-17",
     "closed_at": "2026-01-07",
     "author": "karongitcode",
+    "title": "[Bug]: aclgraph的缓存编译用例，在使用比较新的torch_npu + C23商分cann时，有runtime报错",
     "labels": [
       "bug"
     ],
@@ -2453,6 +2692,7 @@
     "created_at": "2025-12-17",
     "closed_at": "2025-12-17",
     "author": "j00844998",
+    "title": "[Usage]: 基于transformers使能torchair",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/227"
@@ -2463,6 +2703,7 @@
     "created_at": "2025-12-17",
     "closed_at": "2026-02-02",
     "author": "Enlion91",
+    "title": "[Feature]: 提供GE编译的对应信息，支持torchair和om的逐层精度比对",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/226"
@@ -2473,6 +2714,7 @@
     "created_at": "2025-12-17",
     "closed_at": "2025-12-19",
     "author": "wuyewei",
+    "title": "[Usage]: 新适配算子 pytorch 入图遇到报错：The dim size of Ascend GE graph NetOutput: [] is not equal to FX graph NetOutput: [1 1 2 2 2]",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/225"
@@ -2483,6 +2725,7 @@
     "created_at": "2025-12-17",
     "closed_at": "2025-12-17",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: 老用例最近两天的PTA包执行报错",
     "labels": [
       "bug"
     ],
@@ -2495,6 +2738,7 @@
     "created_at": "2025-12-16",
     "closed_at": "2026-01-07",
     "author": "l_ss_l",
+    "title": "[Bug]: compiled_module被自动删除",
     "labels": [
       "bug"
     ],
@@ -2507,6 +2751,7 @@
     "created_at": "2025-12-16",
     "closed_at": "2025-12-17",
     "author": "wm901115187",
+    "title": "[Usage]: npugraph_ex",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/222"
@@ -2517,6 +2762,7 @@
     "created_at": "2025-12-15",
     "closed_at": "2026-03-12",
     "author": "wangqiang160",
+    "title": "[Feature]: aclgraph模式下头开销优化",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/221"
@@ -2527,6 +2773,7 @@
     "created_at": "2025-12-15",
     "closed_at": "2025-12-25",
     "author": "Evan112233",
+    "title": "[Bug]: cache compile编译后加载cache，推理正确，但是不编译，纯加载，推理精度异常",
     "labels": [
       "bug"
     ],
@@ -2539,6 +2786,7 @@
     "created_at": "2025-12-15",
     "closed_at": "2026-01-07",
     "author": "QXxX3",
+    "title": "[Bug]: 无法在图外对allgather张量做slicing",
     "labels": [
       "bug"
     ],
@@ -2551,6 +2799,7 @@
     "created_at": "2025-12-13",
     "closed_at": "2026-01-07",
     "author": "qq_40981258",
+    "title": "[Bug]: 进行图编译时发生core dumped",
     "labels": [
       "bug"
     ],
@@ -2563,6 +2812,7 @@
     "created_at": "2025-12-12",
     "closed_at": "2025-12-13",
     "author": "qq_40981258",
+    "title": "[Bug]: ",
     "labels": [
       "bug"
     ],
@@ -2575,6 +2825,7 @@
     "created_at": "2025-12-12",
     "closed_at": "2025-12-25",
     "author": "zihan0007",
+    "title": "[Bug]: torchair升级版本后，离线模型输入顺序有改变",
     "labels": [
       "bug"
     ],
@@ -2587,6 +2838,7 @@
     "created_at": "2025-12-11",
     "closed_at": "2026-01-07",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: aclgraph，自定义算子走自动Functionalize报错：unsupported operand type(s) for |: 'type' and 'NoneType'",
     "labels": [
       "bug"
     ],
@@ -2599,6 +2851,7 @@
     "created_at": "2025-12-11",
     "closed_at": "2025-12-11",
     "author": "zihan0007",
+    "title": "[Feature]: .Tensor用法没法使用",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/214"
@@ -2609,6 +2862,7 @@
     "created_at": "2025-12-10",
     "closed_at": "2025-12-25",
     "author": "muzhiyu6",
+    "title": "[Bug]: alltoallv 输入为0时，sendcount和recvcount类型不一致",
     "labels": [
       "bug"
     ],
@@ -2621,6 +2875,7 @@
     "created_at": "2025-12-09",
     "closed_at": "2026-01-12",
     "author": "m0_51146788",
+    "title": "[Bug]: torch._dynamo.exc.Unsupported: call_function BuiltinVariable(set) [GetAttrVariable(InspectSignatureVariable(), parameters)] {}，相同类型的报错较多，需一步一步适配",
     "labels": [
       "bug"
     ],
@@ -2633,6 +2888,7 @@
     "created_at": "2025-12-08",
     "closed_at": "2026-01-07",
     "author": "qq_42133073",
+    "title": "[Bug]: 使用内置codegen工具生成算子api时发生编译错误",
     "labels": [
       "bug"
     ],
@@ -2645,6 +2901,7 @@
     "created_at": "2025-12-08",
     "closed_at": "2025-12-08",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: aclgraph多流使用record/wait报错“tagged event tag xxxx is already in use”",
     "labels": [
       "bug"
     ],
@@ -2657,6 +2914,7 @@
     "created_at": "2025-12-08",
     "closed_at": "2026-01-07",
     "author": "l_ss_l",
+    "title": "[Bug]: 同一DiT模型，在简单的单进程环境下可以运行，在多线程环境中Graph is already running, can't be run again",
     "labels": [
       "bug"
     ],
@@ -2669,6 +2927,7 @@
     "created_at": "2025-12-08",
     "closed_at": "2026-01-07",
     "author": "qq_42133073",
+    "title": "[Bug]: npu_dequant_rope_quant_kvcache导出报属性不存在错误",
     "labels": [
       "bug"
     ],
@@ -2681,6 +2940,7 @@
     "created_at": "2025-12-05",
     "closed_at": "2025-12-25",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: aclgraph使能固定权重类输入地址功能，2.6上没有对应日志，2.1上有",
     "labels": [
       "bug"
     ],
@@ -2693,6 +2953,7 @@
     "created_at": "2025-12-04",
     "closed_at": "2025-12-17",
     "author": "fmlgg123",
+    "title": "[Bug]:算子调用 torch.compile(npu_mode, fullgraph=True, backend=npu_backend, dynamic=True)时报错Unable to cast Python instance of type <class 'int'> to C++ type '?' ",
     "labels": [
       "bug"
     ],
@@ -2705,6 +2966,7 @@
     "created_at": "2025-12-04",
     "closed_at": "2025-12-17",
     "author": "qq_4366884cz",
+    "title": "[Bug]: 模型编译缓存使用脚本示例在torch2.6上报错，在2.1上不报错",
     "labels": [
       "bug"
     ],
@@ -2717,6 +2979,7 @@
     "created_at": "2025-12-03",
     "closed_at": "2025-12-15",
     "author": "gh_M",
+    "title": "[Bug]: PTA测试静态图模式精度异常",
     "labels": [
       "bug"
     ],
@@ -2729,6 +2992,7 @@
     "created_at": "2025-12-03",
     "closed_at": "2025-12-15",
     "author": "weixin_47802987",
+    "title": "[Bug]: http服务正常推理，websocket报错，torchair在图编译时输入放在cpu",
     "labels": [
       "bug"
     ],
@@ -2741,6 +3005,7 @@
     "created_at": "2025-12-02",
     "closed_at": "2025-12-17",
     "author": "muzhiyu6",
+    "title": "[Bug]: torchair图const 和 data类型询问",
     "labels": [
       "bug"
     ],
@@ -2753,6 +3018,7 @@
     "created_at": "2025-12-02",
     "closed_at": "2025-12-17",
     "author": "huahuamiaomiao",
+    "title": "[Bug]: add_rms_norm + relu构图，aclgraph模式+多流场景下会有精度问题",
     "labels": [
       "bug"
     ],
@@ -2765,6 +3031,7 @@
     "created_at": "2025-11-29",
     "closed_at": "2025-12-03",
     "author": "rui-zhang",
+    "title": "[Bug]: kvcache NZ 场景ge_graph精度问题",
     "labels": [
       "bug"
     ],
@@ -2777,6 +3044,7 @@
     "created_at": "2025-11-29",
     "closed_at": "2025-12-17",
     "author": "gcw_R1EWSQoI",
+    "title": "[Bug]: torchair和if条件判断是不是有冲突",
     "labels": [
       "bug"
     ],
@@ -2789,6 +3057,7 @@
     "created_at": "2025-11-29",
     "closed_at": "2025-12-17",
     "author": "qq_46005380",
+    "title": "[Bug]: 图模式下自定义算子未执行",
     "labels": [
       "bug"
     ],
@@ -2801,6 +3070,7 @@
     "created_at": "2025-11-28",
     "closed_at": "2025-12-17",
     "author": "gcw_R1EWSQoI",
+    "title": "[Bug]: FA入图后精度异常",
     "labels": [
       "bug"
     ],
@@ -2813,6 +3083,7 @@
     "created_at": "2025-11-28",
     "closed_at": "2025-12-17",
     "author": "WenquanYang",
+    "title": "[Bug]: 对NZ矩阵使用Allgather后格式变成ND与Eager模式表现行为不同",
     "labels": [
       "bug"
     ],
@@ -2825,6 +3096,7 @@
     "created_at": "2025-11-27",
     "closed_at": "2025-12-25",
     "author": "gcw_R1EWSQoI",
+    "title": "[Bug]: rotary_mul在torchair后端报错",
     "labels": [
       "bug"
     ],
@@ -2837,6 +3109,7 @@
     "created_at": "2025-11-27",
     "closed_at": "2025-12-17",
     "author": "muzhiyu6",
+    "title": "[Bug]: 输入数据量为0的时候，GEdump图中获得的节点是const类型，而非pack",
     "labels": [
       "bug"
     ],
@@ -2849,6 +3122,7 @@
     "created_at": "2025-11-26",
     "closed_at": "2025-12-10",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: RuntimeError: bad optional access",
     "labels": [
       "bug"
     ],
@@ -2861,6 +3135,7 @@
     "created_at": "2025-11-26",
     "closed_at": "2025-11-27",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: 报错：torch._dynamo.exc.RecompileLimitExceeded: cache_size_limit reached",
     "labels": [
       "bug"
     ],
@@ -2873,6 +3148,7 @@
     "created_at": "2025-11-25",
     "closed_at": "2025-12-10",
     "author": "huahuamiaomiao",
+    "title": "[Bug]: RuntimeError: Unsupported convert torch type 6 to ge type",
     "labels": [
       "bug"
     ],
@@ -2885,6 +3161,7 @@
     "created_at": "2025-11-25",
     "closed_at": "2025-12-04",
     "author": "yyoean",
+    "title": "[Feature]: mc2 dispatch_v2 and combine_v2 add an optional input \"performance_info\"",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/190"
@@ -2895,6 +3172,7 @@
     "created_at": "2025-11-24",
     "closed_at": "2025-11-25",
     "author": "hjxbbbb",
+    "title": "[Bug]: kvRmsNormRopeCache算子入图时：PTA层级丢失原地更新的出参数据，导致整网精度下降",
     "labels": [
       "bug"
     ],
@@ -2907,6 +3185,7 @@
     "created_at": "2025-11-24",
     "closed_at": "2025-11-25",
     "author": "ZJ_230166",
+    "title": "[Bug]: ",
     "labels": [
       "bug"
     ],
@@ -2919,6 +3198,7 @@
     "created_at": "2025-11-24",
     "closed_at": "2025-12-04",
     "author": "tangyulong6",
+    "title": "[Doc]: 原地算子入图后引入了tensor move操作",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/186"
@@ -2929,6 +3209,7 @@
     "created_at": "2025-11-24",
     "closed_at": "2025-12-10",
     "author": "whh_yyl_123",
+    "title": "[Doc]: torch.distributed.all_gather 这种集合通信的操作，存在converter，请给出使用该算子并导出air的ut样例",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/185"
@@ -2939,6 +3220,7 @@
     "created_at": "2025-11-22",
     "closed_at": "2025-11-24",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: torch_npu 2.6.0执行报错“ Expected allocated_pointer != definitely_stale_pointers.end() to be true, but got false.”",
     "labels": [
       "bug"
     ],
@@ -2951,6 +3233,7 @@
     "created_at": "2025-11-21",
     "closed_at": "2025-12-04",
     "author": "ganon0327",
+    "title": "[Feature]: Torchair Max-Autotune图模式 支持从日志获取编译图的流分配信息",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/183"
@@ -2961,6 +3244,7 @@
     "created_at": "2025-11-20",
     "closed_at": "2025-11-24",
     "author": "chen-yuqi-ba",
+    "title": "[Bug]: 老用例执行报错，看报错是在cpu执行时的报错，像是走到inductor里了，将用例里cpu走torch.compile的部分注释掉，则能正常执行",
     "labels": [
       "bug"
     ],
@@ -2973,6 +3257,7 @@
     "created_at": "2025-11-20",
     "closed_at": "2025-11-24",
     "author": "kongdongbing",
+    "title": "[Doc]: typo in build.sh",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/181"
@@ -2983,6 +3268,7 @@
     "created_at": "2025-11-18",
     "closed_at": "2025-11-19",
     "author": "hjxbbbb",
+    "title": "[Bug]: KvRmsNormRopeCahce算子新增tensor v参数，入图模式调用PTA，v参数丢失,tiling中找不到",
     "labels": [
       "bug"
     ],
@@ -2995,6 +3281,7 @@
     "created_at": "2025-11-18",
     "closed_at": "2025-12-04",
     "author": "potato_ot",
+    "title": "[Bug]: torch._dynamo.exc.InternalTorchDynamoError: 'method_descriptor' object has no attribute '__module__'",
     "labels": [
       "bug"
     ],
@@ -3007,6 +3294,7 @@
     "created_at": "2025-11-18",
     "closed_at": "2025-12-04",
     "author": "gcw_cTL55Zcg",
+    "title": "[Bug]: torch_npu从2.1.0升级到2.6.0之后，deepseek模型step之间多出了10ms空隙",
     "labels": [
       "bug"
     ],
@@ -3019,6 +3307,7 @@
     "created_at": "2025-11-18",
     "closed_at": "2025-12-04",
     "author": "ouxiaofeng",
+    "title": "[Bug]: scatter_pa_kv_cache算子在个别层出现TensorMoVE",
     "labels": [
       "bug"
     ],
@@ -3031,6 +3320,7 @@
     "created_at": "2025-11-17",
     "closed_at": "2025-12-04",
     "author": "TaroKK",
+    "title": "[Feature]: generate_process_reqs_hidden_states的torchair耗时开销优化",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/176"
@@ -3041,6 +3331,7 @@
     "created_at": "2025-11-17",
     "closed_at": "2025-12-04",
     "author": "Enlion91",
+    "title": "[Bug]: 盘古大模型 Pytorch vs Torhchair 精度不一致",
     "labels": [
       "bug"
     ],
@@ -3053,6 +3344,7 @@
     "created_at": "2025-11-15",
     "closed_at": "2025-12-04",
     "author": "pppipipipi",
+    "title": "[Installation]:  Ops kernel [AIcoreEngine] is unsupported. Reason: [tbe-custom]:op type GroupedMatmulSwigluQuantV2 is not found in this op store.[tbe-custom]:op type GroupedMatmulSwigluQuantV2 is not ",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/174"
@@ -3063,6 +3355,7 @@
     "created_at": "2025-11-15",
     "closed_at": "2025-11-17",
     "author": "yangxinglong",
+    "title": "[Bug]: 310P未适配的算子",
     "labels": [
       "bug"
     ],
@@ -3075,6 +3368,7 @@
     "created_at": "2025-11-14",
     "closed_at": "2025-11-17",
     "author": "Sunyp01",
+    "title": "[Doc]: master分支ReadMe信息更新",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/171"
@@ -3085,6 +3379,7 @@
     "created_at": "2025-11-13",
     "closed_at": "2026-01-14",
     "author": "wangqianmia",
+    "title": "[Bug]: regional_compile下mode=reduce-overhead 开启内存复用精度不对",
     "labels": [
       "bug"
     ],
@@ -3097,6 +3392,7 @@
     "created_at": "2025-11-13",
     "closed_at": "2025-12-04",
     "author": "medivh-x",
+    "title": "[Feature]: Torchair支持自动函数化得到的FX图的编译与执行",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/169"
@@ -3107,6 +3403,7 @@
     "created_at": "2025-11-13",
     "closed_at": "2025-12-04",
     "author": "weixin_44564637",
+    "title": "[Bug]: dequant_swiglu_quant算子静态图报错",
     "labels": [
       "bug"
     ],
@@ -3119,6 +3416,7 @@
     "created_at": "2025-11-12",
     "closed_at": "2025-11-12",
     "author": "pppipipipi",
+    "title": "[Usage]: 适配算子图融合pass，什么时候需要考虑reshape节点",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/167"
@@ -3129,6 +3427,7 @@
     "created_at": "2025-11-10",
     "closed_at": "2025-11-12",
     "author": "wang-yazhengg",
+    "title": "[Bug]: torch.npu.NPUGraph()+npu_stream_switch未按预取创建多流",
     "labels": [
       "bug"
     ],
@@ -3141,6 +3440,7 @@
     "created_at": "2025-11-10",
     "closed_at": "2025-12-04",
     "author": "x1314aq",
+    "title": "[Usage]: torchair图编译后报了一个OOM错误，显示需要HBM 79GB，如何查看每个算子占用多少HBM内存",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/165"
@@ -3151,6 +3451,7 @@
     "created_at": "2025-11-10",
     "closed_at": "2025-12-04",
     "author": "weixin_47253752",
+    "title": "[Bug]: 自定义算子插件化入图时报没有实现Meta函数，实际已经实现",
     "labels": [
       "bug"
     ],
@@ -3163,6 +3464,7 @@
     "created_at": "2025-11-10",
     "closed_at": "2025-12-04",
     "author": "yaolu_happy",
+    "title": "[Bug]: 使用moe init routing v3算子的动态图模式出现错误MemoryError: std::bad_alloc ",
     "labels": [
       "bug"
     ],
@@ -3175,6 +3477,7 @@
     "created_at": "2025-11-10",
     "closed_at": "2025-11-11",
     "author": "m0_37870649",
+    "title": "[Usage]: 请问torch 2.5.1以及以上版本，建议用哪一个？ 我这边一个模型在2.1.0上执行OK，然后在2.5.1和2.6.0上执行均报错",
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/162"
@@ -3185,6 +3488,7 @@
     "created_at": "2025-11-07",
     "closed_at": "2025-12-16",
     "author": "wangqiang160",
+    "title": "[Feature]: Torchair增强aclgraph场景的内存复用能力",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/161"
@@ -3195,6 +3499,7 @@
     "created_at": "2025-11-07",
     "closed_at": "2025-12-04",
     "author": "chenyu10",
+    "title": "[Bug]: 使用with limit_core_num控cast操作核数失效，moe其他算子核数控制正常，cast失效",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/160"
@@ -3205,6 +3510,7 @@
     "created_at": "2025-11-07",
     "closed_at": "2025-12-04",
     "author": "m0_37870649",
+    "title": "[Usage]: 请问torchair能够对同一个模型多次执行编译嘛？",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/159"
@@ -3215,6 +3521,7 @@
     "created_at": "2025-11-07",
     "closed_at": "2025-11-10",
     "author": "qq_40981258",
+    "title": "[Bug]: dynamic=True时，报 op[QuantBatchMatmulV3_3], [InferShape] The k-axis of a(1) and b(1280) tensors must be the same[FUNC:InferShape][FILE:matmul_infer_fns.cc][LINE:400]",
     "labels": [
       "bug"
     ],
@@ -3227,6 +3534,7 @@
     "created_at": "2025-11-06",
     "closed_at": "2025-12-10",
     "author": "fu-hao-huawei",
+    "title": "[Feature]: torchair-ge支持自动函数化（auto-functionalize）",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/157"
@@ -3237,6 +3545,7 @@
     "created_at": "2025-11-06",
     "closed_at": "2025-11-07",
     "author": "jzj007",
+    "title": "[Bug]: 算子静态图获取输出shape始终为(1,)，动态图获取不到attr，报错为空指针",
     "labels": [
       "bug"
     ],
@@ -3249,6 +3558,7 @@
     "created_at": "2025-11-06",
     "closed_at": "2025-11-10",
     "author": "HannahJudy",
+    "title": "[Bug]: NotImplementedError: torch.ops.aten.set_.source_Tensor ge_converter is not implemented!",
     "labels": [
       "bug"
     ],
@@ -3261,6 +3571,7 @@
     "created_at": "2025-11-06",
     "closed_at": "2026-01-14",
     "author": "Sunyp01",
+    "title": "[Feature]: Torchair提供FX图多流表达与执行能力",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/154"
@@ -3271,6 +3582,7 @@
     "created_at": "2025-11-06",
     "closed_at": "2025-11-24",
     "author": "Sunyp01",
+    "title": "[Bug]: 升级torch_npu 2.7.1后，特定组合情况下，会导致单测大面积失 与 aclgraph mem reuse相关",
     "labels": [
       "bug"
     ],
@@ -3283,6 +3595,7 @@
     "created_at": "2025-11-06",
     "closed_at": "2025-12-10",
     "author": "Sunyp01",
+    "title": "[Feature]: torchair支持xpu_graph的cache",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/152"
@@ -3293,6 +3606,7 @@
     "created_at": "2025-11-06",
     "closed_at": "2026-01-20",
     "author": "Sunyp01",
+    "title": "[Feature]: 当前torchair图模式并不支持index_put算子， 基础的算子目前不实现没法使用图模式。",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/151"
@@ -3303,6 +3617,7 @@
     "created_at": "2025-11-06",
     "closed_at": "2025-12-10",
     "author": "Sunyp01",
+    "title": "[Feature]: Torchair提供FX图编译结果的保存与加载能力",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/150"
@@ -3313,6 +3628,7 @@
     "created_at": "2025-11-06",
     "closed_at": "2025-12-10",
     "author": "Sunyp01",
+    "title": "[Feature]: Torchair完整DEBUG信息落盘",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/149"
@@ -3323,6 +3639,7 @@
     "created_at": "2025-11-06",
     "closed_at": "2026-01-14",
     "author": "Sunyp01",
+    "title": "[Bug]: 自定义算子在torchair图模式下，dump.type = \"py\"图文件缺失信息",
     "labels": [
       "bug"
     ],
@@ -3335,6 +3652,7 @@
     "created_at": "2025-11-06",
     "closed_at": "2025-12-23",
     "author": "Sunyp01",
+    "title": "[Feature]: _npu_paged_attention支持tiling更新",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/147"
@@ -3345,6 +3663,7 @@
     "created_at": "2025-11-04",
     "closed_at": "2025-12-03",
     "author": "Evan112233",
+    "title": "[Bug]: torchair.inference.cache_compile，报了insufficient memory的报错",
     "labels": [
       "bug"
     ],
@@ -3357,6 +3676,7 @@
     "created_at": "2025-11-04",
     "closed_at": "2025-11-05",
     "author": "jinyuan-zhang",
+    "title": "[Bug]: npu._npu_dropout补齐Converter时报错",
     "labels": [
       "bug"
     ],
@@ -3369,6 +3689,7 @@
     "created_at": "2025-11-04",
     "closed_at": "2025-12-03",
     "author": "zhukkk",
+    "title": "[Feature]: torchair支持aclgraph debug dump",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/142"
@@ -3379,6 +3700,7 @@
     "created_at": "2025-11-03",
     "closed_at": "2025-11-14",
     "author": "dddxhh",
+    "title": "[Feature]: torchair aclgraph场景下，zeros_like的使用优化",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/141"
@@ -3389,6 +3711,7 @@
     "created_at": "2025-11-03",
     "closed_at": "2026-01-07",
     "author": "wang-pierre-jiacheng",
+    "title": "[Roadmap]: Torchair Roadmap 2025",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/140"
@@ -3399,6 +3722,7 @@
     "created_at": "2025-11-03",
     "closed_at": "2025-11-27",
     "author": "tangjie66",
+    "title": "[Feature]: 提供对于fx图中部分算子（addrmsnorm和dynamicquant，addrmsnorm和cast）的融合替换能力，优化aclgraph下ds整网性能",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/139"
@@ -3409,6 +3733,7 @@
     "created_at": "2025-11-03",
     "closed_at": "2026-01-14",
     "author": "dingdairong",
+    "title": "[Doc]: max-autotune模式下，走GE图编译，怎么判断编译之后的图是静态图/动态图，编译成静态图的条件是什么，dump图中的shape中的-1代表什么，缺少资料说明",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/138"
@@ -3419,6 +3744,7 @@
     "created_at": "2025-11-03",
     "closed_at": "2025-12-04",
     "author": "kita-ikuyo",
+    "title": "[Bug]: aclgraph多个输出间存在view关系时，输出的shape会被改变",
     "labels": [
       "bug"
     ],
@@ -3431,6 +3757,7 @@
     "created_at": "2025-10-30",
     "closed_at": "2025-11-19",
     "author": "xdsunflower",
+    "title": "[Bug]: [MY] 1030版本拉起dsr1模型出现SplitV_1算子编译失败",
     "labels": [
       "bug"
     ],
@@ -3443,6 +3770,7 @@
     "created_at": "2025-08-18",
     "closed_at": "2025-11-19",
     "author": "wangqiang160",
+    "title": "aclgraph 使能常见问题分析",
     "labels": [],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/84"
@@ -3453,6 +3781,7 @@
     "created_at": "2025-04-24",
     "closed_at": "2025-05-06",
     "author": "sunbaosong",
+    "title": "推理优化每次deocde阶段cache_compile中的lookup动作",
     "labels": [],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/20"
@@ -3463,6 +3792,7 @@
     "created_at": "2024-11-20",
     "closed_at": "2025-10-29",
     "author": "sun_jie001",
+    "title": "关于torchair疑问",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/134"
@@ -3473,6 +3803,7 @@
     "created_at": "2024-11-20",
     "closed_at": "2025-10-29",
     "author": "sun_jie001",
+    "title": "拉取master编译有异常",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/118"
@@ -3483,6 +3814,7 @@
     "created_at": "2024-05-29",
     "closed_at": "2025-10-29",
     "author": "XingSongSun",
+    "title": "模型训练时指定自定义融合规则配置文件，训练报错",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/11"
@@ -3493,6 +3825,7 @@
     "created_at": "2024-02-28",
     "closed_at": "2025-10-29",
     "author": "gfmyeung",
+    "title": "编译后跑`python example.py` undefined_symbol",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/114"

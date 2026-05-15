@@ -1326,8 +1326,8 @@ async function main() {
       // 2. 非requirement且超过14天未关闭的issue（按创建时间降序）
       const nonRequirementOver14d = issues.filter(i => {
         if (i.state !== 'opened') return false;
-        const labels = i.labels || [];
-        const isRequirement = labels.some(l => l.toLowerCase().includes('requirement'));
+        const title = (i.title || '');
+        const isRequirement = title.includes('[RFC]') || title.includes('[Feature-Request|需求反馈]');
         if (isRequirement) return false;
         const created = new Date(i.created_at);
         return (now - created) > fourteenDaysMs;
@@ -1336,8 +1336,8 @@ async function main() {
       // 3. requirement且超过90天未关闭的issue（按创建时间降序）
       const requirementOver90d = issues.filter(i => {
         if (i.state !== 'opened') return false;
-        const labels = i.labels || [];
-        const isRequirement = labels.some(l => l.toLowerCase().includes('requirement'));
+        const title = (i.title || '');
+        const isRequirement = title.includes('[RFC]') || title.includes('[Feature-Request|需求反馈]');
         if (!isRequirement) return false;
         const created = new Date(i.created_at);
         return (now - created) > ninetyDaysMs;
