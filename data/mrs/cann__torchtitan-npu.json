@@ -2,1577 +2,2168 @@
   {
     "iid": 197,
     "state": "opened",
+    "title": "[feat] support sft for qwen3-30B-A3B",
     "created_at": "2026-05-14",
+    "updated_at": "2026-05-15",
     "merged_at": "",
     "closed_at": "",
-    "author": "zzyyjj012"
+    "author": "zzyyjj012",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/197"
   },
   {
     "iid": 196,
     "state": "opened",
+    "title": "support smla&li fusion kernel",
     "created_at": "2026-05-14",
+    "updated_at": "2026-05-14",
     "merged_at": "",
     "closed_at": "",
-    "author": "rui-zhang"
+    "author": "rui-zhang",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/196"
   },
   {
     "iid": 195,
     "state": "opened",
+    "title": "[refactor] adapt dsv32 model",
     "created_at": "2026-05-14",
+    "updated_at": "2026-05-14",
     "merged_at": "",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/195"
   },
   {
     "iid": 194,
     "state": "opened",
+    "title": "[docs] update docs after refacor config system",
     "created_at": "2026-05-14",
+    "updated_at": "2026-05-14",
     "merged_at": "",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/194"
   },
   {
     "iid": 193,
     "state": "opened",
+    "title": "CI TEST",
     "created_at": "2026-05-13",
+    "updated_at": "2026-05-14",
     "merged_at": "",
     "closed_at": "",
-    "author": "wangyunxiang1"
+    "author": "wangyunxiang1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/193"
   },
   {
     "iid": 192,
     "state": "merged",
+    "title": "docs: 更新文件 muon_optimizer.md",
     "created_at": "2026-05-13",
+    "updated_at": "2026-05-13",
     "merged_at": "2026-05-13",
     "closed_at": "",
-    "author": "dty_30041779"
+    "author": "dty_30041779",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/192"
   },
   {
     "iid": 191,
     "state": "merged",
+    "title": "[refactor] Refactored kl loss to avoid recomputation cost - v0.2.2",
     "created_at": "2026-05-13",
+    "updated_at": "2026-05-14",
     "merged_at": "2026-05-14",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/191"
   },
   {
     "iid": 190,
     "state": "opened",
+    "title": "support dsv4 pro model",
     "created_at": "2026-05-13",
+    "updated_at": "2026-05-13",
     "merged_at": "",
     "closed_at": "",
-    "author": "zhaowei1936"
+    "author": "zhaowei1936",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/190"
   },
   {
     "iid": 189,
     "state": "merged",
+    "title": "删除配置文件中的无意义load_step参数",
     "created_at": "2026-05-12",
+    "updated_at": "2026-05-13",
     "merged_at": "2026-05-13",
     "closed_at": "",
-    "author": "yanxiang123456"
+    "author": "yanxiang123456",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/189"
   },
   {
     "iid": 188,
     "state": "opened",
+    "title": "[refactor] Adapt deepseek-v4 to main",
     "created_at": "2026-05-12",
+    "updated_at": "2026-05-14",
     "merged_at": "",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/188"
   },
   {
     "iid": 187,
     "state": "closed",
+    "title": "把load_step = 0 删除，这个冗余参数无意义",
     "created_at": "2026-05-12",
+    "updated_at": "2026-05-12",
     "merged_at": "",
     "closed_at": "2026-05-12",
-    "author": "yanxiang123456"
+    "author": "yanxiang123456",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/187"
   },
   {
     "iid": 186,
     "state": "opened",
+    "title": "[ci] Re-enabled lint(maybe ut)",
     "created_at": "2026-05-12",
+    "updated_at": "2026-05-12",
     "merged_at": "",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/186"
   },
   {
     "iid": 185,
     "state": "merged",
+    "title": "[fix]triton mhc post support dim=7168",
     "created_at": "2026-05-12",
+    "updated_at": "2026-05-12",
     "merged_at": "2026-05-12",
     "closed_at": "",
-    "author": "zzyyjj012"
+    "author": "zzyyjj012",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/185"
   },
   {
     "iid": 184,
     "state": "opened",
+    "title": "[docs] Modify toml, use virtual_optimizer.",
     "created_at": "2026-05-12",
+    "updated_at": "2026-05-12",
     "merged_at": "",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/184"
   },
   {
     "iid": 183,
     "state": "opened",
+    "title": "[refactor] Enable mla absorb mode with ModelCustomConfig",
     "created_at": "2026-05-11",
+    "updated_at": "2026-05-11",
     "merged_at": "",
     "closed_at": "",
-    "author": "zhaiyukun"
+    "author": "zhaiyukun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/183"
   },
   {
     "iid": 182,
     "state": "opened",
+    "title": "[WIP] [refactor] Refactored kl loss to avoid recomputation cost",
     "created_at": "2026-05-09",
+    "updated_at": "2026-05-14",
     "merged_at": "",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/182"
   },
   {
     "iid": 181,
     "state": "merged",
+    "title": "[fix] fix virtual_optimizer.py",
     "created_at": "2026-05-09",
+    "updated_at": "2026-05-09",
     "merged_at": "2026-05-09",
     "closed_at": "",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/181"
   },
   {
     "iid": 180,
     "state": "merged",
+    "title": "[feat]support distributed muon optimizer and virtual allocator",
     "created_at": "2026-05-09",
+    "updated_at": "2026-05-11",
     "merged_at": "2026-05-11",
     "closed_at": "",
-    "author": "zzyyjj012"
+    "author": "zzyyjj012",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/180"
   },
   {
     "iid": 179,
     "state": "merged",
+    "title": "[feat] cherry-pick：Support checkpoint load and use for virtual_optimizer.",
     "created_at": "2026-05-09",
+    "updated_at": "2026-05-09",
     "merged_at": "2026-05-09",
     "closed_at": "",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/179"
   },
   {
     "iid": 178,
     "state": "merged",
+    "title": "[fix] fix virtual_optimizer.py",
     "created_at": "2026-05-09",
+    "updated_at": "2026-05-09",
     "merged_at": "2026-05-09",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/178"
   },
   {
     "iid": 177,
     "state": "merged",
+    "title": "[Feat]cherry-pick: Add virtual_optimizer for torchtitan_npu.",
     "created_at": "2026-05-09",
+    "updated_at": "2026-05-09",
     "merged_at": "2026-05-09",
     "closed_at": "",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/177"
   },
   {
     "iid": 176,
     "state": "merged",
+    "title": "Cherry-picking smoke test scripts",
     "created_at": "2026-05-09",
+    "updated_at": "2026-05-09",
     "merged_at": "2026-05-09",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/176"
   },
   {
     "iid": 175,
     "state": "merged",
+    "title": "[refactor] breaking update !  refactor config system to adapt torchtitan main branch",
     "created_at": "2026-05-09",
+    "updated_at": "2026-05-11",
     "merged_at": "2026-05-11",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/175"
   },
   {
     "iid": 174,
     "state": "merged",
+    "title": "[docs] fix low_precision_training.md",
     "created_at": "2026-05-09",
+    "updated_at": "2026-05-09",
     "merged_at": "2026-05-09",
     "closed_at": "",
-    "author": "MissingPompeii"
+    "author": "MissingPompeii",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/174"
   },
   {
     "iid": 173,
     "state": "merged",
+    "title": "[fix] Fix MoE hash routing table to select from all experts",
     "created_at": "2026-05-08",
+    "updated_at": "2026-05-09",
     "merged_at": "2026-05-09",
     "closed_at": "",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/173"
   },
   {
     "iid": 172,
     "state": "merged",
+    "title": "[fix]triton mhc post support dim=7168",
     "created_at": "2026-05-07",
+    "updated_at": "2026-05-11",
     "merged_at": "2026-05-11",
     "closed_at": "",
-    "author": "zzyyjj012"
+    "author": "zzyyjj012",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/172"
   },
   {
     "iid": 171,
     "state": "merged",
+    "title": "[fix] Fix MoE hash routing table to select from all experts",
     "created_at": "2026-05-07",
+    "updated_at": "2026-05-07",
     "merged_at": "2026-05-07",
     "closed_at": "",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/171"
   },
   {
     "iid": 170,
     "state": "merged",
+    "title": "[feat] Support checkpoint load and use for virtual_optimizer.",
     "created_at": "2026-05-07",
+    "updated_at": "2026-05-09",
     "merged_at": "2026-05-09",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/170"
   },
   {
     "iid": 169,
     "state": "merged",
+    "title": "补充云平台开发最小样例README",
     "created_at": "2026-05-07",
+    "updated_at": "2026-05-07",
     "merged_at": "2026-05-07",
     "closed_at": "",
-    "author": "liuyuanchen1"
+    "author": "liuyuanchen1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/169"
   },
   {
     "iid": 168,
     "state": "opened",
+    "title": "[feat]support dist muon and virtual allocator",
     "created_at": "2026-05-06",
+    "updated_at": "2026-05-13",
     "merged_at": "",
     "closed_at": "",
-    "author": "zzyyjj012"
+    "author": "zzyyjj012",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/168"
   },
   {
     "iid": 167,
     "state": "merged",
+    "title": "[feat] add DeepSeek-V4 CP support for ratio1 and ratio128",
     "created_at": "2026-04-30",
+    "updated_at": "2026-05-09",
     "merged_at": "2026-05-09",
     "closed_at": "",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/167"
   },
   {
     "iid": 166,
     "state": "merged",
+    "title": "[fix] Fixed several bugs in smoke_test",
     "created_at": "2026-04-30",
+    "updated_at": "2026-05-06",
     "merged_at": "2026-05-06",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/166"
   },
   {
     "iid": 165,
     "state": "opened",
+    "title": "[feat] Add hooks for Claude Code and OpenCode to automatically load skills.",
     "created_at": "2026-04-30",
+    "updated_at": "2026-05-12",
     "merged_at": "",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/165"
   },
   {
     "iid": 164,
     "state": "merged",
+    "title": "[ci] Worked on ci scripts",
     "created_at": "2026-04-30",
+    "updated_at": "2026-04-30",
     "merged_at": "2026-04-30",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/164"
   },
   {
     "iid": 163,
     "state": "merged",
+    "title": "feat : 补充云平台单卡用例",
     "created_at": "2026-04-29",
+    "updated_at": "2026-04-30",
     "merged_at": "2026-04-30",
     "closed_at": "",
-    "author": "liuyuanchen1"
+    "author": "liuyuanchen1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/163"
   },
   {
     "iid": 162,
     "state": "closed",
+    "title": "[WIP]support muon and adamw for virtual optimizer v2",
     "created_at": "2026-04-28",
+    "updated_at": "2026-04-30",
     "merged_at": "",
     "closed_at": "2026-04-30",
-    "author": "zzyyjj012"
+    "author": "zzyyjj012",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/162"
   },
   {
     "iid": 161,
     "state": "opened",
+    "title": "[feat] add rms_norm for tilelang",
     "created_at": "2026-04-28",
+    "updated_at": "2026-05-08",
     "merged_at": "",
     "closed_at": "",
-    "author": "zouqian"
+    "author": "zouqian",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/161"
   },
   {
     "iid": 160,
     "state": "merged",
+    "title": "文档修复",
     "created_at": "2026-04-28",
+    "updated_at": "2026-04-30",
     "merged_at": "2026-04-30",
     "closed_at": "",
-    "author": "weixin_47893573"
+    "author": "weixin_47893573",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/160"
   },
   {
     "iid": 159,
     "state": "merged",
+    "title": "路径拼写错误",
     "created_at": "2026-04-27",
+    "updated_at": "2026-04-30",
     "merged_at": "2026-04-30",
     "closed_at": "",
-    "author": "Yong-An"
+    "author": "Yong-An",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/159"
   },
   {
     "iid": 158,
     "state": "merged",
+    "title": "fix: DeepSeek名称大小写统一",
     "created_at": "2026-04-27",
+    "updated_at": "2026-04-29",
     "merged_at": "2026-04-29",
     "closed_at": "",
-    "author": "aoyoukeji"
+    "author": "aoyoukeji",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/158"
   },
   {
     "iid": 157,
     "state": "closed",
+    "title": "[WIP]fix: DeepSeek 名字大小写统一",
     "created_at": "2026-04-27",
+    "updated_at": "2026-04-27",
     "merged_at": "",
     "closed_at": "2026-04-27",
-    "author": "aoyoukeji"
+    "author": "aoyoukeji",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/157"
   },
   {
     "iid": 156,
     "state": "closed",
+    "title": "[WIP]fix: readme文件中DeepSeek 大小写统一化",
     "created_at": "2026-04-27",
+    "updated_at": "2026-04-27",
     "merged_at": "",
     "closed_at": "2026-04-27",
-    "author": "aoyoukeji"
+    "author": "aoyoukeji",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/156"
   },
   {
     "iid": 155,
     "state": "closed",
+    "title": "路径拼写错误",
     "created_at": "2026-04-27",
+    "updated_at": "2026-04-27",
     "merged_at": "",
     "closed_at": "2026-04-27",
-    "author": "Yong-An"
+    "author": "Yong-An",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/155"
   },
   {
     "iid": 154,
     "state": "merged",
+    "title": "[fix] Added devcontainer workflow; Fixed active UTs",
     "created_at": "2026-04-27",
+    "updated_at": "2026-04-28",
     "merged_at": "2026-04-28",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/154"
   },
   {
     "iid": 153,
     "state": "opened",
+    "title": "[WIP][feat] add rms_norm for tilelang",
     "created_at": "2026-04-25",
+    "updated_at": "2026-05-08",
     "merged_at": "",
     "closed_at": "",
-    "author": "zouqian"
+    "author": "zouqian",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/153"
   },
   {
     "iid": 152,
     "state": "merged",
+    "title": "[Feat]Add virtual_optimizer for torchtitan_npu.",
     "created_at": "2026-04-25",
+    "updated_at": "2026-04-30",
     "merged_at": "2026-04-30",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/152"
   },
   {
     "iid": 151,
     "state": "opened",
+    "title": "[docs] add tilelang_ops.md",
     "created_at": "2026-04-25",
+    "updated_at": "2026-05-08",
     "merged_at": "",
     "closed_at": "",
-    "author": "zouqian"
+    "author": "zouqian",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/151"
   },
   {
     "iid": 150,
     "state": "merged",
+    "title": "Adjust the import order of mindspeed",
     "created_at": "2026-04-25",
+    "updated_at": "2026-04-25",
     "merged_at": "2026-04-25",
     "closed_at": "",
-    "author": "liuyuanchen1"
+    "author": "liuyuanchen1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/150"
   },
   {
     "iid": 149,
     "state": "closed",
+    "title": "fix: support swiglu limit in GMM padding path",
     "created_at": "2026-04-25",
+    "updated_at": "2026-04-25",
     "merged_at": "",
     "closed_at": "2026-04-25",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/149"
   },
   {
     "iid": 148,
     "state": "opened",
+    "title": "[WIP]feat: support distributed muon optimizer for deepseek-V4, support virtual_allocator for muon",
     "created_at": "2026-04-24",
+    "updated_at": "2026-05-05",
     "merged_at": "",
     "closed_at": "",
-    "author": "zzyyjj012"
+    "author": "zzyyjj012",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/148"
   },
   {
     "iid": 147,
     "state": "merged",
+    "title": "Add upstream sync GitHub workflow",
     "created_at": "2026-04-24",
+    "updated_at": "2026-04-30",
     "merged_at": "2026-04-30",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/147"
   },
   {
     "iid": 146,
     "state": "closed",
+    "title": "Added mkdocs github.io deployment",
     "created_at": "2026-04-24",
+    "updated_at": "2026-05-14",
     "merged_at": "",
     "closed_at": "2026-05-14",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/146"
   },
   {
     "iid": 145,
     "state": "closed",
+    "title": "[docs] add tilelang_ops.md",
     "created_at": "2026-04-24",
+    "updated_at": "2026-04-25",
     "merged_at": "",
     "closed_at": "2026-04-25",
-    "author": "zouqian"
+    "author": "zouqian",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/145"
   },
   {
     "iid": 144,
-    "state": "opened",
+    "state": "merged",
+    "title": "[refactor] Refactor BaseConverter to ModelCustomConfig",
     "created_at": "2026-04-24",
-    "merged_at": "",
+    "updated_at": "2026-05-15",
+    "merged_at": "2026-05-15",
     "closed_at": "",
-    "author": "zhaiyukun"
+    "author": "zhaiyukun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/144"
   },
   {
     "iid": 143,
     "state": "merged",
+    "title": "[feat] Support DeeepSeek-V4-Flash CPT train",
     "created_at": "2026-04-24",
+    "updated_at": "2026-04-24",
     "merged_at": "2026-04-24",
     "closed_at": "",
-    "author": "depeng1994"
+    "author": "depeng1994",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/143"
   },
   {
     "iid": 142,
     "state": "merged",
+    "title": "[docs] add Architecture png & zread ai",
     "created_at": "2026-04-24",
+    "updated_at": "2026-04-24",
     "merged_at": "2026-04-24",
     "closed_at": "",
-    "author": "depeng1994"
+    "author": "depeng1994",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/142"
   },
   {
     "iid": 141,
     "state": "opened",
+    "title": "[WIP] add launch skill",
     "created_at": "2026-04-21",
+    "updated_at": "2026-05-14",
     "merged_at": "",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/141"
   },
   {
     "iid": 140,
     "state": "merged",
+    "title": "[refactor] Refactored gmm by registering the fused operator with torch.library",
     "created_at": "2026-04-20",
+    "updated_at": "2026-05-09",
     "merged_at": "2026-05-09",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/140"
   },
   {
     "iid": 139,
     "state": "closed",
+    "title": "new: 新建文件 tilelang_ops.md",
     "created_at": "2026-04-17",
+    "updated_at": "2026-04-24",
     "merged_at": "",
     "closed_at": "2026-04-24",
-    "author": "zouqian"
+    "author": "zouqian",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/139"
   },
   {
     "iid": 138,
     "state": "opened",
+    "title": "[feat] add torchtitan-npu env setup skill",
     "created_at": "2026-04-17",
+    "updated_at": "2026-05-08",
     "merged_at": "",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/138"
   },
   {
     "iid": 137,
     "state": "merged",
+    "title": "Fixed bugs in docs",
     "created_at": "2026-04-16",
+    "updated_at": "2026-04-16",
     "merged_at": "2026-04-16",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/137"
   },
   {
     "iid": 136,
     "state": "closed",
+    "title": "[feat] add virtual optimizer",
     "created_at": "2026-04-16",
+    "updated_at": "2026-04-25",
     "merged_at": "",
     "closed_at": "2026-04-25",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/136"
   },
   {
     "iid": 135,
     "state": "merged",
+    "title": "Updated quickstart",
     "created_at": "2026-04-16",
+    "updated_at": "2026-04-16",
     "merged_at": "2026-04-16",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/135"
   },
   {
     "iid": 134,
     "state": "merged",
+    "title": "[docs] 优化部署与上手文档",
     "created_at": "2026-04-16",
+    "updated_at": "2026-04-16",
     "merged_at": "2026-04-16",
     "closed_at": "",
-    "author": "depeng1994"
+    "author": "depeng1994",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/134"
   },
   {
     "iid": 133,
     "state": "merged",
+    "title": "[docs] Modify readme.md and License",
     "created_at": "2026-04-16",
+    "updated_at": "2026-04-16",
     "merged_at": "2026-04-16",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/133"
   },
   {
     "iid": 132,
     "state": "merged",
+    "title": "[docs] add cache cleanup notice in torch_compile.md",
     "created_at": "2026-04-16",
+    "updated_at": "2026-04-16",
     "merged_at": "2026-04-16",
     "closed_at": "",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/132"
   },
   {
     "iid": 131,
     "state": "merged",
+    "title": "Fixed license headers",
     "created_at": "2026-04-15",
+    "updated_at": "2026-04-16",
     "merged_at": "2026-04-16",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/131"
   },
   {
     "iid": 130,
     "state": "merged",
+    "title": "[docs] [fix] Fixed links in docs",
     "created_at": "2026-04-14",
+    "updated_at": "2026-04-14",
     "merged_at": "2026-04-14",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/130"
   },
   {
     "iid": 129,
     "state": "merged",
+    "title": "[docs] Modify readme.md",
     "created_at": "2026-04-14",
+    "updated_at": "2026-04-14",
     "merged_at": "2026-04-14",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/129"
   },
   {
     "iid": 128,
     "state": "merged",
+    "title": "Reverted deletion of quickstart",
     "created_at": "2026-04-13",
+    "updated_at": "2026-04-14",
     "merged_at": "2026-04-14",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/128"
   },
   {
     "iid": 127,
     "state": "merged",
+    "title": "[feat] add draw log curve skill",
     "created_at": "2026-04-13",
+    "updated_at": "2026-04-14",
     "merged_at": "2026-04-14",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/127"
   },
   {
     "iid": 126,
     "state": "merged",
+    "title": "[refactor] Reconstructing the way to custom model",
     "created_at": "2026-04-13",
+    "updated_at": "2026-04-30",
     "merged_at": "2026-04-30",
     "closed_at": "",
-    "author": "zhaiyukun"
+    "author": "zhaiyukun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/126"
   },
   {
     "iid": 125,
     "state": "merged",
+    "title": "[docs] Update performance data",
     "created_at": "2026-04-11",
+    "updated_at": "2026-04-13",
     "merged_at": "2026-04-13",
     "closed_at": "",
-    "author": "caojingyi"
+    "author": "caojingyi",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/125"
   },
   {
     "iid": 124,
     "state": "merged",
+    "title": "[docs]Delete deepseek_v3_671b_61layers_16die_debug.toml",
     "created_at": "2026-04-11",
+    "updated_at": "2026-04-13",
     "merged_at": "2026-04-13",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/124"
   },
   {
     "iid": 123,
     "state": "merged",
+    "title": "[fix] support TP+CP DSA indexer loss and clean llama3 debug preset",
     "created_at": "2026-04-10",
+    "updated_at": "2026-04-13",
     "merged_at": "2026-04-13",
     "closed_at": "",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/123"
   },
   {
     "iid": 122,
     "state": "closed",
+    "title": "[fix]：dsa-indexer-loss-query-head-shape",
     "created_at": "2026-04-10",
+    "updated_at": "2026-04-10",
     "merged_at": "",
     "closed_at": "2026-04-10",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/122"
   },
   {
     "iid": 121,
     "state": "merged",
+    "title": "[fix] remove redundant DTensor local conversion paths",
     "created_at": "2026-04-09",
+    "updated_at": "2026-04-09",
     "merged_at": "2026-04-09",
     "closed_at": "",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/121"
   },
   {
     "iid": 120,
     "state": "merged",
+    "title": "[docs]modify toml and readme",
     "created_at": "2026-04-09",
+    "updated_at": "2026-04-09",
     "merged_at": "2026-04-09",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/120"
   },
   {
     "iid": 119,
     "state": "merged",
+    "title": "[fix] Add Ascend environment variables for multi-node training script",
     "created_at": "2026-04-09",
+    "updated_at": "2026-04-09",
     "merged_at": "2026-04-09",
     "closed_at": "",
-    "author": "caojingyi"
+    "author": "caojingyi",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/119"
   },
   {
     "iid": 118,
     "state": "merged",
+    "title": "Updated several places with readme",
     "created_at": "2026-04-09",
+    "updated_at": "2026-04-13",
     "merged_at": "2026-04-13",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/118"
   },
   {
     "iid": 117,
     "state": "closed",
+    "title": "[fix] align deepseek v32 smoke configs for CP tests",
     "created_at": "2026-04-08",
+    "updated_at": "2026-05-12",
     "merged_at": "",
     "closed_at": "2026-05-12",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/117"
   },
   {
     "iid": 116,
     "state": "merged",
+    "title": "[docs] add user_guide.md",
     "created_at": "2026-04-08",
+    "updated_at": "2026-04-13",
     "merged_at": "2026-04-13",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/116"
   },
   {
     "iid": 115,
     "state": "merged",
+    "title": "[feat] add oom analysis skill",
     "created_at": "2026-04-08",
+    "updated_at": "2026-04-14",
     "merged_at": "2026-04-14",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/115"
   },
   {
     "iid": 114,
     "state": "merged",
+    "title": "[fix] add MTP Context Parallel patch",
     "created_at": "2026-04-08",
+    "updated_at": "2026-04-10",
     "merged_at": "2026-04-10",
     "closed_at": "",
-    "author": "zhangjianshe"
+    "author": "zhangjianshe",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/114"
   },
   {
     "iid": 113,
     "state": "merged",
+    "title": "[fix] Modify toml.",
     "created_at": "2026-04-08",
+    "updated_at": "2026-04-08",
     "merged_at": "2026-04-08",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/113"
   },
   {
     "iid": 112,
     "state": "merged",
+    "title": "[fix] Remove fusion attention meta function code override",
     "created_at": "2026-04-07",
+    "updated_at": "2026-04-07",
     "merged_at": "2026-04-07",
     "closed_at": "",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/112"
   },
   {
     "iid": 111,
     "state": "merged",
+    "title": "[fix]Modify toml and readme.",
     "created_at": "2026-04-07",
+    "updated_at": "2026-04-07",
     "merged_at": "2026-04-07",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/111"
   },
   {
     "iid": 110,
     "state": "merged",
+    "title": "docs: 更新自定义 CP 文档",
     "created_at": "2026-04-07",
+    "updated_at": "2026-04-07",
     "merged_at": "2026-04-07",
     "closed_at": "",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/110"
   },
   {
     "iid": 109,
     "state": "merged",
+    "title": "Updated License/Copyright headers",
     "created_at": "2026-04-07",
+    "updated_at": "2026-04-09",
     "merged_at": "2026-04-09",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/109"
   },
   {
     "iid": 108,
     "state": "merged",
+    "title": "[fix]: 修复rope流程中的bug",
     "created_at": "2026-04-03",
+    "updated_at": "2026-04-07",
     "merged_at": "2026-04-07",
     "closed_at": "",
-    "author": "lrwei0709"
+    "author": "lrwei0709",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/108"
   },
   {
     "iid": 107,
     "state": "closed",
+    "title": "[fix] Update smoke test: add ValueError detection and adjust activation_checkpoint mode",
     "created_at": "2026-04-03",
+    "updated_at": "2026-05-12",
     "merged_at": "",
     "closed_at": "2026-05-12",
-    "author": "zhangjianshe"
+    "author": "zhangjianshe",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/107"
   },
   {
     "iid": 106,
     "state": "merged",
+    "title": "[fix]modify deepseek_v32 toml for cp.",
     "created_at": "2026-04-03",
+    "updated_at": "2026-04-03",
     "merged_at": "2026-04-03",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/106"
   },
   {
     "iid": 105,
     "state": "merged",
+    "title": "fix: tp/ep/cp同时开启出现的dtensor问题",
     "created_at": "2026-04-03",
+    "updated_at": "2026-04-03",
     "merged_at": "2026-04-03",
     "closed_at": "",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/105"
   },
   {
     "iid": 104,
     "state": "merged",
+    "title": "feat: Ulysses CP support",
     "created_at": "2026-04-03",
+    "updated_at": "2026-04-03",
     "merged_at": "2026-04-03",
     "closed_at": "",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/104"
   },
   {
     "iid": 103,
     "state": "merged",
+    "title": "[fix] Fix swap optimizer not working correctly with Llama3",
     "created_at": "2026-04-03",
+    "updated_at": "2026-04-03",
     "merged_at": "2026-04-03",
     "closed_at": "",
-    "author": "zzyyjj012"
+    "author": "zzyyjj012",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/103"
   },
   {
     "iid": 102,
     "state": "closed",
+    "title": "[feat] torchtitan-0.2.2版本 ulysses CP 重构适配",
     "created_at": "2026-04-02",
+    "updated_at": "2026-04-03",
     "merged_at": "",
     "closed_at": "2026-04-03",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/102"
   },
   {
     "iid": 101,
     "state": "opened",
+    "title": "[WIP][Feat] add agent tests",
     "created_at": "2026-04-02",
+    "updated_at": "2026-05-06",
     "merged_at": "",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/101"
   },
   {
     "iid": 100,
     "state": "closed",
+    "title": "[WIP][fix] fix deepseek_v32 PP bug caused by MTP code",
     "created_at": "2026-04-02",
+    "updated_at": "2026-04-16",
     "merged_at": "",
     "closed_at": "2026-04-16",
-    "author": "zhangjianshe"
+    "author": "zhangjianshe",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/100"
   },
   {
     "iid": 99,
     "state": "merged",
+    "title": "[docs] [fix] Fixed some bugs in docs",
     "created_at": "2026-04-02",
+    "updated_at": "2026-04-02",
     "merged_at": "2026-04-02",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/99"
   },
   {
     "iid": 98,
     "state": "closed",
+    "title": "[Fix] fix PP bug caused by MTP code",
     "created_at": "2026-04-02",
+    "updated_at": "2026-04-02",
     "merged_at": "",
     "closed_at": "2026-04-02",
-    "author": "zhangjianshe"
+    "author": "zhangjianshe",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/98"
   },
   {
     "iid": 97,
     "state": "merged",
+    "title": "[fix]modify debug.toml",
     "created_at": "2026-04-01",
+    "updated_at": "2026-04-01",
     "merged_at": "2026-04-01",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/97"
   },
   {
     "iid": 96,
     "state": "merged",
+    "title": "[Feat] add AGENTS.md and rules",
     "created_at": "2026-04-01",
+    "updated_at": "2026-04-09",
     "merged_at": "2026-04-09",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/96"
   },
   {
     "iid": 95,
     "state": "merged",
+    "title": "[feat] adapt for opensource",
     "created_at": "2026-03-30",
+    "updated_at": "2026-04-01",
     "merged_at": "2026-04-01",
     "closed_at": "",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/95"
   },
   {
     "iid": 94,
     "state": "merged",
+    "title": "[fix] deepseek v3 moe parallelize",
     "created_at": "2026-03-30",
+    "updated_at": "2026-03-30",
     "merged_at": "2026-03-30",
     "closed_at": "",
-    "author": "caojingyi"
+    "author": "caojingyi",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/94"
   },
   {
     "iid": 93,
     "state": "merged",
+    "title": "[feat] DSA CP path + 适配 torchtitan v0.2.2",
     "created_at": "2026-03-28",
+    "updated_at": "2026-04-02",
     "merged_at": "2026-04-02",
     "closed_at": "",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/93"
   },
   {
     "iid": 92,
     "state": "merged",
+    "title": "[fix] resolve memory leak during re-computation",
     "created_at": "2026-03-27",
+    "updated_at": "2026-03-30",
     "merged_at": "2026-03-30",
     "closed_at": "",
-    "author": "qianbi1999"
+    "author": "qianbi1999",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/92"
   },
   {
     "iid": 91,
     "state": "closed",
+    "title": "[WIP] Optimization Example Test",
     "created_at": "2026-03-27",
+    "updated_at": "2026-04-27",
     "merged_at": "",
     "closed_at": "2026-04-27",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/91"
   },
   {
     "iid": 90,
     "state": "merged",
+    "title": "[refactor] replace permute in token_dispatch with npu_permute",
     "created_at": "2026-03-27",
+    "updated_at": "2026-04-13",
     "merged_at": "2026-04-13",
     "closed_at": "",
-    "author": "zhaiyukun"
+    "author": "zhaiyukun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/90"
   },
   {
     "iid": 89,
     "state": "merged",
+    "title": "[feat] deepseek_v3 support inductor + af",
     "created_at": "2026-03-26",
+    "updated_at": "2026-04-02",
     "merged_at": "2026-04-02",
     "closed_at": "",
-    "author": "panchao-gitcode"
+    "author": "panchao-gitcode",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/89"
   },
   {
     "iid": 88,
     "state": "merged",
+    "title": "[fix] Fixed variable names error in model.py",
     "created_at": "2026-03-26",
+    "updated_at": "2026-03-26",
     "merged_at": "2026-03-26",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/88"
   },
   {
     "iid": 87,
     "state": "closed",
+    "title": "[refactor] Refactored Fused-Kernel ModelConverters",
     "created_at": "2026-03-25",
+    "updated_at": "2026-05-12",
     "merged_at": "",
     "closed_at": "2026-05-12",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/87"
   },
   {
     "iid": 86,
     "state": "merged",
+    "title": "[Feat] add accuracy debug skill",
     "created_at": "2026-03-25",
+    "updated_at": "2026-04-01",
     "merged_at": "2026-04-01",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/86"
   },
   {
     "iid": 85,
     "state": "merged",
+    "title": "[fix]modify ci bugs",
     "created_at": "2026-03-25",
+    "updated_at": "2026-03-26",
     "merged_at": "2026-03-26",
     "closed_at": "",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/85"
   },
   {
     "iid": 84,
     "state": "merged",
+    "title": "[fix] bugfix for use_grouped_mm",
     "created_at": "2026-03-24",
+    "updated_at": "2026-03-27",
     "merged_at": "2026-03-27",
     "closed_at": "",
-    "author": "qianbi1999"
+    "author": "qianbi1999",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/84"
   },
   {
     "iid": 83,
     "state": "merged",
+    "title": "[bugfix] fix the profiling patch failure bug",
     "created_at": "2026-03-24",
+    "updated_at": "2026-03-27",
     "merged_at": "2026-03-27",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/83"
   },
   {
     "iid": 82,
     "state": "opened",
+    "title": "[WIP][docs, feat] Add AI development guide and commit skill",
     "created_at": "2026-03-24",
+    "updated_at": "2026-03-28",
     "merged_at": "",
     "closed_at": "",
-    "author": "zhanghz1"
+    "author": "zhanghz1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/82"
   },
   {
     "iid": 81,
     "state": "merged",
+    "title": "Updated docs for torch.compile support",
     "created_at": "2026-03-24",
+    "updated_at": "2026-04-03",
     "merged_at": "2026-04-03",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/81"
   },
   {
     "iid": 80,
     "state": "merged",
+    "title": "[docs] add doc for low precision training",
     "created_at": "2026-03-23",
+    "updated_at": "2026-03-26",
     "merged_at": "2026-03-26",
     "closed_at": "",
-    "author": "MissingPompeii"
+    "author": "MissingPompeii",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/80"
   },
   {
     "iid": 79,
     "state": "closed",
+    "title": "[feat] deepseek_v3 performance",
     "created_at": "2026-03-23",
+    "updated_at": "2026-05-12",
     "merged_at": "",
     "closed_at": "2026-05-12",
-    "author": "caojingyi"
+    "author": "caojingyi",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/79"
   },
   {
     "iid": 78,
     "state": "merged",
+    "title": "[fix] modify matmul backward custom sharding",
     "created_at": "2026-03-23",
+    "updated_at": "2026-03-27",
     "merged_at": "2026-03-27",
     "closed_at": "",
-    "author": "caojingyi"
+    "author": "caojingyi",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/78"
   },
   {
     "iid": 77,
     "state": "merged",
+    "title": "[fix] bugfix for npu rope",
     "created_at": "2026-03-21",
+    "updated_at": "2026-03-26",
     "merged_at": "2026-03-26",
     "closed_at": "",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/77"
   },
   {
     "iid": 76,
     "state": "closed",
+    "title": "[fix] modify bugs for rope",
     "created_at": "2026-03-21",
+    "updated_at": "2026-03-21",
     "merged_at": "",
     "closed_at": "2026-03-21",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/76"
   },
   {
     "iid": 75,
     "state": "merged",
+    "title": "[fix] Supported torch.compile for DS v3.2",
     "created_at": "2026-03-20",
+    "updated_at": "2026-04-02",
     "merged_at": "2026-04-02",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/75"
   },
   {
     "iid": 74,
     "state": "merged",
+    "title": "[feat] update for torchtitan v0.2.2",
     "created_at": "2026-03-20",
+    "updated_at": "2026-03-20",
     "merged_at": "2026-03-20",
     "closed_at": "",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/74"
   },
   {
     "iid": 73,
     "state": "merged",
+    "title": "[feat]add muon optimizer",
     "created_at": "2026-03-20",
+    "updated_at": "2026-04-01",
     "merged_at": "2026-04-01",
     "closed_at": "",
-    "author": "zzyyjj012"
+    "author": "zzyyjj012",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/73"
   },
   {
     "iid": 72,
     "state": "merged",
+    "title": "[ci] [refactor] Integrated lint and type checking to CI",
     "created_at": "2026-03-19",
+    "updated_at": "2026-03-25",
     "merged_at": "2026-03-25",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/72"
   },
   {
     "iid": 71,
     "state": "closed",
+    "title": "[fix] Support llama3 positions-aware RoPE broadcast",
     "created_at": "2026-03-18",
+    "updated_at": "2026-03-23",
     "merged_at": "",
     "closed_at": "2026-03-23",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/71"
   },
   {
     "iid": 70,
     "state": "closed",
+    "title": "[fix] Correct indexer loss scale for GA",
     "created_at": "2026-03-18",
+    "updated_at": "2026-04-02",
     "merged_at": "",
     "closed_at": "2026-04-02",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/70"
   },
   {
     "iid": 69,
     "state": "merged",
+    "title": "[docs] Updated contributing.md",
     "created_at": "2026-03-17",
+    "updated_at": "2026-03-23",
     "merged_at": "2026-03-23",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/69"
   },
   {
     "iid": 68,
     "state": "merged",
+    "title": "[test] strengthen DT-related unit and smoke coverage",
     "created_at": "2026-03-17",
+    "updated_at": "2026-03-20",
     "merged_at": "2026-03-20",
     "closed_at": "",
-    "author": "HJ92"
+    "author": "HJ92",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/68"
   },
   {
     "iid": 67,
     "state": "closed",
+    "title": "[refactor] Refactored swap optimizer to fit torchtitan's ideas",
     "created_at": "2026-03-17",
+    "updated_at": "2026-05-12",
     "merged_at": "",
     "closed_at": "2026-05-12",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/67"
   },
   {
     "iid": 66,
     "state": "merged",
+    "title": "[fix] fix DSV3.2 indexer loss",
     "created_at": "2026-03-16",
+    "updated_at": "2026-03-26",
     "merged_at": "2026-03-26",
     "closed_at": "",
-    "author": "caojingyi"
+    "author": "caojingyi",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/66"
   },
   {
     "iid": 65,
     "state": "merged",
+    "title": "[feat] add MTP module for deepseek-v32 model",
     "created_at": "2026-03-16",
+    "updated_at": "2026-04-02",
     "merged_at": "2026-04-01",
     "closed_at": "",
-    "author": "zhangjianshe"
+    "author": "zhangjianshe",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/65"
   },
   {
     "iid": 64,
     "state": "merged",
+    "title": "[Feat] add torchtitan-sync skill",
     "created_at": "2026-03-16",
+    "updated_at": "2026-04-01",
     "merged_at": "2026-04-01",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/64"
   },
   {
     "iid": 63,
     "state": "merged",
+    "title": "[refactor] Adapted torchtitan's pre-commit workflow",
     "created_at": "2026-03-12",
+    "updated_at": "2026-03-16",
     "merged_at": "2026-03-16",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/63"
   },
   {
     "iid": 62,
     "state": "merged",
+    "title": "[feat] Support fake tensor mode",
     "created_at": "2026-03-12",
+    "updated_at": "2026-03-18",
     "merged_at": "2026-03-18",
     "closed_at": "",
-    "author": "zhaiyukun"
+    "author": "zhaiyukun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/62"
   },
   {
     "iid": 61,
     "state": "closed",
+    "title": "Added static checks based on pre-commit, with ruff, mypy, black",
     "created_at": "2026-03-12",
+    "updated_at": "2026-03-12",
     "merged_at": "",
     "closed_at": "2026-03-12",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/61"
   },
   {
     "iid": 60,
     "state": "merged",
+    "title": "[docs] Add docs for current support for debugging",
     "created_at": "2026-03-12",
+    "updated_at": "2026-03-31",
     "merged_at": "2026-03-31",
     "closed_at": "",
-    "author": "lrwei0709"
+    "author": "lrwei0709",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/60"
   },
   {
     "iid": 59,
     "state": "merged",
+    "title": "[fix] fix absorb tp precision",
     "created_at": "2026-03-10",
+    "updated_at": "2026-03-11",
     "merged_at": "2026-03-11",
     "closed_at": "",
-    "author": "weijie11"
+    "author": "weijie11",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/59"
   },
   {
     "iid": 58,
     "state": "merged",
+    "title": "[fix] execute average allreduce for Lightning Indexer loss log",
     "created_at": "2026-03-10",
+    "updated_at": "2026-03-11",
     "merged_at": "2026-03-11",
     "closed_at": "",
-    "author": "zhanghz1"
+    "author": "zhanghz1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/58"
   },
   {
     "iid": 57,
     "state": "merged",
+    "title": "[docs] add doc for swap_optimizer",
     "created_at": "2026-03-09",
+    "updated_at": "2026-03-11",
     "merged_at": "2026-03-11",
     "closed_at": "",
-    "author": "zhanghz1"
+    "author": "zhanghz1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/57"
   },
   {
     "iid": 56,
     "state": "merged",
+    "title": "feat: bypass_triton_codegen 增加 llama 模型与新增 tp_async 补丁",
     "created_at": "2026-03-07",
+    "updated_at": "2026-03-11",
     "merged_at": "2026-03-11",
     "closed_at": "",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/56"
   },
   {
     "iid": 55,
     "state": "merged",
+    "title": "[bugfix] DSV3.2 Performance",
     "created_at": "2026-03-07",
+    "updated_at": "2026-03-11",
     "merged_at": "2026-03-11",
     "closed_at": "",
-    "author": "caojingyi"
+    "author": "caojingyi",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/55"
   },
   {
     "iid": 54,
     "state": "closed",
+    "title": "[WIP] Add NPU async tp patch and qkv fusion",
     "created_at": "2026-03-05",
+    "updated_at": "2026-04-29",
     "merged_at": "",
     "closed_at": "2026-04-29",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/54"
   },
   {
     "iid": 53,
     "state": "merged",
+    "title": "[fix] Fix the parameter issues in state_dict_adapter.py for dsv3 and the clone bug in the split_w13_tensor function.",
     "created_at": "2026-03-05",
+    "updated_at": "2026-03-05",
     "merged_at": "2026-03-05",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/53"
   },
   {
     "iid": 52,
     "state": "merged",
+    "title": "[Feat] extend profiling config with step range and rank control",
     "created_at": "2026-03-04",
+    "updated_at": "2026-03-14",
     "merged_at": "2026-03-14",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/52"
   },
   {
     "iid": 51,
     "state": "merged",
+    "title": "[docs] Updated readme.md + Feature doc: npu fused ops",
     "created_at": "2026-03-03",
+    "updated_at": "2026-03-13",
     "merged_at": "2026-03-13",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/51"
   },
   {
     "iid": 50,
     "state": "closed",
+    "title": "【feat】add deepseek_2026 pretrain",
     "created_at": "2026-03-03",
+    "updated_at": "2026-03-03",
     "merged_at": "",
     "closed_at": "2026-03-03",
-    "author": "qq_41667743"
+    "author": "qq_41667743",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/50"
   },
   {
     "iid": 49,
     "state": "closed",
+    "title": "[feat]support dualpipev + activation checkpoint",
     "created_at": "2026-03-03",
+    "updated_at": "2026-03-05",
     "merged_at": "",
     "closed_at": "2026-03-05",
-    "author": "weijie11"
+    "author": "weijie11",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/49"
   },
   {
     "iid": 48,
     "state": "merged",
+    "title": "[feat] Achieve generalized loading of real weights, supporting networks such as DeepSeekV3,  Llama4.",
     "created_at": "2026-02-28",
+    "updated_at": "2026-03-02",
     "merged_at": "2026-03-02",
     "closed_at": "",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/48"
   },
   {
     "iid": 47,
     "state": "merged",
+    "title": "[fix] Add Patch for DSA set_loss_scale",
     "created_at": "2026-02-28",
+    "updated_at": "2026-03-03",
     "merged_at": "2026-03-03",
     "closed_at": "",
-    "author": "caojingyi"
+    "author": "caojingyi",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/47"
   },
   {
     "iid": 46,
     "state": "merged",
+    "title": "[feat] Add patch for train npu memory",
     "created_at": "2026-02-28",
+    "updated_at": "2026-03-04",
     "merged_at": "2026-03-04",
     "closed_at": "",
-    "author": "qianbi1999"
+    "author": "qianbi1999",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/46"
   },
   {
     "iid": 45,
     "state": "closed",
+    "title": "[feat] Achieve generalized loading of real weights, supporting networks such as DeepSeekV3, Llama3 and Llama4.",
     "created_at": "2026-02-27",
+    "updated_at": "2026-02-28",
     "merged_at": "",
     "closed_at": "2026-02-28",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/45"
   },
   {
     "iid": 44,
     "state": "closed",
+    "title": "add llama3",
     "created_at": "2026-02-27",
+    "updated_at": "2026-02-27",
     "merged_at": "",
     "closed_at": "2026-02-27",
-    "author": "CjianForBetter"
+    "author": "CjianForBetter",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/44"
   },
   {
     "iid": 43,
     "state": "merged",
+    "title": "[fix] Fix initialization of hccl flight recorder env | Disable FR by default due to false alarm problem",
     "created_at": "2026-02-27",
+    "updated_at": "2026-02-27",
     "merged_at": "2026-02-27",
     "closed_at": "",
-    "author": "lrwei0709"
+    "author": "lrwei0709",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/43"
   },
   {
     "iid": 42,
     "state": "merged",
+    "title": "[refactor] remove unnecessary fsdp Reduce.AVG patch, because torch_npu supports this now",
     "created_at": "2026-02-27",
+    "updated_at": "2026-02-28",
     "merged_at": "2026-02-28",
     "closed_at": "",
-    "author": "zhanghz1"
+    "author": "zhanghz1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/42"
   },
   {
     "iid": 41,
     "state": "merged",
+    "title": "[docs] Updated readme and example feature doc",
     "created_at": "2026-02-27",
+    "updated_at": "2026-03-02",
     "merged_at": "2026-03-02",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/41"
   },
   {
     "iid": 40,
     "state": "merged",
+    "title": "[feat] Add support for HCCL flight recorder",
     "created_at": "2026-02-26",
+    "updated_at": "2026-02-27",
     "merged_at": "2026-02-27",
     "closed_at": "",
-    "author": "lrwei0709"
+    "author": "lrwei0709",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/40"
   },
   {
     "iid": 39,
     "state": "merged",
+    "title": "[feat] add dsv32 muiltinodes pretrain sample",
     "created_at": "2026-02-25",
+    "updated_at": "2026-02-28",
     "merged_at": "2026-02-28",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/39"
   },
   {
     "iid": 38,
     "state": "merged",
+    "title": "[Feat] add step time print in logging metrics",
     "created_at": "2026-02-25",
+    "updated_at": "2026-02-28",
     "merged_at": "2026-02-28",
     "closed_at": "",
-    "author": "hitwdy"
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/38"
   },
   {
     "iid": 37,
     "state": "merged",
+    "title": "[feat] update llama3 toml for aclgraphs",
     "created_at": "2026-02-25",
+    "updated_at": "2026-02-25",
     "merged_at": "2026-02-25",
     "closed_at": "",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/37"
   },
   {
     "iid": 36,
     "state": "merged",
+    "title": "[fix] fix li loss",
     "created_at": "2026-02-25",
+    "updated_at": "2026-02-26",
     "merged_at": "2026-02-26",
     "closed_at": "",
-    "author": "caojingyi"
+    "author": "caojingyi",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/36"
   },
   {
     "iid": 35,
     "state": "merged",
+    "title": "[fix] fix torchtitan v0.2.1 hf_datasets bugs",
     "created_at": "2026-02-24",
+    "updated_at": "2026-02-25",
     "merged_at": "2026-02-25",
     "closed_at": "",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/35"
   },
   {
     "iid": 34,
     "state": "merged",
+    "title": "[refactor] refactor of model converter",
     "created_at": "2026-02-14",
+    "updated_at": "2026-02-27",
     "merged_at": "2026-02-27",
     "closed_at": "",
-    "author": "xubin787"
+    "author": "xubin787",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/34"
   },
   {
     "iid": 33,
     "state": "merged",
+    "title": "[fix] fix training accuracy issue",
     "created_at": "2026-02-12",
+    "updated_at": "2026-02-26",
     "merged_at": "2026-02-26",
     "closed_at": "",
-    "author": "qianbi1999"
+    "author": "qianbi1999",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/33"
   },
   {
     "iid": 32,
     "state": "merged",
+    "title": "[feat] add support for custom datasets",
     "created_at": "2026-02-12",
+    "updated_at": "2026-02-12",
     "merged_at": "2026-02-12",
     "closed_at": "",
-    "author": "qianbi1999"
+    "author": "qianbi1999",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/32"
   },
   {
     "iid": 31,
     "state": "merged",
+    "title": "[feat] Supported ulysses cp for SDPA",
     "created_at": "2026-02-11",
+    "updated_at": "2026-02-24",
     "merged_at": "2026-02-24",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/31"
   },
   {
     "iid": 30,
     "state": "merged",
+    "title": "[fix] optimize matmul_backward op sharding strategy",
     "created_at": "2026-02-11",
+    "updated_at": "2026-02-11",
     "merged_at": "2026-02-11",
     "closed_at": "",
-    "author": "zhanghz1"
+    "author": "zhanghz1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/30"
   },
   {
     "iid": 29,
     "state": "closed",
+    "title": "[WIP, feat] support dualpipev under ZeRO3 parallel case with torchtitan_v0.2.1",
     "created_at": "2026-02-09",
+    "updated_at": "2026-03-05",
     "merged_at": "",
     "closed_at": "2026-03-05",
-    "author": "zhanghz1"
+    "author": "zhanghz1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/29"
   },
   {
     "iid": 28,
     "state": "merged",
+    "title": "[feat] DT support scripts",
     "created_at": "2026-02-09",
+    "updated_at": "2026-03-12",
     "merged_at": "2026-03-12",
     "closed_at": "",
-    "author": "xubin787"
+    "author": "xubin787",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/28"
   },
   {
     "iid": 27,
     "state": "merged",
+    "title": "[fix] 修复param为普通tensor时swap_optimizer中to_local引发的报错",
     "created_at": "2026-02-03",
+    "updated_at": "2026-02-04",
     "merged_at": "2026-02-04",
     "closed_at": "",
-    "author": "zhanghz1"
+    "author": "zhanghz1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/27"
   },
   {
     "iid": 26,
     "state": "merged",
+    "title": "[feat] adaptor for torchtitan0.2.1",
     "created_at": "2026-02-02",
+    "updated_at": "2026-02-24",
     "merged_at": "2026-02-24",
     "closed_at": "",
-    "author": "xubin787"
+    "author": "xubin787",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/26"
   },
   {
     "iid": 25,
     "state": "closed",
+    "title": "[WIP]Numerical precision alignment vs Mindspeed",
     "created_at": "2026-01-31",
+    "updated_at": "2026-04-28",
     "merged_at": "",
     "closed_at": "2026-04-28",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/25"
   },
   {
     "iid": 24,
     "state": "merged",
+    "title": "[feat] support moe TP for DeepSeek-V3.2",
     "created_at": "2026-01-31",
+    "updated_at": "2026-02-04",
     "merged_at": "2026-02-04",
     "closed_at": "",
-    "author": "qianbi1999"
+    "author": "qianbi1999",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/24"
   },
   {
     "iid": 23,
     "state": "merged",
+    "title": "[fix] weight loading oom bugfix",
     "created_at": "2026-01-30",
+    "updated_at": "2026-02-28",
     "merged_at": "2026-02-28",
     "closed_at": "",
-    "author": "xubin787"
+    "author": "xubin787",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/23"
   },
   {
     "iid": 22,
     "state": "merged",
+    "title": "[bugfix] add patch for torch_npu dtensor op sharding func, to fix abnormal dtensor computation",
     "created_at": "2026-01-30",
+    "updated_at": "2026-02-03",
     "merged_at": "2026-02-03",
     "closed_at": "",
-    "author": "zhanghz1"
+    "author": "zhanghz1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/22"
   },
   {
     "iid": 21,
     "state": "closed",
+    "title": "[WIP]增加auto-bucketing功能",
     "created_at": "2026-01-29",
+    "updated_at": "2026-04-29",
     "merged_at": "",
     "closed_at": "2026-04-29",
-    "author": "zhangwei1177"
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/21"
   },
   {
     "iid": 20,
     "state": "closed",
+    "title": "[feat] interception of kernels",
     "created_at": "2026-01-29",
+    "updated_at": "2026-02-03",
     "merged_at": "",
     "closed_at": "2026-02-03",
-    "author": "xubin787"
+    "author": "xubin787",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/20"
   },
   {
     "iid": 19,
     "state": "merged",
+    "title": "[feat] Fuse mul operation of topk_score and route_output into unpermute",
     "created_at": "2026-01-29",
+    "updated_at": "2026-02-11",
     "merged_at": "2026-02-11",
     "closed_at": "",
-    "author": "lrwei0709"
+    "author": "lrwei0709",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/19"
   },
   {
     "iid": 18,
     "state": "merged",
+    "title": "[bugfix] Fixed implementation bugs in npu_rms_norm kernel that leads to major numerical imprecision",
     "created_at": "2026-01-29",
+    "updated_at": "2026-01-29",
     "merged_at": "2026-01-29",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/18"
   },
   {
     "iid": 17,
     "state": "merged",
+    "title": "[fix] Fixed implementation bugs in npu_rope that leads to numerical imprecision",
     "created_at": "2026-01-29",
+    "updated_at": "2026-01-29",
     "merged_at": "2026-01-29",
     "closed_at": "",
-    "author": "mystri"
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/17"
   },
   {
     "iid": 16,
     "state": "merged",
+    "title": "[feat] support npu_fusion_attention torch_compile-inductor-reduce_overhead",
     "created_at": "2026-01-29",
+    "updated_at": "2026-01-29",
     "merged_at": "2026-01-29",
     "closed_at": "",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/16"
   },
   {
     "iid": 15,
     "state": "closed",
+    "title": "[feat] support npu_fusion_attention torch_compile-inductor-reduce_overhead",
     "created_at": "2026-01-28",
+    "updated_at": "2026-01-29",
     "merged_at": "",
     "closed_at": "2026-01-29",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/15"
   },
   {
     "iid": 14,
     "state": "merged",
+    "title": "[feat] support TP for DeepSeek-V3.2",
     "created_at": "2026-01-28",
+    "updated_at": "2026-01-29",
     "merged_at": "2026-01-29",
     "closed_at": "",
-    "author": "zhanghz1"
+    "author": "zhanghz1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/14"
   },
   {
     "iid": 13,
     "state": "merged",
+    "title": "[fix] modify standard license&copyright sample",
     "created_at": "2026-01-28",
+    "updated_at": "2026-01-28",
     "merged_at": "2026-01-28",
     "closed_at": "",
-    "author": "depeng1994"
+    "author": "depeng1994",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/13"
   },
   {
     "iid": 12,
     "state": "closed",
+    "title": "[feat] support npu_fusion_attention torch_compile-inductor-reduce_overhead",
     "created_at": "2026-01-28",
+    "updated_at": "2026-01-28",
     "merged_at": "",
     "closed_at": "2026-01-28",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/12"
   },
   {
     "iid": 11,
     "state": "merged",
+    "title": "[docs] add PR/Issue template",
     "created_at": "2026-01-27",
+    "updated_at": "2026-01-27",
     "merged_at": "2026-01-27",
     "closed_at": "",
-    "author": "depeng1994"
+    "author": "depeng1994",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/11"
   },
   {
     "iid": 10,
     "state": "merged",
+    "title": "[bugfix] fix the patch for custom cp",
     "created_at": "2026-01-27",
+    "updated_at": "2026-01-28",
     "merged_at": "2026-01-28",
     "closed_at": "",
-    "author": "zhanghz1"
+    "author": "zhanghz1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/10"
   },
   {
     "iid": 9,
     "state": "merged",
+    "title": "bugfix for migration",
     "created_at": "2026-01-27",
+    "updated_at": "2026-01-27",
     "merged_at": "2026-01-27",
     "closed_at": "",
-    "author": "xubin787"
+    "author": "xubin787",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/9"
   },
   {
     "iid": 8,
     "state": "merged",
+    "title": "[feat] inductor disable fusion triton kernels",
     "created_at": "2026-01-27",
+    "updated_at": "2026-01-30",
     "merged_at": "2026-01-30",
     "closed_at": "",
-    "author": "caojingyi"
+    "author": "caojingyi",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/8"
   },
   {
     "iid": 7,
     "state": "merged",
+    "title": "[feat]support mxfp8/hif8 for linear and MoE",
     "created_at": "2026-01-27",
+    "updated_at": "2026-01-30",
     "merged_at": "2026-01-30",
     "closed_at": "",
-    "author": "gcw_LlDFlrhE"
+    "author": "gcw_LlDFlrhE",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/7"
   },
   {
     "iid": 6,
     "state": "merged",
+    "title": "[feat] support swap optimizer; support custom context_parallel for Deepseek-V3.2",
     "created_at": "2026-01-27",
+    "updated_at": "2026-01-28",
     "merged_at": "2026-01-27",
     "closed_at": "",
-    "author": "zhanghz1"
+    "author": "zhanghz1",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/6"
   },
   {
     "iid": 5,
     "state": "closed",
+    "title": "[WIP] support dsv31 torch_compile-inductor-reduce_overhead",
     "created_at": "2026-01-26",
+    "updated_at": "2026-04-27",
     "merged_at": "",
     "closed_at": "2026-04-27",
-    "author": "xuyujun"
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/5"
   },
   {
     "iid": 4,
     "state": "merged",
+    "title": "add indexer loss display",
     "created_at": "2026-01-26",
+    "updated_at": "2026-01-27",
     "merged_at": "2026-01-27",
     "closed_at": "",
-    "author": "xubin787"
+    "author": "xubin787",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/4"
   },
   {
     "iid": 3,
     "state": "merged",
+    "title": "initial migration for torchtitan-npu",
     "created_at": "2026-01-24",
+    "updated_at": "2026-01-26",
     "merged_at": "2026-01-26",
     "closed_at": "",
-    "author": "xubin787"
+    "author": "xubin787",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/3"
   },
   {
     "iid": 2,
     "state": "closed",
+    "title": "initial migration for torchtitan-npu",
     "created_at": "2026-01-24",
+    "updated_at": "2026-01-24",
     "merged_at": "",
     "closed_at": "2026-01-24",
-    "author": "xubin787"
+    "author": "xubin787",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/2"
   },
   {
     "iid": 1,
     "state": "opened",
+    "title": "ci test",
     "created_at": "2026-01-22",
+    "updated_at": "2026-04-30",
     "merged_at": "",
     "closed_at": "",
-    "author": "cui_jiahao"
+    "author": "cui_jiahao",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/1"
   }
 ]

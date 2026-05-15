@@ -1247,13 +1247,17 @@ def _fetch_repo_mrs(repo, mrs_dir):
         for mr in data["content"]:
             merged_raw = mr.get("merged_at") or ""
             closed_raw = mr.get("closed_at") or ""
+            updated_raw = mr.get("updated_at") or ""
             all_mrs.append({
                 "iid":        mr.get("iid"),
                 "state":      mr.get("state", "opened"),
+                "title":      mr.get("title") or "",
                 "created_at": (mr.get("created_at") or "")[:10],
+                "updated_at": (updated_raw[:10] if updated_raw else ""),
                 "merged_at":  merged_raw[:10] if merged_raw else "",
                 "closed_at":  closed_raw[:10] if closed_raw else "",
                 "author":     (mr.get("author") or {}).get("username", ""),
+                "web_url":    mr.get("web_url") or "",
             })
 
         if (total and len(all_mrs) >= total) or len(data["content"]) < 100:
