@@ -5721,6 +5721,15 @@
     ]
   },
   {
+    "user_name": "wzh8315",
+    "nick_name": "wzh8315",
+    "user_id": 3656282,
+    "avatar": "https://cdn-img.gitcode.com/df/fd/0d65f26313fdac54a2d9b22f23f897ce02976563d44d77ef659637900f0611e4.png",
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
     "user_name": "wanghao19968",
     "nick_name": "wanghao19968",
     "user_id": 2696005,
@@ -8339,6 +8348,15 @@
     "avatar": null,
     "starred_repos": [
       "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "tttttkk",
+    "nick_name": "tttttkk",
+    "user_id": 11257797,
+    "avatar": null,
+    "starred_repos": [
+      "cann/graph-autofusion"
     ]
   },
   {

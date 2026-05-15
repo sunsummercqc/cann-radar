@@ -1,5 +1,16 @@
 [
   {
+    "iid": 383,
+    "state": "opened",
+    "title": "【PR】: 简要描述",
+    "created_at": "2026-05-15",
+    "updated_at": "2026-05-15",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "xingzhixiong",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/383"
+  },
+  {
     "iid": 382,
     "state": "opened",
     "title": "feat:inductor场景支持核数、ub参数的配置",

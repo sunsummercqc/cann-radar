@@ -7353,6 +7353,18 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "wzh8315",
+    "nick_name": "wzh8315",
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1,
+    "developer_source": "external"
+  },
+  {
     "user_name": "wanghao19968",
     "nick_name": "wanghao19968",
     "starred_repos": [
@@ -10830,6 +10842,18 @@
     "original_repo_count": 0,
     "total_contributions": 0,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "tttttkk",
+    "nick_name": "tttttkk",
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
   },
   {
     "user_name": "wem603947175",

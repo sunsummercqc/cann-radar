@@ -17,16 +17,16 @@
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "merged": 376,
-      "open": 25,
+      "merged": 377,
+      "open": 24,
       "total": 401
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
       "merged": 294,
-      "open": 16,
-      "total": 310
+      "open": 17,
+      "total": 311
     },
     {
       "name": "torchtitan-npu",

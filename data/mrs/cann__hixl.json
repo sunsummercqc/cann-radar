@@ -111,11 +111,11 @@
   },
   {
     "iid": 464,
-    "state": "opened",
+    "state": "merged",
     "title": "feat:one side for hccs",
     "created_at": "2026-05-13",
     "updated_at": "2026-05-15",
-    "merged_at": "",
+    "merged_at": "2026-05-15",
     "closed_at": "",
     "author": "andy_git",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/464"

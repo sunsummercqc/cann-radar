@@ -1,12 +1,34 @@
 [
   {
-    "iid": 2913,
+    "iid": 2915,
     "state": "opened",
-    "title": "Scheduled Test Pipeline 20260515180448",
+    "title": "Scheduled Test Pipeline 20260515230024",
     "created_at": "2026-05-15",
     "updated_at": "2026-05-15",
     "merged_at": "",
     "closed_at": "",
+    "author": "ling-DT",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/2915"
+  },
+  {
+    "iid": 2914,
+    "state": "closed",
+    "title": "Scheduled Test Pipeline 20260515210006",
+    "created_at": "2026-05-15",
+    "updated_at": "2026-05-15",
+    "merged_at": "",
+    "closed_at": "2026-05-15",
+    "author": "ling-DT",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/2914"
+  },
+  {
+    "iid": 2913,
+    "state": "closed",
+    "title": "Scheduled Test Pipeline 20260515180448",
+    "created_at": "2026-05-15",
+    "updated_at": "2026-05-15",
+    "merged_at": "",
+    "closed_at": "2026-05-15",
     "author": "ling-DT",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/2913"
   },
@@ -574,7 +596,7 @@
   {
     "iid": 2861,
     "state": "opened",
-    "title": "【feat】: 新增 GeUtils Python API（InferShape / CheckNodeSupportOnAicore）并完善 Python Pass 样例",
+    "title": "【feat】: 新增 GeUtils Python API 并完善 Python Pass 样例",
     "created_at": "2026-05-14",
     "updated_at": "2026-05-15",
     "merged_at": "",
