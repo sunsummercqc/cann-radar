@@ -356,6 +356,8 @@
     <div class="chart-box" style="margin-bottom:20px" id="repo-discussion-section" style="display:none">
       <h2>讨论帖参与者分析</h2>
       <div class="repo-stats" id="repo-discussion-stats" style="margin-bottom:16px"></div>
+      <h3 class="discussion-subhead">讨论帖列表 <span id="repo-discussion-list-count" class="discussion-subcount"></span></h3>
+      <ul class="discussion-list" id="repo-discussion-list-items" style="margin-bottom:16px"></ul>
       <div id="repo-discussion-list" style="max-height:400px;overflow-y:auto"></div>
     </div>
     <div class="chart-box">
@@ -1692,6 +1694,15 @@ async function main() {
       ].map(([lbl, val, hint]) =>
         `<div class="repo-stat"><div class="val" style="font-size:20px">${val ?? '-'}</div><div class="lbl">${lbl}${hint ? `<br><small style="font-size:10px;color:var(--text-4)">${hint}</small>` : ''}</div></div>`
       ).join('');
+
+      const discussionsList = repoDiscussionData?.discussions || [];
+      document.getElementById('repo-discussion-list-count').textContent = `共 ${discussionsList.length} 个`;
+      document.getElementById('repo-discussion-list-items').innerHTML = discussionsList.map(d => {
+        const title = escapeHTML(d.title || d.url);
+        const url = escapeHTML(d.url);
+        const stats = `参与者 ${d.unique_participants} · 外部 ${d.external_participants} · 评论数 ${d.comment_total + d.reply_total}`;
+        return `<li><a href="${url}" target="_blank" rel="noopener">${title}</a><span class="disc-stats">${stats}</span></li>`;
+      }).join('');
 
       if (discussionCommentersInRepo.length > 0) {
         const participantListHtml = `
