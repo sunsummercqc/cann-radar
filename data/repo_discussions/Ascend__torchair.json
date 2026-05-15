@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14",
+  "generated_at": "2026-05-15",
   "source_count": 4,
   "discussion_count": 4,
   "external_count": 46,
@@ -7,7 +7,7 @@
   "total_unique_participants": 47,
   "trend": [
     {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "external_count": 46,
       "total_unique_participants": 47
     }
@@ -862,10 +862,20 @@
   ],
   "discussions": [
     {
-      "url": "https://gitcode.com/Ascend/torchair/discussions/5",
+      "url": "https://gitcode.com/Ascend/torchair/discussions/8",
       "org": "Ascend/torchair",
-      "number": "5",
-      "title": "TorchAir2026年roadmap需求征集",
+      "number": "8",
+      "title": "答题赢福利🔥|  零基础玩转 TorchAir 第一期",
+      "comment_total": 50,
+      "reply_total": 1,
+      "unique_participants": 47,
+      "external_participants": 46
+    },
+    {
+      "url": "https://gitcode.com/Ascend/torchair/discussions/7",
+      "org": "Ascend/torchair",
+      "number": "7",
+      "title": "【社区任务】定向文档捉虫任务完成记录",
       "comment_total": 0,
       "reply_total": 0,
       "unique_participants": 0,
@@ -882,43 +892,16 @@
       "external_participants": 0
     },
     {
-      "url": "https://gitcode.com/Ascend/torchair/discussions/7",
+      "url": "https://gitcode.com/Ascend/torchair/discussions/5",
       "org": "Ascend/torchair",
-      "number": "7",
-      "title": "【社区任务】定向文档捉虫任务完成记录",
+      "number": "5",
+      "title": "TorchAir2026年roadmap需求征集",
       "comment_total": 0,
       "reply_total": 0,
       "unique_participants": 0,
       "external_participants": 0
-    },
-    {
-      "url": "https://gitcode.com/Ascend/torchair/discussions/8",
-      "org": "Ascend/torchair",
-      "number": "8",
-      "title": "答题赢福利🔥|  零基础玩转 TorchAir 第一期",
-      "comment_total": 50,
-      "reply_total": 1,
-      "unique_participants": 47,
-      "external_participants": 46
     }
   ],
-  "errors": [
-    {
-      "url": "https://gitcode.com/Ascend/torchair/discussions/1",
-      "error": "无法获取讨论详情"
-    },
-    {
-      "url": "https://gitcode.com/Ascend/torchair/discussions/2",
-      "error": "无法获取讨论详情"
-    },
-    {
-      "url": "https://gitcode.com/Ascend/torchair/discussions/3",
-      "error": "无法获取讨论详情"
-    },
-    {
-      "url": "https://gitcode.com/Ascend/torchair/discussions/4",
-      "error": "无法获取讨论详情"
-    }
-  ],
+  "errors": [],
   "repo_path": "Ascend/torchair"
 }
