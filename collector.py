@@ -51,6 +51,26 @@ TREND_RETENTION_DAYS = 180
 
 DISCUSSION_URL_RE = re.compile(r"^https://gitcode\.com/org/([^/]+)/discussions/(\d+)/?$")
 
+COMMUNITY_CONFIG_PATH = Path("config/community.yml")
+
+
+def load_community_config():
+    """读取 config/community.yml，返回启用的社区公共仓库列表。"""
+    if not COMMUNITY_CONFIG_PATH.exists():
+        print(f"  ⚠ 未找到 {COMMUNITY_CONFIG_PATH}，返回空列表")
+        return []
+    raw = load_config(COMMUNITY_CONFIG_PATH) or {}
+    repos = raw.get("repos", []) or []
+    return [r for r in repos if r.get("enabled", True)]
+
+
+def active_community_repo_configs():
+    return load_community_config()
+
+
+def active_community_repo_paths():
+    return [r["path"] for r in active_community_repo_configs()]
+
 
 def load_internal_developers():
     """读取内部开发者名单；不存在则返回空集合（所有人视为 external）。"""
@@ -1817,6 +1837,318 @@ def generate_dlevel_summary():
     return result
 
 
+# ─── 社区公共数据仓库采集 ────────────────────────────────────────────────────────
+
+COMMUNITY_DATA_DIR = DATA_DIR / "community"
+COMMUNITY_DATA_DIR.mkdir(exist_ok=True)
+
+
+def collect_community_repos():
+    """采集社区公共数据仓库的基本信息。"""
+    print("\n=== 采集社区公共数据仓库列表 ===")
+    repo_configs = active_community_repo_configs()
+    if not repo_configs:
+        print("  无启用的社区公共数据仓库配置，跳过")
+        return
+    target_paths = [repo["path"] for repo in repo_configs]
+    print(f"  目标仓库：{', '.join(target_paths)}")
+
+    repos_detail = []
+    for i, path in enumerate(target_paths, start=1):
+        encoded = urllib.parse.quote(path, safe="")
+        url = f"{BASE_URL}/api/v1/projects/{encoded}"
+        detail = get(url)
+        if detail and "id" in detail:
+            repos_detail.append({
+                "id": detail["id"],
+                "name": detail.get("name", ""),
+                "path": detail.get("path_with_namespace", path),
+                "description": detail.get("description", ""),
+                "star_count": detail.get("star_count") or 0,
+                "forks_count": detail.get("forks_count") or 0,
+                "watch_count": detail.get("watch_count") or 0,
+                "open_issues_count": detail.get("open_issues_count") or 0,
+                "open_mr_count": detail.get("open_merge_requests_count") or 0,
+                "release_count": detail.get("release_count") or 0,
+                "created_at": detail.get("created_at", ""),
+                "updated_at": detail.get("updated_at", ""),
+                "last_activity_at": detail.get("last_activity_at", ""),
+                "default_branch": detail.get("default_branch", ""),
+                "language": detail.get("main_repository_language", [None])[0] if detail.get("main_repository_language") else None,
+                "visibility": detail.get("visibility", ""),
+            })
+            print(f"  [{i}/{len(target_paths)}] {path}: star={repos_detail[-1]['star_count']} fork={repos_detail[-1]['forks_count']} issue={repos_detail[-1]['open_issues_count']}")
+        else:
+            print(f"  [{i}/{len(target_paths)}] {path}: 获取失败（仓库可能不存在）")
+        time.sleep(REQUEST_DELAY)
+
+    save_json(COMMUNITY_DATA_DIR / "repos.json", repos_detail)
+    print(f"\n  ✓ 已保存 {len(repos_detail)} 个仓库到 data/community/repos.json")
+    return repos_detail
+
+
+def collect_community_stars():
+    """采集社区公共数据仓库的 star 用户。"""
+    print("\n=== 采集社区公共数据仓库 star 用户 ===")
+    repos = load_json(COMMUNITY_DATA_DIR / "repos.json") or []
+    if not repos:
+        print("  请先运行 python collector.py community-repos")
+        return
+
+    stars_dir = COMMUNITY_DATA_DIR / "stars"
+    stars_dir.mkdir(exist_ok=True)
+
+    for repo in repos:
+        if repo["star_count"] == 0:
+            print(f"  跳过 {repo['path']}（star=0）")
+            continue
+
+        repo_id = repo["id"]
+        repo_path = repo["path"]
+        safe_name = repo_path.replace("/", "__")
+        cache_file = stars_dir / f"{safe_name}.json"
+
+        if cache_file.exists():
+            users = load_json(cache_file) or []
+            print(f"  {repo_path}: 使用缓存 ({len(users)} 用户)")
+            continue
+
+        users = []
+        page = 1
+        per_page = 100
+        while True:
+            url = f"{BASE_URL}/api/v2/projects/{repo_id}/star_users?page={page}&per_page={per_page}"
+            data = get(url)
+            if not data or not data.get("content"):
+                break
+            users.extend(data["content"])
+            total = data.get("total", 0)
+            if len(users) >= total:
+                break
+            page += 1
+            time.sleep(REQUEST_DELAY)
+
+        save_json(cache_file, users)
+        print(f"  {repo_path}: ⭐{repo['star_count']} 实际获取 {len(users)} 用户")
+        time.sleep(REQUEST_DELAY)
+
+
+def collect_community_issues():
+    """采集社区公共数据仓库的 Issue 详情。"""
+    print("\n=== 采集社区公共数据仓库 Issue 详情 ===")
+    repos = load_json(COMMUNITY_DATA_DIR / "repos.json") or []
+    if not repos:
+        print("  请先运行 python collector.py community-repos")
+        return
+
+    issues_dir = COMMUNITY_DATA_DIR / "issues"
+    issues_dir.mkdir(exist_ok=True)
+
+    for repo in repos:
+        repo_path = repo["path"]
+        safe_name = repo_path.replace("/", "__")
+        cache_file = issues_dir / f"{safe_name}.json"
+
+        if cache_file.exists():
+            issues = load_json(cache_file) or []
+            print(f"  {repo_path}: 使用缓存（{len(issues)} 条）")
+            continue
+
+        all_issues = []
+        page = 1
+        encoded = urllib.parse.quote(repo_path, safe="")
+        while True:
+            url = f"{BASE_URL}/api/v1/issue/{encoded}/issues?page={page}&per_page=100&state=all"
+            data = get(url)
+            if not data or not data.get("issues"):
+                break
+            for issue in data["issues"]:
+                closed_raw = issue.get("closed_at") or ""
+                labels = issue.get("labels") or []
+                all_issues.append({
+                    "iid": issue.get("iid"),
+                    "state": issue.get("state", "opened"),
+                    "created_at": (issue.get("created_at") or "")[:10],
+                    "closed_at": closed_raw[:10] if closed_raw else "",
+                    "author": (issue.get("author") or {}).get("username", ""),
+                    "title": issue.get("title") or "",
+                    "labels": [label.get("name", "") if isinstance(label, dict) else str(label) for label in labels],
+                    "user_notes_count": issue.get("user_notes_count") or 0,
+                    "web_url": issue.get("web_url") or "",
+                })
+            if len(data["issues"]) < 100:
+                break
+            page += 1
+            time.sleep(REQUEST_DELAY)
+
+        save_json(cache_file, all_issues)
+        print(f"  {repo_path}: 共 {len(all_issues)} 条 Issue")
+
+
+def collect_community_mrs():
+    """采集社区公共数据仓库的 MR 详情。"""
+    print("\n=== 采集社区公共数据仓库 MR 详情 ===")
+    repos = load_json(COMMUNITY_DATA_DIR / "repos.json") or []
+    if not repos:
+        print("  请先运行 python collector.py community-repos")
+        return
+
+    mrs_dir = COMMUNITY_DATA_DIR / "mrs"
+    mrs_dir.mkdir(exist_ok=True)
+
+    for repo in repos:
+        repo_id = repo["id"]
+        repo_path = repo["path"]
+        safe_name = repo_path.replace("/", "__")
+        cache_file = mrs_dir / f"{safe_name}.json"
+
+        if cache_file.exists():
+            mrs = load_json(cache_file) or []
+            print(f"  {repo_path}: 使用缓存（{len(mrs)} 条）")
+            continue
+
+        all_mrs = []
+        page = 1
+        while True:
+            url = f"{BASE_URL}/api/v1/projects/{repo_id}/merge_requests?page={page}&per_page=100&state=all"
+            data = get(url)
+            if not data or not data.get("content"):
+                break
+            for mr in data["content"]:
+                merged_raw = mr.get("merged_at") or ""
+                closed_raw = mr.get("closed_at") or ""
+                updated_raw = mr.get("updated_at") or ""
+                all_mrs.append({
+                    "iid": mr.get("iid"),
+                    "state": mr.get("state", "opened"),
+                    "title": mr.get("title") or "",
+                    "created_at": (mr.get("created_at") or "")[:10],
+                    "updated_at": updated_raw[:10] if updated_raw else "",
+                    "merged_at": merged_raw[:10] if merged_raw else "",
+                    "closed_at": closed_raw[:10] if closed_raw else "",
+                    "author": (mr.get("author") or {}).get("username", ""),
+                    "web_url": mr.get("web_url") or "",
+                })
+            if len(data["content"]) < 100:
+                break
+            page += 1
+            time.sleep(REQUEST_DELAY)
+
+        save_json(cache_file, all_mrs)
+        print(f"  {repo_path}: 共 {len(all_mrs)} 条 MR")
+
+
+def collect_community_discussions():
+    """采集社区公共数据仓库的讨论帖参与者。"""
+    print("\n=== 采集社区公共数据仓库讨论帖 ===")
+    repos = load_json(COMMUNITY_DATA_DIR / "repos.json") or []
+    if not repos:
+        print("  请先运行 python collector.py community-repos")
+        return
+
+    discussions_dir = COMMUNITY_DATA_DIR / "repo_discussions"
+    discussions_dir.mkdir(exist_ok=True)
+    internal_set = load_internal_developers()
+
+    for repo in repos:
+        repo_path = repo["path"]
+        safe_name = repo_path.replace("/", "__")
+        print(f"\n  {repo_path}: 自动发现讨论帖...")
+
+        all_discussions = []
+        page = 1
+        while True:
+            list_data = get_repo_discussion_list(repo_path, page=page, per_page=100)
+            if not list_data or not list_data.get("records"):
+                break
+            records = list_data.get("records", [])
+            for r in records:
+                serial_number = r.get("serial_number")
+                if serial_number:
+                    url = f"https://gitcode.com/{repo_path}/discussions/{serial_number}"
+                    all_discussions.append({
+                        "url": url,
+                        "number": str(serial_number),
+                        "title": r.get("title") or "",
+                        "comment_total": r.get("comment_total") or 0,
+                        "reply_total": r.get("reply_total") or 0,
+                    })
+            total_pages = list_data.get("pages") or 1
+            if page >= total_pages or len(records) < 100:
+                break
+            page += 1
+            time.sleep(REQUEST_DELAY)
+
+        if not all_discussions:
+            print(f"    未发现任何讨论帖")
+            continue
+
+        print(f"    发现 {len(all_discussions)} 个讨论帖")
+
+        fetched = []
+        errors = []
+        for disc in all_discussions:
+            url = disc["url"]
+            number = disc["number"]
+            print(f"    抓取 #{number}: {disc.get('title', '')[:40]}...")
+            try:
+                data = fetch_discussion_comments({
+                    "url": url,
+                    "org": repo_path,
+                    "number": number,
+                    "source_type": 2,
+                })
+                if data.get("error"):
+                    errors.append({"url": url, "error": data["error"]})
+                    print(f"      ✗ 失败: {data['error']}")
+                else:
+                    fetched.append(data)
+                    print(f"      ✓ 顶层评论 {data['comment_total']} 条，回复 {data['reply_total']} 条")
+            except Exception as e:
+                errors.append({"url": url, "error": str(e)})
+                print(f"      ✗ 失败: {e}")
+            time.sleep(REQUEST_DELAY)
+
+        if not fetched:
+            print(f"  {repo_path}: 未成功采集任何讨论帖")
+            continue
+
+        summary = build_discussion_participants_summary(fetched, internal_developers=internal_set)
+        summary["repo_path"] = repo_path
+        summary["errors"] = errors
+
+        save_json(discussions_dir / f"{safe_name}.json", summary)
+        print(f"  ✓ {repo_path}: 共 {summary['total_unique_participants']} 位参与者（内部 {summary['internal_count']}，外部 {summary['external_count']}）")
+
+
+def collect_community_all():
+    """一次性采集所有社区公共数据仓库数据。"""
+    print("\n=== 一次性采集社区公共数据 ===")
+    t_all = time.time()
+
+    collect_community_repos()
+
+    print("\n--- 并发采集 stars / issues / mrs ---")
+    with ThreadPoolExecutor(max_workers=3) as pool:
+        layer2 = {
+            pool.submit(collect_community_stars): "stars",
+            pool.submit(collect_community_issues): "issues",
+            pool.submit(collect_community_mrs): "mrs",
+        }
+        for future in as_completed(layer2):
+            name = layer2[future]
+            try:
+                future.result()
+            except Exception as e:
+                print(f"  ✗ {name} 失败: {e}")
+
+    collect_community_discussions()
+
+    print(f"\n{'='*50}")
+    print(f"  社区公共数据采集完成，总耗时 {time.time() - t_all:.0f}s")
+    print(f"{'='*50}")
+
+
 # ─── 步骤 4：生成报告 ─────────────────────────────────────────────────────────
 
 def generate_report():
@@ -1939,6 +2271,18 @@ def main():
 
     if cmd == "repos":
         collect_repos()
+    elif cmd == "community-repos":
+        collect_community_repos()
+    elif cmd == "community-stars":
+        collect_community_stars()
+    elif cmd == "community-issues":
+        collect_community_issues()
+    elif cmd == "community-mrs":
+        collect_community_mrs()
+    elif cmd == "community-discussions":
+        collect_community_discussions()
+    elif cmd == "community-all":
+        collect_community_all()
     elif cmd == "stars":
         collect_stars()
     elif cmd == "users":

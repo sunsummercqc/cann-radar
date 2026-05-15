@@ -1,0 +1,7 @@
+repos:
+- path: cann/cann-learning-hub
+  display_name: CANN Learning Hub
+  enabled: true
+- path: cann/cann-competitions
+  display_name: CANN Competitions
+  enabled: true
