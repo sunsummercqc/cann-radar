@@ -9,6 +9,7 @@ on:
     paths:
       - 'config/repos.yml'
       - 'config/discussions.yml'
+      - 'config/community.yml'
   repository_dispatch:
     types: [internal-developers-updated]
   workflow_dispatch:
@@ -61,6 +62,13 @@ jobs:
           rm -rf data/forks/
           rm -rf data/mrs/
           rm -rf data/issues/
+          rm -rf data/repo_discussions/
+          # 社区公共数据缓存
+          rm -f data/community/repos.json
+          rm -rf data/community/stars/
+          rm -rf data/community/issues/
+          rm -rf data/community/mrs/
+          rm -rf data/community/repo_discussions/
           if [ "${{ github.event.inputs.full_refresh }}" = "true" ] || \
              [ "${{ github.event.schedule }}" = "0 14 * * 0" ]; then
             echo "全量刷新：清除 user_profiles.json"
@@ -72,6 +80,9 @@ jobs:
 
       - name: Collect all data
         run: python collector.py all
+
+      - name: Collect community data
+        run: python collector.py community-all
 
       - name: Commit and push updated data
         run: |
