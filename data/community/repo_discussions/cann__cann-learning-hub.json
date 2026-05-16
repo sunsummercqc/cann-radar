@@ -2,13 +2,13 @@
   "generated_at": "2026-05-16",
   "source_count": 15,
   "discussion_count": 15,
-  "external_count": 309,
-  "internal_count": 1,
+  "external_count": 307,
+  "internal_count": 3,
   "total_unique_participants": 310,
   "trend": [
     {
       "date": "2026-05-16",
-      "external_count": 309,
+      "external_count": 307,
       "total_unique_participants": 310
     }
   ],
@@ -1360,7 +1360,7 @@
     {
       "user_name": "liudi5525",
       "nick_name": "",
-      "developer_source": "external",
+      "developer_source": "internal",
       "top_comments": 0,
       "replies": 2,
       "discussion_count": 1,
@@ -4294,7 +4294,7 @@
     {
       "user_name": "Nice_try",
       "nick_name": "",
-      "developer_source": "external",
+      "developer_source": "internal",
       "top_comments": 1,
       "replies": 0,
       "discussion_count": 1,
@@ -5965,7 +5965,7 @@
       "comment_total": 59,
       "reply_total": 3,
       "unique_participants": 61,
-      "external_participants": 61
+      "external_participants": 60
     },
     {
       "url": "https://gitcode.com/cann/cann-learning-hub/discussions/7",
@@ -5995,7 +5995,7 @@
       "comment_total": 47,
       "reply_total": 3,
       "unique_participants": 26,
-      "external_participants": 26
+      "external_participants": 25
     },
     {
       "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
