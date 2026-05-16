@@ -7,7 +7,7 @@
     "author": "stellaxx11",
     "title": "[Bug]: ",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/475"
   },
   {
@@ -18,7 +18,7 @@
     "author": "yijiliang",
     "title": "[Bug]: gmm算子跑图模式传入的转置信息失效，变为不转置",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/474"
   },
   {
@@ -40,7 +40,7 @@
     "author": "Wangyanzhao_13",
     "title": "[Bug]: 整网 longcat-flash, ge_graph下疑似内存踩踏， 执行加法之后 = 极小值",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/472"
   },
   {

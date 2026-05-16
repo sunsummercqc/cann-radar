@@ -1672,7 +1672,7 @@
     "user_name": "ykl999",
     "nick_name": "ykl999",
     "user_id": 6574546,
-    "avatar": null,
+    "avatar": "https://cdn-img.gitcode.com/eb/bf/059829664e18bb7fba352fb9036e22552ff8759359632d87c652fc97d2b489d0.png?time=1778918243709",
     "starred_repos": [
       "cann/ge",
       "cann/graph-autofusion"
@@ -4962,6 +4962,7 @@
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
+      "cann/torchtitan-npu",
       "Ascend/torchair"
     ]
   },
@@ -8348,6 +8349,24 @@
     "avatar": null,
     "starred_repos": [
       "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "A_1025",
+    "nick_name": "芷",
+    "user_id": 11267012,
+    "avatar": "https://cdn-img.gitcode.com/de/aa/2dea3a97fb27d9bfd43abf3be3c061d0b77a11c84cf45f526fc4734f5a84ea64.jpg",
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ]
+  },
+  {
+    "user_name": "rufling",
+    "nick_name": "rufling",
+    "user_id": 958576,
+    "avatar": "https://cdn-img.gitcode.com/ee/bb/42eeb512b60af2529f0a18c27665a2f0691fd6c2809024a3e5a94b2352d8877d.jpg",
+    "starred_repos": [
+      "cann/graph-autofusion"
     ]
   },
   {

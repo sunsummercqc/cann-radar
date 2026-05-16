@@ -1,5 +1,16 @@
 [
   {
+    "iid": 475,
+    "state": "merged",
+    "title": "[refactor]告警修改，并添加资料",
+    "created_at": "2026-05-16",
+    "updated_at": "2026-05-16",
+    "merged_at": "2026-05-16",
+    "closed_at": "",
+    "author": "zhaozhihui",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/475"
+  },
+  {
     "iid": 474,
     "state": "opened",
     "title": "[bugfix]: fix pre-commit url",
@@ -92,7 +103,7 @@
     "state": "opened",
     "title": "update: 更新文件 README.md-CIE测试用",
     "created_at": "2026-05-13",
-    "updated_at": "2026-05-14",
+    "updated_at": "2026-05-16",
     "merged_at": "",
     "closed_at": "",
     "author": "Larry_liuyi",
@@ -122,11 +133,11 @@
   },
   {
     "iid": 463,
-    "state": "opened",
+    "state": "merged",
     "title": "[feat]hixl新增自动生成local comm res",
     "created_at": "2026-05-13",
-    "updated_at": "2026-05-15",
-    "merged_at": "",
+    "updated_at": "2026-05-16",
+    "merged_at": "2026-05-16",
     "closed_at": "",
     "author": "lugang11",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/463"

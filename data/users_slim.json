@@ -6397,6 +6397,7 @@
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
+      "cann/torchtitan-npu",
       "Ascend/torchair"
     ],
     "user_type": "questioner",
@@ -10842,6 +10843,30 @@
     "original_repo_count": 0,
     "total_contributions": 0,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "A_1025",
+    "nick_name": "芷",
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "rufling",
+    "nick_name": "rufling",
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
   },
   {
     "user_name": "singdogqrk",

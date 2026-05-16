@@ -1,5 +1,27 @@
 [
   {
+    "iid": 385,
+    "state": "opened",
+    "title": "【PR】: Correct 'clone' case",
+    "created_at": "2026-05-16",
+    "updated_at": "2026-05-16",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "clarejoe",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/385"
+  },
+  {
+    "iid": 384,
+    "state": "opened",
+    "title": "【PR】: 简要描述",
+    "created_at": "2026-05-16",
+    "updated_at": "2026-05-16",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "yrz1027",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/384"
+  },
+  {
     "iid": 383,
     "state": "opened",
     "title": "【PR】: 简要描述",
@@ -34,22 +56,22 @@
   },
   {
     "iid": 380,
-    "state": "opened",
+    "state": "merged",
     "title": "aclgraph sk dfx cond reg",
     "created_at": "2026-05-15",
-    "updated_at": "2026-05-15",
-    "merged_at": "",
+    "updated_at": "2026-05-16",
+    "merged_at": "2026-05-16",
     "closed_at": "",
     "author": "hujiawen_kaven",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/380"
   },
   {
     "iid": 379,
-    "state": "opened",
+    "state": "merged",
     "title": "refactor(super_kernel): register default options before parsing aclskOptions",
     "created_at": "2026-05-15",
-    "updated_at": "2026-05-15",
-    "merged_at": "",
+    "updated_at": "2026-05-16",
+    "merged_at": "2026-05-16",
     "closed_at": "",
     "author": "sjtulxh",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/379"
@@ -145,9 +167,9 @@
   {
     "iid": 370,
     "state": "opened",
-    "title": "【PR】: 同步GE仓最新修改到AF仓（4.14上午11时~5.15晚，总计129个PR）",
+    "title": "【PR】: 同步GE仓最新修改到AF仓（4.14上午11时~5.15晚，总计129个PR需要同步）",
     "created_at": "2026-05-12",
-    "updated_at": "2026-05-15",
+    "updated_at": "2026-05-16",
     "merged_at": "",
     "closed_at": "",
     "author": "JaydenChu",
