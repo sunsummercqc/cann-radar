@@ -774,14 +774,62 @@ async function main() {
         `<div class="repo-stat"><div class="val" style="font-size:20px">${val ?? '-'}</div><div class="lbl">${lbl}</div></div>`
       ).join('');
 
+      // 讨论帖分页
       const discussionsList = discussionData.discussions || [];
-      document.getElementById('community-discussion-list-count').textContent = `共 ${discussionsList.length} 个`;
-      document.getElementById('community-discussion-list-items').innerHTML = discussionsList.map(d => {
-        const title = escapeHTML(d.title || d.url);
-        const url = escapeHTML(d.url);
-        const stats = `参与者 ${d.unique_participants} · 外部 ${d.external_participants} · 评论数 ${d.comment_total + d.reply_total}`;
-        return `<li><a href="${url}" target="_blank" rel="noopener">${title}</a><span class="disc-stats">${stats}</span></li>`;
-      }).join('');
+      const DISCUSSION_PAGE_SIZE = 10;
+      let discussionCurrentPage = 1;
+
+      function renderDiscussionList(page) {
+        const totalPages = Math.max(1, Math.ceil(discussionsList.length / DISCUSSION_PAGE_SIZE));
+        const start = (page - 1) * DISCUSSION_PAGE_SIZE;
+        const pageItems = discussionsList.slice(start, start + DISCUSSION_PAGE_SIZE);
+
+        document.getElementById('community-discussion-list-count').textContent = `共 ${discussionsList.length} 个`;
+        document.getElementById('community-discussion-list-items').innerHTML = pageItems.map(d => {
+          const title = escapeHTML(d.title || d.url);
+          const url = escapeHTML(d.url);
+          const stats = `参与者 ${d.unique_participants} · 外部 ${d.external_participants} · 评论数 ${d.comment_total + d.reply_total}`;
+          return `<li><a href="${url}" target="_blank" rel="noopener">${title}</a><span class="disc-stats">${stats}</span></li>`;
+        }).join('');
+
+        // 分页按钮
+        const paginationHtml = totalPages <= 1 ? '' : `
+          <div class="pagination" style="margin-top:12px">
+            ${page > 1 ? `<button type="button" class="page-btn" data-page="${page - 1}">‹</button>` : ''}
+            ${(() => {
+              const range = 5;
+              let s = Math.max(1, page - 2);
+              let e = Math.min(totalPages, s + range - 1);
+              if (e - s < range - 1) s = Math.max(1, e - range + 1);
+              let btns = '';
+              for (let p = s; p <= e; p++) {
+                btns += `<button type="button" class="page-btn${p === page ? ' active' : ''}" data-page="${p}">${p}</button>`;
+              }
+              return btns;
+            })()}
+            ${page < totalPages ? `<button type="button" class="page-btn" data-page="${page + 1}">›</button>` : ''}
+            <span class="page-info">第 ${page} / ${totalPages} 页</span>
+          </div>
+        `;
+        document.getElementById('community-discussion-pagination').innerHTML = paginationHtml;
+      }
+
+      // 初始化分页容器
+      if (!document.getElementById('community-discussion-pagination')) {
+        const pagDiv = document.createElement('div');
+        pagDiv.id = 'community-discussion-pagination';
+        document.getElementById('community-discussion-list-items').after(pagDiv);
+      }
+
+      renderDiscussionList(1);
+
+      // 分页点击事件
+      document.getElementById('community-discussion-pagination').addEventListener('click', e => {
+        const btn = e.target.closest('.page-btn');
+        if (!btn) return;
+        discussionCurrentPage = Number(btn.dataset.page);
+        renderDiscussionList(discussionCurrentPage);
+      });
 
       document.getElementById('community-discussion-list').innerHTML = `
         <div style="margin-top:16px">
