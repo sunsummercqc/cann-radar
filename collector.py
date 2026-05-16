@@ -598,7 +598,7 @@ def collect_repo_discussions():
                         "reply_total": r.get("reply_total") or 0,
                     })
             total_pages = list_data.get("pages") or 1
-            if page >= total_pages or len(records) < 100:
+            if page >= total_pages:
                 break
             page += 1
             time.sleep(REQUEST_DELAY)
@@ -2074,7 +2074,7 @@ def collect_community_discussions():
                         "reply_total": r.get("reply_total") or 0,
                     })
             total_pages = list_data.get("pages") or 1
-            if page >= total_pages or len(records) < 100:
+            if page >= total_pages:
                 break
             page += 1
             time.sleep(REQUEST_DELAY)

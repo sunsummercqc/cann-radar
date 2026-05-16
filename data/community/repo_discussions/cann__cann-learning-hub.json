@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-15",
-  "source_count": 10,
-  "discussion_count": 10,
-  "external_count": 259,
-  "internal_count": 2,
-  "total_unique_participants": 261,
+  "generated_at": "2026-05-16",
+  "source_count": 15,
+  "discussion_count": 15,
+  "external_count": 309,
+  "internal_count": 1,
+  "total_unique_participants": 310,
   "trend": [
     {
-      "date": "2026-05-15",
-      "external_count": 259,
-      "total_unique_participants": 261
+      "date": "2026-05-16",
+      "external_count": 309,
+      "total_unique_participants": 310
     }
   ],
   "participants": [
@@ -42,6 +42,36 @@
       ],
       "first_seen_at": "2026-05-08T19:04:27+08:00",
       "last_seen_at": "2026-05-14T13:18:58+08:00"
+    },
+    {
+      "user_name": "gcw_nQkFJLYV.del.1778480846429",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 3,
+      "replies": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/16",
+          "title": "【启航营 2026 · 南京信息工程大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/13",
+          "title": "【2026 CANN算子挑战赛(江山赛区)· 南京信息工程大学站】社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-06T13:56:49+08:00",
+      "last_seen_at": "2026-05-10T11:08:34+08:00"
     },
     {
       "user_name": "WrongAnswer99",
@@ -362,6 +392,30 @@
       "last_seen_at": "2026-05-12T20:29:29+08:00"
     },
     {
+      "user_name": "Boomcurry",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-13T17:43:52+08:00",
+      "last_seen_at": "2026-05-06T20:50:52+08:00"
+    },
+    {
       "user_name": "Cym53189",
       "nick_name": "",
       "developer_source": "external",
@@ -434,7 +488,7 @@
       "last_seen_at": "2026-05-10T11:10:20+08:00"
     },
     {
-      "user_name": "gcw_nQkFJLYV.del.1778480846429",
+      "user_name": "gcw_6qUc32qG",
       "nick_name": "",
       "developer_source": "external",
       "top_comments": 2,
@@ -442,20 +496,44 @@
       "discussion_count": 2,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/16",
-          "title": "【启航营 2026 · 南京信息工程大学站】课程相关交流与课后作业提交",
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
           "top_comments": 1,
           "replies": 0
         },
         {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/13",
-          "title": "【2026 CANN算子挑战赛(江山赛区)· 南京信息工程大学站】社区文化小测",
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
           "top_comments": 1,
           "replies": 0
         }
       ],
-      "first_seen_at": "2026-05-08T18:54:45+08:00",
-      "last_seen_at": "2026-05-10T11:08:34+08:00"
+      "first_seen_at": "2026-04-13T17:36:02+08:00",
+      "last_seen_at": "2026-05-06T21:03:41+08:00"
+    },
+    {
+      "user_name": "gcw_Ihm9UV1B",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-17T10:44:11+08:00",
+      "last_seen_at": "2026-05-07T09:43:43+08:00"
     },
     {
       "user_name": "gcw_y45fqUQF",
@@ -650,6 +728,30 @@
       "last_seen_at": "2026-05-08T17:49:27+08:00"
     },
     {
+      "user_name": "QQ1016745501",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-13T17:29:08+08:00",
+      "last_seen_at": "2026-05-08T14:00:03+08:00"
+    },
+    {
       "user_name": "qq_34787748",
       "nick_name": "",
       "developer_source": "external",
@@ -696,6 +798,54 @@
       ],
       "first_seen_at": "2026-05-08T18:46:05+08:00",
       "last_seen_at": "2026-05-10T11:07:28+08:00"
+    },
+    {
+      "user_name": "qq_40267565",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-14T20:14:24+08:00",
+      "last_seen_at": "2026-05-07T09:23:58+08:00"
+    },
+    {
+      "user_name": "qq_73135919111111111111111jeq",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-23T12:37:18+08:00",
+      "last_seen_at": "2026-05-06T21:55:31+08:00"
     },
     {
       "user_name": "QQjun999",
@@ -890,6 +1040,30 @@
       "last_seen_at": "2026-05-10T11:10:29+08:00"
     },
     {
+      "user_name": "ymzz_",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/16",
+          "title": "【启航营 2026 · 南京信息工程大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-06T14:40:28+08:00",
+      "last_seen_at": "2026-05-10T11:07:51+08:00"
+    },
+    {
       "user_name": "ztv7",
       "nick_name": "",
       "developer_source": "external",
@@ -914,6 +1088,96 @@
       "last_seen_at": "2026-05-10T11:08:27+08:00"
     },
     {
+      "user_name": "2503_90905411",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 3,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 3,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T17:06:47+08:00",
+      "last_seen_at": "2026-04-30T11:05:17+08:00"
+    },
+    {
+      "user_name": "m0_63214311",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 3,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 3,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T18:02:15+08:00",
+      "last_seen_at": "2026-04-27T02:09:47+08:00"
+    },
+    {
+      "user_name": "2403_87875832",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T17:23:32+08:00",
+      "last_seen_at": "2026-04-27T14:53:38+08:00"
+    },
+    {
+      "user_name": "aweakbeginner",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T17:25:14+08:00",
+      "last_seen_at": "2026-04-26T21:41:38+08:00"
+    },
+    {
+      "user_name": "Ciall0721",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T18:34:58+08:00",
+      "last_seen_at": "2026-04-28T16:33:44+08:00"
+    },
+    {
       "user_name": "djsjjsjd",
       "nick_name": "",
       "developer_source": "external",
@@ -930,6 +1194,78 @@
       ],
       "first_seen_at": "2026-05-06T14:57:43+08:00",
       "last_seen_at": "2026-05-06T14:58:52+08:00"
+    },
+    {
+      "user_name": "evildoer798",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T18:05:14+08:00",
+      "last_seen_at": "2026-04-28T20:51:00+08:00"
+    },
+    {
+      "user_name": "fuheidj",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T18:04:27+08:00",
+      "last_seen_at": "2026-04-26T20:20:03+08:00"
+    },
+    {
+      "user_name": "gcw_3BlvSNjO",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-04-19T19:27:33+08:00",
+      "last_seen_at": "2026-04-20T08:59:35+08:00"
+    },
+    {
+      "user_name": "gcw_TyPmtGSh",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T17:27:43+08:00",
+      "last_seen_at": "2026-04-28T13:51:24+08:00"
     },
     {
       "user_name": "gcw_UnsOclDN",
@@ -950,6 +1286,114 @@
       "last_seen_at": "2026-05-06T15:00:06+08:00"
     },
     {
+      "user_name": "gcw_XJxPTWK6",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T17:41:28+08:00",
+      "last_seen_at": "2026-04-26T21:35:52+08:00"
+    },
+    {
+      "user_name": "HITsyc",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T19:01:36+08:00",
+      "last_seen_at": "2026-04-28T21:07:05+08:00"
+    },
+    {
+      "user_name": "Kevin--00",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-04-25T20:13:18+08:00",
+      "last_seen_at": "2026-04-28T12:58:51+08:00"
+    },
+    {
+      "user_name": "L123548987513",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T17:54:09+08:00",
+      "last_seen_at": "2026-04-29T02:43:01+08:00"
+    },
+    {
+      "user_name": "liudi5525",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 0,
+      "replies": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 0,
+          "replies": 2
+        }
+      ],
+      "first_seen_at": "2026-04-29T14:33:38+08:00",
+      "last_seen_at": "2026-04-29T14:38:46+08:00"
+    },
+    {
+      "user_name": "painki11er",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-26T09:30:21+08:00",
+      "last_seen_at": "2026-04-28T09:29:39+08:00"
+    },
+    {
       "user_name": "qq_59473815",
       "nick_name": "",
       "developer_source": "external",
@@ -966,6 +1410,42 @@
       ],
       "first_seen_at": "2026-05-06T15:03:21+08:00",
       "last_seen_at": "2026-05-06T15:03:58+08:00"
+    },
+    {
+      "user_name": "qunzhongjia",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T17:34:03+08:00",
+      "last_seen_at": "2026-04-28T13:48:32+08:00"
+    },
+    {
+      "user_name": "siyuanallen06",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T18:14:25+08:00",
+      "last_seen_at": "2026-04-30T14:10:03+08:00"
     },
     {
       "user_name": "syyyyyyy111",
@@ -986,6 +1466,114 @@
       "last_seen_at": "2026-05-06T15:08:11+08:00"
     },
     {
+      "user_name": "Tomzzm4",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T18:33:03+08:00",
+      "last_seen_at": "2026-04-28T22:42:16+08:00"
+    },
+    {
+      "user_name": "wangjingyi28571",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-30T19:58:17+08:00",
+      "last_seen_at": "2026-04-30T20:03:49+08:00"
+    },
+    {
+      "user_name": "wangqiu_",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T18:19:39+08:00",
+      "last_seen_at": "2026-04-29T20:53:22+08:00"
+    },
+    {
+      "user_name": "weixin_56014963",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-04-20T11:00:25+08:00",
+      "last_seen_at": "2026-04-20T14:12:52+08:00"
+    },
+    {
+      "user_name": "Xiaolllll",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T18:31:39+08:00",
+      "last_seen_at": "2026-04-28T20:52:56+08:00"
+    },
+    {
+      "user_name": "xzq1234",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T17:32:57+08:00",
+      "last_seen_at": "2026-04-27T09:55:07+08:00"
+    },
+    {
       "user_name": "Zhrzx",
       "nick_name": "",
       "developer_source": "external",
@@ -1002,6 +1590,24 @@
       ],
       "first_seen_at": "2026-05-06T14:47:45+08:00",
       "last_seen_at": "2026-05-06T14:49:18+08:00"
+    },
+    {
+      "user_name": "zww434",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T17:52:37+08:00",
+      "last_seen_at": "2026-04-27T19:40:54+08:00"
     },
     {
       "user_name": "zyt_2559888264",
@@ -1076,6 +1682,24 @@
       "last_seen_at": "2026-05-08T19:08:41+08:00"
     },
     {
+      "user_name": "2301_79879509",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T17:30:54+08:00",
+      "last_seen_at": "2026-04-25T17:30:54+08:00"
+    },
+    {
       "user_name": "2301_80118541",
       "nick_name": "",
       "developer_source": "external",
@@ -1130,6 +1754,24 @@
       "last_seen_at": "2026-05-08T17:39:27+08:00"
     },
     {
+      "user_name": "2302_79171096",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 0,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 0,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-04-19T16:28:58+08:00",
+      "last_seen_at": "2026-04-19T16:28:58+08:00"
+    },
+    {
       "user_name": "2302_79410581",
       "nick_name": "",
       "developer_source": "external",
@@ -1146,6 +1788,24 @@
       ],
       "first_seen_at": "2026-05-14T09:38:41+08:00",
       "last_seen_at": "2026-05-14T09:38:41+08:00"
+    },
+    {
+      "user_name": "2302_79787942",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T17:02:02+08:00",
+      "last_seen_at": "2026-04-25T17:02:02+08:00"
     },
     {
       "user_name": "2302_80505356",
@@ -1200,6 +1860,24 @@
       ],
       "first_seen_at": "2026-04-26T10:24:19+08:00",
       "last_seen_at": "2026-04-26T10:24:19+08:00"
+    },
+    {
+      "user_name": "2401_87849691",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-20T11:11:42+08:00",
+      "last_seen_at": "2026-04-20T11:11:42+08:00"
     },
     {
       "user_name": "2401_88052195",
@@ -1526,24 +2204,6 @@
       "last_seen_at": "2026-04-26T09:24:46+08:00"
     },
     {
-      "user_name": "Boomcurry",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-06T20:50:52+08:00",
-      "last_seen_at": "2026-05-06T20:50:52+08:00"
-    },
-    {
       "user_name": "c2892480843s",
       "nick_name": "",
       "developer_source": "external",
@@ -1634,6 +2294,42 @@
       "last_seen_at": "2026-05-08T18:58:56+08:00"
     },
     {
+      "user_name": "cineoo",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-19T16:10:26+08:00",
+      "last_seen_at": "2026-04-19T16:10:26+08:00"
+    },
+    {
+      "user_name": "clo_txb_ud",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-22T19:37:25+08:00",
+      "last_seen_at": "2026-04-22T19:37:25+08:00"
+    },
+    {
       "user_name": "Cool_Cat",
       "nick_name": "",
       "developer_source": "external",
@@ -1686,6 +2382,24 @@
       ],
       "first_seen_at": "2026-05-09T10:07:42+08:00",
       "last_seen_at": "2026-05-09T10:07:42+08:00"
+    },
+    {
+      "user_name": "DearSkyDearm",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-20T14:48:49+08:00",
+      "last_seen_at": "2026-04-20T14:48:49+08:00"
     },
     {
       "user_name": "dhh_",
@@ -2156,24 +2870,6 @@
       "last_seen_at": "2026-05-10T11:07:41+08:00"
     },
     {
-      "user_name": "gcw_6qUc32qG",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-06T21:03:41+08:00",
-      "last_seen_at": "2026-05-06T21:03:41+08:00"
-    },
-    {
       "user_name": "gcw_6tuq1kox",
       "nick_name": "",
       "developer_source": "external",
@@ -2318,7 +3014,7 @@
       "last_seen_at": "2026-04-26T09:40:02+08:00"
     },
     {
-      "user_name": "gcw_Ihm9UV1B",
+      "user_name": "gcw_kUuGEppZ",
       "nick_name": "",
       "developer_source": "external",
       "top_comments": 1,
@@ -2326,14 +3022,14 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
           "top_comments": 1,
           "replies": 0
         }
       ],
-      "first_seen_at": "2026-05-07T09:43:43+08:00",
-      "last_seen_at": "2026-05-07T09:43:43+08:00"
+      "first_seen_at": "2026-04-20T13:33:22+08:00",
+      "last_seen_at": "2026-04-20T13:33:22+08:00"
     },
     {
       "user_name": "gcw_M0EUs3al",
@@ -2444,6 +3140,24 @@
       "last_seen_at": "2026-05-08T14:39:52+08:00"
     },
     {
+      "user_name": "gcw_uwuzuAaH",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-20T16:22:41+08:00",
+      "last_seen_at": "2026-04-20T16:22:41+08:00"
+    },
+    {
       "user_name": "gcw_YrxPCFFH",
       "nick_name": "",
       "developer_source": "external",
@@ -2496,6 +3210,24 @@
       ],
       "first_seen_at": "2026-05-06T21:18:05+08:00",
       "last_seen_at": "2026-05-06T21:18:05+08:00"
+    },
+    {
+      "user_name": "GLmmer",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-19T16:00:57+08:00",
+      "last_seen_at": "2026-04-19T16:00:57+08:00"
     },
     {
       "user_name": "gojjwn65565",
@@ -2966,6 +3698,24 @@
       "last_seen_at": "2026-05-06T14:59:12+08:00"
     },
     {
+      "user_name": "LcL41657",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-19T16:22:06+08:00",
+      "last_seen_at": "2026-04-19T16:22:06+08:00"
+    },
+    {
       "user_name": "lggyx",
       "nick_name": "",
       "developer_source": "external",
@@ -3144,6 +3894,24 @@
       ],
       "first_seen_at": "2026-05-06T14:57:18+08:00",
       "last_seen_at": "2026-05-06T14:57:18+08:00"
+    },
+    {
+      "user_name": "LYZW666",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-19T21:52:13+08:00",
+      "last_seen_at": "2026-04-19T21:52:13+08:00"
     },
     {
       "user_name": "m0_46583362",
@@ -3344,6 +4112,24 @@
       "last_seen_at": "2026-05-10T15:11:59+08:00"
     },
     {
+      "user_name": "m0_73885054",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-19T18:36:13+08:00",
+      "last_seen_at": "2026-04-19T18:36:13+08:00"
+    },
+    {
       "user_name": "m0_74083638",
       "nick_name": "",
       "developer_source": "external",
@@ -3452,6 +4238,24 @@
       "last_seen_at": "2026-04-26T10:24:49+08:00"
     },
     {
+      "user_name": "Mygo666",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-19T16:07:36+08:00",
+      "last_seen_at": "2026-04-19T16:07:36+08:00"
+    },
+    {
       "user_name": "MyNameIsLin1",
       "nick_name": "",
       "developer_source": "external",
@@ -3490,7 +4294,7 @@
     {
       "user_name": "Nice_try",
       "nick_name": "",
-      "developer_source": "internal",
+      "developer_source": "external",
       "top_comments": 1,
       "replies": 0,
       "discussion_count": 1,
@@ -3504,6 +4308,24 @@
       ],
       "first_seen_at": "2026-04-26T08:59:02+08:00",
       "last_seen_at": "2026-04-26T08:59:02+08:00"
+    },
+    {
+      "user_name": "niujiahe669",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-20T14:37:55+08:00",
+      "last_seen_at": "2026-04-20T14:37:55+08:00"
     },
     {
       "user_name": "nova0511",
@@ -3614,24 +4436,6 @@
       "last_seen_at": "2026-05-06T14:56:34+08:00"
     },
     {
-      "user_name": "QQ1016745501",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-08T14:00:03+08:00",
-      "last_seen_at": "2026-05-08T14:00:03+08:00"
-    },
-    {
       "user_name": "qq_14948699",
       "nick_name": "",
       "developer_source": "external",
@@ -3684,24 +4488,6 @@
       ],
       "first_seen_at": "2026-05-06T22:48:41+08:00",
       "last_seen_at": "2026-05-06T22:48:41+08:00"
-    },
-    {
-      "user_name": "qq_40267565",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-07T09:23:58+08:00",
-      "last_seen_at": "2026-05-07T09:23:58+08:00"
     },
     {
       "user_name": "qq_45781097",
@@ -3866,24 +4652,6 @@
       "last_seen_at": "2026-05-06T14:51:53+08:00"
     },
     {
-      "user_name": "qq_73135919111111111111111jeq",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-06T21:55:31+08:00",
-      "last_seen_at": "2026-05-06T21:55:31+08:00"
-    },
-    {
       "user_name": "rokuyo",
       "nick_name": "",
       "developer_source": "external",
@@ -3954,6 +4722,24 @@
       ],
       "first_seen_at": "2026-05-06T14:57:51+08:00",
       "last_seen_at": "2026-05-06T14:57:51+08:00"
+    },
+    {
+      "user_name": "Scalett",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-20T15:36:12+08:00",
+      "last_seen_at": "2026-04-20T15:36:12+08:00"
     },
     {
       "user_name": "scpljx",
@@ -4046,6 +4832,60 @@
       "last_seen_at": "2026-04-26T08:59:40+08:00"
     },
     {
+      "user_name": "SophiaLiu",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-19T16:27:55+08:00",
+      "last_seen_at": "2026-04-19T16:27:55+08:00"
+    },
+    {
+      "user_name": "Sophiaqyn",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-20T13:24:55+08:00",
+      "last_seen_at": "2026-04-20T13:24:55+08:00"
+    },
+    {
+      "user_name": "ssa1ad29",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-11T14:50:22+08:00",
+      "last_seen_at": "2026-05-11T14:50:22+08:00"
+    },
+    {
       "user_name": "sunnyrain13",
       "nick_name": "",
       "developer_source": "external",
@@ -4098,6 +4938,24 @@
       ],
       "first_seen_at": "2026-05-06T14:44:36+08:00",
       "last_seen_at": "2026-05-06T14:44:36+08:00"
+    },
+    {
+      "user_name": "szyd123",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+          "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T17:53:35+08:00",
+      "last_seen_at": "2026-04-25T17:53:35+08:00"
     },
     {
       "user_name": "Taylor_hong",
@@ -4224,6 +5082,24 @@
       ],
       "first_seen_at": "2026-04-26T09:37:37+08:00",
       "last_seen_at": "2026-04-26T09:37:37+08:00"
+    },
+    {
+      "user_name": "Viviannnnnn",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-20T15:55:51+08:00",
+      "last_seen_at": "2026-04-20T15:55:51+08:00"
     },
     {
       "user_name": "vocalocreation",
@@ -4388,6 +5264,24 @@
       "last_seen_at": "2026-05-06T15:02:24+08:00"
     },
     {
+      "user_name": "weixin_48190404",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-22T09:08:11+08:00",
+      "last_seen_at": "2026-04-22T09:08:11+08:00"
+    },
+    {
       "user_name": "weixin_49058764",
       "nick_name": "",
       "developer_source": "external",
@@ -4404,6 +5298,24 @@
       ],
       "first_seen_at": "2026-05-09T00:05:15+08:00",
       "last_seen_at": "2026-05-09T00:05:15+08:00"
+    },
+    {
+      "user_name": "weixin_55688375",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 0,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+          "top_comments": 0,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-04-23T17:53:09+08:00",
+      "last_seen_at": "2026-04-23T17:53:09+08:00"
     },
     {
       "user_name": "weixin_55837048",
@@ -4530,6 +5442,24 @@
       ],
       "first_seen_at": "2026-04-26T10:23:53+08:00",
       "last_seen_at": "2026-04-26T10:23:53+08:00"
+    },
+    {
+      "user_name": "wink0123456",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-19T17:25:49+08:00",
+      "last_seen_at": "2026-04-19T17:25:49+08:00"
     },
     {
       "user_name": "Worldsim",
@@ -4730,24 +5660,6 @@
       "last_seen_at": "2026-05-15T16:39:23+08:00"
     },
     {
-      "user_name": "ymzz_",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/16",
-          "title": "【启航营 2026 · 南京信息工程大学站】课程相关交流与课后作业提交",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-10T11:07:51+08:00",
-      "last_seen_at": "2026-05-10T11:07:51+08:00"
-    },
-    {
       "user_name": "z2677363142",
       "nick_name": "",
       "developer_source": "external",
@@ -4928,6 +5840,24 @@
       "last_seen_at": "2026-05-08T13:52:58+08:00"
     },
     {
+      "user_name": "zyyy_2004",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+          "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-20T15:47:32+08:00",
+      "last_seen_at": "2026-04-20T15:47:32+08:00"
+    },
+    {
       "user_name": "zzy-1314z",
       "nick_name": "",
       "developer_source": "external",
@@ -5035,7 +5965,7 @@
       "comment_total": 59,
       "reply_total": 3,
       "unique_participants": 61,
-      "external_participants": 60
+      "external_participants": 61
     },
     {
       "url": "https://gitcode.com/cann/cann-learning-hub/discussions/7",
@@ -5046,6 +5976,56 @@
       "reply_total": 0,
       "unique_participants": 2,
       "external_participants": 2
+    },
+    {
+      "url": "https://gitcode.com/cann/cann-learning-hub/discussions/6",
+      "org": "cann/cann-learning-hub",
+      "number": "6",
+      "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
+      "comment_total": 0,
+      "reply_total": 0,
+      "unique_participants": 0,
+      "external_participants": 0
+    },
+    {
+      "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
+      "org": "cann/cann-learning-hub",
+      "number": "5",
+      "title": "【启航营 2026 · 哈尔滨工业大学(深圳)站】课程相关交流与课后作业提交",
+      "comment_total": 47,
+      "reply_total": 3,
+      "unique_participants": 26,
+      "external_participants": 26
+    },
+    {
+      "url": "https://gitcode.com/cann/cann-learning-hub/discussions/4",
+      "org": "cann/cann-learning-hub",
+      "number": "4",
+      "title": "【启航营 2026 · 北京工业大学站】课程相关交流与课后作业提交",
+      "comment_total": 19,
+      "reply_total": 5,
+      "unique_participants": 20,
+      "external_participants": 20
+    },
+    {
+      "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+      "org": "cann/cann-learning-hub",
+      "number": "3",
+      "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+      "comment_total": 10,
+      "reply_total": 1,
+      "unique_participants": 11,
+      "external_participants": 11
+    },
+    {
+      "url": "https://gitcode.com/cann/cann-learning-hub/discussions/2",
+      "org": "cann/cann-learning-hub",
+      "number": "2",
+      "title": "【CANN快问快答】东莞AI圈子培训赋能活动——大湾区大学专场课堂任务",
+      "comment_total": 0,
+      "reply_total": 0,
+      "unique_participants": 0,
+      "external_participants": 0
     }
   ],
   "errors": [],
