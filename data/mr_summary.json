@@ -4,15 +4,15 @@
       "name": "torchair",
       "path": "Ascend/torchair",
       "merged": 2171,
-      "open": 256,
-      "total": 2427
+      "open": 257,
+      "total": 2428
     },
     {
       "name": "ge",
       "path": "cann/ge",
-      "merged": 1445,
+      "merged": 1446,
       "open": 197,
-      "total": 1642
+      "total": 1643
     },
     {
       "name": "hixl",
@@ -37,5 +37,5 @@
     }
   ],
   "unique_authors": 645,
-  "generated_at": "2026-05-16"
+  "generated_at": "2026-05-17"
 }

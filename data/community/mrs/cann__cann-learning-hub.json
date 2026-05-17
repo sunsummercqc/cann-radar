@@ -1,5 +1,27 @@
 [
   {
+    "iid": 78,
+    "state": "opened",
+    "title": "tutorials: 新增 d2l_ai_pypto 课程目录",
+    "created_at": "2026-05-17",
+    "updated_at": "2026-05-17",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "Feixinzhx",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/78"
+  },
+  {
+    "iid": 77,
+    "state": "opened",
+    "title": "feat: README 新增技术博客章节（算子/推理/训练）",
+    "created_at": "2026-05-17",
+    "updated_at": "2026-05-17",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "mlewis",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/77"
+  },
+  {
     "iid": 76,
     "state": "opened",
     "title": "update: 更新文件 README.md",

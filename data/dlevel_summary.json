@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16",
+  "generated_at": "2026-05-17",
   "global_counts": {
     "d0": 1000,
     "d1": 682,
@@ -27535,7 +27535,8 @@
         "nick_name": "@gcw_WTfSfUy7",
         "level": "d0",
         "sources": [
-          "star"
+          "star",
+          "fork"
         ],
         "star_time": "2026-05-14T14:12:00.000+00:00",
         "fans_count": 0,
@@ -34706,16 +34707,19 @@
       },
       {
         "user_name": "lyx19981118",
-        "nick_name": "lyx19981118",
+        "nick_name": "wegreagrehgtrh",
         "level": "d1",
         "sources": [
+          "star",
           "discussion"
         ],
-        "star_time": "",
-        "fans_count": null,
-        "original_repo_count": null,
-        "total_contributions": null,
-        "starred_repos": [],
+        "star_time": "2026-05-17T08:45:29.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
         "developer_source": "external"
       },
       {
@@ -54486,10 +54490,10 @@
     {
       "month": "2026-05",
       "d0": 91,
-      "d1": 106,
+      "d1": 107,
       "d2": 6,
-      "new_stars": 203,
-      "cumulative": 2348
+      "new_stars": 204,
+      "cumulative": 2349
     }
   ],
   "discussion_commenter_assignment": {
