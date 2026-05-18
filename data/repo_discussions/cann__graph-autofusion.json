@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-17",
-  "source_count": 5,
-  "discussion_count": 5,
-  "external_count": 84,
+  "generated_at": "2026-05-18",
+  "source_count": 6,
+  "discussion_count": 6,
+  "external_count": 85,
   "internal_count": 7,
-  "total_unique_participants": 91,
+  "total_unique_participants": 92,
   "trend": [
     {
-      "date": "2026-05-17",
-      "external_count": 84,
-      "total_unique_participants": 91
+      "date": "2026-05-18",
+      "external_count": 85,
+      "total_unique_participants": 92
     }
   ],
   "participants": [
@@ -1328,6 +1328,24 @@
       "last_seen_at": "2026-05-14T20:46:54+08:00"
     },
     {
+      "user_name": "weixin_51306394",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
+          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-18T14:45:23+08:00",
+      "last_seen_at": "2026-05-18T14:45:23+08:00"
+    },
+    {
       "user_name": "wem603947175",
       "nick_name": "",
       "developer_source": "external",
@@ -1654,14 +1672,24 @@
   ],
   "discussions": [
     {
+      "url": "https://gitcode.com/cann/graph-autofusion/discussions/6",
+      "org": "cann/graph-autofusion",
+      "number": "6",
+      "title": "开源后的graph-autofusion仓库，小伙伴如何提交PR",
+      "comment_total": 0,
+      "reply_total": 0,
+      "unique_participants": 0,
+      "external_participants": 0
+    },
+    {
       "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
       "org": "cann/graph-autofusion",
       "number": "5",
       "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
-      "comment_total": 87,
+      "comment_total": 88,
       "reply_total": 4,
-      "unique_participants": 90,
-      "external_participants": 84
+      "unique_participants": 91,
+      "external_participants": 85
     },
     {
       "url": "https://gitcode.com/cann/graph-autofusion/discussions/4",

@@ -1691,7 +1691,7 @@
     "user_name": "uraplutonium",
     "nick_name": "Felix Ding",
     "user_id": 3958024,
-    "avatar": "https://cdn-img.gitcode.com/fc/ec/36fc510ec008ff2d8d5236a7889f72aa62c42c59588a0f0cafaa59a0395eaf2c.jpg",
+    "avatar": "https://cdn-img.gitcode.com/ba/fe/43b57a00660fe392068a36ef00da2c0f06e1dea8f546ea49731794507cbe6c04.png?time=1779075012362",
     "starred_repos": [
       "cann/ge"
     ]
@@ -5722,6 +5722,15 @@
     ]
   },
   {
+    "user_name": "dreamNway",
+    "nick_name": "dreamNway",
+    "user_id": 11287424,
+    "avatar": null,
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
     "user_name": "wzh8315",
     "nick_name": "wzh8315",
     "user_id": 3656282,
@@ -8349,6 +8358,24 @@
     "avatar": null,
     "starred_repos": [
       "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "gcw_8foqD0kz",
+    "nick_name": "gcw_8foqD0kz",
+    "user_id": 10003859,
+    "avatar": "",
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ]
+  },
+  {
+    "user_name": "weixin_51306394",
+    "nick_name": "@我们的天空",
+    "user_id": 817401,
+    "avatar": "https://cdn-img.gitcode.com/ad/bb/07adbb8d52b3e93f32b779cfa4d24041858ae437cead395d79bcee9dc78db43f.png",
+    "starred_repos": [
+      "cann/graph-autofusion"
     ]
   },
   {

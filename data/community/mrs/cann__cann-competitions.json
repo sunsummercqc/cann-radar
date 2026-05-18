@@ -1,5 +1,16 @@
 [
   {
+    "iid": 158,
+    "state": "opened",
+    "title": "【社区任务】ForeachSubListV2算子设计文档",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "hth810",
+    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/158"
+  },
+  {
     "iid": 157,
     "state": "opened",
     "title": "update competition files",
@@ -34,12 +45,12 @@
   },
   {
     "iid": 154,
-    "state": "opened",
+    "state": "closed",
     "title": "feat: 新增淬火行动目录",
     "created_at": "2026-05-13",
-    "updated_at": "2026-05-13",
+    "updated_at": "2026-05-18",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-05-18",
     "author": "RiddleTan",
     "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/154"
   },
@@ -133,11 +144,11 @@
   },
   {
     "iid": 145,
-    "state": "opened",
+    "state": "merged",
     "title": "【社区任务】IsClose算子设计文档",
     "created_at": "2026-05-11",
-    "updated_at": "2026-05-15",
-    "merged_at": "",
+    "updated_at": "2026-05-18",
+    "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "CyndiZ",
     "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/145"
@@ -221,11 +232,11 @@
   },
   {
     "iid": 137,
-    "state": "opened",
+    "state": "merged",
     "title": "【社区任务】Pdist算子设计文档",
     "created_at": "2026-05-08",
-    "updated_at": "2026-05-14",
-    "merged_at": "",
+    "updated_at": "2026-05-18",
+    "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "zzkuner",
     "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/137"
@@ -419,11 +430,11 @@
   },
   {
     "iid": 119,
-    "state": "opened",
+    "state": "merged",
     "title": "[社区任务]: Polar 算子设计文档",
     "created_at": "2026-04-30",
-    "updated_at": "2026-05-15",
-    "merged_at": "",
+    "updated_at": "2026-05-18",
+    "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "gcw_jgWZA4ay",
     "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/119"

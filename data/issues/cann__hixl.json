@@ -1,9 +1,20 @@
 [
   {
-    "iid": 276,
+    "iid": 277,
     "state": "opened",
-    "created_at": "2026-05-15",
+    "created_at": "2026-05-18",
     "closed_at": "",
+    "author": "lugang11",
+    "title": "[ci]: HIXL_CI改进",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/277"
+  },
+  {
+    "iid": 276,
+    "state": "closed",
+    "created_at": "2026-05-15",
+    "closed_at": "2026-05-18",
     "author": "A-Liuhao",
     "title": "[Bug-Report|缺陷反馈]: .pre-commit-config.yaml中使用了github链接，导致CI超时",
     "labels": [],
@@ -84,7 +95,7 @@
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]:  轻度问题（文件引用/死代码/链接失效）",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/269"
   },
   {
@@ -111,9 +122,9 @@
   },
   {
     "iid": 266,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-13",
-    "closed_at": "",
+    "closed_at": "2026-05-18",
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: 并发测试（链路与同步传输并发），plog日志有ERROR报错：ParseCommResourceConfig: ErrorNo: 103900() [HIXL]parse CommResourceConfig json failed, json=",
     "labels": [],
@@ -133,13 +144,13 @@
   },
   {
     "iid": 264,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-12",
-    "closed_at": "",
+    "closed_at": "2026-05-18",
     "author": "he_ziwei",
     "title": "[Question|问题咨询]: 单向建链时失败 ra socket send",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/264"
   },
   {
@@ -216,7 +227,7 @@
     "author": "tianlianga1",
     "title": "[Question|问题咨询]: 目前支持单卡多进程通信吗？",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/257"
   },
   {
@@ -337,7 +348,7 @@
     "author": "ZhaoBaiwei",
     "title": "[RFC]: HIXL仓重复头文件整改",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/hixl/issues/246"
   },
   {

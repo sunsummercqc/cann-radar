@@ -1,11 +1,33 @@
 [
   {
+    "iid": 478,
+    "state": "opened",
+    "created_at": "2026-05-18",
+    "closed_at": "",
+    "author": "yuanshuai000",
+    "title": "[Feature]: quant_batch_matmul支持k方向8对齐",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/478"
+  },
+  {
+    "iid": 476,
+    "state": "opened",
+    "created_at": "2026-05-18",
+    "closed_at": "",
+    "author": "Jiaqin",
+    "title": "[Feature]: 支持set_op_timeout_ms入图",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/476"
+  },
+  {
     "iid": 475,
     "state": "opened",
     "created_at": "2026-05-15",
     "closed_at": "",
     "author": "stellaxx11",
-    "title": "[Bug]: ",
+    "title": "[Bug]: reduce-overhead模式下，PD分离部署图运行卡死，去掉多流就可正常运行",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/475"
@@ -34,13 +56,13 @@
   },
   {
     "iid": 472,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-14",
-    "closed_at": "",
+    "closed_at": "2026-05-18",
     "author": "Wangyanzhao_13",
     "title": "[Bug]: 整网 longcat-flash, ge_graph下疑似内存踩踏， 执行加法之后 = 极小值",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/472"
   },
   {

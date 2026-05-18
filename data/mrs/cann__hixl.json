@@ -1,5 +1,49 @@
 [
   {
+    "iid": 479,
+    "state": "opened",
+    "title": "[bugfix]: fix log change",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "AlexRen998916",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/479"
+  },
+  {
+    "iid": 478,
+    "state": "opened",
+    "title": "[docs]【文档捉虫-正确性问题】文档问题修改",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "dreamNway",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/478"
+  },
+  {
+    "iid": 477,
+    "state": "opened",
+    "title": "[feat]支持批量多次下发传输任务",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zhaozhihui",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/477"
+  },
+  {
+    "iid": 476,
+    "state": "opened",
+    "title": "[bugfix] 修复云平台执行ut用例失败问题",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "M__Cheng",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/476"
+  },
+  {
     "iid": 475,
     "state": "merged",
     "title": "[refactor]告警修改，并添加资料",
@@ -12,22 +56,22 @@
   },
   {
     "iid": 474,
-    "state": "opened",
+    "state": "merged",
     "title": "[bugfix]: fix pre-commit url",
     "created_at": "2026-05-15",
-    "updated_at": "2026-05-15",
-    "merged_at": "",
+    "updated_at": "2026-05-18",
+    "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "A-Liuhao",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/474"
   },
   {
     "iid": 473,
-    "state": "opened",
+    "state": "merged",
     "title": "[bugfix] 修复eid匹配问题",
     "created_at": "2026-05-15",
-    "updated_at": "2026-05-15",
-    "merged_at": "",
+    "updated_at": "2026-05-18",
+    "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "xumengxuan",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/473"
@@ -177,11 +221,11 @@
   },
   {
     "iid": 459,
-    "state": "opened",
+    "state": "merged",
     "title": "[Bugfix] 解决hixl包--full 安装之后，upgrade丢失文件的问题",
     "created_at": "2026-05-12",
-    "updated_at": "2026-05-12",
-    "merged_at": "",
+    "updated_at": "2026-05-18",
+    "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "ZhaoBaiwei",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/459"
@@ -243,11 +287,11 @@
   },
   {
     "iid": 453,
-    "state": "opened",
+    "state": "merged",
     "title": "[FabricMem][Bench] Add FabricMem MEM_HOST two-rank probe",
     "created_at": "2026-05-11",
-    "updated_at": "2026-05-17",
-    "merged_at": "",
+    "updated_at": "2026-05-18",
+    "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "foraxe_admin",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/453"
@@ -400,7 +444,7 @@
     "state": "opened",
     "title": "[feat] HIXL Engine 支持 Notify 和 AutoConnect 能力",
     "created_at": "2026-05-07",
-    "updated_at": "2026-05-07",
+    "updated_at": "2026-05-18",
     "merged_at": "",
     "closed_at": "",
     "author": "M__Cheng",

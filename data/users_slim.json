@@ -7354,6 +7354,18 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "dreamNway",
+    "nick_name": "dreamNway",
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 4,
+    "developer_source": "external"
+  },
+  {
     "user_name": "wzh8315",
     "nick_name": "wzh8315",
     "starred_repos": [
@@ -10361,7 +10373,7 @@
     "starred_repos": [
       "cann/hixl"
     ],
-    "user_type": "developer",
+    "user_type": "contributor",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 351,
@@ -10843,6 +10855,30 @@
     "original_repo_count": 0,
     "total_contributions": 0,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "gcw_8foqD0kz",
+    "nick_name": "gcw_8foqD0kz",
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "weixin_51306394",
+    "nick_name": "@我们的天空",
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 4,
+    "developer_source": "external"
   },
   {
     "user_name": "A_1025",

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-17",
-  "source_count": 4,
-  "discussion_count": 4,
+  "generated_at": "2026-05-18",
+  "source_count": 5,
+  "discussion_count": 5,
   "external_count": 26,
   "internal_count": 1,
   "total_unique_participants": 27,
   "trend": [
     {
-      "date": "2026-05-17",
+      "date": "2026-05-18",
       "external_count": 26,
       "total_unique_participants": 27
     }
@@ -501,6 +501,16 @@
     }
   ],
   "discussions": [
+    {
+      "url": "https://gitcode.com/cann/ge/discussions/5",
+      "org": "cann/ge",
+      "number": "5",
+      "title": "有奖问答 | GE基础知识",
+      "comment_total": 0,
+      "reply_total": 0,
+      "unique_participants": 0,
+      "external_participants": 0
+    },
     {
       "url": "https://gitcode.com/cann/ge/discussions/4",
       "org": "cann/ge",

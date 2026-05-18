@@ -16342,7 +16342,7 @@
     "original_repo_count": 0,
     "total_repo_count": 15,
     "total_contributions": 351,
-    "user_type": "developer"
+    "user_type": "contributor"
   },
   {
     "user_name": "c00957531",
@@ -28012,6 +28012,48 @@
     "user_id": 2983173,
     "starred_repos": [
       "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "weixin_51306394",
+    "nick_name": "@我们的天空",
+    "user_id": 817401,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 4,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "dreamNway",
+    "nick_name": "dreamNway",
+    "user_id": 11287424,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 4,
+    "user_type": "contributor"
+  },
+  {
+    "user_name": "gcw_8foqD0kz",
+    "nick_name": "gcw_8foqD0kz",
+    "user_id": 10003859,
+    "starred_repos": [
+      "cann/graph-autofusion"
     ],
     "fans_count": 0,
     "follow_count": 0,
