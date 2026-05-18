@@ -1,11 +1,33 @@
 [
   {
+    "iid": 279,
+    "state": "closed",
+    "created_at": "2026-05-18",
+    "closed_at": "2026-05-18",
+    "author": "lining23666",
+    "title": "[Question|问题咨询]: 使用malloc的内存调用RegisterMem注册失败",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/279"
+  },
+  {
+    "iid": 278,
+    "state": "opened",
+    "created_at": "2026-05-18",
+    "closed_at": "",
+    "author": "xumengxuan",
+    "title": "[RFC]: 编译安装运行支持 Python 3.14",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/278"
+  },
+  {
     "iid": 277,
     "state": "opened",
     "created_at": "2026-05-18",
     "closed_at": "",
     "author": "lugang11",
-    "title": "[ci]: HIXL_CI改进",
+    "title": "[Feature-Request|需求反馈]: HIXL_CI改进",
     "labels": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/hixl/issues/277"
@@ -67,13 +89,13 @@
   },
   {
     "iid": 271,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-14",
-    "closed_at": "",
+    "closed_at": "2026-05-18",
     "author": "M__Cheng",
     "title": "[Bug-Report|缺陷反馈]: 云平台执行bash tests/run_test.sh失败",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/hixl/issues/271"
   },
   {
@@ -89,13 +111,13 @@
   },
   {
     "iid": 269,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-13",
-    "closed_at": "",
+    "closed_at": "2026-05-18",
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]:  轻度问题（文件引用/死代码/链接失效）",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/269"
   },
   {
@@ -755,7 +777,7 @@
     "author": "A-Liuhao",
     "title": "【💡需求征集】：2026 H1",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/196"
   },
   {
@@ -777,7 +799,7 @@
     "author": "A-Liuhao",
     "title": "【🔥社区任务发布】：文档捉虫",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/194"
   },
   {

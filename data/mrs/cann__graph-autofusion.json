@@ -1,5 +1,93 @@
 [
   {
+    "iid": 402,
+    "state": "opened",
+    "title": "fix：update readme，correct comma",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "LLCRY923",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/402"
+  },
+  {
+    "iid": 401,
+    "state": "closed",
+    "title": "【PR】: 简要描述",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "2026-05-18",
+    "author": "LLCRY923",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/401"
+  },
+  {
+    "iid": 400,
+    "state": "opened",
+    "title": "fix：update readme，correct spelling errors",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zhouy-a",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/400"
+  },
+  {
+    "iid": 399,
+    "state": "opened",
+    "title": "【refactor】: 合并部分ApiCall类并适配Extend wrapper参数顺序",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "chenyukai",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/399"
+  },
+  {
+    "iid": 398,
+    "state": "opened",
+    "title": "【PR】: 简要描述",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "Achilles_d",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/398"
+  },
+  {
+    "iid": 397,
+    "state": "opened",
+    "title": "【feat】: v35 log1p 和 erfcx的新实现及对应UT，提供更高的精度",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "Joey_guo",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/397"
+  },
+  {
+    "iid": 396,
+    "state": "opened",
+    "title": "[WIP]【PR】: 简要描述",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "yitaoxt",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/396"
+  },
+  {
+    "iid": 395,
+    "state": "opened",
+    "title": "【PR】: 简要描述",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "gcw_WTfSfUy7",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/395"
+  },
+  {
     "iid": 394,
     "state": "opened",
     "title": "【PR】: test compile",
@@ -100,11 +188,11 @@
   },
   {
     "iid": 385,
-    "state": "opened",
+    "state": "merged",
     "title": "fix: update readme，correct spelling errors",
     "created_at": "2026-05-16",
     "updated_at": "2026-05-18",
-    "merged_at": "",
+    "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "clarejoe",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/385"

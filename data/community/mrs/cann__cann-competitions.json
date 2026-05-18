@@ -1,5 +1,27 @@
 [
   {
+    "iid": 160,
+    "state": "opened",
+    "title": "【社区任务】Polar算子设计文档",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "LiJianhao2",
+    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/160"
+  },
+  {
+    "iid": 159,
+    "state": "opened",
+    "title": "【社区任务】03-26-reshape_and_cache_kernel_flash 算子设计文档",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "ElevenLiu",
+    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/159"
+  },
+  {
     "iid": 158,
     "state": "opened",
     "title": "【社区任务】ForeachSubListV2算子设计文档",

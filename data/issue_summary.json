@@ -5,14 +5,14 @@
       "path": "cann/ge",
       "avg_days": 10.2,
       "closed": 318,
-      "opened": 45
+      "opened": 46
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "avg_days": 12.2,
-      "closed": 231,
-      "opened": 31
+      "avg_days": 12.1,
+      "closed": 234,
+      "opened": 30
     },
     {
       "name": "torchtitan-npu",
@@ -33,7 +33,7 @@
       "path": "Ascend/torchair",
       "avg_days": 19.7,
       "closed": 317,
-      "opened": 20
+      "opened": 21
     }
   ],
   "generated_at": "2026-05-18"

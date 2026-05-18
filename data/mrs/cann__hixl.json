@@ -1,5 +1,27 @@
 [
   {
+    "iid": 481,
+    "state": "opened",
+    "title": "refactor BuildEndpointListFromOptions",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "lining23666",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/481"
+  },
+  {
+    "iid": 480,
+    "state": "opened",
+    "title": "bugfix:fix codecheck",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "youyx",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/480"
+  },
+  {
     "iid": 479,
     "state": "opened",
     "title": "[bugfix]: fix log change",
@@ -12,11 +34,11 @@
   },
   {
     "iid": 478,
-    "state": "opened",
+    "state": "merged",
     "title": "[docs]【文档捉虫-正确性问题】文档问题修改",
     "created_at": "2026-05-18",
     "updated_at": "2026-05-18",
-    "merged_at": "",
+    "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "dreamNway",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/478"
@@ -34,11 +56,11 @@
   },
   {
     "iid": 476,
-    "state": "opened",
+    "state": "merged",
     "title": "[bugfix] 修复云平台执行ut用例失败问题",
     "created_at": "2026-05-18",
     "updated_at": "2026-05-18",
-    "merged_at": "",
+    "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "M__Cheng",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/476"
@@ -455,7 +477,7 @@
     "state": "opened",
     "title": "[Refactor] HIXL头文件整改",
     "created_at": "2026-05-07",
-    "updated_at": "2026-05-14",
+    "updated_at": "2026-05-18",
     "merged_at": "",
     "closed_at": "",
     "author": "ZhaoBaiwei",
