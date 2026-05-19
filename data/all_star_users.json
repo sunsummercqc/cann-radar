@@ -1,5 +1,61 @@
 [
   {
+    "user_name": "gcw_2mqml1vq",
+    "nick_name": "gcw_2mqml1vq",
+    "user_id": 7845265,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ge",
+      "cann/graph-autofusion"
+    ]
+  },
+  {
+    "user_name": "gcw_RQTRuoC1",
+    "nick_name": "gcw_RQTRuoC1",
+    "user_id": 11307373,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
+    "user_name": "ohos_dev",
+    "nick_name": "ohos_dev",
+    "user_id": 4356199,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
+    "user_name": "dernigede",
+    "nick_name": "dernigede",
+    "user_id": 11307209,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
+    "user_name": "zhang946766897",
+    "nick_name": "zhang946766897",
+    "user_id": 11307129,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
+    "user_name": "chengyutao3",
+    "nick_name": "chengyutao3",
+    "user_id": 2561140,
+    "avatar": "https://cdn-img.gitcode.com/be/eb/be094e897b91ec766c531497e238e7c1b9d611c25edfae3fdf7c4fec2b947ed4.jpg",
+    "starred_repos": [
+      "cann/ge",
+      "cann/graph-autofusion"
+    ]
+  },
+  {
     "user_name": "leozjr",
     "nick_name": "leozjr",
     "user_id": 10874958,
@@ -1131,7 +1187,8 @@
     "user_id": 5137386,
     "avatar": null,
     "starred_repos": [
-      "cann/ge"
+      "cann/ge",
+      "Ascend/torchair"
     ]
   },
   {
@@ -1372,7 +1429,8 @@
     "user_id": 6574354,
     "avatar": null,
     "starred_repos": [
-      "cann/ge"
+      "cann/ge",
+      "Ascend/torchair"
     ]
   },
   {
@@ -1642,16 +1700,6 @@
     "nick_name": "jialimin1",
     "user_id": 6567959,
     "avatar": null,
-    "starred_repos": [
-      "cann/ge",
-      "cann/graph-autofusion"
-    ]
-  },
-  {
-    "user_name": "chengyutao3",
-    "nick_name": "chengyutao3",
-    "user_id": 2561140,
-    "avatar": "https://cdn-img.gitcode.com/be/eb/be094e897b91ec766c531497e238e7c1b9d611c25edfae3fdf7c4fec2b947ed4.jpg",
     "starred_repos": [
       "cann/ge",
       "cann/graph-autofusion"
@@ -3914,7 +3962,8 @@
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
-      "cann/graph-autofusion"
+      "cann/graph-autofusion",
+      "Ascend/torchair"
     ]
   },
   {
@@ -5728,6 +5777,24 @@
       "cann/graph-autofusion",
       "cann/torchtitan-npu",
       "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "qq_43499814",
+    "nick_name": "qq_43499814",
+    "user_id": 4624925,
+    "avatar": "https://cdn-img.gitcode.com/ee/df/7806e4e45444d03fe39abe4f64a0a1355fedde3ac4b1bbf8334874022c9ab23f.png",
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "gcw_M5Xrk6cX",
+    "nick_name": "liuao",
+    "user_id": 5081849,
+    "avatar": "",
+    "starred_repos": [
+      "cann/hixl"
     ]
   },
   {
@@ -8370,8 +8437,26 @@
     ]
   },
   {
+    "user_name": "guozhifeng",
+    "nick_name": "guozhifeng",
+    "user_id": 389563,
+    "avatar": null,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ]
+  },
+  {
+    "user_name": "JerryBai25",
+    "nick_name": "JerryBai25",
+    "user_id": 7772192,
+    "avatar": null,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ]
+  },
+  {
     "user_name": "gcw_8foqD0kz",
-    "nick_name": "gcw_8foqD0kz",
+    "nick_name": "nevermore",
     "user_id": 10003859,
     "avatar": "",
     "starred_repos": [
@@ -9198,15 +9283,6 @@
     "user_name": "gcw_KLOHF9d6",
     "nick_name": "gcw_KLOHF9d6",
     "user_id": 11148245,
-    "avatar": "",
-    "starred_repos": [
-      "cann/graph-autofusion"
-    ]
-  },
-  {
-    "user_name": "gcw_2mqml1vq",
-    "nick_name": "gcw_2mqml1vq",
-    "user_id": 7845265,
     "avatar": "",
     "starred_repos": [
       "cann/graph-autofusion"

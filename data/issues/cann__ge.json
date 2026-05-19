@@ -1,13 +1,35 @@
 [
   {
+    "iid": 389,
+    "state": "opened",
+    "created_at": "2026-05-19",
+    "closed_at": "",
+    "author": "pan-tong",
+    "title": "[BUG] HostCpuEngine::DlopenLib 加载失败时不应上报 E19999 / 打 ERROR 日志",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/389"
+  },
+  {
+    "iid": 388,
+    "state": "opened",
+    "created_at": "2026-05-19",
+    "closed_at": "",
+    "author": "stevenaw0",
+    "title": "[Bug-Report|缺陷反馈]: loop_ops.h:1116:89: error: no matching function for call to ‘StrJoin(const std::vector<long int>&)’",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/388"
+  },
+  {
     "iid": 387,
     "state": "opened",
     "created_at": "2026-05-18",
     "closed_at": "",
     "author": "yuchen97",
-    "title": "[Bug-Report|缺陷反馈]: TensorMoveDeletePass 使用 std::stoi 缺少异常安全处理",
+    "title": "[Bug-Report|缺陷反馈]: 【外部开发者】TensorMoveDeletePass 使用 std::stoi 缺少异常安全处理",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/387"
   },
   {
@@ -40,7 +62,7 @@
     "author": "stevenaw0",
     "title": "新增TensorMove消除优化二期（特殊源节点 + 多TM消费 + 冲突检查）",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/384"
   },
   {
@@ -3315,7 +3337,7 @@
     "state": "closed",
     "created_at": "2026-01-19",
     "closed_at": "2026-03-24",
-    "author": "weixin_40129833",
+    "author": "scanz",
     "title": "[Feature-Request|需求反馈]: CosyVoice3 尝试把onnx转换为om推理权重报错算子不支持",
     "labels": [],
     "user_notes_count": 5,

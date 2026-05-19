@@ -1,9 +1,9 @@
 [
   {
     "iid": 28,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-18",
-    "closed_at": "",
+    "closed_at": "2026-05-19",
     "author": "Lee_worm",
     "title": "[Requirement|需求建议]:  测试deepseek-v4-pro报错算子问题，因项目无法使用高版本的os，需要提供22.03的镜像，",
     "labels": [],

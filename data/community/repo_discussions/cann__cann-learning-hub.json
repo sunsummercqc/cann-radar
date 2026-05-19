@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-18",
-  "source_count": 15,
-  "discussion_count": 15,
-  "external_count": 363,
+  "generated_at": "2026-05-19",
+  "source_count": 16,
+  "discussion_count": 16,
+  "external_count": 373,
   "internal_count": 3,
-  "total_unique_participants": 366,
+  "total_unique_participants": 376,
   "trend": [
     {
-      "date": "2026-05-18",
-      "external_count": 363,
-      "total_unique_participants": 366
+      "date": "2026-05-19",
+      "external_count": 373,
+      "total_unique_participants": 376
     }
   ],
   "participants": [
@@ -17,10 +17,16 @@
       "user_name": "2401_88361224",
       "nick_name": "",
       "developer_source": "external",
-      "top_comments": 3,
+      "top_comments": 4,
       "replies": 0,
-      "discussion_count": 3,
+      "discussion_count": 4,
       "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        },
         {
           "url": "https://gitcode.com/cann/cann-learning-hub/discussions/16",
           "title": "【启航营 2026 · 南京信息工程大学站】课程相关交流与课后作业提交",
@@ -41,7 +47,67 @@
         }
       ],
       "first_seen_at": "2026-05-08T19:04:27+08:00",
-      "last_seen_at": "2026-05-14T13:18:58+08:00"
+      "last_seen_at": "2026-05-19T20:18:54+08:00"
+    },
+    {
+      "user_name": "2401_88002946",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 3,
+      "replies": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/13",
+          "title": "【2026 CANN算子挑战赛(江山赛区)· 南京信息工程大学站】社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-08T18:54:14+08:00",
+      "last_seen_at": "2026-05-19T12:53:56+08:00"
+    },
+    {
+      "user_name": "Boomcurry",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 3,
+      "replies": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-13T17:43:52+08:00",
+      "last_seen_at": "2026-05-19T17:04:58+08:00"
     },
     {
       "user_name": "gcw_nQkFJLYV.del.1778480846429",
@@ -72,6 +138,126 @@
       ],
       "first_seen_at": "2026-05-06T13:56:49+08:00",
       "last_seen_at": "2026-05-10T11:08:34+08:00"
+    },
+    {
+      "user_name": "lyb1366",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 3,
+      "replies": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/10",
+          "title": "【启航营 2026 · 南京理工大学站】社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-06T15:01:18+08:00",
+      "last_seen_at": "2026-05-19T16:50:28+08:00"
+    },
+    {
+      "user_name": "maomao1019",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 3,
+      "replies": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/10",
+          "title": "【启航营 2026 · 南京理工大学站】社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-06T14:44:42+08:00",
+      "last_seen_at": "2026-05-19T12:09:38+08:00"
+    },
+    {
+      "user_name": "qq_73135919111111111111111jeq",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 3,
+      "replies": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-23T12:37:18+08:00",
+      "last_seen_at": "2026-05-19T16:51:26+08:00"
+    },
+    {
+      "user_name": "weixin_62308620",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 3,
+      "replies": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/10",
+          "title": "【启航营 2026 · 南京理工大学站】社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-06T14:53:44+08:00",
+      "last_seen_at": "2026-05-19T19:19:20+08:00"
     },
     {
       "user_name": "WrongAnswer99",
@@ -152,6 +338,30 @@
       "last_seen_at": "2026-05-07T15:01:04+08:00"
     },
     {
+      "user_name": "Taylor_hong",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 3,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 2,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-12T16:51:33+08:00",
+      "last_seen_at": "2026-05-19T19:31:09+08:00"
+    },
+    {
       "user_name": "2201_75366777",
       "nick_name": "",
       "developer_source": "external",
@@ -222,30 +432,6 @@
       ],
       "first_seen_at": "2026-05-08T18:45:59+08:00",
       "last_seen_at": "2026-05-10T11:11:55+08:00"
-    },
-    {
-      "user_name": "2401_88002946",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 2,
-      "replies": 0,
-      "discussion_count": 2,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/13",
-          "title": "【2026 CANN算子挑战赛(江山赛区)· 南京信息工程大学站】社区文化小测",
-          "top_comments": 1,
-          "replies": 0
-        },
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-08T18:54:14+08:00",
-      "last_seen_at": "2026-05-09T21:53:02+08:00"
     },
     {
       "user_name": "2403_88020884.del.1779024854623",
@@ -392,30 +578,6 @@
       "last_seen_at": "2026-05-12T20:29:29+08:00"
     },
     {
-      "user_name": "Boomcurry",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 2,
-      "replies": 0,
-      "discussion_count": 2,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        },
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-04-13T17:43:52+08:00",
-      "last_seen_at": "2026-05-06T20:50:52+08:00"
-    },
-    {
       "user_name": "Cym53189",
       "nick_name": "",
       "developer_source": "external",
@@ -464,6 +626,30 @@
       "last_seen_at": "2026-05-10T11:07:42+08:00"
     },
     {
+      "user_name": "dnnh2018",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-14T08:35:50+08:00",
+      "last_seen_at": "2026-05-19T20:34:50+08:00"
+    },
+    {
       "user_name": "E-eleven",
       "nick_name": "",
       "developer_source": "external",
@@ -510,6 +696,30 @@
       ],
       "first_seen_at": "2026-04-13T17:36:02+08:00",
       "last_seen_at": "2026-05-06T21:03:41+08:00"
+    },
+    {
+      "user_name": "gcw_BGYN83tl",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-06T20:43:29+08:00",
+      "last_seen_at": "2026-05-19T19:59:17+08:00"
     },
     {
       "user_name": "gcw_Ihm9UV1B",
@@ -584,6 +794,30 @@
       "last_seen_at": "2026-05-10T11:10:27+08:00"
     },
     {
+      "user_name": "Jiuxiao17",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-06T20:44:56+08:00",
+      "last_seen_at": "2026-05-19T22:19:35+08:00"
+    },
+    {
       "user_name": "leilei_",
       "nick_name": "",
       "developer_source": "external",
@@ -606,6 +840,30 @@
       ],
       "first_seen_at": "2026-05-08T19:00:53+08:00",
       "last_seen_at": "2026-05-10T11:07:47+08:00"
+    },
+    {
+      "user_name": "li-yunle",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/8",
+          "title": "【CANN快问快答】算子测试赛活动——龙岗专场",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-26T09:02:04+08:00",
+      "last_seen_at": "2026-05-19T10:40:08+08:00"
     },
     {
       "user_name": "liyao_26",
@@ -680,7 +938,7 @@
       "last_seen_at": "2026-05-06T20:28:00+08:00"
     },
     {
-      "user_name": "lyb1366",
+      "user_name": "m0_73390923",
       "nick_name": "",
       "developer_source": "external",
       "top_comments": 2,
@@ -688,23 +946,23 @@
       "discussion_count": 2,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
           "top_comments": 1,
           "replies": 0
         },
         {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/10",
-          "title": "【启航营 2026 · 南京理工大学站】社区文化小测",
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
           "top_comments": 1,
           "replies": 0
         }
       ],
-      "first_seen_at": "2026-05-06T15:01:18+08:00",
-      "last_seen_at": "2026-05-06T21:08:18+08:00"
+      "first_seen_at": "2026-05-10T15:11:59+08:00",
+      "last_seen_at": "2026-05-19T15:41:08+08:00"
     },
     {
-      "user_name": "maomao1019",
+      "user_name": "m0_74083638",
       "nick_name": "",
       "developer_source": "external",
       "top_comments": 2,
@@ -712,20 +970,44 @@
       "discussion_count": 2,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
           "top_comments": 1,
           "replies": 0
         },
         {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/10",
-          "title": "【启航营 2026 · 南京理工大学站】社区文化小测",
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
           "top_comments": 1,
           "replies": 0
         }
       ],
-      "first_seen_at": "2026-05-06T14:44:42+08:00",
-      "last_seen_at": "2026-05-08T17:49:27+08:00"
+      "first_seen_at": "2026-05-10T14:49:41+08:00",
+      "last_seen_at": "2026-05-19T11:35:26+08:00"
+    },
+    {
+      "user_name": "q12q31w",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-06T20:36:22+08:00",
+      "last_seen_at": "2026-05-19T21:51:13+08:00"
     },
     {
       "user_name": "QQ1016745501",
@@ -824,7 +1106,7 @@
       "last_seen_at": "2026-05-07T09:23:58+08:00"
     },
     {
-      "user_name": "qq_73135919111111111111111jeq",
+      "user_name": "qq_61637710",
       "nick_name": "",
       "developer_source": "external",
       "top_comments": 2,
@@ -832,20 +1114,20 @@
       "discussion_count": 2,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
           "top_comments": 1,
           "replies": 0
         },
         {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/3",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第一期！",
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
           "top_comments": 1,
           "replies": 0
         }
       ],
-      "first_seen_at": "2026-04-23T12:37:18+08:00",
-      "last_seen_at": "2026-05-06T21:55:31+08:00"
+      "first_seen_at": "2026-05-06T20:41:02+08:00",
+      "last_seen_at": "2026-05-19T16:32:30+08:00"
     },
     {
       "user_name": "QQjun999",
@@ -968,30 +1250,6 @@
       "last_seen_at": "2026-05-10T11:11:30+08:00"
     },
     {
-      "user_name": "weixin_62308620",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 2,
-      "replies": 0,
-      "discussion_count": 2,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        },
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/10",
-          "title": "【启航营 2026 · 南京理工大学站】社区文化小测",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-06T14:53:44+08:00",
-      "last_seen_at": "2026-05-06T20:25:41+08:00"
-    },
-    {
       "user_name": "wjh_26",
       "nick_name": "",
       "developer_source": "external",
@@ -1086,6 +1344,30 @@
       ],
       "first_seen_at": "2026-05-08T19:00:35+08:00",
       "last_seen_at": "2026-05-10T11:08:27+08:00"
+    },
+    {
+      "user_name": "zzy-1314z",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-06T21:50:58+08:00",
+      "last_seen_at": "2026-05-19T13:15:22+08:00"
     },
     {
       "user_name": "xyl6716",
@@ -1302,6 +1584,24 @@
       ],
       "first_seen_at": "2026-05-16T09:58:37+08:00",
       "last_seen_at": "2026-05-18T01:00:40+08:00"
+    },
+    {
+      "user_name": "jiayiqi",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 3,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/11",
+          "title": "【启航营 2026 · 杭州电子科技大学站】课程相关交流与课后作业提交",
+          "top_comments": 3,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-16T09:56:47+08:00",
+      "last_seen_at": "2026-05-19T22:42:04+08:00"
     },
     {
       "user_name": "kavinfu",
@@ -1644,24 +1944,6 @@
       ],
       "first_seen_at": "2026-04-25T19:01:36+08:00",
       "last_seen_at": "2026-04-28T21:07:05+08:00"
-    },
-    {
-      "user_name": "jiayiqi",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 2,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/11",
-          "title": "【启航营 2026 · 杭州电子科技大学站】课程相关交流与课后作业提交",
-          "top_comments": 2,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-16T09:56:47+08:00",
-      "last_seen_at": "2026-05-16T15:15:30+08:00"
     },
     {
       "user_name": "Kevin--00",
@@ -2582,6 +2864,24 @@
       "last_seen_at": "2026-05-08T19:01:26+08:00"
     },
     {
+      "user_name": "airline233_",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-19T12:46:48+08:00",
+      "last_seen_at": "2026-05-19T12:46:48+08:00"
+    },
+    {
       "user_name": "Alano8",
       "nick_name": "",
       "developer_source": "external",
@@ -2960,24 +3260,6 @@
       "last_seen_at": "2026-05-14T00:22:44+08:00"
     },
     {
-      "user_name": "dnnh2018",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-14T08:35:50+08:00",
-      "last_seen_at": "2026-05-14T08:35:50+08:00"
-    },
-    {
       "user_name": "Dreaminity",
       "nick_name": "",
       "developer_source": "external",
@@ -3302,6 +3584,24 @@
       "last_seen_at": "2026-05-06T15:01:37+08:00"
     },
     {
+      "user_name": "gakkijj",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-19T16:55:35+08:00",
+      "last_seen_at": "2026-05-19T16:55:35+08:00"
+    },
+    {
       "user_name": "gca_u2301_79418788",
       "nick_name": "",
       "developer_source": "external",
@@ -3480,24 +3780,6 @@
       ],
       "first_seen_at": "2026-05-16T16:45:21+08:00",
       "last_seen_at": "2026-05-16T16:45:21+08:00"
-    },
-    {
-      "user_name": "gcw_BGYN83tl",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-06T20:43:29+08:00",
-      "last_seen_at": "2026-05-06T20:43:29+08:00"
     },
     {
       "user_name": "gcw_BPwNJtSE",
@@ -3788,6 +4070,24 @@
       "last_seen_at": "2026-05-10T11:07:48+08:00"
     },
     {
+      "user_name": "gg_zy",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-19T15:19:59+08:00",
+      "last_seen_at": "2026-05-19T15:19:59+08:00"
+    },
+    {
       "user_name": "github_72282252",
       "nick_name": "",
       "developer_source": "external",
@@ -4076,6 +4376,24 @@
       "last_seen_at": "2026-04-26T09:03:21+08:00"
     },
     {
+      "user_name": "ianm3ng",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-19T16:37:57+08:00",
+      "last_seen_at": "2026-05-19T16:37:57+08:00"
+    },
+    {
       "user_name": "IllMK",
       "nick_name": "",
       "developer_source": "external",
@@ -4256,24 +4574,6 @@
       "last_seen_at": "2026-04-26T08:52:38+08:00"
     },
     {
-      "user_name": "Jiuxiao17",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-06T20:44:56+08:00",
-      "last_seen_at": "2026-05-06T20:44:56+08:00"
-    },
-    {
       "user_name": "jjsjjssn",
       "nick_name": "",
       "developer_source": "external",
@@ -4290,6 +4590,24 @@
       ],
       "first_seen_at": "2026-04-26T09:35:06+08:00",
       "last_seen_at": "2026-04-26T09:35:06+08:00"
+    },
+    {
+      "user_name": "jyao_hw",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-19T19:06:54+08:00",
+      "last_seen_at": "2026-05-19T19:06:54+08:00"
     },
     {
       "user_name": "KasuganoG",
@@ -4436,24 +4754,6 @@
       "last_seen_at": "2026-04-26T09:03:39+08:00"
     },
     {
-      "user_name": "li-yunle",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/8",
-          "title": "【CANN快问快答】算子测试赛活动——龙岗专场",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-04-26T09:02:04+08:00",
-      "last_seen_at": "2026-04-26T09:02:04+08:00"
-    },
-    {
       "user_name": "li_Gerry",
       "nick_name": "",
       "developer_source": "external",
@@ -4542,6 +4842,24 @@
       ],
       "first_seen_at": "2026-04-26T08:56:20+08:00",
       "last_seen_at": "2026-04-26T08:56:20+08:00"
+    },
+    {
+      "user_name": "LLl312",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-19T17:17:36+08:00",
+      "last_seen_at": "2026-05-19T17:17:36+08:00"
     },
     {
       "user_name": "lsxzcd",
@@ -4634,6 +4952,24 @@
       "last_seen_at": "2026-05-06T14:46:32+08:00"
     },
     {
+      "user_name": "m0_57178224",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-19T10:35:06+08:00",
+      "last_seen_at": "2026-05-19T10:35:06+08:00"
+    },
+    {
       "user_name": "m0_57706405",
       "nick_name": "",
       "developer_source": "external",
@@ -4686,6 +5022,24 @@
       ],
       "first_seen_at": "2026-04-26T09:58:33+08:00",
       "last_seen_at": "2026-04-26T09:58:33+08:00"
+    },
+    {
+      "user_name": "m0_62814809",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-19T12:23:03+08:00",
+      "last_seen_at": "2026-05-19T12:23:03+08:00"
     },
     {
       "user_name": "m0_63109297",
@@ -4814,24 +5168,6 @@
       "last_seen_at": "2026-05-06T21:00:41+08:00"
     },
     {
-      "user_name": "m0_73390923",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-10T15:11:59+08:00",
-      "last_seen_at": "2026-05-10T15:11:59+08:00"
-    },
-    {
       "user_name": "m0_73885054",
       "nick_name": "",
       "developer_source": "external",
@@ -4848,24 +5184,6 @@
       ],
       "first_seen_at": "2026-04-19T18:36:13+08:00",
       "last_seen_at": "2026-04-19T18:36:13+08:00"
-    },
-    {
-      "user_name": "m0_74083638",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-10T14:49:41+08:00",
-      "last_seen_at": "2026-05-10T14:49:41+08:00"
     },
     {
       "user_name": "m0_74251176",
@@ -5174,24 +5492,6 @@
       "last_seen_at": "2026-05-06T14:47:09+08:00"
     },
     {
-      "user_name": "q12q31w",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-06T20:36:22+08:00",
-      "last_seen_at": "2026-05-06T20:36:22+08:00"
-    },
-    {
       "user_name": "q6lwowl9p",
       "nick_name": "",
       "developer_source": "external",
@@ -5372,6 +5672,24 @@
       "last_seen_at": "2026-05-06T20:33:40+08:00"
     },
     {
+      "user_name": "qq_55637866",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-19T18:11:49+08:00",
+      "last_seen_at": "2026-05-19T18:11:49+08:00"
+    },
+    {
       "user_name": "qq_55845809",
       "nick_name": "",
       "developer_source": "external",
@@ -5406,24 +5724,6 @@
       ],
       "first_seen_at": "2026-05-16T16:34:32+08:00",
       "last_seen_at": "2026-05-16T16:34:32+08:00"
-    },
-    {
-      "user_name": "qq_61637710",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-06T20:41:02+08:00",
-      "last_seen_at": "2026-05-06T20:41:02+08:00"
     },
     {
       "user_name": "qq_62786650",
@@ -5604,6 +5904,24 @@
       ],
       "first_seen_at": "2026-05-12T16:58:59+08:00",
       "last_seen_at": "2026-05-12T16:58:59+08:00"
+    },
+    {
+      "user_name": "Sh4mar3",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-19T19:15:52+08:00",
+      "last_seen_at": "2026-05-19T19:15:52+08:00"
     },
     {
       "user_name": "shen1145141919",
@@ -5856,24 +6174,6 @@
       ],
       "first_seen_at": "2026-04-25T17:53:35+08:00",
       "last_seen_at": "2026-04-25T17:53:35+08:00"
-    },
-    {
-      "user_name": "Taylor_hong",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-12T16:51:33+08:00",
-      "last_seen_at": "2026-05-12T16:51:33+08:00"
     },
     {
       "user_name": "tianqiguang",
@@ -6864,27 +7164,19 @@
       ],
       "first_seen_at": "2026-04-20T15:47:32+08:00",
       "last_seen_at": "2026-04-20T15:47:32+08:00"
-    },
-    {
-      "user_name": "zzy-1314z",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/12",
-          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第二期！",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-06T21:50:58+08:00",
-      "last_seen_at": "2026-05-06T21:50:58+08:00"
     }
   ],
   "discussions": [
+    {
+      "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+      "org": "cann/cann-learning-hub",
+      "number": "22",
+      "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+      "comment_total": 28,
+      "reply_total": 0,
+      "unique_participants": 27,
+      "external_participants": 27
+    },
     {
       "url": "https://gitcode.com/cann/cann-learning-hub/discussions/20",
       "org": "cann/cann-learning-hub",
@@ -6950,7 +7242,7 @@
       "org": "cann/cann-learning-hub",
       "number": "11",
       "title": "【启航营 2026 · 杭州电子科技大学站】课程相关交流与课后作业提交",
-      "comment_total": 71,
+      "comment_total": 72,
       "reply_total": 0,
       "unique_participants": 31,
       "external_participants": 31

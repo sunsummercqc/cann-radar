@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18",
+  "generated_at": "2026-05-19",
   "source_count": 3,
   "discussion_count": 3,
   "external_count": 49,
@@ -7,7 +7,7 @@
   "total_unique_participants": 51,
   "trend": [
     {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "external_count": 49,
       "total_unique_participants": 51
     }
@@ -937,7 +937,7 @@
       "url": "https://gitcode.com/cann/torchtitan-npu/discussions/3",
       "org": "cann/torchtitan-npu",
       "number": "3",
-      "title": "【2026 CANN算子挑战赛(江山赛区)· 南京航空航天大学站】TorchTitan基础知识问答",
+      "title": "有奖问答 | TorchTitan基础知识问答",
       "comment_total": 0,
       "reply_total": 0,
       "unique_participants": 0,

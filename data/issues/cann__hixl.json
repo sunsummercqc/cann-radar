@@ -1,5 +1,16 @@
 [
   {
+    "iid": 280,
+    "state": "opened",
+    "created_at": "2026-05-19",
+    "closed_at": "",
+    "author": "ZhaoBaiwei",
+    "title": "[RFC]: HIXL 编译&LLT 在GCC14版本下验证",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/280"
+  },
+  {
     "iid": 279,
     "state": "closed",
     "created_at": "2026-05-18",
@@ -100,13 +111,13 @@
   },
   {
     "iid": 270,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-13",
-    "closed_at": "",
+    "closed_at": "2026-05-19",
     "author": "he_ziwei",
     "title": "[Question|问题咨询]: [HcclOneSidedService][ExchangeMemDescFullMesh]timeout",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/270"
   },
   {
@@ -133,13 +144,13 @@
   },
   {
     "iid": 267,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-13",
-    "closed_at": "",
+    "closed_at": "2026-05-19",
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]: 中等问题（拼写错误/参数描述错误）",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/267"
   },
   {
@@ -155,13 +166,13 @@
   },
   {
     "iid": 265,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-13",
-    "closed_at": "",
+    "closed_at": "2026-05-19",
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]: 代码扫描问题",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/265"
   },
   {
@@ -243,9 +254,9 @@
   },
   {
     "iid": 257,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-11",
-    "closed_at": "",
+    "closed_at": "2026-05-19",
     "author": "tianlianga1",
     "title": "[Question|问题咨询]: 目前支持单卡多进程通信吗？",
     "labels": [],
@@ -551,13 +562,13 @@
   },
   {
     "iid": 222,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-24",
-    "closed_at": "",
+    "closed_at": "2026-05-19",
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: 双机执行， 使能传输后端引擎=hixl，建链报错",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/222"
   },
   {
@@ -799,7 +810,7 @@
     "author": "A-Liuhao",
     "title": "【🔥社区任务发布】：文档捉虫",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/194"
   },
   {

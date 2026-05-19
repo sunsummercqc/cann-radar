@@ -28089,5 +28089,117 @@
     "total_repo_count": 0,
     "total_contributions": 59,
     "user_type": "developer"
+  },
+  {
+    "user_name": "qq_43499814",
+    "nick_name": "qq_43499814",
+    "user_id": 4624925,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 4,
+    "user_type": "contributor"
+  },
+  {
+    "user_name": "dernigede",
+    "nick_name": "dernigede",
+    "user_id": 11307209,
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "zhang946766897",
+    "nick_name": "zhang946766897",
+    "user_id": 11307129,
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "gcw_RQTRuoC1",
+    "nick_name": "gcw_RQTRuoC1",
+    "user_id": 11307373,
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "ohos_dev",
+    "nick_name": "ohos_dev",
+    "user_id": 4356199,
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 4,
+    "total_repo_count": 6,
+    "total_contributions": 34,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "gcw_M5Xrk6cX",
+    "nick_name": "liuao",
+    "user_id": 5081849,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 3,
+    "total_repo_count": 8,
+    "total_contributions": 566,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "JerryBai25",
+    "nick_name": "JerryBai25",
+    "user_id": 7772192,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 46,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "guozhifeng",
+    "nick_name": "guozhifeng",
+    "user_id": 389563,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
   }
 ]

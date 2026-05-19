@@ -1,5 +1,16 @@
 [
   {
+    "iid": 51,
+    "state": "opened",
+    "created_at": "2026-05-19",
+    "closed_at": "",
+    "author": "dingdairong",
+    "title": "[Requirement|需求建议]: 有两个elementwise的算子，希望能支持，IsInf, MaskedFill",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/51"
+  },
+  {
     "iid": 50,
     "state": "opened",
     "created_at": "2026-05-11",
