@@ -1,5 +1,16 @@
 [
   {
+    "iid": 42,
+    "state": "opened",
+    "created_at": "2026-05-20",
+    "closed_at": "",
+    "author": "CANN2025",
+    "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【5.21】",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/42"
+  },
+  {
     "iid": 41,
     "state": "opened",
     "created_at": "2026-05-19",
@@ -7,7 +18,7 @@
     "author": "Nmhckk",
     "title": "部分自定义算子教程 README 存在失效相对链接",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/41"
   },
   {
@@ -18,7 +29,7 @@
     "author": "Nmhckk",
     "title": "[Documentation|文档反馈]: 部分教程 README 中的相对链接失效，影响自定义算子示例跳转",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/40"
   },
   {
@@ -29,7 +40,7 @@
     "author": "xbjlu",
     "title": "[Bug-Report|缺陷反馈]: cann-learning-hub cv融合算子开发样例测试不通过",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/39"
   },
   {
@@ -73,7 +84,7 @@
     "author": "CANN2025",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【5.18】",
     "labels": [],
-    "user_notes_count": 9,
+    "user_notes_count": 13,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/35"
   },
   {
@@ -84,7 +95,7 @@
     "author": "CANN2025",
     "title": "【开发者说】观看直播参与直播答题互动赢定制T恤、毛毯！【5.14】",
     "labels": [],
-    "user_notes_count": 14,
+    "user_notes_count": 15,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/34"
   },
   {

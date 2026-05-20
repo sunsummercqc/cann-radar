@@ -1,5 +1,27 @@
 [
   {
+    "iid": 84,
+    "state": "opened",
+    "title": "[conv]添加conv算子开发教程",
+    "created_at": "2026-05-20",
+    "updated_at": "2026-05-20",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "jinyijian",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/84"
+  },
+  {
+    "iid": 83,
+    "state": "opened",
+    "title": "docs: 简化算子目录结构文档，删除第2-5节内容",
+    "created_at": "2026-05-20",
+    "updated_at": "2026-05-20",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "liuchuangdev",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/83"
+  },
+  {
     "iid": 82,
     "state": "merged",
     "title": "fix: 重构 README.md，以系列课程全景 + 学习路径 + 学练赛成长链路三部分重新组织首页，以及目录结构刷新",
@@ -15,7 +37,7 @@
     "state": "opened",
     "title": "cv fusion",
     "created_at": "2026-05-19",
-    "updated_at": "2026-05-19",
+    "updated_at": "2026-05-20",
     "merged_at": "",
     "closed_at": "",
     "author": "chentianyu19",
@@ -34,12 +56,12 @@
   },
   {
     "iid": 79,
-    "state": "opened",
+    "state": "closed",
     "title": "新增conv卷积算子的课程",
     "created_at": "2026-05-18",
-    "updated_at": "2026-05-18",
+    "updated_at": "2026-05-20",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-05-20",
     "author": "jinyijian",
     "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/79"
   },

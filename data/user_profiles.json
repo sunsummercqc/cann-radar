@@ -6176,7 +6176,7 @@
     "original_repo_count": 0,
     "total_repo_count": 3,
     "total_contributions": 450,
-    "user_type": "developer"
+    "user_type": "contributor"
   },
   {
     "user_name": "gcw_SEsx4RFE",
@@ -23677,7 +23677,7 @@
     "original_repo_count": 0,
     "total_repo_count": 0,
     "total_contributions": 2,
-    "user_type": "questioner"
+    "user_type": "contributor"
   },
   {
     "user_name": "Ws555",
@@ -28199,6 +28199,78 @@
     "follow_count": 0,
     "original_repo_count": 0,
     "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "hid55530781",
+    "nick_name": "hid55530781",
+    "user_id": 11285292,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 4,
+    "total_contributions": 3,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "gcw_yxbpWljY",
+    "nick_name": "gcw_yxbpWljY",
+    "user_id": 11321023,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "minni8866",
+    "nick_name": "minni8866",
+    "user_id": 11320137,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "SincoTeng",
+    "nick_name": "SincoTeng",
+    "user_id": 7734790,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 2,
+    "total_contributions": 236,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "wy_test",
+    "nick_name": "wy_test",
+    "user_id": 11122237,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
     "total_contributions": 0,
     "user_type": "die_hard_fan"
   }

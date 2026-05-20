@@ -154,7 +154,7 @@
     {
       "name": "torchair",
       "path": "Ascend/torchair",
-      "total": 3066,
+      "total": 3073,
       "data": [
         1,
         8,
@@ -304,13 +304,13 @@
         16,
         21,
         31,
-        10
+        17
       ]
     },
     {
       "name": "ge",
       "path": "cann/ge",
-      "total": 2989,
+      "total": 3018,
       "data": [
         0,
         0,
@@ -460,13 +460,13 @@
         199,
         179,
         233,
-        57
+        86
       ]
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "total": 497,
+      "total": 505,
       "data": [
         0,
         0,
@@ -616,13 +616,13 @@
         18,
         14,
         28,
-        22
+        30
       ]
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "total": 416,
+      "total": 423,
       "data": [
         0,
         0,
@@ -772,13 +772,13 @@
         31,
         26,
         28,
-        31
+        38
       ]
     },
     {
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
-      "total": 212,
+      "total": 220,
       "data": [
         0,
         0,
@@ -928,7 +928,7 @@
         14,
         15,
         20,
-        10
+        18
       ]
     }
   ],

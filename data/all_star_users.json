@@ -1,5 +1,26 @@
 [
   {
+    "user_name": "huahuamiaomiao",
+    "nick_name": "huahuamiaomiao",
+    "user_id": 9102966,
+    "avatar": "https://cdn-img.gitcode.com/ff/ed/f9fedc60b40c2b28101f32fab40cd50f74a85ea73c3439d94161d2a41ca4131f.jpg",
+    "starred_repos": [
+      "cann/ge",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "hid55530781",
+    "nick_name": "hid55530781",
+    "user_id": 11285292,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion"
+    ]
+  },
+  {
     "user_name": "gcw_2mqml1vq",
     "nick_name": "gcw_2mqml1vq",
     "user_id": 7845265,
@@ -169,16 +190,6 @@
     "avatar": null,
     "starred_repos": [
       "cann/ge"
-    ]
-  },
-  {
-    "user_name": "huahuamiaomiao",
-    "nick_name": "huahuamiaomiao",
-    "user_id": 9102966,
-    "avatar": "https://cdn-img.gitcode.com/ff/ed/f9fedc60b40c2b28101f32fab40cd50f74a85ea73c3439d94161d2a41ca4131f.jpg",
-    "starred_repos": [
-      "cann/ge",
-      "Ascend/torchair"
     ]
   },
   {
@@ -2979,7 +2990,6 @@
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
-      "cann/graph-autofusion",
       "Ascend/torchair"
     ]
   },
@@ -5780,6 +5790,24 @@
     ]
   },
   {
+    "user_name": "SincoTeng",
+    "nick_name": "SincoTeng",
+    "user_id": 7734790,
+    "avatar": null,
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "gcw_yxbpWljY",
+    "nick_name": "gcw_yxbpWljY",
+    "user_id": 11321023,
+    "avatar": "",
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
     "user_name": "qq_43499814",
     "nick_name": "qq_43499814",
     "user_id": 4624925,
@@ -8437,6 +8465,15 @@
     ]
   },
   {
+    "user_name": "minni8866",
+    "nick_name": "minni8866",
+    "user_id": 11320137,
+    "avatar": null,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ]
+  },
+  {
     "user_name": "guozhifeng",
     "nick_name": "guozhifeng",
     "user_id": 389563,
@@ -9483,6 +9520,15 @@
     "avatar": "https://cdn-img.gitcode.com/da/cc/5d0a0c9c1fca5243d1ba0dc98041d00c95be5c1d74769ff86ec6f62ffd050cce.png",
     "starred_repos": [
       "cann/graph-autofusion"
+    ]
+  },
+  {
+    "user_name": "wy_test",
+    "nick_name": "wy_test",
+    "user_id": 11122237,
+    "avatar": "https://cdn-img.gitcode.com/ff/da/ff18d26af732e02f25d40157b52e7226b3f4d8be46784b5f68fc64213a2ad802.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
     ]
   },
   {

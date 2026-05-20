@@ -18,7 +18,7 @@
       "nick_name": "",
       "developer_source": "internal",
       "top_comments": 2,
-      "replies": 41,
+      "replies": 44,
       "discussion_count": 2,
       "discussions": [
         {
@@ -31,11 +31,11 @@
           "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 0,
-          "replies": 41
+          "replies": 44
         }
       ],
       "first_seen_at": "2026-04-25T09:23:10+08:00",
-      "last_seen_at": "2026-05-18T21:51:03+08:00"
+      "last_seen_at": "2026-05-20T17:37:31+08:00"
     },
     {
       "user_name": "m0_72496284",
@@ -721,7 +721,7 @@
       "number": "1",
       "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
       "comment_total": 39,
-      "reply_total": 76,
+      "reply_total": 79,
       "unique_participants": 38,
       "external_participants": 32
     }
