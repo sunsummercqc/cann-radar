@@ -11,8 +11,8 @@
       "name": "ge",
       "path": "cann/ge",
       "merged": 1474,
-      "open": 190,
-      "total": 1664
+      "open": 191,
+      "total": 1665
     },
     {
       "name": "hixl",
@@ -37,5 +37,5 @@
     }
   ],
   "unique_authors": 657,
-  "generated_at": "2026-05-19"
+  "generated_at": "2026-05-20"
 }
