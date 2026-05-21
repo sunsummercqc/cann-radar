@@ -1,5 +1,38 @@
 [
   {
+    "iid": 287,
+    "state": "closed",
+    "created_at": "2026-05-21",
+    "closed_at": "2026-05-21",
+    "author": "M__Cheng",
+    "title": "[Documentation|文档反馈]:  用户体验问题，代码和文档描述不匹配",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/287"
+  },
+  {
+    "iid": 286,
+    "state": "opened",
+    "created_at": "2026-05-21",
+    "closed_at": "",
+    "author": "lwx1255555",
+    "title": "[Bug-Report|缺陷反馈]: readme中的链接失效",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/286"
+  },
+  {
+    "iid": 285,
+    "state": "opened",
+    "created_at": "2026-05-21",
+    "closed_at": "",
+    "author": "whh_smile",
+    "title": "[Question|问题咨询]: conda使用的是python3.14，基于master仓编译hixl子包，安装后，执行测试用例，报/usr/local/Ascend/cann-9.1.0/python/site-packages/llm_datadist_v1/llm_wrapper.so: undefined symbol: _PyThreadState_UncheckedGet，是否要兼容",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/285"
+  },
+  {
     "iid": 284,
     "state": "closed",
     "created_at": "2026-05-20",
@@ -293,7 +326,7 @@
     "author": "youyx",
     "title": "[RFC]: HIXL benchmark重构",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/258"
   },
   {
@@ -991,9 +1024,9 @@
   },
   {
     "iid": 181,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-10",
-    "closed_at": "",
+    "closed_at": "2026-05-21",
     "author": "lugang11",
     "title": "[RFC]: hixl适配loaclcomres自动生成",
     "labels": [],

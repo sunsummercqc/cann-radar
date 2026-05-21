@@ -1,5 +1,16 @@
 [
   {
+    "iid": 484,
+    "state": "opened",
+    "created_at": "2026-05-21",
+    "closed_at": "",
+    "author": "eco_zsj",
+    "title": "[Bug]: a5 2a+x环境 reducescatter算子，静态图模式，aiv展开模式，控核配置65核时，用例执行会卡住，预期设备64核，配置65核，预期应该会被拦截",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/484"
+  },
+  {
     "iid": 483,
     "state": "opened",
     "created_at": "2026-05-20",
@@ -7,7 +18,7 @@
     "author": "wuxiyuan",
     "title": "[Bug]: MoeReRouting在FP4场景下会出现输出结果一半为0的问题",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/483"
   },
   {
@@ -80,9 +91,9 @@
   },
   {
     "iid": 475,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-15",
-    "closed_at": "",
+    "closed_at": "2026-05-21",
     "author": "stellaxx11",
     "title": "[Bug]: reduce-overhead模式下，PD分离部署图运行卡死，去掉多流就可正常运行",
     "labels": [],
