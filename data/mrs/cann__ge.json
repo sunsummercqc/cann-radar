@@ -144,11 +144,11 @@
   },
   {
     "iid": 3043,
-    "state": "opened",
+    "state": "merged",
     "title": "docs: update fusion pass python samples",
     "created_at": "2026-05-21",
     "updated_at": "2026-05-21",
-    "merged_at": "",
+    "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "kobemini",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3043"
@@ -1087,6 +1087,17 @@
     "closed_at": "2026-05-18",
     "author": "ling-DT",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/2958"
+  },
+  {
+    "iid": 2957,
+    "state": "merged",
+    "title": "【PR】[fix]: fix clean code warning",
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-19",
+    "merged_at": "2026-05-19",
+    "closed_at": "",
+    "author": "A-Liuhao",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/2957"
   },
   {
     "iid": 2957,
@@ -4500,11 +4511,11 @@
   },
   {
     "iid": 2647,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】: fix: 补充携带custom context入参的pattern fusion pass",
     "created_at": "2026-05-08",
-    "updated_at": "2026-05-20",
-    "merged_at": "",
+    "updated_at": "2026-05-21",
+    "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "hugo111",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/2647"
@@ -31876,6 +31887,17 @@
     "closed_at": "",
     "author": "jiang-mingming01",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/152"
+  },
+  {
+    "iid": 151,
+    "state": "merged",
+    "title": "fix: fix error msg key and kFeErrorParamMap",
+    "created_at": "2026-01-16",
+    "updated_at": "2026-01-16",
+    "merged_at": "2026-01-16",
+    "closed_at": "",
+    "author": "lushiming0",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/151"
   },
   {
     "iid": 151,

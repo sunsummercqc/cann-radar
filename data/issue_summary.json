@@ -5,7 +5,7 @@
       "path": "cann/ge",
       "avg_days": 10.2,
       "closed": 319,
-      "opened": 54
+      "opened": 56
     },
     {
       "name": "hixl",
@@ -31,9 +31,9 @@
     {
       "name": "torchair",
       "path": "Ascend/torchair",
-      "avg_days": 19.6,
-      "closed": 320,
-      "opened": 23
+      "avg_days": 19.5,
+      "closed": 321,
+      "opened": 21
     }
   ],
   "generated_at": "2026-05-21"

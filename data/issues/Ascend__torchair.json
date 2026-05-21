@@ -79,17 +79,6 @@
     "web_url": "https://gitcode.com/Ascend/torchair/issues/478"
   },
   {
-    "iid": 476,
-    "state": "opened",
-    "created_at": "2026-05-18",
-    "closed_at": "",
-    "author": "Jiaqin",
-    "title": "[Feature]: 支持set_op_timeout_ms入图",
-    "labels": [],
-    "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/476"
-  },
-  {
     "iid": 475,
     "state": "closed",
     "created_at": "2026-05-15",
@@ -113,9 +102,9 @@
   },
   {
     "iid": 473,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-14",
-    "closed_at": "",
+    "closed_at": "2026-05-21",
     "author": "OblivionZHU",
     "title": "[Feature]: 拓展配置算子超时时间接口支持入图",
     "labels": [],
