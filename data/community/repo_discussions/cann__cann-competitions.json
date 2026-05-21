@@ -2,14 +2,14 @@
   "generated_at": "2026-05-21",
   "source_count": 2,
   "discussion_count": 2,
-  "external_count": 34,
+  "external_count": 35,
   "internal_count": 6,
-  "total_unique_participants": 40,
+  "total_unique_participants": 41,
   "trend": [
     {
       "date": "2026-05-21",
-      "external_count": 34,
-      "total_unique_participants": 40
+      "external_count": 35,
+      "total_unique_participants": 41
     }
   ],
   "participants": [
@@ -686,6 +686,24 @@
       "last_seen_at": "2026-05-09T13:29:28+08:00"
     },
     {
+      "user_name": "Sparrow-ZL",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-21T23:18:25+08:00",
+      "last_seen_at": "2026-05-21T23:18:25+08:00"
+    },
+    {
       "user_name": "Taylor_hong",
       "nick_name": "",
       "developer_source": "external",
@@ -756,10 +774,10 @@
       "org": "cann/cann-competitions",
       "number": "1",
       "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
-      "comment_total": 41,
+      "comment_total": 42,
       "reply_total": 80,
-      "unique_participants": 40,
-      "external_participants": 34
+      "unique_participants": 41,
+      "external_participants": 35
     }
   ],
   "errors": [],

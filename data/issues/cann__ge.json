@@ -7,7 +7,7 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 工具扫描：注释中的拼写错误",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/398"
   },
   {
@@ -18,7 +18,7 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 工具扫描：变量名拼写错误（影响代码可读性）",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/397"
   },
   {
@@ -29,7 +29,7 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 工具扫描：公共 API 头文件拼写错误",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/396"
   },
   {
@@ -40,7 +40,7 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]:  工具扫描：错误码枚举名拼写错误&错误码描述文本拼写错误",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/395"
   },
   {
@@ -249,7 +249,7 @@
     "author": "dingdairong",
     "title": "[Feature-Request|需求反馈]: ge图模式data dump数据比较不支持比较数据的有效部分，或者可配置的只比较数据的有效部分",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/376"
   },
   {
@@ -260,7 +260,7 @@
     "author": "dingdairong",
     "title": "[Feature-Request|需求反馈]: ge图data dump数据和base line比较，仅支持单个step比较，不支持，多个step批量比较",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/375"
   },
   {
@@ -271,7 +271,7 @@
     "author": "dingdairong",
     "title": "[Feature-Request|需求反馈]: ge图data dump，dump出来的tensor dtype类型是bool的不支持比较，比较结果显示为NAN",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/374"
   },
   {
@@ -293,7 +293,7 @@
     "author": "dingdairong",
     "title": "[Bug-Report|缺陷反馈]: 自定义pass，加载失败",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/372"
   },
   {
@@ -436,7 +436,7 @@
     "author": "ascend-robot",
     "title": "CVE-2026-42033",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/359"
   },
   {
@@ -447,7 +447,7 @@
     "author": "ascend-robot",
     "title": "CVE-2026-27820",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/358"
   },
   {
@@ -469,7 +469,7 @@
     "author": "ascend-robot",
     "title": "CVE-2026-42037",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/356"
   },
   {
@@ -480,7 +480,7 @@
     "author": "ascend-robot",
     "title": "CVE-2026-42038",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/354"
   },
   {
@@ -491,7 +491,7 @@
     "author": "ascend-robot",
     "title": "CVE-2026-42042",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/ge/issues/353"
   },
   {
@@ -524,7 +524,7 @@
     "author": "ascend-robot",
     "title": "CVE-2026-42035",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/348"
   },
   {
@@ -535,7 +535,7 @@
     "author": "ascend-robot",
     "title": "CVE-2022-37344",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/347"
   },
   {

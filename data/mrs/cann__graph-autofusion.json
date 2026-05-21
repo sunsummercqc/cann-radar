@@ -1,5 +1,38 @@
 [
   {
+    "iid": 433,
+    "state": "opened",
+    "title": "【PR】: sync develop to master 0521",
+    "created_at": "2026-05-21",
+    "updated_at": "2026-05-21",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zhujingjing",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/433"
+  },
+  {
+    "iid": 432,
+    "state": "opened",
+    "title": "【PR】: 简要描述",
+    "created_at": "2026-05-21",
+    "updated_at": "2026-05-21",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "xingzhixiong",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/432"
+  },
+  {
+    "iid": 431,
+    "state": "merged",
+    "title": "删除切换到工程仓后的冗余脚本",
+    "created_at": "2026-05-21",
+    "updated_at": "2026-05-21",
+    "merged_at": "2026-05-21",
+    "closed_at": "",
+    "author": "liuyang163",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/431"
+  },
+  {
     "iid": 430,
     "state": "opened",
     "title": "[Feat][sk/aot]support dav-2201 and dav-3510 builds for sk_entry and sk_scope",
@@ -67,11 +100,11 @@
   },
   {
     "iid": 424,
-    "state": "opened",
+    "state": "merged",
     "title": "【feat】: 拆仓后R轴全载norm类算子融合后端代码上库",
     "created_at": "2026-05-21",
     "updated_at": "2026-05-21",
-    "merged_at": "",
+    "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "WangYanMale",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/424"
@@ -122,11 +155,11 @@
   },
   {
     "iid": 419,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】: [fix] [autofuse] bugfix of asan compile.",
     "created_at": "2026-05-20",
     "updated_at": "2026-05-21",
-    "merged_at": "",
+    "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "xingzhixiong",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/419"
@@ -155,11 +188,11 @@
   },
   {
     "iid": 416,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】: sync ge_dev to master 20260520",
     "created_at": "2026-05-19",
     "updated_at": "2026-05-21",
-    "merged_at": "",
+    "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "wangxiaotian995",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/416"
@@ -452,12 +485,12 @@
   },
   {
     "iid": 389,
-    "state": "opened",
+    "state": "closed",
     "title": "删除切换到工程仓后的冗余脚本",
     "created_at": "2026-05-18",
     "updated_at": "2026-05-21",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-05-21",
     "author": "liuyang163",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/389"
   },

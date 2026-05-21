@@ -7,7 +7,7 @@
     "author": "eco_zsj",
     "title": "[Bug]: a5 2a+x环境 reducescatter算子，静态图模式，aiv展开模式，控核配置65核时，用例执行会卡住，预期设备64核，配置65核，预期应该会被拦截",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/484"
   },
   {

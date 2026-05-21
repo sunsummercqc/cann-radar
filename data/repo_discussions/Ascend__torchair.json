@@ -2,14 +2,14 @@
   "generated_at": "2026-05-21",
   "source_count": 4,
   "discussion_count": 4,
-  "external_count": 46,
+  "external_count": 47,
   "internal_count": 1,
-  "total_unique_participants": 47,
+  "total_unique_participants": 48,
   "trend": [
     {
       "date": "2026-05-21",
-      "external_count": 46,
-      "total_unique_participants": 47
+      "external_count": 47,
+      "total_unique_participants": 48
     }
   ],
   "participants": [
@@ -500,6 +500,24 @@
       "last_seen_at": "2026-05-13T17:35:46+08:00"
     },
     {
+      "user_name": "liyuhao21",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/8",
+          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转TorchAir 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-21T22:54:42+08:00",
+      "last_seen_at": "2026-05-21T22:54:42+08:00"
+    },
+    {
       "user_name": "lsh191531",
       "nick_name": "",
       "developer_source": "external",
@@ -866,10 +884,10 @@
       "org": "Ascend/torchair",
       "number": "8",
       "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转TorchAir 第一期",
-      "comment_total": 50,
+      "comment_total": 51,
       "reply_total": 1,
-      "unique_participants": 47,
-      "external_participants": 46
+      "unique_participants": 48,
+      "external_participants": 47
     },
     {
       "url": "https://gitcode.com/Ascend/torchair/discussions/7",

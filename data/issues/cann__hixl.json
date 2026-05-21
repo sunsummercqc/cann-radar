@@ -1,5 +1,16 @@
 [
   {
+    "iid": 288,
+    "state": "opened",
+    "created_at": "2026-05-21",
+    "closed_at": "",
+    "author": "whh_smile",
+    "title": "[Bug-Report|缺陷反馈]: CS单边通信--日志维测：同一行报错日志中remote engine不带下划线，local_engine带下划线，请统一格式",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/288"
+  },
+  {
     "iid": 287,
     "state": "closed",
     "created_at": "2026-05-21",

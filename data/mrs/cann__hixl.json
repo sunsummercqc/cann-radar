@@ -1,5 +1,38 @@
 [
   {
+    "iid": 517,
+    "state": "merged",
+    "title": "refactor: remove template",
+    "created_at": "2026-05-21",
+    "updated_at": "2026-05-21",
+    "merged_at": "2026-05-21",
+    "closed_at": "",
+    "author": "lining23666",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/517"
+  },
+  {
+    "iid": 516,
+    "state": "opened",
+    "title": "【docs】：修复文档问题",
+    "created_at": "2026-05-21",
+    "updated_at": "2026-05-21",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "huchunmei_123",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/516"
+  },
+  {
+    "iid": 515,
+    "state": "merged",
+    "title": "docs: change UBoE link from pr to RFC",
+    "created_at": "2026-05-21",
+    "updated_at": "2026-05-21",
+    "merged_at": "2026-05-21",
+    "closed_at": "",
+    "author": "lining23666",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/515"
+  },
+  {
     "iid": 514,
     "state": "merged",
     "title": "bugfix: check comm_resource_config.protocol_desc valid",
@@ -15,7 +48,7 @@
     "state": "opened",
     "title": "[refactor] HIXL benchmark重构",
     "created_at": "2026-05-21",
-    "updated_at": "2026-05-21",
+    "updated_at": "2026-05-22",
     "merged_at": "",
     "closed_at": "",
     "author": "youyx",
@@ -356,7 +389,7 @@
     "state": "opened",
     "title": "delete Find*.cmake in modules",
     "created_at": "2026-05-19",
-    "updated_at": "2026-05-19",
+    "updated_at": "2026-05-21",
     "merged_at": "",
     "closed_at": "",
     "author": "AlexRen998916",
