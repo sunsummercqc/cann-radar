@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-21",
-  "source_count": 2,
-  "discussion_count": 2,
+  "generated_at": "2026-05-22",
+  "source_count": 8,
+  "discussion_count": 8,
   "external_count": 35,
   "internal_count": 6,
   "total_unique_participants": 41,
   "trend": [
     {
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "external_count": 35,
       "total_unique_participants": 41
     }
@@ -759,6 +759,66 @@
     }
   ],
   "discussions": [
+    {
+      "url": "https://gitcode.com/cann/cann-competitions/discussions/8",
+      "org": "cann/cann-competitions",
+      "number": "8",
+      "title": "【6.2走进校园· 南京邮电大学站】社区文化小测",
+      "comment_total": 0,
+      "reply_total": 0,
+      "unique_participants": 0,
+      "external_participants": 0
+    },
+    {
+      "url": "https://gitcode.com/cann/cann-competitions/discussions/7",
+      "org": "cann/cann-competitions",
+      "number": "7",
+      "title": "【6.1走进校园· 南京航空航天大学站】社区文化小测",
+      "comment_total": 0,
+      "reply_total": 0,
+      "unique_participants": 0,
+      "external_participants": 0
+    },
+    {
+      "url": "https://gitcode.com/cann/cann-competitions/discussions/6",
+      "org": "cann/cann-competitions",
+      "number": "6",
+      "title": "【5.29走进校园· 南京理工大学站】社区文化小测",
+      "comment_total": 0,
+      "reply_total": 0,
+      "unique_participants": 0,
+      "external_participants": 0
+    },
+    {
+      "url": "https://gitcode.com/cann/cann-competitions/discussions/5",
+      "org": "cann/cann-competitions",
+      "number": "5",
+      "title": "【5.28走进校园· 河海大学站】社区文化小测",
+      "comment_total": 0,
+      "reply_total": 0,
+      "unique_participants": 0,
+      "external_participants": 0
+    },
+    {
+      "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+      "org": "cann/cann-competitions",
+      "number": "4",
+      "title": "【5.26走进校园· 南京大学站】社区文化小测",
+      "comment_total": 0,
+      "reply_total": 0,
+      "unique_participants": 0,
+      "external_participants": 0
+    },
+    {
+      "url": "https://gitcode.com/cann/cann-competitions/discussions/3",
+      "org": "cann/cann-competitions",
+      "number": "3",
+      "title": "【5.27走进校园· 东南大学站】社区文化小测",
+      "comment_total": 0,
+      "reply_total": 0,
+      "unique_participants": 0,
+      "external_participants": 0
+    },
     {
       "url": "https://gitcode.com/cann/cann-competitions/discussions/2",
       "org": "cann/cann-competitions",

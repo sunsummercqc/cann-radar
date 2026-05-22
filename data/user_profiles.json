@@ -28516,5 +28516,19 @@
     "total_repo_count": 1,
     "total_contributions": 0,
     "user_type": "star_enthusiast"
+  },
+  {
+    "user_name": "jxl809107349",
+    "nick_name": "jxl809107349",
+    "user_id": 7025001,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 3,
+    "total_contributions": 31,
+    "user_type": "developer"
   }
 ]

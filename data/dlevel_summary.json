@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-05-21",
+  "generated_at": "2026-05-22",
   "global_counts": {
     "d0": 1024,
-    "d1": 686,
+    "d1": 688,
     "d2": 506,
-    "total": 2216,
+    "total": 2218,
     "d0_external": 680,
-    "d1_external": 480,
+    "d1_external": 482,
     "d2_external": 140
   },
   "repo_counts": {
     "cann/ge": {
-      "d0": 444,
-      "d1": 207,
+      "d0": 445,
+      "d1": 208,
       "d2": 161,
-      "total": 812,
-      "d0_external": 178,
+      "total": 814,
+      "d0_external": 179,
       "d1_external": 116,
       "d2_external": 8,
       "discussion_d1_external": 20
     },
     "cann/hixl": {
       "d0": 497,
-      "d1": 103,
+      "d1": 105,
       "d2": 30,
-      "total": 630,
+      "total": 632,
       "d0_external": 217,
-      "d1_external": 60,
+      "d1_external": 62,
       "d2_external": 11,
       "discussion_d1_external": 10
     },
     "cann/graph-autofusion": {
-      "d0": 341,
-      "d1": 123,
-      "d2": 38,
-      "total": 502,
-      "d0_external": 85,
+      "d0": 342,
+      "d1": 122,
+      "d2": 39,
+      "total": 503,
+      "d0_external": 86,
       "d1_external": 98,
       "d2_external": 2,
       "discussion_d1_external": 86
@@ -51,11 +51,11 @@
       "discussion_d1_external": 45
     },
     "Ascend/torchair": {
-      "d0": 537,
+      "d0": 538,
       "d1": 294,
       "d2": 298,
-      "total": 1129,
-      "d0_external": 320,
+      "total": 1130,
+      "d0_external": 321,
       "d1_external": 178,
       "d2_external": 113,
       "discussion_d1_external": 41
@@ -3409,7 +3409,7 @@
       },
       {
         "user_name": "clinglai0517",
-        "nick_name": "clinglai",
+        "nick_name": "clinglai0517",
         "level": "d0",
         "sources": [
           "fork"
@@ -4795,7 +4795,7 @@
       },
       {
         "user_name": "gcw_V3YyYBt1",
-        "nick_name": "gcw_V3YyYBt1",
+        "nick_name": "gaoxin",
         "level": "d0",
         "sources": [
           "star",
@@ -4830,7 +4830,7 @@
       },
       {
         "user_name": "gcw_WTfSfUy7",
-        "nick_name": "@gcw_WTfSfUy7",
+        "nick_name": "wangmm",
         "level": "d0",
         "sources": [
           "star"
@@ -6778,7 +6778,6 @@
         "nick_name": "lhdlhdlhd1234569",
         "level": "d2",
         "sources": [
-          "fork",
           "pr",
           "merged_pr"
         ],
@@ -9055,7 +9054,7 @@
       },
       {
         "user_name": "qq_34775310",
-        "nick_name": "qq_34775310",
+        "nick_name": "qwerzzz",
         "level": "d0",
         "sources": [
           "star"
@@ -12299,6 +12298,25 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "yangjinwen",
+        "nick_name": "yangjinwen",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-22T06:12:20.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/ge",
+          "cann/hixl",
+          "cann/graph-autofusion",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "yanglianxiang2",
         "nick_name": "yanglianxiang",
         "level": "d0",
@@ -12927,6 +12945,21 @@
           "cann/graph-autofusion",
           "Ascend/torchair"
         ],
+        "developer_source": "internal"
+      },
+      {
+        "user_name": "zhangfands",
+        "nick_name": "zhangfands",
+        "level": "d1",
+        "sources": [
+          "fork",
+          "pr"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
         "developer_source": "internal"
       },
       {
@@ -17410,7 +17443,7 @@
       },
       {
         "user_name": "gcw_V3YyYBt1",
-        "nick_name": "gcw_V3YyYBt1",
+        "nick_name": "gaoxin",
         "level": "d0",
         "sources": [
           "star"
@@ -17463,7 +17496,7 @@
       },
       {
         "user_name": "gcw_WTfSfUy7",
-        "nick_name": "@gcw_WTfSfUy7",
+        "nick_name": "wangmm",
         "level": "d0",
         "sources": [
           "star"
@@ -18211,6 +18244,20 @@
           "cann/hixl"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "hjx_here",
+        "nick_name": "hjx_here",
+        "level": "d1",
+        "sources": [
+          "issue"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
+        "developer_source": "external"
       },
       {
         "user_name": "houyuyang",
@@ -20753,7 +20800,7 @@
       },
       {
         "user_name": "qq_34775310",
-        "nick_name": "qq_34775310",
+        "nick_name": "qwerzzz",
         "level": "d0",
         "sources": [
           "star"
@@ -21545,10 +21592,11 @@
       {
         "user_name": "super_chao_x",
         "nick_name": "super_chao_x",
-        "level": "d0",
+        "level": "d1",
         "sources": [
           "star",
-          "fork"
+          "fork",
+          "issue"
         ],
         "star_time": "2026-05-11T12:33:47.000+00:00",
         "fans_count": 0,
@@ -23355,6 +23403,25 @@
           "cann/graph-autofusion"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "yangjinwen",
+        "nick_name": "yangjinwen",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-22T08:04:07.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/ge",
+          "cann/hixl",
+          "cann/graph-autofusion",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
       },
       {
         "user_name": "yanglianxiang2",
@@ -27946,7 +28013,7 @@
       },
       {
         "user_name": "gcw_V3YyYBt1",
-        "nick_name": "gcw_V3YyYBt1",
+        "nick_name": "gaoxin",
         "level": "d2",
         "sources": [
           "star",
@@ -27970,7 +28037,7 @@
       },
       {
         "user_name": "gcw_WTfSfUy7",
-        "nick_name": "@gcw_WTfSfUy7",
+        "nick_name": "wangmm",
         "level": "d1",
         "sources": [
           "fork",
@@ -32832,6 +32899,25 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "yangjinwen",
+        "nick_name": "yangjinwen",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-22T08:00:48.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/ge",
+          "cann/hixl",
+          "cann/graph-autofusion",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "yangliping0617",
         "nick_name": "yangliping0617",
         "level": "d0",
@@ -33651,10 +33737,11 @@
       {
         "user_name": "zhujingjing",
         "nick_name": "zhujingjing",
-        "level": "d1",
+        "level": "d2",
         "sources": [
           "star",
-          "pr"
+          "pr",
+          "merged_pr"
         ],
         "star_time": "2025-10-31T12:23:42.000+00:00",
         "fans_count": 0,
@@ -34935,7 +35022,7 @@
       },
       {
         "user_name": "gcw_V3YyYBt1",
-        "nick_name": "gcw_V3YyYBt1",
+        "nick_name": "gaoxin",
         "level": "d0",
         "sources": [
           "star"
@@ -40861,7 +40948,7 @@
       },
       {
         "user_name": "clinglai0517",
-        "nick_name": "clinglai",
+        "nick_name": "clinglai0517",
         "level": "d0",
         "sources": [
           "star"
@@ -42901,7 +42988,7 @@
       },
       {
         "user_name": "gcw_V3YyYBt1",
-        "nick_name": "gcw_V3YyYBt1",
+        "nick_name": "gaoxin",
         "level": "d0",
         "sources": [
           "star"
@@ -43005,7 +43092,7 @@
       },
       {
         "user_name": "gcw_WTfSfUy7",
-        "nick_name": "@gcw_WTfSfUy7",
+        "nick_name": "wangmm",
         "level": "d0",
         "sources": [
           "star"
@@ -45498,6 +45585,22 @@
         "developer_source": "external"
       },
       {
+        "user_name": "jxl809107349",
+        "nick_name": "jxl809107349",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-22T06:43:46.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 31,
+        "starred_repos": [
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "jy741",
         "nick_name": "jy741",
         "level": "d2",
@@ -47344,6 +47447,7 @@
         "level": "d2",
         "sources": [
           "fork",
+          "issue",
           "pr",
           "merged_pr"
         ],
@@ -52923,6 +53027,9 @@
         "original_repo_count": 0,
         "total_contributions": 0,
         "starred_repos": [
+          "cann/ge",
+          "cann/hixl",
+          "cann/graph-autofusion",
           "Ascend/torchair"
         ],
         "developer_source": "external"
@@ -55503,8 +55610,8 @@
     {
       "month": "2025-10",
       "d0": 175,
-      "d1": 19,
-      "d2": 40,
+      "d1": 18,
+      "d2": 41,
       "new_stars": 234,
       "cumulative": 234
     },
@@ -55558,11 +55665,11 @@
     },
     {
       "month": "2026-05",
-      "d0": 133,
-      "d1": 107,
+      "d0": 136,
+      "d1": 108,
       "d2": 13,
-      "new_stars": 253,
-      "cumulative": 2394
+      "new_stars": 257,
+      "cumulative": 2398
     }
   ],
   "discussion_commenter_assignment": {

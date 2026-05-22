@@ -1,5 +1,17 @@
 [
   {
+    "user_name": "yangjinwen",
+    "nick_name": "yangjinwen",
+    "user_id": 11031518,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "Ascend/torchair"
+    ]
+  },
+  {
     "user_name": "gcw_NN0N815E",
     "nick_name": "gcw_NN0N815E",
     "user_id": 11343476,
@@ -100,7 +112,7 @@
     "user_name": "leozjr",
     "nick_name": "leozjr",
     "user_id": 10874958,
-    "avatar": null,
+    "avatar": "https://cdn-img.gitcode.com/fc/bb/f72cb79b61695bbebeac8671045d5cb20398a48fac0d9b401689ad0b54575c48.png?time=1779432029460",
     "starred_repos": [
       "cann/ge"
     ]
@@ -747,7 +759,7 @@
   },
   {
     "user_name": "qq_34775310",
-    "nick_name": "qq_34775310",
+    "nick_name": "qwerzzz",
     "user_id": 8145337,
     "avatar": "",
     "starred_repos": [
@@ -3004,7 +3016,7 @@
   },
   {
     "user_name": "gcw_WTfSfUy7",
-    "nick_name": "@gcw_WTfSfUy7",
+    "nick_name": "wangmm",
     "user_id": 7772477,
     "avatar": "",
     "starred_repos": [
@@ -3943,7 +3955,7 @@
     "user_name": "wangqiang160",
     "nick_name": "wbigat",
     "user_id": 6973877,
-    "avatar": "https://cdn-img.gitcode.com/db/de/37d1bd6029e1cceb9709e792d271eef7968dba9fbb3ec57f2a56dec9a51e363f.png?time=1761826704448",
+    "avatar": "https://cdn-img.gitcode.host/db/de/37d1bd6029e1cceb9709e792d271eef7968dba9fbb3ec57f2a56dec9a51e363f.png?time=1761826704448",
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
@@ -4586,7 +4598,7 @@
   },
   {
     "user_name": "gcw_V3YyYBt1",
-    "nick_name": "gcw_V3YyYBt1",
+    "nick_name": "gaoxin",
     "user_id": 7478290,
     "avatar": "",
     "starred_repos": [
@@ -10034,6 +10046,15 @@
     ]
   },
   {
+    "user_name": "jxl809107349",
+    "nick_name": "jxl809107349",
+    "user_id": 7025001,
+    "avatar": null,
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
     "user_name": "slowzcook",
     "nick_name": "slowzcook",
     "user_id": 2962781,
@@ -10397,15 +10418,6 @@
     "user_name": "ZifanMa",
     "nick_name": "mazifan",
     "user_id": 5273689,
-    "avatar": null,
-    "starred_repos": [
-      "Ascend/torchair"
-    ]
-  },
-  {
-    "user_name": "yangjinwen",
-    "nick_name": "yangjinwen",
-    "user_id": 11031518,
     "avatar": null,
     "starred_repos": [
       "Ascend/torchair"
@@ -13806,7 +13818,7 @@
   },
   {
     "user_name": "clinglai0517",
-    "nick_name": "clinglai",
+    "nick_name": "clinglai0517",
     "user_id": 7705518,
     "avatar": "",
     "starred_repos": [

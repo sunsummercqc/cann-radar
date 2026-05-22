@@ -1,9 +1,9 @@
 [
   {
     "iid": 31,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-21",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "liuyuanchen1",
     "title": "文档未说明 ops 包的正确安装参数",
     "labels": [],
@@ -12,9 +12,9 @@
   },
   {
     "iid": 30,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-21",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "liuyuanchen1",
     "title": "文档版本配套表与推荐安装方式资源不匹配",
     "labels": [],
@@ -27,7 +27,7 @@
     "created_at": "2026-05-21",
     "closed_at": "",
     "author": "zhaowei1936",
-    "title": "[Question|问题咨询]: 【归档】dsv4 支持FA融合算子的自定义算子包归档",
+    "title": "[Question|问题咨询]: 【归档】deepseekv4 flash/pro支持FA融合算子的自定义算子包归档",
     "labels": [],
     "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/29"
@@ -56,13 +56,13 @@
   },
   {
     "iid": 26,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-15",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "xuyujun",
     "title": "[Bug] config_registry.py 中存在硬编码绝对路径和敏感个人信息",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/26"
   },
   {
@@ -78,9 +78,9 @@
   },
   {
     "iid": 24,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-12",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "dty_30041779",
     "title": "[Bug-Report|缺陷反馈]: dsv4功能不通，'OptimizersContainer' has no attribute 'Config'报错",
     "labels": [],

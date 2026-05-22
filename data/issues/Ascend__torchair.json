@@ -1,13 +1,24 @@
 [
   {
-    "iid": 484,
+    "iid": 485,
     "state": "opened",
-    "created_at": "2026-05-21",
+    "created_at": "2026-05-22",
     "closed_at": "",
+    "author": "lyz0328",
+    "title": "[Doc]: 代码缩进导致用户问题",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/485"
+  },
+  {
+    "iid": 484,
+    "state": "closed",
+    "created_at": "2026-05-21",
+    "closed_at": "2026-05-22",
     "author": "eco_zsj",
     "title": "[Bug]: a5 2a+x环境 reducescatter算子，静态图模式，aiv展开模式，控核配置65核时，用例执行会卡住，预期设备64核，配置65核，预期应该会被拦截",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/484"
   },
   {
@@ -42,7 +53,7 @@
     "author": "jgx12",
     "title": "[Bug]: batchmatmul走图通路在2.10的torch_npu会走入matmul导致被拦截",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/481"
   },
   {
@@ -1114,9 +1125,9 @@
   },
   {
     "iid": 378,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-03-17",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "yeeyanghsia",
     "title": "[Feature]: 新增LogSigmoidGrad算子Torch图",
     "labels": [],

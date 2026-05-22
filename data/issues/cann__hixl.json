@@ -1,5 +1,38 @@
 [
   {
+    "iid": 291,
+    "state": "opened",
+    "created_at": "2026-05-22",
+    "closed_at": "",
+    "author": "hjx_here",
+    "title": "[Feature-Request|需求反馈]: 需要mooncake支持torch_npu.empty_with_swapped_memory创建的虚拟内存tensor进行注册",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/291"
+  },
+  {
+    "iid": 290,
+    "state": "opened",
+    "created_at": "2026-05-22",
+    "closed_at": "",
+    "author": "super_chao_x",
+    "title": "[Question|问题咨询]: 关于HIXL over ROCE场景下内存注册与反注册咨询",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/290"
+  },
+  {
+    "iid": 289,
+    "state": "opened",
+    "created_at": "2026-05-22",
+    "closed_at": "",
+    "author": "M__Cheng",
+    "title": "Python样例文档对torch/torch_npu依赖的安装说明过于简略，仅提供外部链接而无具体版本要求和安装命令，开发者难以快速完成环境准备",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/289"
+  },
+  {
     "iid": 288,
     "state": "opened",
     "created_at": "2026-05-21",
@@ -7,7 +40,7 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: CS单边通信--日志维测：同一行报错日志中remote engine不带下划线，local_engine带下划线，请统一格式",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/288"
   },
   {
@@ -29,18 +62,18 @@
     "author": "lwx1255555",
     "title": "[Bug-Report|缺陷反馈]: readme中的链接失效",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/286"
   },
   {
     "iid": 285,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-21",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "whh_smile",
     "title": "[Question|问题咨询]: conda使用的是python3.14，基于master仓编译hixl子包，安装后，执行测试用例，报/usr/local/Ascend/cann-9.1.0/python/site-packages/llm_datadist_v1/llm_wrapper.so: undefined symbol: _PyThreadState_UncheckedGet，是否要兼容",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/285"
   },
   {
@@ -128,7 +161,7 @@
     "author": "lugang11",
     "title": "[Feature-Request|需求反馈]: HIXL_CI改进",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/hixl/issues/277"
   },
   {
@@ -144,9 +177,9 @@
   },
   {
     "iid": 275,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-15",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "lining23666",
     "title": "[RFC]: HIXL支持UBoE协议传输",
     "labels": [],
@@ -155,9 +188,9 @@
   },
   {
     "iid": 274,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-15",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "qq_41478219",
     "title": "[Question|问题咨询]: 我的服务器配置如下应该如何搭建相关大模型部署环境",
     "labels": [],
@@ -166,9 +199,9 @@
   },
   {
     "iid": 273,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-15",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "qq_41478219",
     "title": "[Question|问题咨询]:  HIXL 对 Device UBoE 的支持在实际业务中如何使用？与现有传输模式有何关系？",
     "labels": [],
@@ -331,9 +364,9 @@
   },
   {
     "iid": 258,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-11",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "youyx",
     "title": "[RFC]: HIXL benchmark重构",
     "labels": [],
@@ -573,13 +606,13 @@
   },
   {
     "iid": 236,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-29",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "A-Liuhao",
     "title": "[Documentation|文档反馈]: 建议优化统一“数据传输方向”的相关表述",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/236"
   },
   {

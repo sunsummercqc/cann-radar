@@ -12,20 +12,20 @@
   },
   {
     "iid": 50,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-11",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "zqmin",
     "title": "[Question|问题咨询]: 使用A2的开发者空间环境，按照指导进行编译，编译失败，找不到头文件",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/50"
   },
   {
     "iid": 49,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-08",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "gcw_V3YyYBt1",
     "title": "[Question|问题咨询]: 使用A2的开发者空间环境，按照指导进行用例测试，执行完后，感觉没有融合",
     "labels": [],
@@ -89,13 +89,13 @@
   },
   {
     "iid": 43,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-27",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "fott",
     "title": "[Question|问题咨询]: SuperKernel 任务构建阶段是否需要引入统一“字段初始化+一致性校验”策略？",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/43"
   },
   {

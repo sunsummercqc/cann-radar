@@ -62,7 +62,7 @@
     "author": "liu_xiao_han",
     "title": "[Bug-Report|缺陷反馈]: 310P3上跑含nms的onnx模型报错",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/393"
   },
   {
@@ -95,7 +95,7 @@
     "author": "xiebangrui2025",
     "title": "自动融合断图性能优化设计方案",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/390"
   },
   {
@@ -199,13 +199,13 @@
   },
   {
     "iid": 380,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-14",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]: 工具扫描问题汇总",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/380"
   },
   {
@@ -430,9 +430,9 @@
   },
   {
     "iid": 359,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-01",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "ascend-robot",
     "title": "CVE-2026-42033",
     "labels": [],
@@ -441,9 +441,9 @@
   },
   {
     "iid": 358,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-30",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "ascend-robot",
     "title": "CVE-2026-27820",
     "labels": [],
@@ -452,9 +452,9 @@
   },
   {
     "iid": 357,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-30",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "Aaaaaa_369",
     "title": "[Question|问题咨询]: ge profiling性能采集支持EP模式，还是支持RC模式，还是都支持呢，可以具体解释下吗",
     "labels": [],
@@ -463,9 +463,9 @@
   },
   {
     "iid": 356,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-29",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "ascend-robot",
     "title": "CVE-2026-42037",
     "labels": [],
@@ -474,9 +474,9 @@
   },
   {
     "iid": 354,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-29",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "ascend-robot",
     "title": "CVE-2026-42038",
     "labels": [],
@@ -485,9 +485,9 @@
   },
   {
     "iid": 353,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-29",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "ascend-robot",
     "title": "CVE-2026-42042",
     "labels": [],
@@ -518,9 +518,9 @@
   },
   {
     "iid": 348,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-29",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "ascend-robot",
     "title": "CVE-2026-42035",
     "labels": [],
@@ -529,9 +529,9 @@
   },
   {
     "iid": 347,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-29",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "ascend-robot",
     "title": "CVE-2022-37344",
     "labels": [],
@@ -584,9 +584,9 @@
   },
   {
     "iid": 342,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-28",
-    "closed_at": "",
+    "closed_at": "2026-05-22",
     "author": "ethan_shenze",
     "title": "[Question|问题咨询]: 在一个GE Session里面，是否支持动态修改AICore核数？",
     "labels": [],

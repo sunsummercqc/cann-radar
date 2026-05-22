@@ -3,38 +3,38 @@
     {
       "name": "ge",
       "path": "cann/ge",
-      "avg_days": 10.2,
-      "closed": 319,
-      "opened": 56
+      "avg_days": 10.5,
+      "closed": 329,
+      "opened": 46
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
       "avg_days": 12.0,
-      "closed": 244,
-      "opened": 29
+      "closed": 250,
+      "opened": 26
     },
     {
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
-      "avg_days": 15.3,
-      "closed": 18,
-      "opened": 13
+      "avg_days": 13.4,
+      "closed": 22,
+      "opened": 9
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
       "avg_days": 17.0,
-      "closed": 45,
-      "opened": 5
+      "closed": 48,
+      "opened": 2
     },
     {
       "name": "torchair",
       "path": "Ascend/torchair",
-      "avg_days": 19.5,
-      "closed": 321,
-      "opened": 21
+      "avg_days": 19.6,
+      "closed": 323,
+      "opened": 20
     }
   ],
-  "generated_at": "2026-05-21"
+  "generated_at": "2026-05-22"
 }

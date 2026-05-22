@@ -1,5 +1,20 @@
 [
   {
+    "user_name": "yangjinwen",
+    "nick_name": "yangjinwen",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "Ascend/torchair"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
     "user_name": "gcw_NN0N815E",
     "nick_name": "gcw_NN0N815E",
     "starred_repos": [
@@ -981,7 +996,7 @@
   },
   {
     "user_name": "qq_34775310",
-    "nick_name": "qq_34775310",
+    "nick_name": "qwerzzz",
     "starred_repos": [
       "cann/ge",
       "cann/hixl"
@@ -3922,7 +3937,7 @@
   },
   {
     "user_name": "gcw_WTfSfUy7",
-    "nick_name": "@gcw_WTfSfUy7",
+    "nick_name": "wangmm",
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
@@ -5921,7 +5936,7 @@
   },
   {
     "user_name": "gcw_V3YyYBt1",
-    "nick_name": "gcw_V3YyYBt1",
+    "nick_name": "gaoxin",
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
@@ -13079,6 +13094,18 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "jxl809107349",
+    "nick_name": "jxl809107349",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 31,
+    "developer_source": "external"
+  },
+  {
     "user_name": "slowzcook",
     "nick_name": "slowzcook",
     "starred_repos": [
@@ -13568,18 +13595,6 @@
     "fans_count": 0,
     "original_repo_count": 3,
     "total_contributions": 839,
-    "developer_source": "external"
-  },
-  {
-    "user_name": "yangjinwen",
-    "nick_name": "yangjinwen",
-    "starred_repos": [
-      "Ascend/torchair"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0,
     "developer_source": "external"
   },
   {
@@ -18108,7 +18123,7 @@
   },
   {
     "user_name": "clinglai0517",
-    "nick_name": "clinglai",
+    "nick_name": "clinglai0517",
     "starred_repos": [
       "Ascend/torchair"
     ],
