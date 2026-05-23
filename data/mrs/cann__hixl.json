@@ -1,5 +1,16 @@
 [
   {
+    "iid": 524,
+    "state": "opened",
+    "title": "[docs] 修复readme中的链接失效",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "qq_34775310",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/524"
+  },
+  {
     "iid": 523,
     "state": "merged",
     "title": "[bugfix]: mark fabric mem helper methods const for codecheck",
@@ -277,9 +288,9 @@
   {
     "iid": 498,
     "state": "opened",
-    "title": "[WIP][feat]: support hixl python api “initialize”",
+    "title": "[feat]: support hixl python api “initialize”",
     "created_at": "2026-05-20",
-    "updated_at": "2026-05-20",
+    "updated_at": "2026-05-23",
     "merged_at": "",
     "closed_at": "",
     "author": "A-Liuhao",

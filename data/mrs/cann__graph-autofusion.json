@@ -1,5 +1,16 @@
 [
   {
+    "iid": 449,
+    "state": "merged",
+    "title": "fix(super_kernel): prioritize default nodes in customize heap",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "merged_at": "2026-05-23",
+    "closed_at": "",
+    "author": "sjtulxh",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/449"
+  },
+  {
     "iid": 448,
     "state": "opened",
     "title": "【feat】: v35 ReduceMin/ReduceMax/ReduceAll/ReduceAny 三层性能建模实现",
@@ -90,7 +101,7 @@
   {
     "iid": 440,
     "state": "opened",
-    "title": "【feat】: implement cache line conflict detection for ATT tiling codegen",
+    "title": "【feat】: ATT支持多Group场景的CacheLine冲突建模",
     "created_at": "2026-05-22",
     "updated_at": "2026-05-23",
     "merged_at": "",
@@ -155,11 +166,11 @@
   },
   {
     "iid": 434,
-    "state": "opened",
+    "state": "merged",
     "title": "feat(superkernel): add SIMT operator detection and inner options management for Ascend950",
     "created_at": "2026-05-22",
-    "updated_at": "2026-05-22",
-    "merged_at": "",
+    "updated_at": "2026-05-23",
+    "merged_at": "2026-05-23",
     "closed_at": "",
     "author": "XuebinYang",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/434"
@@ -276,11 +287,11 @@
   },
   {
     "iid": 423,
-    "state": "opened",
+    "state": "merged",
     "title": "feat: add kernel early-start entry support",
     "created_at": "2026-05-20",
-    "updated_at": "2026-05-22",
-    "merged_at": "",
+    "updated_at": "2026-05-23",
+    "merged_at": "2026-05-23",
     "closed_at": "",
     "author": "yrz1027",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/423"
@@ -389,7 +400,7 @@
     "state": "opened",
     "title": "【feat】: Support L0 exception to store error sub operator information in SK",
     "created_at": "2026-05-19",
-    "updated_at": "2026-05-22",
+    "updated_at": "2026-05-23",
     "merged_at": "",
     "closed_at": "",
     "author": "Achilles_d",
@@ -466,7 +477,7 @@
     "state": "opened",
     "title": "【feat】: Transpose融合优化",
     "created_at": "2026-05-19",
-    "updated_at": "2026-05-22",
+    "updated_at": "2026-05-23",
     "merged_at": "",
     "closed_at": "",
     "author": "liyuewei",
@@ -708,7 +719,7 @@
     "state": "opened",
     "title": "feat(superkernel): prototype AOT early-start sync lowering",
     "created_at": "2026-05-16",
-    "updated_at": "2026-05-22",
+    "updated_at": "2026-05-23",
     "merged_at": "",
     "closed_at": "",
     "author": "yrz1027",

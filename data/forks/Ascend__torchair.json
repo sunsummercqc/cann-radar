@@ -1,5 +1,16 @@
 [
   {
+    "id": 9939555,
+    "namespace": "pwc10490/torchair_sym",
+    "name": "torchair_sym",
+    "web_url": "https://gitcode.com/pwc10490/torchair_sym",
+    "http_url_to_repo": "https://gitcode.com/pwc10490/torchair_sym.git",
+    "created_at": "2026-05-23T15:39:32.298+08:00",
+    "creator_username": "pwc10490",
+    "creator_nick_name": "pwc10490",
+    "forked_from": "Ascend/torchair"
+  },
+  {
     "id": 9929663,
     "namespace": "shiyuyanHW/torchair",
     "name": "torchair",

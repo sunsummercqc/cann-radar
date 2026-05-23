@@ -1,5 +1,16 @@
 [
   {
+    "iid": 399,
+    "state": "opened",
+    "created_at": "2026-05-23",
+    "closed_at": "",
+    "author": "tang-haojie",
+    "title": "[Bug-Report|缺陷反馈]: https://gitcode.com/cann/ge/blob/master/docs/offline_compile.md中部分章节命令不对",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/ge/issues/399"
+  },
+  {
     "iid": 398,
     "state": "opened",
     "created_at": "2026-05-21",
@@ -133,9 +144,9 @@
   },
   {
     "iid": 386,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-18",
-    "closed_at": "",
+    "closed_at": "2026-05-23",
     "author": "sched-yield",
     "title": "[Question|问题咨询]: CANN 9.0.0 版本使用 es 接口时，cmake 是否还需 add_es_library",
     "labels": [],

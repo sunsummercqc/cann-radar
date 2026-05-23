@@ -1,5 +1,16 @@
 [
   {
+    "iid": 87,
+    "state": "opened",
+    "title": "add simd doc",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "ji-jun1",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/87"
+  },
+  {
     "iid": 86,
     "state": "opened",
     "title": "fix issue for readme",
