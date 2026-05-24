@@ -154,7 +154,7 @@
     {
       "name": "ge",
       "path": "cann/ge",
-      "total": 3103,
+      "total": 3116,
       "data": [
         0,
         0,
@@ -304,7 +304,7 @@
         199,
         179,
         233,
-        171
+        184
       ]
     },
     {
@@ -622,7 +622,7 @@
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "total": 449,
+      "total": 452,
       "data": [
         0,
         0,
@@ -772,7 +772,7 @@
         31,
         26,
         28,
-        64
+        67
       ]
     },
     {
@@ -932,5 +932,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-23"
+  "generated_at": "2026-05-24"
 }

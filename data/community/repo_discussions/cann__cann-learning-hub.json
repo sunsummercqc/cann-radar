@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-23",
+  "generated_at": "2026-05-24",
   "source_count": 18,
   "discussion_count": 18,
-  "external_count": 499,
+  "external_count": 500,
   "internal_count": 7,
-  "total_unique_participants": 506,
+  "total_unique_participants": 507,
   "trend": [
     {
-      "date": "2026-05-23",
-      "external_count": 499,
-      "total_unique_participants": 506
+      "date": "2026-05-24",
+      "external_count": 500,
+      "total_unique_participants": 507
     }
   ],
   "participants": [
@@ -7682,6 +7682,24 @@
       "last_seen_at": "2026-05-16T16:34:32+08:00"
     },
     {
+      "user_name": "qq_61321885",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/22",
+          "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-24T10:05:36+08:00",
+      "last_seen_at": "2026-05-24T10:05:36+08:00"
+    },
+    {
       "user_name": "qq_63125683",
       "nick_name": "",
       "developer_source": "external",
@@ -9598,10 +9616,10 @@
       "org": "cann/cann-learning-hub",
       "number": "22",
       "title": "【2026CANN算子挑战赛（江山赛区）】参与赋能课程学习互动赢精美礼品！第三期！",
-      "comment_total": 45,
+      "comment_total": 46,
       "reply_total": 2,
-      "unique_participants": 45,
-      "external_participants": 45
+      "unique_participants": 46,
+      "external_participants": 46
     },
     {
       "url": "https://gitcode.com/cann/cann-learning-hub/discussions/20",

@@ -12,7 +12,7 @@
       "path": "cann/hixl",
       "avg_days": 11.9,
       "closed": 251,
-      "opened": 25
+      "opened": 26
     },
     {
       "name": "torchtitan-npu",
@@ -36,5 +36,5 @@
       "opened": 20
     }
   ],
-  "generated_at": "2026-05-23"
+  "generated_at": "2026-05-24"
 }

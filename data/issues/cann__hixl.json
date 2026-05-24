@@ -1,5 +1,16 @@
 [
   {
+    "iid": 292,
+    "state": "opened",
+    "created_at": "2026-05-23",
+    "closed_at": "",
+    "author": "Menphina",
+    "title": "[Question|问题咨询]: fabric_mem 在 D2rH/rH2D/rH2H/H2rH 方向触发 SDMA link error(0x222)",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/292"
+  },
+  {
     "iid": 291,
     "state": "opened",
     "created_at": "2026-05-22",

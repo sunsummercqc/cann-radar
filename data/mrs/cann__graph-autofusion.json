@@ -1,5 +1,38 @@
 [
   {
+    "iid": 452,
+    "state": "opened",
+    "title": "fix: update readme，correct spelling errors",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "Qxg27",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/452"
+  },
+  {
+    "iid": 451,
+    "state": "opened",
+    "title": "fix: update readme，correct spelling errors",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "Lgy278",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/451"
+  },
+  {
+    "iid": 450,
+    "state": "opened",
+    "title": "fix: update readme，correct spelling errors",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "Qxy27",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/450"
+  },
+  {
     "iid": 449,
     "state": "merged",
     "title": "fix(super_kernel): prioritize default nodes in customize heap",
@@ -15,7 +48,7 @@
     "state": "opened",
     "title": "【feat】: v35 ReduceMin/ReduceMax/ReduceAll/ReduceAny 三层性能建模实现",
     "created_at": "2026-05-22",
-    "updated_at": "2026-05-23",
+    "updated_at": "2026-05-24",
     "merged_at": "",
     "closed_at": "",
     "author": "zhang_shengjie",
