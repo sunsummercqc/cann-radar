@@ -28587,5 +28587,19 @@
     "total_repo_count": 0,
     "total_contributions": 4,
     "user_type": "questioner"
+  },
+  {
+    "user_name": "wfuckfuck",
+    "nick_name": "喜欢听风",
+    "user_id": 1727766,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
   }
 ]

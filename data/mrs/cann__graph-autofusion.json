@@ -1,5 +1,49 @@
 [
   {
+    "iid": 471,
+    "state": "opened",
+    "title": "Scheduled Test Pipeline 20260525230148",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "ling-DT",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/471"
+  },
+  {
+    "iid": 470,
+    "state": "opened",
+    "title": "【PR】: sync develop to master 0525",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "yangyongqiang0606",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/470"
+  },
+  {
+    "iid": 469,
+    "state": "closed",
+    "title": "Scheduled Test Pipeline 20260525210136",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "merged_at": "",
+    "closed_at": "2026-05-25",
+    "author": "ling-DT",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/469"
+  },
+  {
+    "iid": 468,
+    "state": "opened",
+    "title": "【PR】:[feat] Concat融合支持优化Cast算子",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "xchu42",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/468"
+  },
+  {
     "iid": 467,
     "state": "opened",
     "title": "【PR】: 简要描述",
@@ -12,12 +56,12 @@
   },
   {
     "iid": 466,
-    "state": "opened",
+    "state": "closed",
     "title": "Scheduled Test Pipeline 20260525190125",
     "created_at": "2026-05-25",
     "updated_at": "2026-05-25",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-05-25",
     "author": "ling-DT",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/466"
   },
@@ -254,11 +298,11 @@
   },
   {
     "iid": 444,
-    "state": "opened",
+    "state": "merged",
     "title": "【fix】: 修复autofuse不dump pbtxt文件",
     "created_at": "2026-05-22",
     "updated_at": "2026-05-25",
-    "merged_at": "",
+    "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "WangYanMale",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/444"
@@ -441,11 +485,11 @@
   },
   {
     "iid": 427,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】: 修复slice场景下的broadcast缓存问题",
     "created_at": "2026-05-21",
     "updated_at": "2026-05-25",
-    "merged_at": "",
+    "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "chenweiheng",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/427"
@@ -598,7 +642,7 @@
     "state": "opened",
     "title": "【feat】: Support L0 exception to store error sub operator information in SK",
     "created_at": "2026-05-19",
-    "updated_at": "2026-05-23",
+    "updated_at": "2026-05-25",
     "merged_at": "",
     "closed_at": "",
     "author": "Achilles_d",

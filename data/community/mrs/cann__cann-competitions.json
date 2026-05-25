@@ -1,5 +1,27 @@
 [
   {
+    "iid": 187,
+    "state": "opened",
+    "title": "[团队提交] 算子挑战赛江山赛区预赛 Erf 算子提交：伊格小队",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "lggyx",
+    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/187"
+  },
+  {
+    "iid": 186,
+    "state": "opened",
+    "title": "Logit算子设计文档",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "ilovescrapy",
+    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/186"
+  },
+  {
     "iid": 185,
     "state": "opened",
     "title": "[团队提交] 算子挑战赛江山赛区预赛 Erf 算子提交： ** maomao1019**",

@@ -10,23 +10,23 @@
     {
       "name": "ge",
       "path": "cann/ge",
-      "merged": 1512,
-      "open": 209,
-      "total": 1721
+      "merged": 1522,
+      "open": 201,
+      "total": 1723
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
       "merged": 420,
-      "open": 25,
-      "total": 445
+      "open": 27,
+      "total": 447
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "merged": 335,
+      "merged": 337,
       "open": 37,
-      "total": 372
+      "total": 374
     },
     {
       "name": "torchtitan-npu",

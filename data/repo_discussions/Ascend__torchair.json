@@ -2,14 +2,14 @@
   "generated_at": "2026-05-25",
   "source_count": 5,
   "discussion_count": 5,
-  "external_count": 53,
+  "external_count": 54,
   "internal_count": 1,
-  "total_unique_participants": 54,
+  "total_unique_participants": 55,
   "trend": [
     {
       "date": "2026-05-25",
-      "external_count": 53,
-      "total_unique_participants": 54
+      "external_count": 54,
+      "total_unique_participants": 55
     }
   ],
   "participants": [
@@ -878,6 +878,24 @@
       "last_seen_at": "2026-05-25T16:41:10+08:00"
     },
     {
+      "user_name": "wfuckfuck",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/9",
+          "title": "畅享图模式极速推理 | 零基础玩转TorchAir 第二期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-25T20:05:12+08:00",
+      "last_seen_at": "2026-05-25T20:05:12+08:00"
+    },
+    {
       "user_name": "xzh1017",
       "nick_name": "",
       "developer_source": "external",
@@ -992,10 +1010,10 @@
       "org": "Ascend/torchair",
       "number": "9",
       "title": "畅享图模式极速推理 | 零基础玩转TorchAir 第二期",
-      "comment_total": 6,
+      "comment_total": 7,
       "reply_total": 0,
-      "unique_participants": 6,
-      "external_participants": 6
+      "unique_participants": 7,
+      "external_participants": 7
     },
     {
       "url": "https://gitcode.com/Ascend/torchair/discussions/8",

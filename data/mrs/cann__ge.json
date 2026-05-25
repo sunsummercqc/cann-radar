@@ -1,11 +1,33 @@
 [
   {
-    "iid": 3146,
+    "iid": 3148,
     "state": "opened",
-    "title": "【PR】: [fix] [autofuse] fix codecheck of autofuse.",
+    "title": "【PR】: sync develop to master 0525",
     "created_at": "2026-05-25",
     "updated_at": "2026-05-25",
     "merged_at": "",
+    "closed_at": "",
+    "author": "yangyongqiang0606",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3148"
+  },
+  {
+    "iid": 3147,
+    "state": "opened",
+    "title": "protobuf整改",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "yelongjian",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3147"
+  },
+  {
+    "iid": 3146,
+    "state": "merged",
+    "title": "【PR】: [fix] [autofuse] fix codecheck of autofuse.",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "xingzhixiong",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3146"
@@ -45,22 +67,22 @@
   },
   {
     "iid": 3142,
-    "state": "opened",
+    "state": "merged",
     "title": "feat: add python pass native artifact matrix",
     "created_at": "2026-05-25",
     "updated_at": "2026-05-25",
-    "merged_at": "",
+    "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "zhangfeifan0709",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3142"
   },
   {
     "iid": 3141,
-    "state": "opened",
+    "state": "merged",
     "title": "docs: 完善编码风格指导",
     "created_at": "2026-05-25",
     "updated_at": "2026-05-25",
-    "merged_at": "",
+    "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "stevenaw0",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3141"
@@ -89,11 +111,11 @@
   },
   {
     "iid": 3138,
-    "state": "opened",
+    "state": "merged",
     "title": "【fix】: CodeCheck Fix",
     "created_at": "2026-05-25",
     "updated_at": "2026-05-25",
-    "merged_at": "",
+    "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "chengyutao3",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3138"
@@ -155,11 +177,11 @@
   },
   {
     "iid": 3132,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】: fix code warning",
     "created_at": "2026-05-25",
     "updated_at": "2026-05-25",
-    "merged_at": "",
+    "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "A-Liuhao",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3132"
@@ -265,11 +287,11 @@
   },
   {
     "iid": 3121,
-    "state": "opened",
+    "state": "merged",
     "title": "fix: 解耦om2依赖并补充UT编译源文件",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-25",
-    "merged_at": "",
+    "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "wuzheng-hw",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3121"
@@ -584,11 +606,11 @@
   },
   {
     "iid": 3091,
-    "state": "opened",
+    "state": "merged",
     "title": "refactor: 删除未使用的 rtGetStreamBufferLen 函数",
     "created_at": "2026-05-22",
-    "updated_at": "2026-05-22",
-    "merged_at": "",
+    "updated_at": "2026-05-25",
+    "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "wangtao43",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3091"
@@ -1302,7 +1324,7 @@
     "state": "opened",
     "title": "feat: 自定义算子多模型支持",
     "created_at": "2026-05-20",
-    "updated_at": "2026-05-25",
+    "updated_at": "2026-05-26",
     "merged_at": "",
     "closed_at": "",
     "author": "Chang-an-HW",
@@ -2597,11 +2619,11 @@
   },
   {
     "iid": 2908,
-    "state": "opened",
+    "state": "merged",
     "title": "feat: 扩展TensorMove消除场景（特殊源节点 + 多TM消费 + 读写/排布冲突检查）",
     "created_at": "2026-05-15",
     "updated_at": "2026-05-25",
-    "merged_at": "",
+    "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "stevenaw0",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/2908"
@@ -2872,11 +2894,11 @@
   },
   {
     "iid": 2883,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】: 新增自动多流算法PASS",
     "created_at": "2026-05-15",
     "updated_at": "2026-05-25",
-    "merged_at": "",
+    "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "lihuachao",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/2883"
@@ -3260,7 +3282,7 @@
     "state": "opened",
     "title": "feat: CANN包查找切换为find_cann_package，支持多仓联编跳过",
     "created_at": "2026-05-14",
-    "updated_at": "2026-05-23",
+    "updated_at": "2026-05-25",
     "merged_at": "",
     "closed_at": "",
     "author": "yitaoxt",
@@ -3565,11 +3587,11 @@
   },
   {
     "iid": 2820,
-    "state": "opened",
+    "state": "merged",
     "title": "fix:  fix clean code warnings",
     "created_at": "2026-05-13",
     "updated_at": "2026-05-25",
-    "merged_at": "",
+    "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "likun104",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/2820"
