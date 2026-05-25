@@ -1,5 +1,23 @@
 [
   {
+    "user_name": "weixin_43757681",
+    "nick_name": "weixin_43757681",
+    "user_id": 6802266,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
+    "user_name": "weixin_42821400",
+    "nick_name": "车峰",
+    "user_id": 6973688,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
     "user_name": "yangjinwen",
     "nick_name": "yangjinwen",
     "user_id": 11031518,
@@ -237,7 +255,7 @@
     "user_name": "fyt1215",
     "nick_name": "fyt1215",
     "user_id": 10667291,
-    "avatar": null,
+    "avatar": "https://cdn-img.gitcode.com/ad/ff/8ad58f063fee04c4c46e26a06d57a7c2b1a568ead3c5431fa8e84a58cd4c3b16.png?time=1779698743293",
     "starred_repos": [
       "cann/ge"
     ]
@@ -307,7 +325,7 @@
     ]
   },
   {
-    "user_name": "weixin_44180926",
+    "user_name": "CUTEZHANG",
     "nick_name": "weixin_44180926",
     "user_id": 317637,
     "avatar": "https://cdn-img.gitcode.com/be/be/b67e87bec053e48ea937ce14b4877f9ceaf6e4ae654962b68e1a9f03e93f2e60.jpg",
@@ -4865,7 +4883,7 @@
   },
   {
     "user_name": "ClarkXie",
-    "nick_name": "ClarkXie",
+    "nick_name": "谢正恺",
     "user_id": 1958300,
     "avatar": null,
     "starred_repos": [

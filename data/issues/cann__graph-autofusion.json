@@ -1,5 +1,16 @@
 [
   {
+    "iid": 52,
+    "state": "opened",
+    "created_at": "2026-05-25",
+    "closed_at": "",
+    "author": "xingzhixiong",
+    "title": "[Bug-Report|缺陷反馈]: 按md文档执行编译构建以及llt过程遇到各类问题，调试多次才能跑通，易用性需要进一步提升",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/52"
+  },
+  {
     "iid": 51,
     "state": "opened",
     "created_at": "2026-05-19",

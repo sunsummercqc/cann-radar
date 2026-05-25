@@ -1,5 +1,29 @@
 [
   {
+    "user_name": "weixin_43757681",
+    "nick_name": "weixin_43757681",
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "weixin_42821400",
+    "nick_name": "车峰",
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
     "user_name": "yangjinwen",
     "nick_name": "yangjinwen",
     "starred_repos": [
@@ -348,7 +372,7 @@
       "cann/ge",
       "cann/hixl"
     ],
-    "user_type": "questioner",
+    "user_type": "contributor",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 24,
@@ -403,7 +427,7 @@
     "developer_source": "external"
   },
   {
-    "user_name": "weixin_44180926",
+    "user_name": "CUTEZHANG",
     "nick_name": "weixin_44180926",
     "starred_repos": [
       "cann/ge",
@@ -412,7 +436,7 @@
     "user_type": "questioner",
     "fans_count": 0,
     "original_repo_count": 0,
-    "total_contributions": 3,
+    "total_contributions": 4,
     "developer_source": "external"
   },
   {
@@ -1165,7 +1189,7 @@
       "cann/graph-autofusion",
       "Ascend/torchair"
     ],
-    "user_type": "developer",
+    "user_type": "questioner",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 136,
@@ -6278,7 +6302,7 @@
   },
   {
     "user_name": "ClarkXie",
-    "nick_name": "ClarkXie",
+    "nick_name": "谢正恺",
     "starred_repos": [
       "cann/ge",
       "Ascend/torchair"
@@ -6717,7 +6741,7 @@
       "cann/torchtitan-npu",
       "Ascend/torchair"
     ],
-    "user_type": "questioner",
+    "user_type": "contributor",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 183,

@@ -148,13 +148,14 @@
     "2026-W18",
     "2026-W19",
     "2026-W20",
-    "2026-W21"
+    "2026-W21",
+    "2026-W22"
   ],
   "repos": [
     {
       "name": "ge",
       "path": "cann/ge",
-      "total": 3116,
+      "total": 3136,
       "data": [
         0,
         0,
@@ -304,13 +305,14 @@
         199,
         179,
         233,
-        184
+        184,
+        20
       ]
     },
     {
       "name": "torchair",
       "path": "Ascend/torchair",
-      "total": 3081,
+      "total": 3087,
       "data": [
         1,
         8,
@@ -460,13 +462,14 @@
         16,
         21,
         31,
-        25
+        25,
+        6
       ]
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "total": 524,
+      "total": 527,
       "data": [
         0,
         0,
@@ -616,13 +619,14 @@
         18,
         14,
         28,
-        49
+        49,
+        3
       ]
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "total": 452,
+      "total": 467,
       "data": [
         0,
         0,
@@ -772,13 +776,14 @@
         31,
         26,
         28,
-        67
+        67,
+        15
       ]
     },
     {
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
-      "total": 242,
+      "total": 247,
       "data": [
         0,
         0,
@@ -928,9 +933,10 @@
         14,
         15,
         20,
-        40
+        40,
+        5
       ]
     }
   ],
-  "generated_at": "2026-05-24"
+  "generated_at": "2026-05-25"
 }

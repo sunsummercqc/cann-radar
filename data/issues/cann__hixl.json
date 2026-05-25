@@ -1,5 +1,27 @@
 [
   {
+    "iid": 294,
+    "state": "opened",
+    "created_at": "2026-05-25",
+    "closed_at": "",
+    "author": "andy_git",
+    "title": "[Feature-Request|需求反馈]: HIXL CS单边接口A5支持Qos相关能力",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/294"
+  },
+  {
+    "iid": 293,
+    "state": "opened",
+    "created_at": "2026-05-25",
+    "closed_at": "",
+    "author": "advheng",
+    "title": "[Question|问题咨询]: hixl 与 MemFabric 在mooncake中集成时在功能、底层传输路径上有何异同，两者是否有依赖关系呢？",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/293"
+  },
+  {
     "iid": 292,
     "state": "opened",
     "created_at": "2026-05-23",
@@ -7,7 +29,7 @@
     "author": "Menphina",
     "title": "[Question|问题咨询]: fabric_mem 在 D2rH/rH2D/rH2H/H2rH 方向触发 SDMA link error(0x222)",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/292"
   },
   {
@@ -34,13 +56,13 @@
   },
   {
     "iid": 289,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-22",
-    "closed_at": "",
+    "closed_at": "2026-05-25",
     "author": "M__Cheng",
-    "title": "Python样例文档对torch/torch_npu依赖的安装说明过于简略，仅提供外部链接而无具体版本要求和安装命令，开发者难以快速完成环境准备",
+    "title": "[Question] Python样例文档对torch/torch_npu依赖的安装说明过于简略，仅提供外部链接而无具体版本要求和安装命令，开发者难以快速完成环境准备",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/hixl/issues/289"
   },
   {
@@ -111,13 +133,13 @@
   },
   {
     "iid": 282,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-20",
-    "closed_at": "",
+    "closed_at": "2026-05-25",
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: CS单边通信接口：hccs 通信，Dr2D，plog日志报错[TransportBase][BatchTransferAsync]Does not support this interface",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/282"
   },
   {

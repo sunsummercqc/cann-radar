@@ -7300,7 +7300,7 @@
     "original_repo_count": 0,
     "total_repo_count": 1,
     "total_contributions": 183,
-    "user_type": "questioner"
+    "user_type": "contributor"
   },
   {
     "user_name": "yuanjun_li",
@@ -9987,7 +9987,7 @@
     "original_repo_count": 0,
     "total_repo_count": 0,
     "total_contributions": 136,
-    "user_type": "developer"
+    "user_type": "questioner"
   },
   {
     "user_name": "liangtongxue",
@@ -15043,7 +15043,7 @@
     "original_repo_count": 0,
     "total_repo_count": 0,
     "total_contributions": 24,
-    "user_type": "questioner"
+    "user_type": "contributor"
   },
   {
     "user_name": "myliucom",
@@ -19982,20 +19982,6 @@
     "total_repo_count": 0,
     "total_contributions": 0,
     "user_type": "die_hard_fan"
-  },
-  {
-    "user_name": "weixin_44180926",
-    "nick_name": "weixin_44180926",
-    "user_id": 317637,
-    "starred_repos": [
-      "Ascend/torchair"
-    ],
-    "fans_count": 0,
-    "follow_count": 0,
-    "original_repo_count": 0,
-    "total_repo_count": 0,
-    "total_contributions": 3,
-    "user_type": "questioner"
   },
   {
     "user_name": "z-001",
@@ -28558,5 +28544,48 @@
     "total_repo_count": 0,
     "total_contributions": 0,
     "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "weixin_43757681",
+    "nick_name": "weixin_43757681",
+    "user_id": 6802266,
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "weixin_42821400",
+    "nick_name": "车峰",
+    "user_id": 6973688,
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "CUTEZHANG",
+    "nick_name": "weixin_44180926",
+    "user_id": 317637,
+    "starred_repos": [
+      "cann/ge",
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 4,
+    "user_type": "questioner"
   }
 ]
