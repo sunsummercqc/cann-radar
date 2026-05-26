@@ -16025,7 +16025,7 @@
     "original_repo_count": 0,
     "total_repo_count": 0,
     "total_contributions": 30,
-    "user_type": "questioner"
+    "user_type": "contributor"
   },
   {
     "user_name": "lqczz",
@@ -28592,6 +28592,104 @@
     "user_name": "wfuckfuck",
     "nick_name": "喜欢听风",
     "user_id": 1727766,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "bbsh112",
+    "nick_name": "bbsh112",
+    "user_id": 5325817,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 1,
+    "user_type": "questioner"
+  },
+  {
+    "user_name": "tcund89",
+    "nick_name": "tcund89",
+    "user_id": 3191371,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 43,
+    "user_type": "contributor"
+  },
+  {
+    "user_name": "YueGuoDora",
+    "nick_name": "YueGuoDora",
+    "user_id": 11397636,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "zyx_ly",
+    "nick_name": "dev_zyx",
+    "user_id": 1052316,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 7,
+    "original_repo_count": 0,
+    "total_repo_count": 2,
+    "total_contributions": 11,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "HelloWord-LuXin",
+    "nick_name": "HelloWord-LuXin",
+    "user_id": 7054350,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 7,
+    "total_contributions": 597,
+    "user_type": "questioner"
+  },
+  {
+    "user_name": "xixi5820",
+    "nick_name": "西西",
+    "user_id": 11399779,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "CialloC",
+    "nick_name": "双马尾魔法少女",
+    "user_id": 5918472,
     "starred_repos": [
       "Ascend/torchair"
     ],

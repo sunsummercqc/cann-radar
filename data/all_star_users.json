@@ -5841,6 +5841,15 @@
     ]
   },
   {
+    "user_name": "bbsh112",
+    "nick_name": "bbsh112",
+    "user_id": 5325817,
+    "avatar": "https://cdn-img.gitcode.com/db/ac/dba77cff5d9ae374cf0449ac55bae48b4c3c6e12d1e8d06a0fcc54b1fbb8d63d.jpg",
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
     "user_name": "gcw_clTYEm5f",
     "nick_name": "gcw_clTYEm5f",
     "user_id": 11362762,
@@ -6313,7 +6322,7 @@
   },
   {
     "user_name": "zhaoyanchao3",
-    "nick_name": "yczhaocau",
+    "nick_name": "zhaoyanchao",
     "user_id": 7302696,
     "avatar": "https://cdn-img.gitcode.com/eb/bd/e624301b5b32d015ede9ca71ad0e5b8af2a4dacbac8567c615b4a4d69e042e7d.jpg",
     "starred_repos": [
@@ -8951,7 +8960,7 @@
   },
   {
     "user_name": "qq_40517592",
-    "nick_name": "code17",
+    "nick_name": "Panhailin17",
     "user_id": 7162794,
     "avatar": null,
     "starred_repos": [
@@ -9592,6 +9601,33 @@
     ]
   },
   {
+    "user_name": "zyx_ly",
+    "nick_name": "dev_zyx",
+    "user_id": 1052316,
+    "avatar": "https://cdn-img.gitcode.com/bb/ad/9b375b87213793ade942e21446e0ac7a73d2836c2a66421d728833b85a58bcdc.png",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "YueGuoDora",
+    "nick_name": "YueGuoDora",
+    "user_id": 11397636,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "tcund89",
+    "nick_name": "tcund89",
+    "user_id": 3191371,
+    "avatar": "https://cdn-img.gitcode.com/bf/ca/6bfc4ac444b13c2588ab5b5092679e868abbf19cda733686bd6e03947ac20374.png",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "yet666",
     "nick_name": "yet",
     "user_id": 11342382,
@@ -10080,6 +10116,33 @@
     "avatar": "",
     "starred_repos": [
       "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "HelloWord-LuXin",
+    "nick_name": "HelloWord-LuXin",
+    "user_id": 7054350,
+    "avatar": "https://cdn-img.gitcode.com/ef/ef/68ef0efc2451de519415bea26aee6c612cea971127bf52f7837b09705490ca80.png?time=1765292114097",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "xixi5820",
+    "nick_name": "西西",
+    "user_id": 11399779,
+    "avatar": "https://cdn-img.gitcode.com/fb/ba/46f0b0b251af8a0e0fa829f97068435c05170aca28038aa583b0ba688fa5ae0a.jpg",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "CialloC",
+    "nick_name": "双马尾魔法少女",
+    "user_id": 5918472,
+    "avatar": "https://cdn-img.gitcode.com/bf/bc/128410744124bf9b81c95dd64dc2a30545e1670332e37c892dc9e0b60f225df8.png",
+    "starred_repos": [
+      "Ascend/torchair"
     ]
   },
   {

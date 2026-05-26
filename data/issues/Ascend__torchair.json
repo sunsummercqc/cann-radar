@@ -1,13 +1,68 @@
 [
   {
+    "iid": 491,
+    "state": "opened",
+    "created_at": "2026-05-26",
+    "closed_at": "",
+    "author": "ltllt1",
+    "title": "[Doc]: 图模式的入门案例中，可打印出eager模式和图模式的耗时对比，直观展示加速效果",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/491"
+  },
+  {
+    "iid": 490,
+    "state": "closed",
+    "created_at": "2026-05-26",
+    "closed_at": "2026-05-26",
+    "author": "wangqinyi817",
+    "title": "[Bug]: npugraph_ex继承用例报错[ERROR] name 'event_add' is not defined",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/490"
+  },
+  {
+    "iid": 489,
+    "state": "opened",
+    "created_at": "2026-05-26",
+    "closed_at": "",
+    "author": "ltllt1",
+    "title": "[Doc]: https://gitcode.com/Ascend/pytorch/issues/1663",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/489"
+  },
+  {
+    "iid": 488,
+    "state": "opened",
+    "created_at": "2026-05-26",
+    "closed_at": "",
+    "author": "qq_43844249",
+    "title": "[Bug]: 算子执行静态图调用但是却走入了单算子通路",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/488"
+  },
+  {
+    "iid": 487,
+    "state": "opened",
+    "created_at": "2026-05-26",
+    "closed_at": "",
+    "author": "shi-rui",
+    "title": "[Bug]: 配置acl graph模式，使用msprof采集profiling发现相同的算子出现了两次，感觉是图似乎被执行了两次。这是符合预期的吗",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/487"
+  },
+  {
     "iid": 486,
     "state": "opened",
     "created_at": "2026-05-25",
     "closed_at": "",
     "author": "HelloWord-LuXin",
-    "title": "[Feature]: ",
+    "title": "[Feature]: 本地编torch_npu包未编译torchair相关内容",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/486"
   },
   {
@@ -34,9 +89,9 @@
   },
   {
     "iid": 483,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-20",
-    "closed_at": "",
+    "closed_at": "2026-05-26",
     "author": "wuxiyuan",
     "title": "[Bug]: MoeReRouting在FP4场景下会出现输出结果一半为0的问题",
     "labels": [],
@@ -223,9 +278,9 @@
   },
   {
     "iid": 464,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-29",
-    "closed_at": "",
+    "closed_at": "2026-05-26",
     "author": "chen-yuqi-ba",
     "title": "[Bug]: npugraph_ex，通过post_grad_custom_pre_pass和post_grad_custom_post_pass，设置流场景报错",
     "labels": [],

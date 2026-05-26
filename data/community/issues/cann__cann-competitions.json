@@ -1,5 +1,27 @@
 [
   {
+    "iid": 8,
+    "state": "opened",
+    "created_at": "2026-05-26",
+    "closed_at": "",
+    "author": "TreamTik",
+    "title": "[Feature]: 【社区任务】Roll算子贡献",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-competitions/issues/8"
+  },
+  {
+    "iid": 7,
+    "state": "opened",
+    "created_at": "2026-05-26",
+    "closed_at": "",
+    "author": "gcw_tgPdOLZT",
+    "title": "[Documentation|文档反馈]: cann-competitions仓更名为cann-ops-competitions",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-competitions/issues/7"
+  },
+  {
     "iid": 6,
     "state": "opened",
     "created_at": "2026-05-16",
