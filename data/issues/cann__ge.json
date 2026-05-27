@@ -1,5 +1,27 @@
 [
   {
+    "iid": 411,
+    "state": "opened",
+    "created_at": "2026-05-27",
+    "closed_at": "",
+    "author": "yaocaihong",
+    "title": "昇腾社区链接跳转失败",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/411"
+  },
+  {
+    "iid": 410,
+    "state": "opened",
+    "created_at": "2026-05-27",
+    "closed_at": "",
+    "author": "xiong-pan",
+    "title": "[Question|问题咨询]: 对接cmo算子，图编译时报错",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/410"
+  },
+  {
     "iid": 409,
     "state": "opened",
     "created_at": "2026-05-27",
@@ -7,7 +29,7 @@
     "author": "weixin_48253078",
     "title": "[Bug-Report|缺陷反馈]: 重复使用aclmdlLoadFromMemWithMem和aclmdlUnload加载卸载模型内存泄漏问题",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/409"
   },
   {
@@ -18,7 +40,7 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]:gcc=14.3.0，python=3.14，其他均满足要求，master分支编ge包失败",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/408"
   },
   {
@@ -29,7 +51,7 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: OM模型可以指定调度的AI Core数量，时延优化的角度是建议如何调度？",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/407"
   },
   {
@@ -40,7 +62,7 @@
     "author": "Y_Keven",
     "title": "[Question|问题咨询]: aclmdlLoadFromFile接口返回的错误码是否有变更",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/406"
   },
   {
@@ -238,7 +260,7 @@
     "author": "yuchen97",
     "title": "[Bug-Report|缺陷反馈]: 【外部开发者】TensorMoveDeletePass 使用 std::stoi 缺少异常安全处理",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/387"
   },
   {

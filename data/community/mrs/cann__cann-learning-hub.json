@@ -1,5 +1,27 @@
 [
   {
+    "iid": 96,
+    "state": "merged",
+    "title": "[bugfix]: 增加server侧传输等待的超时时间",
+    "created_at": "2026-05-27",
+    "updated_at": "2026-05-27",
+    "merged_at": "2026-05-27",
+    "closed_at": "",
+    "author": "A-Liuhao",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/96"
+  },
+  {
+    "iid": 95,
+    "state": "opened",
+    "title": "moe课程",
+    "created_at": "2026-05-27",
+    "updated_at": "2026-05-27",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "jiangxiuhan1",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/95"
+  },
+  {
     "iid": 94,
     "state": "opened",
     "title": "add simt operator",

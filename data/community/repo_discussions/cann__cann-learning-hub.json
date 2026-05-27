@@ -2,14 +2,14 @@
   "generated_at": "2026-05-27",
   "source_count": 18,
   "discussion_count": 18,
-  "external_count": 507,
+  "external_count": 514,
   "internal_count": 8,
-  "total_unique_participants": 515,
+  "total_unique_participants": 522,
   "trend": [
     {
       "date": "2026-05-27",
-      "external_count": 507,
-      "total_unique_participants": 515
+      "external_count": 514,
+      "total_unique_participants": 522
     }
   ],
   "participants": [
@@ -3148,8 +3148,26 @@
           "replies": 0
         }
       ],
-      "first_seen_at": "2026-05-27T11:50:48+08:00",
-      "last_seen_at": "2026-05-27T11:50:48+08:00"
+      "first_seen_at": "2026-05-27T20:32:31+08:00",
+      "last_seen_at": "2026-05-27T20:32:31+08:00"
+    },
+    {
+      "user_name": "2401_84427790",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/6",
+          "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T20:41:17+08:00",
+      "last_seen_at": "2026-05-27T20:41:17+08:00"
     },
     {
       "user_name": "2401_84589482",
@@ -4322,6 +4340,24 @@
       "last_seen_at": "2026-04-20T14:48:49+08:00"
     },
     {
+      "user_name": "dengbuliduofan",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/6",
+          "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T20:10:55+08:00",
+      "last_seen_at": "2026-05-27T20:10:55+08:00"
+    },
+    {
       "user_name": "DESKTOP303",
       "nick_name": "",
       "developer_source": "external",
@@ -5042,6 +5078,24 @@
       "last_seen_at": "2026-04-25T15:45:51+08:00"
     },
     {
+      "user_name": "gcw_F1JqS7b4",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/6",
+          "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T23:06:55+08:00",
+      "last_seen_at": "2026-05-27T23:06:55+08:00"
+    },
+    {
       "user_name": "gcw_gB0XaCP9",
       "nick_name": "",
       "developer_source": "external",
@@ -5130,6 +5184,24 @@
       ],
       "first_seen_at": "2026-05-06T14:46:54+08:00",
       "last_seen_at": "2026-05-06T14:46:54+08:00"
+    },
+    {
+      "user_name": "gcw_pdH6Po4l",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/6",
+          "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T23:19:57+08:00",
+      "last_seen_at": "2026-05-27T23:19:57+08:00"
     },
     {
       "user_name": "gcw_pRm46PVq",
@@ -7652,6 +7724,24 @@
       "last_seen_at": "2026-04-26T09:34:11+08:00"
     },
     {
+      "user_name": "qq_51609253",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/6",
+          "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T21:11:33+08:00",
+      "last_seen_at": "2026-05-27T21:11:33+08:00"
+    },
+    {
       "user_name": "qq_52045544",
       "nick_name": "",
       "developer_source": "external",
@@ -7832,6 +7922,24 @@
       "last_seen_at": "2026-05-16T16:34:32+08:00"
     },
     {
+      "user_name": "qq_61157166",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/6",
+          "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T21:33:28+08:00",
+      "last_seen_at": "2026-05-27T21:33:28+08:00"
+    },
+    {
       "user_name": "qq_61321885",
       "nick_name": "",
       "developer_source": "external",
@@ -7853,19 +7961,19 @@
       "user_name": "qq_62793086",
       "nick_name": "",
       "developer_source": "external",
-      "top_comments": 0,
-      "replies": 1,
+      "top_comments": 1,
+      "replies": 0,
       "discussion_count": 1,
       "discussions": [
         {
           "url": "https://gitcode.com/cann/cann-learning-hub/discussions/6",
           "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
-          "top_comments": 0,
-          "replies": 1
+          "top_comments": 1,
+          "replies": 0
         }
       ],
-      "first_seen_at": "2026-05-27T14:32:39+08:00",
-      "last_seen_at": "2026-05-27T14:32:39+08:00"
+      "first_seen_at": "2026-05-28T00:21:53+08:00",
+      "last_seen_at": "2026-05-28T00:21:53+08:00"
     },
     {
       "user_name": "qq_63125683",
@@ -8894,6 +9002,24 @@
       "last_seen_at": "2026-05-06T23:11:32+08:00"
     },
     {
+      "user_name": "weixin_45939264",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/6",
+          "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T20:30:04+08:00",
+      "last_seen_at": "2026-05-27T20:30:04+08:00"
+    },
+    {
       "user_name": "weixin_46416234",
       "nick_name": "",
       "developer_source": "external",
@@ -9912,10 +10038,10 @@
       "org": "cann/cann-learning-hub",
       "number": "6",
       "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
-      "comment_total": 2,
+      "comment_total": 10,
       "reply_total": 1,
-      "unique_participants": 3,
-      "external_participants": 3
+      "unique_participants": 10,
+      "external_participants": 10
     },
     {
       "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",

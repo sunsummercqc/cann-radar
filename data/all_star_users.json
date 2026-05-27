@@ -3895,7 +3895,7 @@
     "user_name": "pandeng01",
     "nick_name": "pandeng01",
     "user_id": 6659491,
-    "avatar": null,
+    "avatar": "https://cdn-img.gitcode.com/ef/bd/0694e6f3bdaaa34c4895276f6276f2fe35769c6746e5fecf237df480b4c10e4d.png?time=1779863708526",
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
@@ -7924,6 +7924,7 @@
     "avatar": "https://cdn-img.gitcode.com/ed/fd/669edf7d9ccdff2b584aa3d0991edb3a006a6b896b2d939a1efd91d9d00aa1ba.png?time=1758089789183",
     "starred_repos": [
       "cann/hixl",
+      "cann/torchtitan-npu",
       "Ascend/torchair"
     ]
   },
@@ -9610,6 +9611,15 @@
     ]
   },
   {
+    "user_name": "YueGuoDora",
+    "nick_name": "YueGuoDora",
+    "user_id": 11397636,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "Zen_Qiu",
     "nick_name": "Zen_Qiu",
     "user_id": 11414966,
@@ -9896,15 +9906,6 @@
     "nick_name": "dev_zyx",
     "user_id": 1052316,
     "avatar": "https://cdn-img.gitcode.com/bb/ad/9b375b87213793ade942e21446e0ac7a73d2836c2a66421d728833b85a58bcdc.png",
-    "starred_repos": [
-      "cann/torchtitan-npu"
-    ]
-  },
-  {
-    "user_name": "YueGuoDora",
-    "nick_name": "YueGuoDora",
-    "user_id": 11397636,
-    "avatar": null,
     "starred_repos": [
       "cann/torchtitan-npu"
     ]
