@@ -10,32 +10,32 @@
     {
       "name": "ge",
       "path": "cann/ge",
-      "merged": 1539,
-      "open": 163,
-      "total": 1702
+      "merged": 1540,
+      "open": 171,
+      "total": 1711
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "merged": 427,
+      "merged": 428,
       "open": 25,
-      "total": 452
+      "total": 453
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "merged": 343,
-      "open": 37,
-      "total": 380
+      "merged": 344,
+      "open": 42,
+      "total": 386
     },
     {
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
       "merged": 177,
-      "open": 26,
-      "total": 203
+      "open": 29,
+      "total": 206
     }
   ],
-  "unique_authors": 670,
-  "generated_at": "2026-05-26"
+  "unique_authors": 671,
+  "generated_at": "2026-05-27"
 }

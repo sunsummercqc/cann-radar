@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-26",
+  "generated_at": "2026-05-27",
   "source_count": 9,
   "discussion_count": 9,
-  "external_count": 75,
+  "external_count": 117,
   "internal_count": 8,
-  "total_unique_participants": 83,
+  "total_unique_participants": 125,
   "trend": [
     {
-      "date": "2026-05-26",
-      "external_count": 75,
-      "total_unique_participants": 83
+      "date": "2026-05-27",
+      "external_count": 117,
+      "total_unique_participants": 125
     }
   ],
   "participants": [
@@ -22,19 +22,19 @@
       "discussion_count": 3,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/9",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/9",
           "title": "🎁所有队伍都可参与！CANN 算子挑战赛（江山赛区）提交代码有奖活动开启（5.24~6.10）",
           "top_comments": 0,
           "replies": 1
         },
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/2",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/2",
           "title": "【2026_CANN 算子挑战赛江山赛区】",
           "top_comments": 2,
           "replies": 0
         },
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 0,
           "replies": 47
@@ -52,13 +52,13 @@
       "discussion_count": 2,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/9",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/9",
           "title": "🎁所有队伍都可参与！CANN 算子挑战赛（江山赛区）提交代码有奖活动开启（5.24~6.10）",
           "top_comments": 1,
           "replies": 1
         },
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 1
@@ -76,7 +76,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 2,
           "replies": 4
@@ -94,7 +94,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 2,
           "replies": 3
@@ -112,7 +112,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 2,
           "replies": 2
@@ -130,7 +130,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 3
@@ -148,7 +148,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 2
@@ -166,7 +166,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 0,
           "replies": 3
@@ -184,7 +184,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 2,
           "replies": 1
@@ -202,7 +202,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 3,
           "replies": 0
@@ -210,6 +210,24 @@
       ],
       "first_seen_at": "2026-04-30T12:44:26+08:00",
       "last_seen_at": "2026-05-10T19:37:19+08:00"
+    },
+    {
+      "user_name": "ALoldNE",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:04:52+08:00",
+      "last_seen_at": "2026-05-27T12:05:32+08:00"
     },
     {
       "user_name": "fuyangchenghu",
@@ -220,7 +238,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 0,
           "replies": 2
@@ -238,7 +256,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 1
@@ -256,7 +274,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 0,
           "replies": 2
@@ -264,6 +282,24 @@
       ],
       "first_seen_at": "2026-05-07T20:42:35+08:00",
       "last_seen_at": "2026-05-08T14:11:06+08:00"
+    },
+    {
+      "user_name": "m0_61949215",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
+          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-04-25T11:59:51+08:00",
+      "last_seen_at": "2026-05-27T09:30:33+08:00"
     },
     {
       "user_name": "nuoyanxiaogege",
@@ -274,7 +310,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 1
@@ -292,7 +328,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 2,
           "replies": 0
@@ -310,7 +346,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 2,
           "replies": 0
@@ -328,7 +364,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 1
@@ -346,7 +382,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 0,
           "replies": 2
@@ -364,7 +400,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -382,7 +418,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -400,7 +436,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -418,7 +454,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -436,7 +472,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -444,6 +480,96 @@
       ],
       "first_seen_at": "2026-05-26T12:22:25+08:00",
       "last_seen_at": "2026-05-26T12:22:25+08:00"
+    },
+    {
+      "user_name": "AAaa886",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:35:19+08:00",
+      "last_seen_at": "2026-05-27T12:35:19+08:00"
+    },
+    {
+      "user_name": "Aaaaaa1115_",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:33:15+08:00",
+      "last_seen_at": "2026-05-27T12:33:15+08:00"
+    },
+    {
+      "user_name": "abbbccccx",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:03:50+08:00",
+      "last_seen_at": "2026-05-27T12:03:50+08:00"
+    },
+    {
+      "user_name": "Abcd17373",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:16:15+08:00",
+      "last_seen_at": "2026-05-27T12:16:15+08:00"
+    },
+    {
+      "user_name": "acxjfjxkjdhd",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:06:46+08:00",
+      "last_seen_at": "2026-05-27T12:06:46+08:00"
     },
     {
       "user_name": "Amethyt",
@@ -454,7 +580,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -462,6 +588,24 @@
       ],
       "first_seen_at": "2026-05-26T14:04:47+08:00",
       "last_seen_at": "2026-05-26T14:04:47+08:00"
+    },
+    {
+      "user_name": "Api4232",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:25:20+08:00",
+      "last_seen_at": "2026-05-27T12:25:20+08:00"
     },
     {
       "user_name": "biggest_smart",
@@ -472,7 +616,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -480,6 +624,24 @@
       ],
       "first_seen_at": "2026-05-26T13:13:39+08:00",
       "last_seen_at": "2026-05-26T13:13:39+08:00"
+    },
+    {
+      "user_name": "Chantle",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:29:53+08:00",
+      "last_seen_at": "2026-05-27T12:29:53+08:00"
     },
     {
       "user_name": "chen831",
@@ -490,7 +652,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -508,7 +670,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -526,7 +688,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -534,6 +696,24 @@
       ],
       "first_seen_at": "2026-05-26T13:14:21+08:00",
       "last_seen_at": "2026-05-26T13:14:21+08:00"
+    },
+    {
+      "user_name": "csqj",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:08:00+08:00",
+      "last_seen_at": "2026-05-27T12:08:00+08:00"
     },
     {
       "user_name": "cyx000000",
@@ -544,7 +724,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -552,6 +732,24 @@
       ],
       "first_seen_at": "2026-05-26T13:29:52+08:00",
       "last_seen_at": "2026-05-26T13:29:52+08:00"
+    },
+    {
+      "user_name": "danielwtz",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:14:44+08:00",
+      "last_seen_at": "2026-05-27T12:14:44+08:00"
     },
     {
       "user_name": "dddql",
@@ -562,7 +760,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -580,7 +778,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -598,7 +796,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -606,6 +804,42 @@
       ],
       "first_seen_at": "2026-04-29T18:41:04+08:00",
       "last_seen_at": "2026-04-29T18:41:04+08:00"
+    },
+    {
+      "user_name": "Enjjh",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:54:37+08:00",
+      "last_seen_at": "2026-05-27T12:54:37+08:00"
+    },
+    {
+      "user_name": "exponent_e",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:33:28+08:00",
+      "last_seen_at": "2026-05-27T12:33:28+08:00"
     },
     {
       "user_name": "Fiee16267377383",
@@ -616,7 +850,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -634,7 +868,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -642,6 +876,24 @@
       ],
       "first_seen_at": "2026-04-29T19:30:56+08:00",
       "last_seen_at": "2026-04-29T19:30:56+08:00"
+    },
+    {
+      "user_name": "Fragrange",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:46:19+08:00",
+      "last_seen_at": "2026-05-27T12:46:19+08:00"
     },
     {
       "user_name": "gca_u2401_85892522",
@@ -652,7 +904,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -660,6 +912,24 @@
       ],
       "first_seen_at": "2026-05-04T10:48:06+08:00",
       "last_seen_at": "2026-05-04T10:48:06+08:00"
+    },
+    {
+      "user_name": "gcw_9T1FURt7",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:30:34+08:00",
+      "last_seen_at": "2026-05-27T12:30:34+08:00"
     },
     {
       "user_name": "gcw_SBJ7PF11",
@@ -670,7 +940,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -688,7 +958,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 0,
           "replies": 1
@@ -706,7 +976,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -724,7 +994,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -742,7 +1012,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -750,6 +1020,42 @@
       ],
       "first_seen_at": "2026-05-26T13:20:58+08:00",
       "last_seen_at": "2026-05-26T13:20:58+08:00"
+    },
+    {
+      "user_name": "Gust0",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:29:44+08:00",
+      "last_seen_at": "2026-05-27T12:29:44+08:00"
+    },
+    {
+      "user_name": "Halo1112",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:25:37+08:00",
+      "last_seen_at": "2026-05-27T12:25:37+08:00"
     },
     {
       "user_name": "Hamk",
@@ -760,7 +1066,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -768,6 +1074,24 @@
       ],
       "first_seen_at": "2026-05-01T20:53:01+08:00",
       "last_seen_at": "2026-05-01T20:53:01+08:00"
+    },
+    {
+      "user_name": "hh0416",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:44:47+08:00",
+      "last_seen_at": "2026-05-27T12:44:47+08:00"
     },
     {
       "user_name": "huang___",
@@ -778,7 +1102,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -796,7 +1120,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -804,6 +1128,24 @@
       ],
       "first_seen_at": "2026-05-26T13:00:43+08:00",
       "last_seen_at": "2026-05-26T13:00:43+08:00"
+    },
+    {
+      "user_name": "illion121",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:53:48+08:00",
+      "last_seen_at": "2026-05-27T12:53:48+08:00"
     },
     {
       "user_name": "JacsonPile",
@@ -814,7 +1156,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -832,7 +1174,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -850,7 +1192,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -868,7 +1210,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/9",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/9",
           "title": "🎁所有队伍都可参与！CANN 算子挑战赛（江山赛区）提交代码有奖活动开启（5.24~6.10）",
           "top_comments": 1,
           "replies": 0
@@ -886,7 +1228,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -904,7 +1246,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -922,7 +1264,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -940,7 +1282,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -958,7 +1300,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -976,7 +1318,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -986,7 +1328,7 @@
       "last_seen_at": "2026-05-26T13:07:28+08:00"
     },
     {
-      "user_name": "m0_61949215",
+      "user_name": "m0_59469410",
       "nick_name": "",
       "developer_source": "external",
       "top_comments": 1,
@@ -994,14 +1336,14 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
-          "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
         }
       ],
-      "first_seen_at": "2026-04-25T11:59:51+08:00",
-      "last_seen_at": "2026-04-25T11:59:51+08:00"
+      "first_seen_at": "2026-05-27T12:29:42+08:00",
+      "last_seen_at": "2026-05-27T12:29:42+08:00"
     },
     {
       "user_name": "m0_70267477",
@@ -1012,7 +1354,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -1020,6 +1362,24 @@
       ],
       "first_seen_at": "2026-05-07T17:39:37+08:00",
       "last_seen_at": "2026-05-07T17:39:37+08:00"
+    },
+    {
+      "user_name": "m0_73088455",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:39:32+08:00",
+      "last_seen_at": "2026-05-27T12:39:32+08:00"
     },
     {
       "user_name": "m0_73390923",
@@ -1030,7 +1390,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -1048,7 +1408,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -1066,7 +1426,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -1084,7 +1444,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/9",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/9",
           "title": "🎁所有队伍都可参与！CANN 算子挑战赛（江山赛区）提交代码有奖活动开启（5.24~6.10）",
           "top_comments": 1,
           "replies": 0
@@ -1102,7 +1462,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 0,
           "replies": 1
@@ -1110,6 +1470,42 @@
       ],
       "first_seen_at": "2026-05-18T20:48:25+08:00",
       "last_seen_at": "2026-05-18T20:48:25+08:00"
+    },
+    {
+      "user_name": "meimiuC",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:23:42+08:00",
+      "last_seen_at": "2026-05-27T12:23:42+08:00"
+    },
+    {
+      "user_name": "MJX666",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:05:45+08:00",
+      "last_seen_at": "2026-05-27T12:05:45+08:00"
     },
     {
       "user_name": "noontiger",
@@ -1120,7 +1516,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1138,7 +1534,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1156,7 +1552,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -1174,7 +1570,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -1182,6 +1578,60 @@
       ],
       "first_seen_at": "2026-05-12T12:21:47+08:00",
       "last_seen_at": "2026-05-12T12:21:47+08:00"
+    },
+    {
+      "user_name": "qq_65327161",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:31:22+08:00",
+      "last_seen_at": "2026-05-27T12:31:22+08:00"
+    },
+    {
+      "user_name": "qq_65439361",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:04:30+08:00",
+      "last_seen_at": "2026-05-27T12:04:30+08:00"
+    },
+    {
+      "user_name": "qq_71087400",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:01:13+08:00",
+      "last_seen_at": "2026-05-27T12:01:13+08:00"
     },
     {
       "user_name": "qq_73135919111111111111111jeq",
@@ -1192,7 +1642,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -1200,6 +1650,132 @@
       ],
       "first_seen_at": "2026-05-09T13:29:28+08:00",
       "last_seen_at": "2026-05-09T13:29:28+08:00"
+    },
+    {
+      "user_name": "rain20020708",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T11:59:44+08:00",
+      "last_seen_at": "2026-05-27T11:59:44+08:00"
+    },
+    {
+      "user_name": "Rainbow-ll",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:09:21+08:00",
+      "last_seen_at": "2026-05-27T12:09:21+08:00"
+    },
+    {
+      "user_name": "RICOH",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:06:45+08:00",
+      "last_seen_at": "2026-05-27T12:06:45+08:00"
+    },
+    {
+      "user_name": "SEU_123_CSDN",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:43:51+08:00",
+      "last_seen_at": "2026-05-27T12:43:51+08:00"
+    },
+    {
+      "user_name": "shanhai___",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:54:13+08:00",
+      "last_seen_at": "2026-05-27T12:54:13+08:00"
+    },
+    {
+      "user_name": "shishi-",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:09:29+08:00",
+      "last_seen_at": "2026-05-27T12:09:29+08:00"
+    },
+    {
+      "user_name": "shiyunyao",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/9",
+          "title": "🎁所有队伍都可参与！CANN 算子挑战赛（江山赛区）提交代码有奖活动开启（5.24~6.10）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T13:47:47+08:00",
+      "last_seen_at": "2026-05-27T13:47:47+08:00"
     },
     {
       "user_name": "shuaishuaize",
@@ -1210,7 +1786,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/9",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/9",
           "title": "🎁所有队伍都可参与！CANN 算子挑战赛（江山赛区）提交代码有奖活动开启（5.24~6.10）",
           "top_comments": 1,
           "replies": 0
@@ -1228,7 +1804,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1246,7 +1822,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -1264,7 +1840,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1272,6 +1848,24 @@
       ],
       "first_seen_at": "2026-05-26T13:30:03+08:00",
       "last_seen_at": "2026-05-26T13:30:03+08:00"
+    },
+    {
+      "user_name": "Ssss12340",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:05:22+08:00",
+      "last_seen_at": "2026-05-27T12:05:22+08:00"
     },
     {
       "user_name": "starink",
@@ -1282,7 +1876,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1300,7 +1894,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1318,7 +1912,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1336,7 +1930,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -1344,6 +1938,78 @@
       ],
       "first_seen_at": "2026-05-08T00:20:44+08:00",
       "last_seen_at": "2026-05-08T00:20:44+08:00"
+    },
+    {
+      "user_name": "Vigourway",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:24:57+08:00",
+      "last_seen_at": "2026-05-27T12:24:57+08:00"
+    },
+    {
+      "user_name": "voicess",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:45:19+08:00",
+      "last_seen_at": "2026-05-27T12:45:19+08:00"
+    },
+    {
+      "user_name": "weixin_43795902",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:34:16+08:00",
+      "last_seen_at": "2026-05-27T12:34:16+08:00"
+    },
+    {
+      "user_name": "weixin_45663921",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:06:52+08:00",
+      "last_seen_at": "2026-05-27T12:06:52+08:00"
     },
     {
       "user_name": "weixin_54877646",
@@ -1354,7 +2020,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1372,7 +2038,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1380,6 +2046,24 @@
       ],
       "first_seen_at": "2026-05-26T13:04:48+08:00",
       "last_seen_at": "2026-05-26T13:04:48+08:00"
+    },
+    {
+      "user_name": "WHT222",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:12:37+08:00",
+      "last_seen_at": "2026-05-27T12:12:37+08:00"
     },
     {
       "user_name": "will4858",
@@ -1390,7 +2074,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1408,7 +2092,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1416,6 +2100,24 @@
       ],
       "first_seen_at": "2026-05-26T12:56:05+08:00",
       "last_seen_at": "2026-05-26T12:56:05+08:00"
+    },
+    {
+      "user_name": "ynt123",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 0,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 0,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:06:40+08:00",
+      "last_seen_at": "2026-05-27T12:06:40+08:00"
     },
     {
       "user_name": "z171830564",
@@ -1426,7 +2128,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1434,6 +2136,24 @@
       ],
       "first_seen_at": "2026-05-26T13:09:13+08:00",
       "last_seen_at": "2026-05-26T13:09:13+08:00"
+    },
+    {
+      "user_name": "Zen_Qiu",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T13:07:27+08:00",
+      "last_seen_at": "2026-05-27T13:07:27+08:00"
     },
     {
       "user_name": "zhang1111hh",
@@ -1444,7 +2164,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1462,7 +2182,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1480,7 +2200,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
           "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
@@ -1498,7 +2218,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -1516,7 +2236,7 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
           "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
           "top_comments": 1,
           "replies": 0
@@ -1524,22 +2244,58 @@
       ],
       "first_seen_at": "2026-05-13T12:24:46+08:00",
       "last_seen_at": "2026-05-13T12:24:46+08:00"
+    },
+    {
+      "user_name": "ztbbb",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:46:24+08:00",
+      "last_seen_at": "2026-05-27T12:46:24+08:00"
+    },
+    {
+      "user_name": "zyf66667",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+          "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-27T12:45:45+08:00",
+      "last_seen_at": "2026-05-27T12:45:45+08:00"
     }
   ],
   "discussions": [
     {
-      "url": "https://gitcode.com/cann/cann-competitions/discussions/9",
-      "org": "cann/cann-competitions",
+      "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/9",
+      "org": "cann/cann-ops-competitions",
       "number": "9",
       "title": "🎁所有队伍都可参与！CANN 算子挑战赛（江山赛区）提交代码有奖活动开启（5.24~6.10）",
-      "comment_total": 4,
+      "comment_total": 5,
       "reply_total": 3,
-      "unique_participants": 5,
-      "external_participants": 4
+      "unique_participants": 6,
+      "external_participants": 5
     },
     {
-      "url": "https://gitcode.com/cann/cann-competitions/discussions/8",
-      "org": "cann/cann-competitions",
+      "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/8",
+      "org": "cann/cann-ops-competitions",
       "number": "8",
       "title": "【6.2走进校园· 南京邮电大学站】基础图框架社区文化小测",
       "comment_total": 0,
@@ -1548,8 +2304,8 @@
       "external_participants": 0
     },
     {
-      "url": "https://gitcode.com/cann/cann-competitions/discussions/7",
-      "org": "cann/cann-competitions",
+      "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/7",
+      "org": "cann/cann-ops-competitions",
       "number": "7",
       "title": "【6.1走进校园· 南京航空航天大学站】基础图框架社区文化小测",
       "comment_total": 0,
@@ -1558,8 +2314,8 @@
       "external_participants": 0
     },
     {
-      "url": "https://gitcode.com/cann/cann-competitions/discussions/6",
-      "org": "cann/cann-competitions",
+      "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/6",
+      "org": "cann/cann-ops-competitions",
       "number": "6",
       "title": "【5.29走进校园· 南京理工大学站】基础图框架社区文化小测",
       "comment_total": 0,
@@ -1568,8 +2324,8 @@
       "external_participants": 0
     },
     {
-      "url": "https://gitcode.com/cann/cann-competitions/discussions/5",
-      "org": "cann/cann-competitions",
+      "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/5",
+      "org": "cann/cann-ops-competitions",
       "number": "5",
       "title": "【5.28走进校园· 河海大学站】基础图框架社区文化小测",
       "comment_total": 0,
@@ -1578,8 +2334,8 @@
       "external_participants": 0
     },
     {
-      "url": "https://gitcode.com/cann/cann-competitions/discussions/4",
-      "org": "cann/cann-competitions",
+      "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/4",
+      "org": "cann/cann-ops-competitions",
       "number": "4",
       "title": "【5.26走进校园· 南京大学站】基础图框架社区文化小测",
       "comment_total": 39,
@@ -1588,18 +2344,18 @@
       "external_participants": 37
     },
     {
-      "url": "https://gitcode.com/cann/cann-competitions/discussions/3",
-      "org": "cann/cann-competitions",
+      "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/3",
+      "org": "cann/cann-ops-competitions",
       "number": "3",
       "title": "【5.27走进校园· 东南大学站】基础图框架社区文化小测",
-      "comment_total": 0,
-      "reply_total": 0,
-      "unique_participants": 0,
-      "external_participants": 0
+      "comment_total": 41,
+      "reply_total": 1,
+      "unique_participants": 41,
+      "external_participants": 41
     },
     {
-      "url": "https://gitcode.com/cann/cann-competitions/discussions/2",
-      "org": "cann/cann-competitions",
+      "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/2",
+      "org": "cann/cann-ops-competitions",
       "number": "2",
       "title": "【2026_CANN 算子挑战赛江山赛区】",
       "comment_total": 2,
@@ -1608,16 +2364,16 @@
       "external_participants": 0
     },
     {
-      "url": "https://gitcode.com/cann/cann-competitions/discussions/1",
-      "org": "cann/cann-competitions",
+      "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/1",
+      "org": "cann/cann-ops-competitions",
       "number": "1",
       "title": "CANN算子挑战赛（江山赛区）集中讨论贴（4.21-6.6）",
-      "comment_total": 42,
+      "comment_total": 43,
       "reply_total": 83,
       "unique_participants": 41,
       "external_participants": 35
     }
   ],
   "errors": [],
-  "repo_path": "cann/cann-competitions"
+  "repo_path": "cann/cann-ops-competitions"
 }

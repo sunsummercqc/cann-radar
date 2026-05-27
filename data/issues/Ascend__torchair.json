@@ -3234,7 +3234,7 @@
     "state": "closed",
     "created_at": "2025-11-29",
     "closed_at": "2025-12-17",
-    "author": "qq_46005380",
+    "author": "yichenz0927",
     "title": "[Bug]: 图模式下自定义算子未执行",
     "labels": [
       "bug"

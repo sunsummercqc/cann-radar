@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-05-26",
+  "generated_at": "2026-05-27",
   "global_counts": {
-    "d0": 1034,
-    "d1": 701,
+    "d0": 1057,
+    "d1": 723,
     "d2": 518,
-    "total": 2253,
-    "d0_external": 690,
-    "d1_external": 495,
+    "total": 2298,
+    "d0_external": 714,
+    "d1_external": 516,
     "d2_external": 150
   },
   "repo_counts": {
     "cann/ge": {
-      "d0": 447,
-      "d1": 208,
+      "d0": 448,
+      "d1": 210,
       "d2": 165,
-      "total": 820,
-      "d0_external": 181,
-      "d1_external": 117,
+      "total": 823,
+      "d0_external": 182,
+      "d1_external": 119,
       "d2_external": 9,
       "discussion_d1_external": 20
     },
     "cann/hixl": {
-      "d0": 498,
-      "d1": 107,
+      "d0": 499,
+      "d1": 109,
       "d2": 33,
-      "total": 638,
-      "d0_external": 219,
-      "d1_external": 64,
+      "total": 641,
+      "d0_external": 220,
+      "d1_external": 66,
       "d2_external": 13,
       "discussion_d1_external": 10
     },
     "cann/graph-autofusion": {
-      "d0": 341,
-      "d1": 117,
+      "d0": 340,
+      "d1": 119,
       "d2": 47,
-      "total": 505,
+      "total": 506,
       "d0_external": 87,
-      "d1_external": 94,
+      "d1_external": 95,
       "d2_external": 7,
       "discussion_d1_external": 83
     },
     "cann/torchtitan-npu": {
-      "d0": 85,
-      "d1": 65,
+      "d0": 109,
+      "d1": 72,
       "d2": 29,
-      "total": 179,
-      "d0_external": 39,
-      "d1_external": 60,
+      "total": 210,
+      "d0_external": 63,
+      "d1_external": 67,
       "d2_external": 7,
-      "discussion_d1_external": 52
+      "discussion_d1_external": 58
     },
     "Ascend/torchair": {
-      "d0": 540,
-      "d1": 302,
+      "d0": 552,
+      "d1": 311,
       "d2": 299,
-      "total": 1141,
-      "d0_external": 324,
-      "d1_external": 185,
+      "total": 1162,
+      "d0_external": 336,
+      "d1_external": 194,
       "d2_external": 114,
-      "discussion_d1_external": 48
+      "discussion_d1_external": 57
     }
   },
   "repo_users": {
@@ -2211,6 +2211,20 @@
           "cann/graph-autofusion"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "Y_Keven",
+        "nick_name": "Y_Keven",
+        "level": "d1",
+        "sources": [
+          "issue"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
+        "developer_source": "external"
       },
       {
         "user_name": "Yanggong98",
@@ -7889,6 +7903,20 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "luheyang",
+        "nick_name": "luheyang",
+        "level": "d0",
+        "sources": [
+          "fork"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
+        "developer_source": "external"
+      },
+      {
         "user_name": "luo-tong-an",
         "nick_name": "luo-tong-an",
         "level": "d0",
@@ -11296,6 +11324,20 @@
       {
         "user_name": "weixin_48164752",
         "nick_name": "weixin_48164752",
+        "level": "d1",
+        "sources": [
+          "issue"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "weixin_48253078",
+        "nick_name": "weixin_48253078",
         "level": "d1",
         "sources": [
           "issue"
@@ -15470,9 +15512,10 @@
       {
         "user_name": "SincoTeng",
         "nick_name": "SincoTeng",
-        "level": "d0",
+        "level": "d1",
         "sources": [
-          "star"
+          "star",
+          "issue"
         ],
         "star_time": "2026-05-20T08:17:32.000+00:00",
         "fans_count": 0,
@@ -17388,6 +17431,20 @@
         "developer_source": "external"
       },
       {
+        "user_name": "gcw_IHBa4woR",
+        "nick_name": "gcw_IHBa4woR",
+        "level": "d1",
+        "sources": [
+          "issue"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
+        "developer_source": "external"
+      },
+      {
         "user_name": "gcw_LY0aRv2w",
         "nick_name": "gcw_LY0aRv2w",
         "level": "d0",
@@ -18020,6 +18077,20 @@
           "cann/graph-autofusion",
           "Ascend/torchair"
         ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "gongsiquan",
+        "nick_name": "gongsiquan",
+        "level": "d0",
+        "sources": [
+          "fork"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
         "developer_source": "external"
       },
       {
@@ -23640,6 +23711,23 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "yangsonglin13",
+        "nick_name": "yangsonglin13",
+        "level": "d0",
+        "sources": [
+          "star",
+          "fork"
+        ],
+        "star_time": "2026-05-27T02:22:35.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 190,
+        "starred_repos": [
+          "cann/hixl"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "yangyongqiang0606",
         "nick_name": "yangyongqiang",
         "level": "d0",
@@ -25935,10 +26023,11 @@
       {
         "user_name": "Jett_Woo",
         "nick_name": "Jett_Woo",
-        "level": "d0",
+        "level": "d1",
         "sources": [
           "star",
-          "fork"
+          "fork",
+          "pr"
         ],
         "star_time": "2026-05-13T13:32:26.000+00:00",
         "fans_count": 0,
@@ -27976,22 +28065,6 @@
           "discussion"
         ],
         "star_time": "2026-05-14T11:52:02.000+00:00",
-        "fans_count": 0,
-        "original_repo_count": 0,
-        "total_contributions": 0,
-        "starred_repos": [
-          "cann/graph-autofusion"
-        ],
-        "developer_source": "external"
-      },
-      {
-        "user_name": "gcw_8foqD0kz",
-        "nick_name": "nevermore",
-        "level": "d0",
-        "sources": [
-          "star"
-        ],
-        "star_time": "2026-05-18T07:11:12.000+00:00",
         "fans_count": 0,
         "original_repo_count": 0,
         "total_contributions": 0,
@@ -30467,6 +30540,22 @@
         "developer_source": "external"
       },
       {
+        "user_name": "nevermore_t",
+        "nick_name": "nevermore",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-18T07:11:12.000+00:00",
+        "fans_count": 1,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/graph-autofusion"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "newstarzj",
         "nick_name": "zhangjie",
         "level": "d0",
@@ -32579,6 +32668,20 @@
         "developer_source": "external"
       },
       {
+        "user_name": "wmcr200521",
+        "nick_name": "wmcr200521",
+        "level": "d1",
+        "sources": [
+          "issue"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
+        "developer_source": "external"
+      },
+      {
         "user_name": "wqtshg_wt",
         "nick_name": "王涛",
         "level": "d0",
@@ -34280,6 +34383,20 @@
     ],
     "cann/torchtitan-npu": [
       {
+        "user_name": "2401_84635199",
+        "nick_name": "2401_84635199",
+        "level": "d1",
+        "sources": [
+          "issue"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
+        "developer_source": "external"
+      },
+      {
         "user_name": "2403_87885172",
         "nick_name": "源晶597",
         "level": "d0",
@@ -34297,6 +34414,55 @@
         "developer_source": "external"
       },
       {
+        "user_name": "AAaa886",
+        "nick_name": "大树机关",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:35:40.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "Aaaaaa1115_",
+        "nick_name": "函",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:33:31.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "Api4232",
+        "nick_name": "4232",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:25:50.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "CHENGCHANGHU",
         "nick_name": "allx",
         "level": "d0",
@@ -34304,6 +34470,22 @@
           "star"
         ],
         "star_time": "2026-04-17T01:14:55.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "Chantle",
+        "nick_name": "Chantle",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:30:10.000+00:00",
         "fans_count": 0,
         "original_repo_count": 0,
         "total_contributions": 0,
@@ -34377,6 +34559,22 @@
         "developer_source": "external"
       },
       {
+        "user_name": "Enjjh",
+        "nick_name": "海月十字",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:55:22.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 1,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "Faust-0221",
         "nick_name": "Faust-0221",
         "level": "d1",
@@ -34388,6 +34586,40 @@
         "original_repo_count": null,
         "total_contributions": null,
         "starred_repos": [],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "Fragrange",
+        "nick_name": "橙橙子",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:47:18.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "GUOoooooo",
+        "nick_name": "GUOoooooo",
+        "level": "d1",
+        "sources": [
+          "star",
+          "discussion"
+        ],
+        "star_time": "2026-05-27T03:59:09.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
         "developer_source": "external"
       },
       {
@@ -34649,6 +34881,39 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "Nnn1125",
+        "nick_name": "和曦",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:21:03.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "SEU_123_CSDN",
+        "nick_name": "SEU_123_CSDN",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:44:08.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "Silent_M_",
         "nick_name": "Silent_M_",
         "level": "d2",
@@ -34740,6 +35005,22 @@
         "original_repo_count": null,
         "total_contributions": null,
         "starred_repos": [],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "Vigourway",
+        "nick_name": "Vigourway",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:25:11.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
         "developer_source": "external"
       },
       {
@@ -34887,6 +35168,24 @@
         "original_repo_count": null,
         "total_contributions": null,
         "starred_repos": [],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "Zen_Qiu",
+        "nick_name": "Zen_Qiu",
+        "level": "d1",
+        "sources": [
+          "star",
+          "discussion"
+        ],
+        "star_time": "2026-05-27T05:17:21.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
         "developer_source": "external"
       },
       {
@@ -35127,6 +35426,23 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "djw060204",
+        "nick_name": "杰文",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T03:58:54.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "dty_30041779",
         "nick_name": "hid63711715",
         "level": "d2",
@@ -35199,6 +35515,22 @@
         "developer_source": "external"
       },
       {
+        "user_name": "exponent_e",
+        "nick_name": "exponent_e",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:34:23.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "fengye0903",
         "nick_name": "Cutty_Flame",
         "level": "d0",
@@ -35254,6 +35586,22 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "gcw_9T1FURt7",
+        "nick_name": "gcw_9T1FURt7",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:30:51.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "gcw_GztlOFbG",
         "nick_name": "gcw_GztlOFbG",
         "level": "d1",
@@ -35306,6 +35654,38 @@
           "Ascend/torchair"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "gcw_MFh3uNSn",
+        "nick_name": "gcw_MFh3uNSn",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:16:49.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "gcw_MvWxdQqg",
+        "nick_name": "gcw_MvWxdQqg",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:46:43.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
       },
       {
         "user_name": "gcw_NN0N815E",
@@ -35455,6 +35835,23 @@
         "developer_source": "external"
       },
       {
+        "user_name": "hh0416",
+        "nick_name": "hh0416",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:44:57.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "hitwdy",
         "nick_name": "1Fire4",
         "level": "d2",
@@ -35518,6 +35915,40 @@
         "original_repo_count": null,
         "total_contributions": null,
         "starred_repos": [],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "ihujun",
+        "nick_name": "ihujun",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T03:10:15.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 6,
+        "total_contributions": 33,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "illion121",
+        "nick_name": "。 ",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:54:15.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
         "developer_source": "external"
       },
       {
@@ -35920,6 +36351,23 @@
         "developer_source": "external"
       },
       {
+        "user_name": "m0_73088455",
+        "nick_name": "m0_73088455",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:40:10.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "m0_73924041",
         "nick_name": "m0_73924041",
         "level": "d1",
@@ -35955,6 +36403,23 @@
         "developer_source": "external"
       },
       {
+        "user_name": "meimiuC",
+        "nick_name": "meimiuC",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:23:16.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "met3or1te",
         "nick_name": "chenzijian",
         "level": "d0",
@@ -35981,6 +36446,23 @@
         "fans_count": 0,
         "original_repo_count": 0,
         "total_contributions": 186,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "moxiexie",
+        "nick_name": "moxiexie",
+        "level": "d1",
+        "sources": [
+          "star",
+          "discussion"
+        ],
+        "star_time": "2026-05-27T04:16:36.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
         "starred_repos": [
           "cann/torchtitan-npu"
         ],
@@ -36204,6 +36686,39 @@
         "developer_source": "external"
       },
       {
+        "user_name": "qq_65327161",
+        "nick_name": "懿835",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:31:37.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 1,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "raaaaaa",
+        "nick_name": "乌龙茶",
+        "level": "d1",
+        "sources": [
+          "star",
+          "discussion"
+        ],
+        "star_time": "2026-05-27T04:18:09.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "rearranger",
         "nick_name": "无敌胡子球手",
         "level": "d1",
@@ -36301,6 +36816,23 @@
           "Ascend/torchair"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "shanhai___",
+        "nick_name": "山海",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:54:40.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
       },
       {
         "user_name": "shiyuyanHW",
@@ -36487,6 +37019,22 @@
         "fans_count": 0,
         "original_repo_count": 0,
         "total_contributions": 43,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "voicess",
+        "nick_name": "哦",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:45:32.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
         "starred_repos": [
           "cann/torchtitan-npu"
         ],
@@ -36927,6 +37475,23 @@
         "developer_source": "external"
       },
       {
+        "user_name": "yanwp1999",
+        "nick_name": "yanwp1999",
+        "level": "d1",
+        "sources": [
+          "star",
+          "discussion"
+        ],
+        "star_time": "2026-05-27T04:12:05.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "yanxiang123456",
         "nick_name": "yanxiang123456",
         "level": "d2",
@@ -37331,6 +37896,22 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "ztbbb",
+        "nick_name": "鲸落万物生-",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:46:45.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "zxhdl",
         "nick_name": "zxhdl",
         "level": "d0",
@@ -37343,6 +37924,40 @@
         "total_contributions": 0,
         "starred_repos": [
           "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "zy9238",
+        "nick_name": "zy",
+        "level": "d1",
+        "sources": [
+          "star",
+          "discussion"
+        ],
+        "star_time": "2026-05-27T04:20:36.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "zyf66667",
+        "nick_name": "千帆",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:46:02.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
         ],
         "developer_source": "external"
       },
@@ -37649,6 +38264,23 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "A12345_922",
+        "nick_name": "摘星甜心兔",
+        "level": "d1",
+        "sources": [
+          "star",
+          "discussion"
+        ],
+        "star_time": "2026-05-27T04:13:38.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "AIIAAIIA",
         "nick_name": "A林",
         "level": "d0",
@@ -37692,6 +38324,23 @@
         "original_repo_count": 0,
         "total_contributions": 0,
         "starred_repos": [
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "Aaaaaa1115_",
+        "nick_name": "函",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:33:57.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
           "Ascend/torchair"
         ],
         "developer_source": "external"
@@ -38326,6 +38975,23 @@
         "developer_source": "external"
       },
       {
+        "user_name": "GUOoooooo",
+        "nick_name": "GUOoooooo",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:35:32.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "Gmw2012",
         "nick_name": "guomengwei",
         "level": "d0",
@@ -38377,6 +39043,22 @@
           "Ascend/torchair"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "Halo1112",
+        "nick_name": "Halo1112",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:25:49.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
       },
       {
         "user_name": "Hamk",
@@ -39240,6 +39922,22 @@
         "developer_source": "external"
       },
       {
+        "user_name": "Nnn1125",
+        "nick_name": "和曦",
+        "level": "d1",
+        "sources": [
+          "discussion"
+        ],
+        "star_time": "",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "OSPO",
         "nick_name": "李小明",
         "level": "d0",
@@ -39497,6 +40195,23 @@
         "original_repo_count": 1,
         "total_contributions": 2158,
         "starred_repos": [
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "SEU_123_CSDN",
+        "nick_name": "SEU_123_CSDN",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:44:23.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
           "Ascend/torchair"
         ],
         "developer_source": "external"
@@ -40109,6 +40824,23 @@
         "developer_source": "external"
       },
       {
+        "user_name": "Zen_Qiu",
+        "nick_name": "Zen_Qiu",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T05:17:44.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "ZhaiPeiChao",
         "nick_name": "ZhaiPeiChao",
         "level": "d0",
@@ -40456,6 +41188,20 @@
           "cann/ge",
           "Ascend/torchair"
         ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "awm_98k",
+        "nick_name": "awm_98k",
+        "level": "d1",
+        "sources": [
+          "discussion"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
         "developer_source": "external"
       },
       {
@@ -40871,6 +41617,23 @@
         "total_contributions": null,
         "starred_repos": [],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "charlie9lie",
+        "nick_name": "Charlie9lie",
+        "level": "d1",
+        "sources": [
+          "star",
+          "discussion"
+        ],
+        "star_time": "2026-05-27T04:31:07.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
       },
       {
         "user_name": "charon__x",
@@ -41851,6 +42614,24 @@
         "total_contributions": null,
         "starred_repos": [],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "djw060204",
+        "nick_name": "杰文",
+        "level": "d1",
+        "sources": [
+          "star",
+          "discussion"
+        ],
+        "star_time": "2026-05-27T04:35:48.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
       },
       {
         "user_name": "doctor-li",
@@ -43181,6 +43962,22 @@
           "Ascend/torchair"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "gcw_MvWxdQqg",
+        "nick_name": "gcw_MvWxdQqg",
+        "level": "d1",
+        "sources": [
+          "discussion"
+        ],
+        "star_time": "",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu"
+        ],
+        "developer_source": "external"
       },
       {
         "user_name": "gcw_O5SpRrsK",
@@ -44827,6 +45624,23 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "hansen277",
+        "nick_name": "hansen",
+        "level": "d1",
+        "sources": [
+          "star",
+          "discussion"
+        ],
+        "star_time": "2026-05-27T04:12:57.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "hanshufa",
         "nick_name": "hanshufa",
         "level": "d1",
@@ -44933,6 +45747,23 @@
           "Ascend/torchair"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "hh0416",
+        "nick_name": "hh0416",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:45:03.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
       },
       {
         "user_name": "hhdxdd",
@@ -45589,6 +46420,24 @@
         "original_repo_count": 6,
         "total_contributions": 33,
         "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "illion121",
+        "nick_name": "。 ",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:54:34.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
           "Ascend/torchair"
         ],
         "developer_source": "external"
@@ -48143,6 +48992,22 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "m0_59469410",
+        "nick_name": "m0_59469410",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:30:08.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "m0_60337577",
         "nick_name": "jiaxingru",
         "level": "d0",
@@ -48242,6 +49107,23 @@
         "developer_source": "external"
       },
       {
+        "user_name": "m0_73088455",
+        "nick_name": "m0_73088455",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:39:56.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "m0_73161487",
         "nick_name": "m0_73161487",
         "level": "d0",
@@ -48249,6 +49131,23 @@
           "star"
         ],
         "star_time": "2026-05-21T11:13:30.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "m0_73406880",
+        "nick_name": "m0_73406880",
+        "level": "d1",
+        "sources": [
+          "star",
+          "discussion"
+        ],
+        "star_time": "2026-05-27T04:14:01.000+00:00",
         "fans_count": 0,
         "original_repo_count": 0,
         "total_contributions": 0,
@@ -48437,6 +49336,23 @@
           "Ascend/torchair"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "meimiuC",
+        "nick_name": "meimiuC",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:23:54.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
       },
       {
         "user_name": "mengyanwin",
@@ -48681,6 +49597,23 @@
           "Ascend/torchair"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "nsyw111",
+        "nick_name": "年少有为",
+        "level": "d1",
+        "sources": [
+          "star",
+          "discussion"
+        ],
+        "star_time": "2026-05-27T04:06:55.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
       },
       {
         "user_name": "null_421",
@@ -49540,23 +50473,6 @@
         "developer_source": "external"
       },
       {
-        "user_name": "qq_46005380",
-        "nick_name": "qq_46005380",
-        "level": "d1",
-        "sources": [
-          "star",
-          "issue"
-        ],
-        "star_time": "2025-11-29T03:07:48.000+00:00",
-        "fans_count": 0,
-        "original_repo_count": 0,
-        "total_contributions": 14,
-        "starred_repos": [
-          "Ascend/torchair"
-        ],
-        "developer_source": "external"
-      },
-      {
         "user_name": "qq_49735440",
         "nick_name": "junhaochen",
         "level": "d1",
@@ -50039,6 +50955,23 @@
         "original_repo_count": null,
         "total_contributions": null,
         "starred_repos": [],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "shanhai___",
+        "nick_name": "山海",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:55:02.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
         "developer_source": "external"
       },
       {
@@ -54014,6 +54947,23 @@
         "developer_source": "external"
       },
       {
+        "user_name": "yichenz0927",
+        "nick_name": "xiaozhang",
+        "level": "d1",
+        "sources": [
+          "star",
+          "issue"
+        ],
+        "star_time": "2025-11-29T03:07:48.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 16,
+        "starred_repos": [
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "yijie-zhu",
         "nick_name": "yijie-zhu",
         "level": "d2",
@@ -56045,6 +56995,23 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "zyf66667",
+        "nick_name": "千帆",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-05-27T04:46:22.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/torchtitan-npu",
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "zzq20226705",
         "nick_name": "庄正奇",
         "level": "d0",
@@ -56243,11 +57210,11 @@
     },
     {
       "month": "2026-05",
-      "d0": 144,
-      "d1": 109,
+      "d0": 179,
+      "d1": 123,
       "d2": 17,
-      "new_stars": 270,
-      "cumulative": 2411
+      "new_stars": 319,
+      "cumulative": 2460
     }
   ],
   "discussion_commenter_assignment": {
@@ -57119,6 +58086,13 @@
       "top_comments": 1,
       "replies": 0
     },
+    "GUOoooooo": {
+      "repo_path": "cann/torchtitan-npu",
+      "first_seen_at": "2026-05-27T11:59:41+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
     "Hacker_DL": {
       "repo_path": "cann/torchtitan-npu",
       "first_seen_at": "2026-05-08T16:15:09+08:00",
@@ -57245,9 +58219,23 @@
       "top_comments": 1,
       "replies": 0
     },
+    "moxiexie": {
+      "repo_path": "cann/torchtitan-npu",
+      "first_seen_at": "2026-05-27T12:16:30+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
     "qq_48081447": {
       "repo_path": "cann/torchtitan-npu",
       "first_seen_at": "2026-05-08T16:18:56+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
+    "raaaaaa": {
+      "repo_path": "cann/torchtitan-npu",
+      "first_seen_at": "2026-05-27T12:18:05+08:00",
       "nick_name": "",
       "top_comments": 1,
       "replies": 0
@@ -57385,6 +58373,13 @@
       "top_comments": 1,
       "replies": 0
     },
+    "yanwp1999": {
+      "repo_path": "cann/torchtitan-npu",
+      "first_seen_at": "2026-05-27T12:12:22+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
     "yufeiguan": {
       "repo_path": "cann/torchtitan-npu",
       "first_seen_at": "2026-05-26T12:18:13+08:00",
@@ -57420,9 +58415,23 @@
       "top_comments": 1,
       "replies": 0
     },
+    "Zen_Qiu": {
+      "repo_path": "cann/torchtitan-npu",
+      "first_seen_at": "2026-05-27T13:09:15+08:00",
+      "nick_name": "",
+      "top_comments": 2,
+      "replies": 0
+    },
     "zongsang": {
       "repo_path": "cann/torchtitan-npu",
       "first_seen_at": "2026-05-08T17:37:47+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
+    "zy9238": {
+      "repo_path": "cann/torchtitan-npu",
+      "first_seen_at": "2026-05-27T12:18:35+08:00",
       "nick_name": "",
       "top_comments": 1,
       "replies": 0
@@ -57476,6 +58485,13 @@
       "top_comments": 1,
       "replies": 0
     },
+    "A12345_922": {
+      "repo_path": "Ascend/torchair",
+      "first_seen_at": "2026-05-27T12:13:20+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
     "a23a4": {
       "repo_path": "Ascend/torchair",
       "first_seen_at": "2026-05-13T15:58:15+08:00",
@@ -57504,6 +58520,13 @@
       "top_comments": 1,
       "replies": 0
     },
+    "awm_98k": {
+      "repo_path": "Ascend/torchair",
+      "first_seen_at": "2026-05-27T11:57:52+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
     "aynnnnnnzzzzzz": {
       "repo_path": "Ascend/torchair",
       "first_seen_at": "2026-05-13T15:56:13+08:00",
@@ -57514,6 +58537,20 @@
     "bear_two_2": {
       "repo_path": "Ascend/torchair",
       "first_seen_at": "2026-05-13T17:31:29+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
+    "charlie9lie": {
+      "repo_path": "Ascend/torchair",
+      "first_seen_at": "2026-05-27T12:31:03+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
+    "djw060204": {
+      "repo_path": "Ascend/torchair",
+      "first_seen_at": "2026-05-27T11:57:26+08:00",
       "nick_name": "",
       "top_comments": 1,
       "replies": 0
@@ -57588,9 +58625,23 @@
       "top_comments": 1,
       "replies": 0
     },
+    "gcw_MvWxdQqg": {
+      "repo_path": "Ascend/torchair",
+      "first_seen_at": "2026-05-27T12:46:22+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
     "Hamk": {
       "repo_path": "Ascend/torchair",
       "first_seen_at": "2026-05-13T15:42:44+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
+    "hansen277": {
+      "repo_path": "Ascend/torchair",
+      "first_seen_at": "2026-05-27T12:12:36+08:00",
       "nick_name": "",
       "top_comments": 1,
       "replies": 0
@@ -57630,6 +58681,13 @@
       "top_comments": 1,
       "replies": 0
     },
+    "m0_73406880": {
+      "repo_path": "Ascend/torchair",
+      "first_seen_at": "2026-05-27T12:13:36+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
     "mengyanwin": {
       "repo_path": "Ascend/torchair",
       "first_seen_at": "2026-05-13T15:59:09+08:00",
@@ -57640,6 +58698,20 @@
     "NACHT-0": {
       "repo_path": "Ascend/torchair",
       "first_seen_at": "2026-05-13T15:52:52+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
+    "Nnn1125": {
+      "repo_path": "Ascend/torchair",
+      "first_seen_at": "2026-05-27T12:20:05+08:00",
+      "nick_name": "",
+      "top_comments": 1,
+      "replies": 0
+    },
+    "nsyw111": {
+      "repo_path": "Ascend/torchair",
+      "first_seen_at": "2026-05-27T12:07:05+08:00",
       "nick_name": "",
       "top_comments": 1,
       "replies": 0

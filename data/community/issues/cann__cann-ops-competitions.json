@@ -8,18 +8,7 @@
     "title": "[Feature]: 【社区任务】Roll算子贡献",
     "labels": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-competitions/issues/8"
-  },
-  {
-    "iid": 7,
-    "state": "opened",
-    "created_at": "2026-05-26",
-    "closed_at": "",
-    "author": "gcw_tgPdOLZT",
-    "title": "[Documentation|文档反馈]: cann-competitions仓更名为cann-ops-competitions",
-    "labels": [],
-    "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-competitions/issues/7"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/8"
   },
   {
     "iid": 6,
@@ -30,7 +19,7 @@
     "title": "[Question|问题咨询]: SlideTilingAttention A100耗时疑问",
     "labels": [],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/cann-competitions/issues/6"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/6"
   },
   {
     "iid": 5,
@@ -41,7 +30,7 @@
     "title": "[Documentation|文档反馈]: ",
     "labels": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-competitions/issues/5"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/5"
   },
   {
     "iid": 4,
@@ -52,7 +41,7 @@
     "title": "[Feature]: aclnnForeachRoundOffNumberV2 支持 DT_INT16 数据类型",
     "labels": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-competitions/issues/4"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/4"
   },
   {
     "iid": 3,
@@ -63,7 +52,7 @@
     "title": "[Documentation|文档反馈]: Sign 算子任务书中的 PR 合入路径存在多余字符，代码样例链接疑似不匹配",
     "labels": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-competitions/issues/3"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/3"
   },
   {
     "iid": 2,
@@ -74,7 +63,7 @@
     "title": "[Documentation|文档反馈]: 建议补充参考论文的标题、DOI 和可访问说明",
     "labels": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-competitions/issues/2"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/2"
   },
   {
     "iid": 1,
@@ -85,6 +74,6 @@
     "title": "[Bug-Report|缺陷反馈]: 路径问题导致无法正常clone该仓",
     "labels": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-competitions/issues/1"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/1"
   }
 ]

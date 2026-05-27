@@ -1,5 +1,16 @@
 [
   {
+    "iid": 194,
+    "state": "opened",
+    "title": "【社区任务】Median算子设计文档",
+    "created_at": "2026-05-27",
+    "updated_at": "2026-05-27",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "LiJianhao2",
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/194"
+  },
+  {
     "iid": 193,
     "state": "merged",
     "title": "提交算子挑战赛目录",
@@ -8,7 +19,7 @@
     "merged_at": "2026-05-26",
     "closed_at": "",
     "author": "fullt",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/193"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/193"
   },
   {
     "iid": 192,
@@ -19,7 +30,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "dkdfcd123",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/192"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/192"
   },
   {
     "iid": 191,
@@ -30,7 +41,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "ww_3643",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/191"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/191"
   },
   {
     "iid": 190,
@@ -41,7 +52,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "TreamTik",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/190"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/190"
   },
   {
     "iid": 189,
@@ -52,7 +63,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "shuaishuaize",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/189"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/189"
   },
   {
     "iid": 188,
@@ -63,7 +74,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "weixin_54022960",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/188"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/188"
   },
   {
     "iid": 187,
@@ -74,7 +85,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "lggyx",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/187"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/187"
   },
   {
     "iid": 186,
@@ -85,7 +96,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "ilovescrapy",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/186"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/186"
   },
   {
     "iid": 185,
@@ -96,7 +107,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "maomao1019",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/185"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/185"
   },
   {
     "iid": 184,
@@ -107,7 +118,7 @@
     "merged_at": "",
     "closed_at": "2026-05-25",
     "author": "maomao1019",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/184"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/184"
   },
   {
     "iid": 183,
@@ -118,7 +129,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "shaowenjie",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/183"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/183"
   },
   {
     "iid": 182,
@@ -129,7 +140,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "TreamTik",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/182"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/182"
   },
   {
     "iid": 181,
@@ -140,7 +151,7 @@
     "merged_at": "",
     "closed_at": "2026-05-25",
     "author": "maomao1019",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/181"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/181"
   },
   {
     "iid": 180,
@@ -151,29 +162,29 @@
     "merged_at": "",
     "closed_at": "2026-05-25",
     "author": "maomao1019",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/180"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/180"
   },
   {
     "iid": 179,
     "state": "opened",
     "title": "【社区任务】ForeachNeg算子设计文档",
     "created_at": "2026-05-25",
-    "updated_at": "2026-05-25",
+    "updated_at": "2026-05-27",
     "merged_at": "",
     "closed_at": "",
     "author": "hth810",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/179"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/179"
   },
   {
     "iid": 178,
     "state": "opened",
     "title": "docs(03-8): add scewl design document",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-26",
+    "updated_at": "2026-05-27",
     "merged_at": "",
     "closed_at": "",
     "author": "boxw987",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/178"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/178"
   },
   {
     "iid": 177,
@@ -184,7 +195,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "gcw_7Kyyz1cg",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/177"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/177"
   },
   {
     "iid": 176,
@@ -195,7 +206,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "boxw987",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/176"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/176"
   },
   {
     "iid": 175,
@@ -206,7 +217,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "Nice_try",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/175"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/175"
   },
   {
     "iid": 174,
@@ -217,7 +228,7 @@
     "merged_at": "",
     "closed_at": "2026-05-21",
     "author": "run-op-test",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/174"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/174"
   },
   {
     "iid": 173,
@@ -228,7 +239,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "run-op-test",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/173"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/173"
   },
   {
     "iid": 172,
@@ -239,7 +250,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "justin007hch",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/172"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/172"
   },
   {
     "iid": 171,
@@ -250,7 +261,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "zhoutiezhu",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/171"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/171"
   },
   {
     "iid": 170,
@@ -261,7 +272,7 @@
     "merged_at": "",
     "closed_at": "2026-05-19",
     "author": "zhoutiezhu",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/170"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/170"
   },
   {
     "iid": 169,
@@ -272,7 +283,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "lihang90",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/169"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/169"
   },
   {
     "iid": 168,
@@ -283,7 +294,7 @@
     "merged_at": "",
     "closed_at": "2026-05-19",
     "author": "zhoutiezhu",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/168"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/168"
   },
   {
     "iid": 167,
@@ -294,7 +305,7 @@
     "merged_at": "",
     "closed_at": "2026-05-19",
     "author": "zhoutiezhu",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/167"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/167"
   },
   {
     "iid": 166,
@@ -305,7 +316,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "yuanbin_22",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/166"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/166"
   },
   {
     "iid": 165,
@@ -316,7 +327,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "FirstOp",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/165"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/165"
   },
   {
     "iid": 164,
@@ -327,7 +338,7 @@
     "merged_at": "",
     "closed_at": "2026-05-19",
     "author": "ilovescrapy",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/164"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/164"
   },
   {
     "iid": 163,
@@ -338,7 +349,7 @@
     "merged_at": "",
     "closed_at": "2026-05-19",
     "author": "zhoutiezhu",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/163"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/163"
   },
   {
     "iid": 162,
@@ -349,7 +360,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "run-op-test",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/162"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/162"
   },
   {
     "iid": 161,
@@ -360,7 +371,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "ilovescrapy",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/161"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/161"
   },
   {
     "iid": 160,
@@ -371,7 +382,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "LiJianhao2",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/160"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/160"
   },
   {
     "iid": 159,
@@ -382,7 +393,7 @@
     "merged_at": "",
     "closed_at": "2026-05-20",
     "author": "ElevenLiu",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/159"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/159"
   },
   {
     "iid": 158,
@@ -393,7 +404,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "hth810",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/158"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/158"
   },
   {
     "iid": 157,
@@ -404,7 +415,7 @@
     "merged_at": "",
     "closed_at": "2026-05-20",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/157"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/157"
   },
   {
     "iid": 156,
@@ -415,7 +426,7 @@
     "merged_at": "",
     "closed_at": "2026-05-20",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/156"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/156"
   },
   {
     "iid": 155,
@@ -426,7 +437,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "linux12",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/155"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/155"
   },
   {
     "iid": 154,
@@ -437,7 +448,7 @@
     "merged_at": "",
     "closed_at": "2026-05-18",
     "author": "RiddleTan",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/154"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/154"
   },
   {
     "iid": 153,
@@ -448,7 +459,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "weixin_48190404",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/153"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/153"
   },
   {
     "iid": 152,
@@ -459,7 +470,7 @@
     "merged_at": "2026-05-13",
     "closed_at": "",
     "author": "syeren",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/152"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/152"
   },
   {
     "iid": 151,
@@ -470,7 +481,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "kxingaa",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/151"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/151"
   },
   {
     "iid": 150,
@@ -481,7 +492,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "CyndiZ",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/150"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/150"
   },
   {
     "iid": 149,
@@ -492,7 +503,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "CyndiZ",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/149"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/149"
   },
   {
     "iid": 148,
@@ -503,7 +514,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "CyndiZ",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/148"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/148"
   },
   {
     "iid": 147,
@@ -514,7 +525,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "CyndiZ",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/147"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/147"
   },
   {
     "iid": 146,
@@ -525,7 +536,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "qq_62078295",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/146"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/146"
   },
   {
     "iid": 145,
@@ -536,7 +547,7 @@
     "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "CyndiZ",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/145"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/145"
   },
   {
     "iid": 144,
@@ -547,7 +558,7 @@
     "merged_at": "2026-05-11",
     "closed_at": "",
     "author": "jxlang",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/144"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/144"
   },
   {
     "iid": 143,
@@ -558,7 +569,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "ypd2573",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/143"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/143"
   },
   {
     "iid": 142,
@@ -569,7 +580,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "opCreator",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/142"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/142"
   },
   {
     "iid": 141,
@@ -580,7 +591,7 @@
     "merged_at": "2026-05-12",
     "closed_at": "",
     "author": "hth810",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/141"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/141"
   },
   {
     "iid": 140,
@@ -591,7 +602,7 @@
     "merged_at": "2026-05-12",
     "closed_at": "",
     "author": "Nice_try",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/140"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/140"
   },
   {
     "iid": 139,
@@ -602,7 +613,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "qq_14948699",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/139"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/139"
   },
   {
     "iid": 138,
@@ -613,7 +624,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "Alano8",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/138"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/138"
   },
   {
     "iid": 137,
@@ -624,7 +635,7 @@
     "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "zzkuner",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/137"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/137"
   },
   {
     "iid": 136,
@@ -635,7 +646,7 @@
     "merged_at": "2026-05-11",
     "closed_at": "",
     "author": "Nice_try",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/136"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/136"
   },
   {
     "iid": 135,
@@ -646,7 +657,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "StardustZ",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/135"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/135"
   },
   {
     "iid": 134,
@@ -657,7 +668,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "deliciouswaters",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/134"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/134"
   },
   {
     "iid": 133,
@@ -668,7 +679,7 @@
     "merged_at": "2026-05-10",
     "closed_at": "",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/133"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/133"
   },
   {
     "iid": 132,
@@ -679,7 +690,7 @@
     "merged_at": "2026-05-12",
     "closed_at": "",
     "author": "xiaoy2459",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/132"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/132"
   },
   {
     "iid": 131,
@@ -690,7 +701,7 @@
     "merged_at": "2026-05-11",
     "closed_at": "",
     "author": "run-op-test",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/131"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/131"
   },
   {
     "iid": 130,
@@ -701,7 +712,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "not-equal",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/130"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/130"
   },
   {
     "iid": 129,
@@ -712,7 +723,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/129"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/129"
   },
   {
     "iid": 128,
@@ -723,7 +734,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "2301_81805853",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/128"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/128"
   },
   {
     "iid": 127,
@@ -734,7 +745,7 @@
     "merged_at": "",
     "closed_at": "2026-05-05",
     "author": "2301_81805853",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/127"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/127"
   },
   {
     "iid": 126,
@@ -745,7 +756,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "WwOVO",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/126"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/126"
   },
   {
     "iid": 125,
@@ -756,7 +767,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "sweetsault",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/125"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/125"
   },
   {
     "iid": 124,
@@ -767,7 +778,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "gcw_3bzf0JPe",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/124"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/124"
   },
   {
     "iid": 123,
@@ -778,7 +789,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "Ithaca",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/123"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/123"
   },
   {
     "iid": 122,
@@ -789,7 +800,7 @@
     "merged_at": "",
     "closed_at": "2026-05-02",
     "author": "Ithaca",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/122"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/122"
   },
   {
     "iid": 121,
@@ -800,7 +811,7 @@
     "merged_at": "",
     "closed_at": "2026-05-22",
     "author": "StardustZ",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/121"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/121"
   },
   {
     "iid": 120,
@@ -811,7 +822,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "QGlvw",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/120"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/120"
   },
   {
     "iid": 119,
@@ -822,7 +833,7 @@
     "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "gcw_jgWZA4ay",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/119"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/119"
   },
   {
     "iid": 118,
@@ -833,7 +844,7 @@
     "merged_at": "",
     "closed_at": "2026-04-30",
     "author": "gcw_jgWZA4ay",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/118"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/118"
   },
   {
     "iid": 117,
@@ -844,7 +855,7 @@
     "merged_at": "",
     "closed_at": "2026-05-20",
     "author": "ElevenLiu",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/117"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/117"
   },
   {
     "iid": 116,
@@ -855,7 +866,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "FirstOp",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/116"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/116"
   },
   {
     "iid": 115,
@@ -866,7 +877,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "fssfsa",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/115"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/115"
   },
   {
     "iid": 114,
@@ -877,7 +888,7 @@
     "merged_at": "",
     "closed_at": "2026-05-14",
     "author": "linux12",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/114"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/114"
   },
   {
     "iid": 113,
@@ -888,7 +899,7 @@
     "merged_at": "",
     "closed_at": "2026-04-30",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/113"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/113"
   },
   {
     "iid": 112,
@@ -899,7 +910,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "fasdfaefsd",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/112"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/112"
   },
   {
     "iid": 111,
@@ -910,7 +921,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "JaneConan",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/111"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/111"
   },
   {
     "iid": 110,
@@ -921,7 +932,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "liujiacheng_2026",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/110"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/110"
   },
   {
     "iid": 109,
@@ -932,7 +943,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "eisem",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/109"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/109"
   },
   {
     "iid": 108,
@@ -943,7 +954,7 @@
     "merged_at": "",
     "closed_at": "2026-05-05",
     "author": "2301_81805853",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/108"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/108"
   },
   {
     "iid": 107,
@@ -954,7 +965,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "KasuganoG",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/107"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/107"
   },
   {
     "iid": 106,
@@ -965,7 +976,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "Nice_try",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/106"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/106"
   },
   {
     "iid": 105,
@@ -976,7 +987,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "2301_81805853",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/105"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/105"
   },
   {
     "iid": 104,
@@ -987,7 +998,7 @@
     "merged_at": "",
     "closed_at": "2026-05-22",
     "author": "2401_86679233",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/104"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/104"
   },
   {
     "iid": 103,
@@ -998,7 +1009,7 @@
     "merged_at": "2026-04-30",
     "closed_at": "",
     "author": "jxlang",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/103"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/103"
   },
   {
     "iid": 102,
@@ -1009,7 +1020,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "2403_85940771",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/102"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/102"
   },
   {
     "iid": 101,
@@ -1020,7 +1031,7 @@
     "merged_at": "",
     "closed_at": "2026-05-08",
     "author": "Alano8",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/101"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/101"
   },
   {
     "iid": 100,
@@ -1031,7 +1042,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "Alano8",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/100"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/100"
   },
   {
     "iid": 99,
@@ -1042,7 +1053,7 @@
     "merged_at": "2026-04-29",
     "closed_at": "",
     "author": "syeren",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/99"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/99"
   },
   {
     "iid": 98,
@@ -1053,7 +1064,7 @@
     "merged_at": "",
     "closed_at": "2026-05-22",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/98"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/98"
   },
   {
     "iid": 97,
@@ -1064,7 +1075,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/97"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/97"
   },
   {
     "iid": 96,
@@ -1075,7 +1086,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/96"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/96"
   },
   {
     "iid": 95,
@@ -1086,7 +1097,7 @@
     "merged_at": "",
     "closed_at": "2026-05-05",
     "author": "WwOVO",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/95"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/95"
   },
   {
     "iid": 94,
@@ -1097,7 +1108,7 @@
     "merged_at": "2026-04-29",
     "closed_at": "",
     "author": "jxlang",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/94"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/94"
   },
   {
     "iid": 93,
@@ -1108,7 +1119,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "eisem",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/93"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/93"
   },
   {
     "iid": 92,
@@ -1119,7 +1130,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/92"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/92"
   },
   {
     "iid": 91,
@@ -1130,7 +1141,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "ee045",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/91"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/91"
   },
   {
     "iid": 90,
@@ -1141,7 +1152,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/90"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/90"
   },
   {
     "iid": 89,
@@ -1152,7 +1163,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/89"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/89"
   },
   {
     "iid": 88,
@@ -1163,7 +1174,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/88"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/88"
   },
   {
     "iid": 87,
@@ -1174,7 +1185,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "2401_86679233",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/87"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/87"
   },
   {
     "iid": 86,
@@ -1185,7 +1196,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/86"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/86"
   },
   {
     "iid": 85,
@@ -1196,7 +1207,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/85"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/85"
   },
   {
     "iid": 84,
@@ -1207,7 +1218,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/84"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/84"
   },
   {
     "iid": 83,
@@ -1218,7 +1229,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "q6lwowl9p",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/83"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/83"
   },
   {
     "iid": 82,
@@ -1229,7 +1240,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/82"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/82"
   },
   {
     "iid": 81,
@@ -1240,7 +1251,7 @@
     "merged_at": "",
     "closed_at": "2026-05-22",
     "author": "2301_76302716",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/81"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/81"
   },
   {
     "iid": 80,
@@ -1251,7 +1262,7 @@
     "merged_at": "",
     "closed_at": "2026-05-08",
     "author": "qq_14948699",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/80"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/80"
   },
   {
     "iid": 79,
@@ -1262,7 +1273,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/79"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/79"
   },
   {
     "iid": 78,
@@ -1273,7 +1284,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "2301_76302716",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/78"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/78"
   },
   {
     "iid": 77,
@@ -1284,7 +1295,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/77"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/77"
   },
   {
     "iid": 76,
@@ -1295,7 +1306,7 @@
     "merged_at": "",
     "closed_at": "2026-05-01",
     "author": "QGlvw",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/76"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/76"
   },
   {
     "iid": 75,
@@ -1306,7 +1317,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "gcw_tKU4fjvi",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/75"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/75"
   },
   {
     "iid": 74,
@@ -1317,7 +1328,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/74"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/74"
   },
   {
     "iid": 73,
@@ -1328,7 +1339,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "LinLittle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/73"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/73"
   },
   {
     "iid": 72,
@@ -1339,7 +1350,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "2301_76302716",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/72"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/72"
   },
   {
     "iid": 71,
@@ -1350,7 +1361,7 @@
     "merged_at": "",
     "closed_at": "2026-05-01",
     "author": "QGlvw",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/71"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/71"
   },
   {
     "iid": 70,
@@ -1361,7 +1372,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "2401_86679233",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/70"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/70"
   },
   {
     "iid": 69,
@@ -1372,7 +1383,7 @@
     "merged_at": "",
     "closed_at": "2026-05-22",
     "author": "StardustZ",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/69"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/69"
   },
   {
     "iid": 68,
@@ -1383,7 +1394,7 @@
     "merged_at": "",
     "closed_at": "2026-05-22",
     "author": "faenc15",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/68"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/68"
   },
   {
     "iid": 67,
@@ -1394,7 +1405,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "QGlvw",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/67"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/67"
   },
   {
     "iid": 66,
@@ -1405,7 +1416,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "2301_80697322",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/66"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/66"
   },
   {
     "iid": 65,
@@ -1416,7 +1427,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "g287180474",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/65"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/65"
   },
   {
     "iid": 64,
@@ -1427,7 +1438,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "StardustZ",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/64"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/64"
   },
   {
     "iid": 63,
@@ -1438,7 +1449,7 @@
     "merged_at": "",
     "closed_at": "2026-05-22",
     "author": "2402_87530318",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/63"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/63"
   },
   {
     "iid": 62,
@@ -1449,7 +1460,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "jxlang",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/62"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/62"
   },
   {
     "iid": 61,
@@ -1460,7 +1471,7 @@
     "merged_at": "",
     "closed_at": "2026-05-22",
     "author": "d0ufuzz",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/61"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/61"
   },
   {
     "iid": 60,
@@ -1471,7 +1482,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "2402_84368805",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/60"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/60"
   },
   {
     "iid": 59,
@@ -1482,7 +1493,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "zxyy2544",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/59"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/59"
   },
   {
     "iid": 58,
@@ -1493,7 +1504,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "vinforlucky",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/58"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/58"
   },
   {
     "iid": 57,
@@ -1504,7 +1515,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "qq_14948699",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/57"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/57"
   },
   {
     "iid": 56,
@@ -1515,7 +1526,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "gcw_M0EUs3al",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/56"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/56"
   },
   {
     "iid": 55,
@@ -1526,7 +1537,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "qq_14948699",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/55"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/55"
   },
   {
     "iid": 54,
@@ -1537,7 +1548,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "WwOVO",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/54"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/54"
   },
   {
     "iid": 53,
@@ -1548,7 +1559,7 @@
     "merged_at": "2026-04-29",
     "closed_at": "",
     "author": "kxingaa",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/53"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/53"
   },
   {
     "iid": 52,
@@ -1559,7 +1570,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "2401_86679233",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/52"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/52"
   },
   {
     "iid": 51,
@@ -1570,7 +1581,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "MAN_BO",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/51"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/51"
   },
   {
     "iid": 50,
@@ -1581,7 +1592,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "lnpbqc",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/50"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/50"
   },
   {
     "iid": 49,
@@ -1592,7 +1603,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "MAN_BO",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/49"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/49"
   },
   {
     "iid": 48,
@@ -1603,7 +1614,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "lnpbqc",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/48"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/48"
   },
   {
     "iid": 47,
@@ -1614,7 +1625,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "WwOVO",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/47"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/47"
   },
   {
     "iid": 46,
@@ -1625,7 +1636,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "lnpbqc",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/46"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/46"
   },
   {
     "iid": 45,
@@ -1636,7 +1647,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "linlinhuihenyai",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/45"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/45"
   },
   {
     "iid": 44,
@@ -1647,7 +1658,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "2402_87530318",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/44"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/44"
   },
   {
     "iid": 43,
@@ -1658,7 +1669,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "rokuyo",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/43"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/43"
   },
   {
     "iid": 42,
@@ -1669,7 +1680,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "2402_87530318",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/42"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/42"
   },
   {
     "iid": 41,
@@ -1680,7 +1691,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "2402_87530318",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/41"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/41"
   },
   {
     "iid": 40,
@@ -1691,7 +1702,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "2301_79408901",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/40"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/40"
   },
   {
     "iid": 39,
@@ -1702,7 +1713,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "MAN_BO",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/39"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/39"
   },
   {
     "iid": 38,
@@ -1713,7 +1724,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "m0_62451015",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/38"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/38"
   },
   {
     "iid": 37,
@@ -1724,7 +1735,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "2301_79408901",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/37"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/37"
   },
   {
     "iid": 36,
@@ -1735,7 +1746,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "2301_77295527",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/36"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/36"
   },
   {
     "iid": 35,
@@ -1746,7 +1757,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "qq_14948699",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/35"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/35"
   },
   {
     "iid": 34,
@@ -1757,7 +1768,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "zyt_2559888264",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/34"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/34"
   },
   {
     "iid": 33,
@@ -1768,7 +1779,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "2301_77295527",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/33"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/33"
   },
   {
     "iid": 32,
@@ -1779,7 +1790,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "m0_62451015",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/32"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/32"
   },
   {
     "iid": 31,
@@ -1790,7 +1801,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "zyt_2559888264",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/31"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/31"
   },
   {
     "iid": 30,
@@ -1801,7 +1812,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "weixin_55837048",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/30"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/30"
   },
   {
     "iid": 29,
@@ -1812,7 +1823,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "maomaoyjp",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/29"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/29"
   },
   {
     "iid": 28,
@@ -1823,7 +1834,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "2401_87266724",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/28"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/28"
   },
   {
     "iid": 27,
@@ -1834,7 +1845,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "faenc15",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/27"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/27"
   },
   {
     "iid": 26,
@@ -1845,7 +1856,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "lggyx",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/26"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/26"
   },
   {
     "iid": 25,
@@ -1856,7 +1867,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "zyt_2559888264",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/25"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/25"
   },
   {
     "iid": 24,
@@ -1867,7 +1878,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "li-yunle",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/24"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/24"
   },
   {
     "iid": 23,
@@ -1878,7 +1889,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "KasuganoG",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/23"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/23"
   },
   {
     "iid": 22,
@@ -1889,7 +1900,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "xanfro",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/22"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/22"
   },
   {
     "iid": 21,
@@ -1900,7 +1911,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "zjw18626410807",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/21"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/21"
   },
   {
     "iid": 20,
@@ -1911,7 +1922,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "syeren",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/20"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/20"
   },
   {
     "iid": 19,
@@ -1922,7 +1933,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "syeren",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/19"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/19"
   },
   {
     "iid": 18,
@@ -1933,7 +1944,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "syeren",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/18"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/18"
   },
   {
     "iid": 17,
@@ -1944,7 +1955,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "hth810",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/17"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/17"
   },
   {
     "iid": 16,
@@ -1955,7 +1966,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "hth810",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/16"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/16"
   },
   {
     "iid": 15,
@@ -1966,7 +1977,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "jxlang",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/15"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/15"
   },
   {
     "iid": 14,
@@ -1977,7 +1988,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "StarLightOn",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/14"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/14"
   },
   {
     "iid": 13,
@@ -1988,7 +1999,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "hth810",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/13"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/13"
   },
   {
     "iid": 12,
@@ -1999,7 +2010,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "mikewzp",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/12"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/12"
   },
   {
     "iid": 11,
@@ -2010,7 +2021,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "ElevenLiu",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/11"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/11"
   },
   {
     "iid": 10,
@@ -2021,7 +2032,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "gcw_3bzf0JPe",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/10"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/10"
   },
   {
     "iid": 9,
@@ -2032,7 +2043,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "ilovescrapy",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/9"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/9"
   },
   {
     "iid": 8,
@@ -2043,7 +2054,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "ilovescrapy",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/8"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/8"
   },
   {
     "iid": 7,
@@ -2054,7 +2065,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "ilovescrapy",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/7"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/7"
   },
   {
     "iid": 6,
@@ -2065,7 +2076,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "ilovescrapy",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/6"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/6"
   },
   {
     "iid": 5,
@@ -2076,7 +2087,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "ilovescrapy",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/5"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/5"
   },
   {
     "iid": 4,
@@ -2087,7 +2098,7 @@
     "merged_at": "2026-04-27",
     "closed_at": "",
     "author": "alfengyuan",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/4"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/4"
   },
   {
     "iid": 3,
@@ -2098,7 +2109,7 @@
     "merged_at": "2026-04-16",
     "closed_at": "",
     "author": "fullt",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/3"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/3"
   },
   {
     "iid": 2,
@@ -2109,7 +2120,7 @@
     "merged_at": "",
     "closed_at": "2026-04-16",
     "author": "fullt",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/2"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/2"
   },
   {
     "iid": 1,
@@ -2120,6 +2131,6 @@
     "merged_at": "",
     "closed_at": "2026-04-27",
     "author": "cui_jiahao",
-    "web_url": "https://gitcode.com/cann/cann-competitions/merge_requests/1"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/1"
   }
 ]
