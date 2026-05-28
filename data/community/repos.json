@@ -12,7 +12,7 @@
     "release_count": 0,
     "created_at": "2026-02-25T17:50:30.044+08:00",
     "updated_at": "2026-04-27T11:04:25.962+08:00",
-    "last_activity_at": "2026-05-28T21:09:27.688+08:00",
+    "last_activity_at": "2026-05-28T23:32:26.044+08:00",
     "default_branch": "master",
     "language": "Jupyter Notebook",
     "visibility": "public"
@@ -26,11 +26,11 @@
     "forks_count": 138,
     "watch_count": 0,
     "open_issues_count": 6,
-    "open_mr_count": 44,
+    "open_mr_count": 45,
     "release_count": 0,
     "created_at": "2026-03-26T17:33:11.242+08:00",
     "updated_at": "2026-05-27T10:30:39.366+08:00",
-    "last_activity_at": "2026-05-28T21:25:57.556+08:00",
+    "last_activity_at": "2026-05-28T22:59:23.650+08:00",
     "default_branch": "master",
     "language": "C++",
     "visibility": "public"

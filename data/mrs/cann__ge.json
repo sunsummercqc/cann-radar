@@ -1,11 +1,44 @@
 [
   {
-    "iid": 3230,
+    "iid": 3233,
     "state": "opened",
-    "title": "feat: grpc切回ge仓,后续和protobuf一起切公共仓",
+    "title": "【PR】:fix:recall tiling parsing when stream level res limit exists",
     "created_at": "2026-05-28",
     "updated_at": "2026-05-28",
     "merged_at": "",
+    "closed_at": "",
+    "author": "CHEN_Hanrui",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3233"
+  },
+  {
+    "iid": 3232,
+    "state": "opened",
+    "title": "【PR】: sync develop to master 0528",
+    "created_at": "2026-05-28",
+    "updated_at": "2026-05-28",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zhujingjing",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3232"
+  },
+  {
+    "iid": 3231,
+    "state": "opened",
+    "title": "【PR】: om2 编译耗时优化",
+    "created_at": "2026-05-28",
+    "updated_at": "2026-05-28",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "lidaoming1",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3231"
+  },
+  {
+    "iid": 3230,
+    "state": "merged",
+    "title": "feat: grpc切回ge仓,后续和protobuf一起切公共仓",
+    "created_at": "2026-05-28",
+    "updated_at": "2026-05-28",
+    "merged_at": "2026-05-28",
     "closed_at": "",
     "author": "yelongjian",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3230"
@@ -716,12 +749,12 @@
   },
   {
     "iid": 3165,
-    "state": "closed",
+    "state": "opened",
     "title": "【PR】: 简要描述",
     "created_at": "2026-05-26",
-    "updated_at": "2026-05-26",
+    "updated_at": "2026-05-28",
     "merged_at": "",
-    "closed_at": "2026-05-26",
+    "closed_at": "",
     "author": "Chang-an-HW",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3165"
   },
@@ -2226,7 +2259,7 @@
     "state": "opened",
     "title": "feat: 自定义算子多模型支持",
     "created_at": "2026-05-20",
-    "updated_at": "2026-05-28",
+    "updated_at": "2026-05-29",
     "merged_at": "",
     "closed_at": "",
     "author": "Chang-an-HW",
@@ -7041,11 +7074,11 @@
   },
   {
     "iid": 2588,
-    "state": "opened",
+    "state": "merged",
     "title": "feat: 自定义算子新增三类算子支持",
     "created_at": "2026-05-06",
     "updated_at": "2026-05-28",
-    "merged_at": "",
+    "merged_at": "2026-05-28",
     "closed_at": "",
     "author": "Ekoxier",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/2588"

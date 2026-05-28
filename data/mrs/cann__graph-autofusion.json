@@ -1,5 +1,38 @@
 [
   {
+    "iid": 544,
+    "state": "opened",
+    "title": "Scheduled Test Pipeline 20260529010025",
+    "created_at": "2026-05-29",
+    "updated_at": "2026-05-29",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "ling-DT",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/544"
+  },
+  {
+    "iid": 543,
+    "state": "closed",
+    "title": "Scheduled Test Pipeline 20260528230013",
+    "created_at": "2026-05-28",
+    "updated_at": "2026-05-29",
+    "merged_at": "",
+    "closed_at": "2026-05-29",
+    "author": "ling-DT",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/543"
+  },
+  {
+    "iid": 542,
+    "state": "opened",
+    "title": "【fix】: test",
+    "created_at": "2026-05-28",
+    "updated_at": "2026-05-28",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "liyuewei",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/542"
+  },
+  {
     "iid": 541,
     "state": "opened",
     "title": "fix: support arch-specific scope kernel symbols",
@@ -23,12 +56,12 @@
   },
   {
     "iid": 539,
-    "state": "opened",
+    "state": "closed",
     "title": "Scheduled Test Pipeline 20260528200501",
     "created_at": "2026-05-28",
     "updated_at": "2026-05-28",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-05-28",
     "author": "ling-DT",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/539"
   },

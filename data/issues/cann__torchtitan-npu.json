@@ -122,9 +122,9 @@
   },
   {
     "iid": 29,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-21",
-    "closed_at": "",
+    "closed_at": "2026-05-28",
     "author": "zhaowei1936",
     "title": "[Question|问题咨询]: 【归档】deepseekv4 flash/pro支持FA融合算子的自定义算子包归档",
     "labels": [],

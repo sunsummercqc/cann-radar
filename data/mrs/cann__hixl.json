@@ -1,5 +1,16 @@
 [
   {
+    "iid": 542,
+    "state": "opened",
+    "title": "[bugfix]: harden transfer message validation and boundary checks",
+    "created_at": "2026-05-28",
+    "updated_at": "2026-05-29",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "youyx",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/542"
+  },
+  {
     "iid": 541,
     "state": "opened",
     "title": "refactor: support validate and convert host addr batch",

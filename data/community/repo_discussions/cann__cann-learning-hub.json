@@ -2,14 +2,14 @@
   "generated_at": "2026-05-28",
   "source_count": 18,
   "discussion_count": 18,
-  "external_count": 518,
+  "external_count": 521,
   "internal_count": 8,
-  "total_unique_participants": 526,
+  "total_unique_participants": 529,
   "trend": [
     {
       "date": "2026-05-28",
-      "external_count": 518,
-      "total_unique_participants": 526
+      "external_count": 521,
+      "total_unique_participants": 529
     }
   ],
   "participants": [
@@ -4142,6 +4142,24 @@
       "last_seen_at": "2026-05-21T18:30:42+08:00"
     },
     {
+      "user_name": "chenge1",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/24",
+          "title": "【CANN社区开发者成长路径介绍及算子天梯赛发布】参与直播活动赢精美小礼品",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T00:35:39+08:00",
+      "last_seen_at": "2026-05-29T00:35:39+08:00"
+    },
+    {
       "user_name": "Cheung11111",
       "nick_name": "",
       "developer_source": "external",
@@ -5492,6 +5510,24 @@
       "last_seen_at": "2026-05-21T18:56:05+08:00"
     },
     {
+      "user_name": "gitgitigitgitgitgit",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/6",
+          "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-28T22:46:26+08:00",
+      "last_seen_at": "2026-05-28T22:46:26+08:00"
+    },
+    {
       "user_name": "github_72282252",
       "nick_name": "",
       "developer_source": "external",
@@ -5634,6 +5670,24 @@
       ],
       "first_seen_at": "2026-04-26T10:00:22+08:00",
       "last_seen_at": "2026-04-26T10:00:22+08:00"
+    },
+    {
+      "user_name": "gxhgxh2475698",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/24",
+          "title": "【CANN社区开发者成长路径介绍及算子天梯赛发布】参与直播活动赢精美小礼品",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T00:38:06+08:00",
+      "last_seen_at": "2026-05-29T00:38:06+08:00"
     },
     {
       "user_name": "haidxxx",
@@ -9980,10 +10034,10 @@
       "org": "cann/cann-learning-hub",
       "number": "24",
       "title": "【CANN社区开发者成长路径介绍及算子天梯赛发布】参与直播活动赢精美小礼品",
-      "comment_total": 35,
+      "comment_total": 37,
       "reply_total": 10,
-      "unique_participants": 25,
-      "external_participants": 22
+      "unique_participants": 27,
+      "external_participants": 24
     },
     {
       "url": "https://gitcode.com/cann/cann-learning-hub/discussions/23",
@@ -10110,10 +10164,10 @@
       "org": "cann/cann-learning-hub",
       "number": "6",
       "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
-      "comment_total": 13,
+      "comment_total": 14,
       "reply_total": 2,
-      "unique_participants": 14,
-      "external_participants": 14
+      "unique_participants": 15,
+      "external_participants": 15
     },
     {
       "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",

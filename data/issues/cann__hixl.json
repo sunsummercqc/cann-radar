@@ -139,7 +139,7 @@
     "author": "hjx_here",
     "title": "[Feature-Request|需求反馈]: 需要mooncake支持torch_npu.empty_with_swapped_memory创建的虚拟内存tensor进行注册",
     "labels": [],
-    "user_notes_count": 13,
+    "user_notes_count": 14,
     "web_url": "https://gitcode.com/cann/hixl/issues/291"
   },
   {

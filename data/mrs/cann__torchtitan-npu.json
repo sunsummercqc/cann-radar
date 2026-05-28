@@ -1,5 +1,16 @@
 [
   {
+    "iid": 277,
+    "state": "opened",
+    "title": "support smla/li/mhc",
+    "created_at": "2026-05-28",
+    "updated_at": "2026-05-28",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "rui-zhang",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/277"
+  },
+  {
     "iid": 276,
     "state": "merged",
     "title": "[fix]bug_fix for v0.2.2-dev",
@@ -13,7 +24,7 @@
   {
     "iid": 275,
     "state": "opened",
-    "title": "chore: add agent development pipeline",
+    "title": "test: verify codecheck failure workflow",
     "created_at": "2026-05-28",
     "updated_at": "2026-05-28",
     "merged_at": "",

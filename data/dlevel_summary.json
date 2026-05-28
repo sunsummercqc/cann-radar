@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-05-28",
   "global_counts": {
-    "d0": 1098,
-    "d1": 728,
+    "d0": 1097,
+    "d1": 729,
     "d2": 520,
     "total": 2346,
     "d0_external": 757,
@@ -11,8 +11,8 @@
   },
   "repo_counts": {
     "cann/ge": {
-      "d0": 453,
-      "d1": 212,
+      "d0": 452,
+      "d1": 213,
       "d2": 168,
       "total": 833,
       "d0_external": 187,
@@ -510,9 +510,11 @@
       {
         "user_name": "CHEN_Hanrui",
         "nick_name": "CHEN_Hanrui",
-        "level": "d0",
+        "level": "d1",
         "sources": [
-          "star"
+          "star",
+          "fork",
+          "pr"
         ],
         "star_time": "2026-03-25T08:46:09.000+00:00",
         "fans_count": 0,
@@ -11154,7 +11156,8 @@
         "nick_name": "wei_shi",
         "level": "d0",
         "sources": [
-          "star"
+          "star",
+          "fork"
         ],
         "star_time": "2025-12-30T01:11:04.000+00:00",
         "fans_count": 0,
@@ -58685,8 +58688,8 @@
     },
     {
       "month": "2026-03",
-      "d0": 178,
-      "d1": 25,
+      "d0": 177,
+      "d1": 26,
       "d2": 28,
       "new_stars": 231,
       "cumulative": 1832
