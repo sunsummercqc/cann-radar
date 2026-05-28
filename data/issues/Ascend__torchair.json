@@ -1,13 +1,24 @@
 [
   {
-    "iid": 492,
+    "iid": 493,
     "state": "opened",
-    "created_at": "2026-05-27",
+    "created_at": "2026-05-28",
     "closed_at": "",
+    "author": "alistair_pan",
+    "title": "[Bug]: 上库跑pipeline无法通过pre-commit，指向库上公共文件有格式错误",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/493"
+  },
+  {
+    "iid": 492,
+    "state": "closed",
+    "created_at": "2026-05-27",
+    "closed_at": "2026-05-28",
     "author": "zihan0007",
     "title": "[Bug]: 上库ci docs-ci-pipeline-running无法结束",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/492"
   },
   {
@@ -56,13 +67,13 @@
   },
   {
     "iid": 487,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-26",
-    "closed_at": "",
+    "closed_at": "2026-05-28",
     "author": "shi-rui",
     "title": "[Bug]: 配置acl graph模式，使用msprof采集profiling发现相同的算子出现了两次，感觉是图似乎被执行了两次。这是符合预期的吗",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/487"
   },
   {

@@ -1,5 +1,27 @@
 [
   {
+    "id": 9974276,
+    "namespace": "dty_30041779/torchtitan-npu_0528",
+    "name": "torchtitan-npu_0528",
+    "web_url": "https://gitcode.com/dty_30041779/torchtitan-npu_0528",
+    "http_url_to_repo": "https://gitcode.com/dty_30041779/torchtitan-npu_0528.git",
+    "created_at": "2026-05-28T16:55:08.303+08:00",
+    "creator_username": "dty_30041779",
+    "creator_nick_name": "hid63711715",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
+    "id": 9973912,
+    "namespace": "m0_67923034/torchtitan-npu",
+    "name": "torchtitan-npu",
+    "web_url": "https://gitcode.com/m0_67923034/torchtitan-npu",
+    "http_url_to_repo": "https://gitcode.com/m0_67923034/torchtitan-npu.git",
+    "created_at": "2026-05-28T16:22:26.368+08:00",
+    "creator_username": "m0_67923034",
+    "creator_nick_name": "不能相信蓝莓",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
     "id": 9963931,
     "namespace": "dty_30041779/torchtitan-npu_0527",
     "name": "torchtitan-npu_0527",
@@ -106,7 +128,7 @@
     "http_url_to_repo": "https://gitcode.com/wy_test/torchtitan-npu.git",
     "created_at": "2026-05-20T10:56:52.202+08:00",
     "creator_username": "wy_test",
-    "creator_nick_name": "wy_test",
+    "creator_nick_name": "wy_32",
     "forked_from": "cann/torchtitan-npu"
   },
   {
