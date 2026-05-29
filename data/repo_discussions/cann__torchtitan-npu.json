@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-28",
+  "generated_at": "2026-05-29",
   "source_count": 4,
   "discussion_count": 4,
-  "external_count": 62,
+  "external_count": 63,
   "internal_count": 2,
-  "total_unique_participants": 64,
+  "total_unique_participants": 65,
   "trend": [
     {
-      "date": "2026-05-28",
-      "external_count": 62,
-      "total_unique_participants": 64
+      "date": "2026-05-29",
+      "external_count": 63,
+      "total_unique_participants": 65
     }
   ],
   "participants": [
@@ -156,6 +156,24 @@
       ],
       "first_seen_at": "2026-05-08T16:48:15+08:00",
       "last_seen_at": "2026-05-08T16:48:15+08:00"
+    },
+    {
+      "user_name": "gcw_j7UShjip",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/torchtitan-npu/discussions/3",
+          "title": "有奖问答 | TorchTitan基础知识问答",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T18:08:12+08:00",
+      "last_seen_at": "2026-05-29T18:08:12+08:00"
     },
     {
       "user_name": "gcw_jxmlCQKB",
@@ -1182,10 +1200,10 @@
       "org": "cann/torchtitan-npu",
       "number": "3",
       "title": "有奖问答 | TorchTitan基础知识问答",
-      "comment_total": 13,
+      "comment_total": 14,
       "reply_total": 0,
-      "unique_participants": 13,
-      "external_participants": 13
+      "unique_participants": 14,
+      "external_participants": 14
     },
     {
       "url": "https://gitcode.com/cann/torchtitan-npu/discussions/2",

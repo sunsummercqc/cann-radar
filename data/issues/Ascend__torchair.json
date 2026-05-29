@@ -1,5 +1,27 @@
 [
   {
+    "iid": 495,
+    "state": "opened",
+    "created_at": "2026-05-29",
+    "closed_at": "",
+    "author": "nichorians",
+    "title": "[Feature]: view()的view_dtype的converter支持",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/495"
+  },
+  {
+    "iid": 494,
+    "state": "opened",
+    "created_at": "2026-05-29",
+    "closed_at": "",
+    "author": "chen-yuqi-ba",
+    "title": "[Bug]: torch_npu.npu_kv_rmsnorm_rope_cache_v2算子，原地输入在前面被view的情况下，2.7.1里这个算子不能reinplace，2.9.0里被reinplace了，是2.9.0有什么变更吗",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/494"
+  },
+  {
     "iid": 493,
     "state": "opened",
     "created_at": "2026-05-28",
@@ -3493,7 +3515,7 @@
     "state": "closed",
     "created_at": "2025-11-18",
     "closed_at": "2025-12-04",
-    "author": "gcw_cTL55Zcg",
+    "author": "wuwanxu",
     "title": "[Bug]: torch_npu从2.1.0升级到2.6.0之后，deepseek模型step之间多出了10ms空隙",
     "labels": [
       "bug"

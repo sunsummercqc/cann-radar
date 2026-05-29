@@ -1,5 +1,27 @@
 [
   {
+    "iid": 414,
+    "state": "opened",
+    "created_at": "2026-05-29",
+    "closed_at": "",
+    "author": "TingShiJieDeXuanNa",
+    "title": "[Question|问题咨询]: 哪些ONNX算子昇腾不支持",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/414"
+  },
+  {
+    "iid": 413,
+    "state": "opened",
+    "created_at": "2026-05-29",
+    "closed_at": "",
+    "author": "xiong-pan",
+    "title": "[Bug-Report|缺陷反馈]: if算子编译完成后加载模型报错",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/413"
+  },
+  {
     "iid": 412,
     "state": "opened",
     "created_at": "2026-05-28",
@@ -18,7 +40,7 @@
     "author": "yaocaihong",
     "title": "昇腾社区链接跳转失败",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/411"
   },
   {
@@ -150,7 +172,7 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 工具扫描：注释中的拼写错误",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/398"
   },
   {
@@ -161,7 +183,7 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 工具扫描：变量名拼写错误（影响代码可读性）",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/397"
   },
   {
@@ -172,7 +194,7 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 工具扫描：公共 API 头文件拼写错误",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/396"
   },
   {
@@ -183,7 +205,7 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]:  工具扫描：错误码枚举名拼写错误&错误码描述文本拼写错误",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/395"
   },
   {
@@ -199,13 +221,13 @@
   },
   {
     "iid": 393,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-21",
-    "closed_at": "",
+    "closed_at": "2026-05-29",
     "author": "liu_xiao_han",
     "title": "[Bug-Report|缺陷反馈]: 310P3上跑含nms的onnx模型报错",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/393"
   },
   {
@@ -243,9 +265,9 @@
   },
   {
     "iid": 389,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-19",
-    "closed_at": "",
+    "closed_at": "2026-05-29",
     "author": "pan-tong",
     "title": "[BUG] HostCpuEngine::DlopenLib 加载失败时不应上报 E19999 / 打 ERROR 日志",
     "labels": [],
@@ -474,9 +496,9 @@
   },
   {
     "iid": 368,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-08",
-    "closed_at": "",
+    "closed_at": "2026-05-29",
     "author": "gcw_t2g2KsgC",
     "title": "[Bug-Report|缺陷反馈]: 参数校验代码存在 batchIndex 数组越界风险",
     "labels": [],
@@ -518,9 +540,9 @@
   },
   {
     "iid": 364,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-06",
-    "closed_at": "",
+    "closed_at": "2026-05-29",
     "author": "Mexyy",
     "title": "[Bug-Report|缺陷反馈]: 【外部开发者】【文档捉虫】ge/runtime/v2/kernel/目录下部分文件存在日志规范问题",
     "labels": [],
@@ -562,9 +584,9 @@
   },
   {
     "iid": 360,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-01",
-    "closed_at": "",
+    "closed_at": "2026-05-29",
     "author": "justin-zhao",
     "title": "[Bug-Report|缺陷反馈]: ATC转换工具调用失败",
     "labels": [],
@@ -3590,7 +3612,7 @@
     "state": "closed",
     "created_at": "2026-01-19",
     "closed_at": "2026-02-13",
-    "author": "gcw_cTL55Zcg",
+    "author": "wuwanxu",
     "title": "[Question|问题咨询]: deepseek模型，pd分离场景下，p侧在npu_fused_infer_attention_score处断图",
     "labels": [],
     "user_notes_count": 3,

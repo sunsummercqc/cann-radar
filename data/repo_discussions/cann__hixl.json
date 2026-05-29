@@ -1,18 +1,66 @@
 {
-  "generated_at": "2026-05-28",
+  "generated_at": "2026-05-29",
   "source_count": 3,
   "discussion_count": 3,
-  "external_count": 14,
-  "internal_count": 3,
-  "total_unique_participants": 17,
+  "external_count": 28,
+  "internal_count": 6,
+  "total_unique_participants": 34,
   "trend": [
     {
-      "date": "2026-05-28",
-      "external_count": 14,
-      "total_unique_participants": 17
+      "date": "2026-05-29",
+      "external_count": 28,
+      "total_unique_participants": 34
     }
   ],
   "participants": [
+    {
+      "user_name": "jiazhaoyang",
+      "nick_name": "",
+      "developer_source": "internal",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/2",
+          "title": "【2026CANN 算子挑战赛（江山赛区）· 南京理工大学站】有奖问答 | HIXL基础知识",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-13T16:51:07+08:00",
+      "last_seen_at": "2026-05-29T16:42:36+08:00"
+    },
+    {
+      "user_name": "Sunyp01",
+      "nick_name": "",
+      "developer_source": "internal",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/2",
+          "title": "【2026CANN 算子挑战赛（江山赛区）· 南京理工大学站】有奖问答 | HIXL基础知识",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-12T23:45:47+08:00",
+      "last_seen_at": "2026-05-29T16:25:31+08:00"
+    },
     {
       "user_name": "hasale",
       "nick_name": "",
@@ -104,6 +152,24 @@
       "last_seen_at": "2026-05-13T17:27:37+08:00"
     },
     {
+      "user_name": "awslssss",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T16:12:50+08:00",
+      "last_seen_at": "2026-05-29T16:12:50+08:00"
+    },
+    {
       "user_name": "c-h-i",
       "nick_name": "",
       "developer_source": "external",
@@ -138,6 +204,42 @@
       ],
       "first_seen_at": "2026-05-12T17:24:52+08:00",
       "last_seen_at": "2026-05-12T17:24:52+08:00"
+    },
+    {
+      "user_name": "dddkfjdn",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T18:04:24+08:00",
+      "last_seen_at": "2026-05-29T18:04:24+08:00"
+    },
+    {
+      "user_name": "dingdairong",
+      "nick_name": "",
+      "developer_source": "internal",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T16:33:42+08:00",
+      "last_seen_at": "2026-05-29T16:33:42+08:00"
     },
     {
       "user_name": "Drone1",
@@ -176,6 +278,24 @@
       "last_seen_at": "2026-05-13T16:02:44+08:00"
     },
     {
+      "user_name": "gcw_vYFCWdmx",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T16:50:46+08:00",
+      "last_seen_at": "2026-05-29T16:50:46+08:00"
+    },
+    {
       "user_name": "huminz",
       "nick_name": "",
       "developer_source": "external",
@@ -194,7 +314,43 @@
       "last_seen_at": "2026-05-13T15:50:57+08:00"
     },
     {
-      "user_name": "jiazhaoyang",
+      "user_name": "kok2580",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T21:20:34+08:00",
+      "last_seen_at": "2026-05-29T21:20:34+08:00"
+    },
+    {
+      "user_name": "liyuhao21",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T16:31:34+08:00",
+      "last_seen_at": "2026-05-29T16:31:34+08:00"
+    },
+    {
+      "user_name": "lugang11",
       "nick_name": "",
       "developer_source": "internal",
       "top_comments": 1,
@@ -202,14 +358,68 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/hixl/discussions/2",
-          "title": "【2026CANN 算子挑战赛（江山赛区）· 南京理工大学站】有奖问答 | HIXL基础知识",
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
           "top_comments": 1,
           "replies": 0
         }
       ],
-      "first_seen_at": "2026-05-13T16:51:07+08:00",
-      "last_seen_at": "2026-05-13T16:51:07+08:00"
+      "first_seen_at": "2026-05-29T17:05:16+08:00",
+      "last_seen_at": "2026-05-29T17:05:16+08:00"
+    },
+    {
+      "user_name": "Lyfkkii",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T16:24:32+08:00",
+      "last_seen_at": "2026-05-29T16:24:32+08:00"
+    },
+    {
+      "user_name": "lyy_666",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T16:10:45+08:00",
+      "last_seen_at": "2026-05-29T16:10:45+08:00"
+    },
+    {
+      "user_name": "lz_dream",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T16:13:57+08:00",
+      "last_seen_at": "2026-05-29T16:13:57+08:00"
     },
     {
       "user_name": "m0_62995661",
@@ -230,6 +440,24 @@
       "last_seen_at": "2026-05-13T16:08:57+08:00"
     },
     {
+      "user_name": "Miketin",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T16:16:01+08:00",
+      "last_seen_at": "2026-05-29T16:16:01+08:00"
+    },
+    {
       "user_name": "myw111",
       "nick_name": "",
       "developer_source": "external",
@@ -248,22 +476,76 @@
       "last_seen_at": "2026-05-13T15:52:57+08:00"
     },
     {
-      "user_name": "Sunyp01",
+      "user_name": "PiyZZ",
       "nick_name": "",
-      "developer_source": "internal",
+      "developer_source": "external",
       "top_comments": 1,
       "replies": 0,
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/hixl/discussions/2",
-          "title": "【2026CANN 算子挑战赛（江山赛区）· 南京理工大学站】有奖问答 | HIXL基础知识",
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
           "top_comments": 1,
           "replies": 0
         }
       ],
-      "first_seen_at": "2026-05-12T23:45:47+08:00",
-      "last_seen_at": "2026-05-12T23:45:47+08:00"
+      "first_seen_at": "2026-05-29T16:27:41+08:00",
+      "last_seen_at": "2026-05-29T16:27:41+08:00"
+    },
+    {
+      "user_name": "Singingintherain",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T18:29:17+08:00",
+      "last_seen_at": "2026-05-29T18:29:17+08:00"
+    },
+    {
+      "user_name": "sun_xuexin",
+      "nick_name": "",
+      "developer_source": "internal",
+      "top_comments": 0,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 0,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-05-29T16:16:07+08:00",
+      "last_seen_at": "2026-05-29T16:16:07+08:00"
+    },
+    {
+      "user_name": "tianlianga1",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T16:28:58+08:00",
+      "last_seen_at": "2026-05-29T16:28:58+08:00"
     },
     {
       "user_name": "xiewei-21",
@@ -282,6 +564,42 @@
       ],
       "first_seen_at": "2026-05-13T16:36:22+08:00",
       "last_seen_at": "2026-05-13T16:36:22+08:00"
+    },
+    {
+      "user_name": "Y123mqwer",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T16:24:37+08:00",
+      "last_seen_at": "2026-05-29T16:24:37+08:00"
+    },
+    {
+      "user_name": "yangxuming",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-29T16:30:54+08:00",
+      "last_seen_at": "2026-05-29T16:30:54+08:00"
     },
     {
       "user_name": "yusuya",
@@ -326,10 +644,10 @@
       "org": "cann/hixl",
       "number": "3",
       "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
-      "comment_total": 0,
-      "reply_total": 0,
-      "unique_participants": 0,
-      "external_participants": 0
+      "comment_total": 18,
+      "reply_total": 1,
+      "unique_participants": 19,
+      "external_participants": 14
     },
     {
       "url": "https://gitcode.com/cann/hixl/discussions/2",

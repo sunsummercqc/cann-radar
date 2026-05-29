@@ -1,5 +1,14 @@
 [
   {
+    "user_name": "HanRui_CHEN",
+    "nick_name": "CHR",
+    "user_id": 10477520,
+    "avatar": "https://cdn-img.gitcode.com/ef/ab/e6439830fa5b8f3a496565d48207479e36c1073f87b2d2c2a738b54a720bdef4.png?time=1776841148257",
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
     "user_name": "luoli_z",
     "nick_name": "luoli_z",
     "user_id": 4067237,
@@ -1725,7 +1734,8 @@
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
-      "cann/graph-autofusion"
+      "cann/graph-autofusion",
+      "Ascend/torchair"
     ]
   },
   {
@@ -5907,6 +5917,24 @@
     ]
   },
   {
+    "user_name": "CosmosNing",
+    "nick_name": "CosmosNing",
+    "user_id": 11448181,
+    "avatar": null,
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "postWater1",
+    "nick_name": "post_Water",
+    "user_id": 2797295,
+    "avatar": null,
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
     "user_name": "gongsiquan",
     "nick_name": "gongsiquan",
     "user_id": 10043867,
@@ -9222,7 +9250,7 @@
   },
   {
     "user_name": "jdfff",
-    "nick_name": "jdfff",
+    "nick_name": "chenfeng",
     "user_id": 4299188,
     "avatar": null,
     "starred_repos": [
@@ -9686,6 +9714,505 @@
     "avatar": "https://cdn-img.gitcode.com/da/cc/5d0a0c9c1fca5243d1ba0dc98041d00c95be5c1d74769ff86ec6f62ffd050cce.png",
     "starred_repos": [
       "cann/graph-autofusion"
+    ]
+  },
+  {
+    "user_name": "hanxiaolu_12138",
+    "nick_name": "HELLOhello",
+    "user_id": 7056261,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "juanjuan57349",
+    "nick_name": "卷卷毛",
+    "user_id": 11449008,
+    "avatar": "https://cdn-img.gitcode.com/db/ce/5dbc80ef32c4b68dfde678e73c6c91fe95780419b35d3c15c7d5689e86c305df.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "Infinite_Cloisters",
+    "nick_name": "Infinite_Cloisters",
+    "user_id": 1695400,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "2501_93263573",
+    "nick_name": "芭娇善",
+    "user_id": 10597876,
+    "avatar": "https://cdn-img.gitcode.com/ca/bd/44ca5b6d94894036ddec1bf1a991da5d3bc25862abbee7859e2dfd2234ab573d.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "J998828",
+    "nick_name": "J",
+    "user_id": 11448954,
+    "avatar": "https://cdn-img.gitcode.com/fd/ae/27fda7e22a7dc748b44f79ee8111927666dc75a3d2acf3d796aadbee4ebc346e.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "sumenzhu",
+    "nick_name": "缓释胶囊",
+    "user_id": 10974957,
+    "avatar": "https://cdn-img.gitcode.com/da/ed/74d4341aed9ac8d7dd2495d855473a1803c5bbdf4a75b5e3520d4771efd12e64.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "hcbsam",
+    "nick_name": "hcbsam",
+    "user_id": 5132483,
+    "avatar": "https://cdn-img.gitcode.com/ef/bd/8e1f19b8781d5f5e4dd3bfe59e7c3e2f8d64d8d2bb2c8c9564d1daf22e1394b3.png",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "hgg52332",
+    "nick_name": "啊咧咧cde",
+    "user_id": 11448749,
+    "avatar": "https://cdn-img.gitcode.com/bc/ee/3b3c63334476e2ea9cd83381e637191ea2df17a262e9c2dfac9288f2b7e79a67.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "2302_77708022",
+    "nick_name": "晓晨",
+    "user_id": 6988405,
+    "avatar": "https://cdn-img.gitcode.com/fb/de/828441f15bd4eac529df7a6b92c40807ee4d898fa041daf09b36841c7ca012fa.png",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "feice123",
+    "nick_name": "悱恻",
+    "user_id": 11448729,
+    "avatar": "https://cdn-img.gitcode.com/dc/fc/820d1570c615f272496946cc6de934dd20127204108e643d25bc4b3d453dbf7c.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "gcw_j7UShjip",
+    "nick_name": "gcw_j7UShjip",
+    "user_id": 11448709,
+    "avatar": "",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "Leafyezilu",
+    "nick_name": "Leaf叶子露",
+    "user_id": 11448594,
+    "avatar": "https://cdn-img.gitcode.com/da/af/d7aa0ff620c7c27f52e9577e9aaf5275e7ddd69c7c0528603bff9c3d4e83b0c1.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "weixin_49186823",
+    "nick_name": "weixin_49186823",
+    "user_id": 10723356,
+    "avatar": "https://cdn-img.gitcode.com/dc/ef/89d55c87efd5c5918b84150c055981ba8be16518b369c410150886f8e5c15c4c.png",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "LLCWWC",
+    "nick_name": "LLCWWC",
+    "user_id": 11448596,
+    "avatar": "https://cdn-img.gitcode.com/ee/fa/4e817570efab9611ad76abfb1190bba4ab0923caf7bdeb88d3f5528fe9b0b9ff.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "Merrci",
+    "nick_name": "秋泠芳绪",
+    "user_id": 11448595,
+    "avatar": "https://cdn-img.gitcode.com/fd/ca/f08d9cabba19978b163978bc2fe9cdce6b5703d53f54c1cc890a8e1b7e914827.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "w123345",
+    "nick_name": "w123345",
+    "user_id": 1924930,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "2301_80305607",
+    "nick_name": "2301_80305607",
+    "user_id": 1472930,
+    "avatar": "https://cdn-img.gitcode.com/cf/fa/c095f7f76a6d49369e3b730925f7c4fe5ffc8fb7c522f37767fb4c5ca057bca2.png",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "axacasc",
+    "nick_name": "axacasc",
+    "user_id": 2361453,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "weixin_73303548",
+    "nick_name": "Mr.Parker～",
+    "user_id": 2365021,
+    "avatar": "https://cdn-img.gitcode.com/cd/bb/c2d0b723b51bf385e43407440b813edb02627424c0361d5e0b5e591858c467b3.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "Ther1123",
+    "nick_name": "Ther",
+    "user_id": 11448535,
+    "avatar": "https://cdn-img.gitcode.com/cc/af/2964cc307a6feba767b18b1eaac4452d8b50cfc5f0323d4db7c5f5aecba87744.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "sw1025",
+    "nick_name": "sw1025",
+    "user_id": 4666236,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "Xjh1_123",
+    "nick_name": "Xjh1_123",
+    "user_id": 6095005,
+    "avatar": "https://cdn-img.gitcode.com/df/cf/9d143793497034fc1fb9895272ba602166c875442aa8d2f196e63e7fdf122ad2.png",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "NK_pan",
+    "nick_name": "NK_pan",
+    "user_id": 555192,
+    "avatar": "https://cdn-img.gitcode.com/ff/df/881f002591fdf972aff509316292453581a617f228113ef8db66ab42bf44347d.png",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "whda1111",
+    "nick_name": "青灯夜雨",
+    "user_id": 6840320,
+    "avatar": "https://cdn-img.gitcode.com/fb/bf/64f61b14b47f17abd93b71951a9059f4ed6b10bca51360adb27dbfa5552e9c77.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "qq_68862811",
+    "nick_name": "LSC970",
+    "user_id": 5080108,
+    "avatar": "https://cdn-img.gitcode.com/ed/ba/e380412266d7317b7a11904b899841dc217acf9bfd2c321966984ac3ef3068f3.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "Bbbuu",
+    "nick_name": "BEIbei（踏地版",
+    "user_id": 11448362,
+    "avatar": "https://cdn-img.gitcode.com/ad/fb/2ad961fb84b4af59c672b1b4192c62c030adee5e04d29dd4562a5efa917e6ab3.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "a123443",
+    "nick_name": "渚",
+    "user_id": 11448363,
+    "avatar": "https://cdn-img.gitcode.com/fb/ab/f531b6a0b9d48e27513613d7f7e7ce5eb6bb501211ea54f9a3719cc1e5218024.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "l78787878",
+    "nick_name": "李大爷",
+    "user_id": 11448339,
+    "avatar": "https://cdn-img.gitcode.com/fd/fb/f7df0b13a60f25120737c593fa2679ff75631f324db7c4aa1e29e93f3910eb9f.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "Fairy11111",
+    "nick_name": "Fairy",
+    "user_id": 11448337,
+    "avatar": "https://cdn-img.gitcode.com/ad/fa/a1546dfa50f09ede0ad9abebad92a21de1cc7938cbaefcdbca8aa8ab63e0cdea.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "xzmjjk",
+    "nick_name": "停泊",
+    "user_id": 11448310,
+    "avatar": "https://cdn-img.gitcode.com/fe/ad/f5e90a1da4cf08069f566b3a730c44d5c27b421bf53ed7910805049719b9f5d1.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "nihao1290",
+    "nick_name": "🐶",
+    "user_id": 11448327,
+    "avatar": "https://cdn-img.gitcode.com/fb/de/7f6310bde43a58a5548a19ac69082136f3ecbecde5f37bf58fce4b93cc4824ae.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "x_2003",
+    "nick_name": "2303_77387507",
+    "user_id": 720808,
+    "avatar": "https://cdn-img.gitcode.com/ab/ac/2a8b0acc2bbdcf3c547fbb573cb850278d625adc63c9d839ddf6865cd6bb2532.png",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "Twenty_2",
+    "nick_name": "Twenty_2",
+    "user_id": 11448315,
+    "avatar": "https://cdn-img.gitcode.com/ca/cb/8ca40328664c0bf4ae0a217a78429734361562a38e4b456854209dc965ae86c7.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "papersshdjsn",
+    "nick_name": "未抒辞",
+    "user_id": 11448305,
+    "avatar": "https://cdn-img.gitcode.com/ea/ed/129e1ae88093d28d84b7cf6148fe92bd444d12e9b630417ab15e848b61fd92c6.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "gcw_cHZoSvK4",
+    "nick_name": "gcw_cHZoSvK4",
+    "user_id": 11448289,
+    "avatar": "",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "hsz0026",
+    "nick_name": "hsz",
+    "user_id": 11448285,
+    "avatar": "https://cdn-img.gitcode.com/cd/af/7c71d031af226f4279d04a89320ea69d825add5abdf177ee93943d49bf1f5b91.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "weixin_65428892",
+    "nick_name": "天亮了就好了273",
+    "user_id": 3913491,
+    "avatar": "https://cdn-img.gitcode.com/ea/db/e852a0d86b40f389b8d5c2a8abbccba48c8c2b7dbe8f948de19501a0fa8ab56c.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "zbtx",
+    "nick_name": "小张同志",
+    "user_id": 7262925,
+    "avatar": "https://cdn-img.gitcode.com/ce/fc/c3ef4c96ecf881c779acf3c2ff391f657209dfc9d7884ee396034832cfb2556c.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "a91Mr-lin",
+    "nick_name": "糯米缘",
+    "user_id": 11448269,
+    "avatar": "https://cdn-img.gitcode.com/ad/dd/10a8545d3d173dcbb7bcf0d64aac4123e4a89b7f2b155e94eb01369749890f60.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "gcw_PPcUk3K1",
+    "nick_name": "gcw_PPcUk3K1",
+    "user_id": 11409402,
+    "avatar": "",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "Flyflyflyfei",
+    "nick_name": "支付宝到账一万袁",
+    "user_id": 11448262,
+    "avatar": "https://cdn-img.gitcode.com/db/dc/7db589d1c2e65a9397750b166fa40b42bd568c63f256ba267d0ee7a9ce2381e7.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "JacsonPile",
+    "nick_name": "JacsonPile",
+    "user_id": 4100868,
+    "avatar": "https://cdn-img.gitcode.com/fd/fc/0158fd8f06cf225975d3bdee4ee985e395cfebb1f477158ddeecd63c154bc8f8.png?time=1779877241899",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "Zoey_Chau",
+    "nick_name": "Zoey",
+    "user_id": 2829270,
+    "avatar": "https://cdn-img.gitcode.com/fa/aa/5fa16123a66a06d5e3d6d06d5ceb494ae7549045c22b5ea627d24a3aa37cc751.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "molly6752",
+    "nick_name": "昏古七",
+    "user_id": 11448255,
+    "avatar": "https://cdn-img.gitcode.com/fe/fb/385fe3f555b0a1e5cb8f6b7e8d81501010c2e32981926498aaf6c3337a39bc60.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "ray_a",
+    "nick_name": "ᐇ",
+    "user_id": 11448239,
+    "avatar": "https://cdn-img.gitcode.com/cd/bc/602cd7b6c7cbd036fa4e7feb593077a8d4c8edf1fc5956af32c746d99e92ccf2.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "Abbcdf",
+    "nick_name": "Abbcdf",
+    "user_id": 11448222,
+    "avatar": "https://cdn-img.gitcode.com/df/af/dfa5fc7fd32844d825101da950886b2ab8ce512f5c87e5504bca84548e7fe7fa.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "Kevinpan",
+    "nick_name": "Kevin",
+    "user_id": 11448212,
+    "avatar": "https://cdn-img.gitcode.com/ab/ae/1ab32a44340e8608b16ead5b8cb46602796a6ec9d26c061f8e2ba85f6cbb0dc0.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "Audef",
+    "nick_name": "可乐",
+    "user_id": 11448216,
+    "avatar": "https://cdn-img.gitcode.com/fd/da/f5dd5ac1c7f00be1c66b193c2f7870b1b84f072a9ae246864ac7d6bdde2d4ff9.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "2301_81024878",
+    "nick_name": "2301_81024878",
+    "user_id": 7896251,
+    "avatar": "https://cdn-img.gitcode.com/eb/fb/97eb0030f79987b1c59ca9144c59069af8273cf2460800615e973f482558e4d9.png",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "gigt123",
+    "nick_name": "前程似锦",
+    "user_id": 11448142,
+    "avatar": "https://cdn-img.gitcode.com/de/cb/60d9e5c08b7fc3315d4af8e356daf0f9a41ea44652fa0bc75d236acab6a9ac26.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "nova0511",
+    "nick_name": "漫漫夏烨",
+    "user_id": 11063215,
+    "avatar": "https://cdn-img.gitcode.com/dd/bd/d0d519b9d07185c7205fb3b3d9ed9babeddb25d403b9eba96da4d220396b1dbc.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "zxy852963",
+    "nick_name": "赵欣阳",
+    "user_id": 11123491,
+    "avatar": "https://cdn-img.gitcode.com/db/ea/d70b0ea1dd2d60b56d6d96681b2f27218b11163ad6ab732ce162439ac9803359.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
     ]
   },
   {
@@ -10811,6 +11338,33 @@
     "avatar": "",
     "starred_repos": [
       "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "gcw_OUevnAsg",
+    "nick_name": "gcw_OUevnAsg",
+    "user_id": 11448923,
+    "avatar": "",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "gcw_CdQF5UB2",
+    "nick_name": "gcw_CdQF5UB2",
+    "user_id": 11448397,
+    "avatar": "",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "ETFBXNJH",
+    "nick_name": "瑄💅🏻",
+    "user_id": 11448232,
+    "avatar": "https://cdn-img.gitcode.com/bd/cd/5627b0d367c8817d6d2cbbfe99e952c6e2fba0d54e9d95858f70f5985b638df2.jpg",
+    "starred_repos": [
+      "Ascend/torchair"
     ]
   },
   {
@@ -14955,7 +15509,7 @@
   },
   {
     "user_name": "TensorLake",
-    "nick_name": "liwenjie",
+    "nick_name": "TensorLake",
     "user_id": 5587283,
     "avatar": null,
     "starred_repos": [

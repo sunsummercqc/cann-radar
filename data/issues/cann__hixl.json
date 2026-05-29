@@ -1,9 +1,31 @@
 [
   {
-    "iid": 303,
+    "iid": 305,
     "state": "opened",
-    "created_at": "2026-05-27",
+    "created_at": "2026-05-29",
     "closed_at": "",
+    "author": "qq_58644813",
+    "title": "[Bug-Report|缺陷反馈]: A2双机混部，总缓存1.6T缓存一半奔溃",
+    "labels": [],
+    "user_notes_count": 6,
+    "web_url": "https://gitcode.com/cann/hixl/issues/305"
+  },
+  {
+    "iid": 304,
+    "state": "opened",
+    "created_at": "2026-05-29",
+    "closed_at": "",
+    "author": "whh_smile",
+    "title": "[Bug-Report|缺陷反馈]: python样例push_blocks_sample.py执行失败，plog有报错cache_key: (18446744073709551615, 0) does not exist",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/304"
+  },
+  {
+    "iid": 303,
+    "state": "closed",
+    "created_at": "2026-05-27",
+    "closed_at": "2026-05-29",
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: conda里执行ut样例，执行失败2个用例",
     "labels": [],
@@ -29,7 +51,7 @@
     "author": "gcw_IHBa4woR",
     "title": "[Bug-Report|缺陷反馈]:  GLM-5.1 W4A8 PD分离+MoonCake Store场景，910C使用 ROCE（非HCCS）不定期出现MoonCake 传输失败问题",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/301"
   },
   {
@@ -67,20 +89,20 @@
   },
   {
     "iid": 297,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-26",
-    "closed_at": "",
+    "closed_at": "2026-05-29",
     "author": "bbsh112",
     "title": "[Question|问题咨询]: vllm服务化脚本添加使能uboe的环境变量后触发报错",
     "labels": [],
-    "user_notes_count": 4,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/hixl/issues/297"
   },
   {
     "iid": 296,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-26",
-    "closed_at": "",
+    "closed_at": "2026-05-29",
     "author": "Mknmkn123",
     "title": "[Documentation|文档反馈]: CS单边通信易用性问题汇总",
     "labels": [],
@@ -122,9 +144,9 @@
   },
   {
     "iid": 292,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-23",
-    "closed_at": "",
+    "closed_at": "2026-05-29",
     "author": "Menphina",
     "title": "[Question|问题咨询]: fabric_mem 在 D2rH/rH2D/rH2H/H2rH 方向触发 SDMA link error(0x222)",
     "labels": [],
@@ -133,13 +155,13 @@
   },
   {
     "iid": 291,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-22",
-    "closed_at": "",
+    "closed_at": "2026-05-29",
     "author": "hjx_here",
     "title": "[Feature-Request|需求反馈]: 需要mooncake支持torch_npu.empty_with_swapped_memory创建的虚拟内存tensor进行注册",
     "labels": [],
-    "user_notes_count": 14,
+    "user_notes_count": 15,
     "web_url": "https://gitcode.com/cann/hixl/issues/291"
   },
   {
