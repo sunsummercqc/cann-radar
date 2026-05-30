@@ -1,5 +1,16 @@
 [
   {
+    "iid": 50,
+    "state": "opened",
+    "created_at": "2026-05-30",
+    "closed_at": "",
+    "author": "Chengrui_06",
+    "title": "[Bug-Report|缺陷反馈]: hello world程序编译报错",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/50"
+  },
+  {
     "iid": 49,
     "state": "closed",
     "created_at": "2026-05-29",
@@ -18,7 +29,7 @@
     "author": "CANN2025",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.1】",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/48"
   },
   {
@@ -40,7 +51,7 @@
     "author": "CANN2025",
     "title": "【开发者说】观看直播参与直播答题互动赢定制T恤、毛毯！【5.28】",
     "labels": [],
-    "user_notes_count": 15,
+    "user_notes_count": 16,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/46"
   },
   {
@@ -73,7 +84,7 @@
     "author": "CANN2025",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【5.25】",
     "labels": [],
-    "user_notes_count": 15,
+    "user_notes_count": 16,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/43"
   },
   {

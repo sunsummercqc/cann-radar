@@ -30771,5 +30771,33 @@
     "total_repo_count": 0,
     "total_contributions": 0,
     "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "pengxiao",
+    "nick_name": "Peng Xiao",
+    "user_id": 4561812,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 11,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 228,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "gcw_gRmSQntE",
+    "nick_name": "gcw_gRmSQntE发给对方",
+    "user_id": 9602139,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 3,
+    "total_repo_count": 3,
+    "total_contributions": 82,
+    "user_type": "developer"
   }
 ]

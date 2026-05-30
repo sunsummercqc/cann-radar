@@ -1,5 +1,18 @@
 [
   {
+    "iid": 496,
+    "state": "closed",
+    "created_at": "2026-05-30",
+    "closed_at": "2026-05-30",
+    "author": "yurongkun",
+    "title": "[Bug]: Cannot re-initialize NPU in forked subprocess. To use NPU with multiprocessing, you must use the 'spawn' start method",
+    "labels": [
+      "bug"
+    ],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/496"
+  },
+  {
     "iid": 495,
     "state": "opened",
     "created_at": "2026-05-29",
@@ -7,18 +20,18 @@
     "author": "nichorians",
     "title": "[Feature]: view()的view_dtype的converter支持",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/495"
   },
   {
     "iid": 494,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-29",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "chen-yuqi-ba",
     "title": "[Bug]: torch_npu.npu_kv_rmsnorm_rope_cache_v2算子，原地输入在前面被view的情况下，2.7.1里这个算子不能reinplace，2.9.0里被reinplace了，是2.9.0有什么变更吗",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/494"
   },
   {
@@ -245,13 +258,13 @@
   },
   {
     "iid": 471,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-12",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "coconut_tree",
     "title": "[Usage]: npu_print 内部的实现方式是什么？",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/471"
   },
   {
@@ -267,13 +280,13 @@
   },
   {
     "iid": 469,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-08",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "zhengyaoff12",
     "title": "[Bug]: A5环境nz格式tensor在reduce-overhead模式下会自动转成nd格式",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/469"
   },
   {
@@ -289,24 +302,24 @@
   },
   {
     "iid": 467,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-06",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "gcw_Q6Mt7CFQ",
     "title": "[Doc]: 【文档捉虫-正确性问题】连接地址错误",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/467"
   },
   {
     "iid": 466,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-06",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "liuzhuya",
     "title": "[Bug]: 使用aggressive_opt_strategies报错",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/466"
   },
   {
@@ -344,9 +357,9 @@
   },
   {
     "iid": 462,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-28",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "Kiana1216",
     "title": "[Bug]: 输入tensor带转置时，且tensor有维度值为1的情况下（如[1,32,32]），转置前后会被添加reshape操作",
     "labels": [],
@@ -420,17 +433,6 @@
     "web_url": "https://gitcode.com/Ascend/torchair/issues/456"
   },
   {
-    "iid": 455,
-    "state": "opened",
-    "created_at": "2026-04-26",
-    "closed_at": "",
-    "author": "xinshuo",
-    "title": "[Doc]: 【定向文档捉虫】",
-    "labels": [],
-    "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/455"
-  },
-  {
     "iid": 454,
     "state": "closed",
     "created_at": "2026-04-25",
@@ -443,13 +445,13 @@
   },
   {
     "iid": 453,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-25",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "szhexin",
     "title": "[Feature]: 对原生接口新增参数",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/453"
   },
   {
@@ -460,7 +462,7 @@
     "author": "baidu_41609401",
     "title": "[Usage]:对yolov5进行推理时，报错AssertionError: Guard check failed: 5/0: tensor '___from_numpy(x)' dispatch key set mismatch. expected DispatchKeySet(CPU, BackendSelect, ADInplaceOrView), actual DispatchKeySet",
     "labels": [],
-    "user_notes_count": 4,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/451"
   },
   {
@@ -1125,13 +1127,13 @@
   },
   {
     "iid": 388,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-03-26",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "RQL7",
     "title": "[Doc]: 文档中依赖不全，安装后执行有模块未安装包错，也没有找到require文件",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/388"
   },
   {

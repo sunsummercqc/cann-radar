@@ -62,7 +62,7 @@
     "author": "weixin_48253078",
     "title": "[Bug-Report|缺陷反馈]: 重复使用aclmdlLoadFromMemWithMem和aclmdlUnload加载卸载模型内存泄漏问题",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/409"
   },
   {
@@ -73,7 +73,7 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]:gcc=14.3.0，python=3.14，其他均满足要求，master分支编ge包失败",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/408"
   },
   {
@@ -1002,9 +1002,9 @@
   },
   {
     "iid": 310,
-    "state": "closed",
+    "state": "opened",
     "created_at": "2026-04-16",
-    "closed_at": "2026-05-06",
+    "closed_at": "",
     "author": "xtzx_17",
     "title": "[Bug-Report|缺陷反馈]: GE datedump，全量dump，不同rank下的dump出来的文件个数不一致，疑似丢文件",
     "labels": [],

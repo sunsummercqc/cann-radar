@@ -1,9 +1,9 @@
 [
   {
     "iid": 42,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-29",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "liuyuanchen1",
     "title": "文档中版本信息错误",
     "labels": [],
@@ -12,9 +12,9 @@
   },
   {
     "iid": 41,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-29",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "Lee_worm",
     "title": "[Bug-Report|缺陷反馈]: fix 权重对齐hf后，训练mfu异常，8机直接到125%了",
     "labels": [],
@@ -67,13 +67,13 @@
   },
   {
     "iid": 36,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-26",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "Lee_worm",
     "title": "[Bug-Report|缺陷反馈]: 对比了下官方权重。当前torchtitan-npu在有些权重的ckpt存储中感觉存在丢失现象",
     "labels": [],
-    "user_notes_count": 4,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/36"
   },
   {
@@ -89,13 +89,13 @@
   },
   {
     "iid": 34,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-25",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "dty_30041779",
     "title": "[Bug-Report|缺陷反馈]: v0.2.2-dev分支，使能compile特性后，功能不通",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/34"
   },
   {
@@ -111,9 +111,9 @@
   },
   {
     "iid": 32,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-25",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "liuyuanchen1",
     "title": "文档内容错误",
     "labels": [],
@@ -276,13 +276,13 @@
   },
   {
     "iid": 17,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-08",
-    "closed_at": "",
+    "closed_at": "2026-05-30",
     "author": "weixin_59837223",
     "title": "[Bug-Report|缺陷反馈]: A3环境测试dsv4模型，pipeline_parallel_degree = 2切分失败",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/17"
   },
   {

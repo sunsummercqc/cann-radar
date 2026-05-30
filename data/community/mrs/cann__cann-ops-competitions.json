@@ -1,5 +1,82 @@
 [
   {
+    "iid": 231,
+    "state": "opened",
+    "title": "[团队提交] 算子挑战赛江山赛区预赛 Erf 算子提交： ** garbage factory **",
+    "created_at": "2026-05-30",
+    "updated_at": "2026-05-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "dfsreeeffd",
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/231"
+  },
+  {
+    "iid": 230,
+    "state": "opened",
+    "title": "[04-9] median算子开发 - 个人开发者 YO_Y_O_",
+    "created_at": "2026-05-30",
+    "updated_at": "2026-05-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "YO_Y_O_",
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/230"
+  },
+  {
+    "iid": 229,
+    "state": "opened",
+    "title": "update competition files",
+    "created_at": "2026-05-30",
+    "updated_at": "2026-05-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "HELLOI9",
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/229"
+  },
+  {
+    "iid": 228,
+    "state": "opened",
+    "title": "update: 提交 Erf 算子 - 咸粥联盟",
+    "created_at": "2026-05-30",
+    "updated_at": "2026-05-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "m0_72281197",
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/228"
+  },
+  {
+    "iid": 227,
+    "state": "opened",
+    "title": "[社区任务]Fmod算子开发方案",
+    "created_at": "2026-05-30",
+    "updated_at": "2026-05-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "szdaniel",
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/227"
+  },
+  {
+    "iid": 226,
+    "state": "closed",
+    "title": "delete",
+    "created_at": "2026-05-30",
+    "updated_at": "2026-05-30",
+    "merged_at": "",
+    "closed_at": "2026-05-30",
+    "author": "CyndiZ",
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/226"
+  },
+  {
+    "iid": 225,
+    "state": "opened",
+    "title": "[社区任务]RightShift算子开发方案",
+    "created_at": "2026-05-30",
+    "updated_at": "2026-05-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "CyndiZ",
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/225"
+  },
+  {
     "iid": 224,
     "state": "merged",
     "title": "fix task title",
@@ -169,7 +246,7 @@
     "state": "opened",
     "title": "[团队提交] 算子挑战赛江山赛区预赛 Erf 算子提交：njust_JDpan_Lemon",
     "created_at": "2026-05-28",
-    "updated_at": "2026-05-28",
+    "updated_at": "2026-05-30",
     "merged_at": "",
     "closed_at": "",
     "author": "JDpan_Lemon",
@@ -235,7 +312,7 @@
     "state": "opened",
     "title": "[比赛内容更新]: 更新复旦大学 CANN 启航营&校内自办赛内容",
     "created_at": "2026-05-27",
-    "updated_at": "2026-05-27",
+    "updated_at": "2026-05-30",
     "merged_at": "",
     "closed_at": "",
     "author": "ic_alter",
@@ -367,7 +444,7 @@
     "state": "opened",
     "title": "[团队提交] 算子挑战赛江山赛区预赛 Erf 算子提交： ** ob一串字母女士的乐队 **",
     "created_at": "2026-05-26",
-    "updated_at": "2026-05-26",
+    "updated_at": "2026-05-30",
     "merged_at": "",
     "closed_at": "",
     "author": "ww_3643",
@@ -1107,7 +1184,7 @@
     "updated_at": "2026-05-07",
     "merged_at": "2026-05-07",
     "closed_at": "",
-    "author": "gcw_3bzf0JPe",
+    "author": "jiangzeyu-2026",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/124"
   },
   {
@@ -2361,7 +2438,7 @@
     "updated_at": "2026-04-27",
     "merged_at": "2026-04-27",
     "closed_at": "",
-    "author": "gcw_3bzf0JPe",
+    "author": "jiangzeyu-2026",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/10"
   },
   {
