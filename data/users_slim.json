@@ -11248,6 +11248,18 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "gcw_2hddZfvJ",
+    "nick_name": "gcw_2hddZfvJ",
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 6,
+    "developer_source": "external"
+  },
+  {
     "user_name": "minni8866",
     "nick_name": "minni8866",
     "starred_repos": [
@@ -14822,6 +14834,18 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "smx001",
+    "nick_name": "smx",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 4,
+    "developer_source": "external"
+  },
+  {
     "user_name": "pengxiao",
     "nick_name": "Peng Xiao",
     "starred_repos": [
@@ -16658,15 +16682,15 @@
     "developer_source": "external"
   },
   {
-    "user_name": "gcw_EuXpLgHD",
-    "nick_name": "gcw_EuXpLgHD",
+    "user_name": "sunny1231234",
+    "nick_name": "sunny",
     "starred_repos": [
       "Ascend/torchair"
     ],
-    "user_type": "die_hard_fan",
+    "user_type": "developer",
     "fans_count": 0,
     "original_repo_count": 0,
-    "total_contributions": 0,
+    "total_contributions": 2,
     "developer_source": "external"
   },
   {
@@ -17140,18 +17164,6 @@
   {
     "user_name": "gc_85zSM8Cr",
     "nick_name": "gc_85zSM8Cr",
-    "starred_repos": [
-      "Ascend/torchair"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0,
-    "developer_source": "external"
-  },
-  {
-    "user_name": "gcw_IrKnIukY",
-    "nick_name": "gcw_IrKnIukY",
     "starred_repos": [
       "Ascend/torchair"
     ],

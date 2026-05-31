@@ -20236,20 +20236,6 @@
     "user_type": "die_hard_fan"
   },
   {
-    "user_name": "gcw_EuXpLgHD",
-    "nick_name": "gcw_EuXpLgHD",
-    "user_id": 10459569,
-    "starred_repos": [
-      "Ascend/torchair"
-    ],
-    "fans_count": 0,
-    "follow_count": 0,
-    "original_repo_count": 0,
-    "total_repo_count": 0,
-    "total_contributions": 0,
-    "user_type": "die_hard_fan"
-  },
-  {
     "user_name": "gcw_PPGrKyFR",
     "nick_name": "gcw_PPGrKyFR",
     "user_id": 9384507,
@@ -20934,20 +20920,6 @@
     "total_repo_count": 0,
     "total_contributions": 5,
     "user_type": "questioner"
-  },
-  {
-    "user_name": "gcw_IrKnIukY",
-    "nick_name": "gcw_IrKnIukY",
-    "user_id": 10128950,
-    "starred_repos": [
-      "Ascend/torchair"
-    ],
-    "fans_count": 0,
-    "follow_count": 0,
-    "original_repo_count": 0,
-    "total_repo_count": 0,
-    "total_contributions": 0,
-    "user_type": "die_hard_fan"
   },
   {
     "user_name": "gcw_ASZ5DmjM",
@@ -30798,6 +30770,48 @@
     "original_repo_count": 3,
     "total_repo_count": 3,
     "total_contributions": 82,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "smx001",
+    "nick_name": "smx",
+    "user_id": 10128950,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 4,
+    "user_type": "contributor"
+  },
+  {
+    "user_name": "gcw_2hddZfvJ",
+    "nick_name": "gcw_2hddZfvJ",
+    "user_id": 11465748,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 6,
+    "user_type": "contributor"
+  },
+  {
+    "user_name": "sunny1231234",
+    "nick_name": "sunny",
+    "user_id": 10459569,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 2,
     "user_type": "developer"
   }
 ]

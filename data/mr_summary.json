@@ -3,9 +3,9 @@
     {
       "name": "torchair",
       "path": "Ascend/torchair",
-      "merged": 2213,
-      "open": 255,
-      "total": 2468
+      "merged": 2214,
+      "open": 257,
+      "total": 2471
     },
     {
       "name": "ge",
@@ -25,8 +25,8 @@
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
       "merged": 381,
-      "open": 44,
-      "total": 425
+      "open": 45,
+      "total": 426
     },
     {
       "name": "torchtitan-npu",
@@ -36,6 +36,6 @@
       "total": 226
     }
   ],
-  "unique_authors": 681,
-  "generated_at": "2026-05-30"
+  "unique_authors": 683,
+  "generated_at": "2026-05-31"
 }

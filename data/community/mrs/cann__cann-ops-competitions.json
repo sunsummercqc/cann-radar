@@ -1,10 +1,43 @@
 [
   {
+    "iid": 234,
+    "state": "opened",
+    "title": "[团队提交] 算子挑战赛江山赛区预赛 Erf 算子提交： 冷冷的队伍",
+    "created_at": "2026-05-31",
+    "updated_at": "2026-05-31",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "m0_72496284",
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/234"
+  },
+  {
+    "iid": 233,
+    "state": "opened",
+    "title": "[团队提交] 算子挑战赛江山赛区预赛 Erf 算子提交： **紫金山第一忧郁**",
+    "created_at": "2026-05-31",
+    "updated_at": "2026-05-31",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "klein_gt",
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/233"
+  },
+  {
+    "iid": 232,
+    "state": "opened",
+    "title": "[团队提交] 算子挑战赛江山赛区决赛 Erf 算子提交：让南理再次伟大",
+    "created_at": "2026-05-31",
+    "updated_at": "2026-05-31",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "gggxr0207",
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/232"
+  },
+  {
     "iid": 231,
     "state": "opened",
     "title": "[团队提交] 算子挑战赛江山赛区预赛 Erf 算子提交： ** garbage factory **",
     "created_at": "2026-05-30",
-    "updated_at": "2026-05-30",
+    "updated_at": "2026-05-31",
     "merged_at": "",
     "closed_at": "",
     "author": "dfsreeeffd",

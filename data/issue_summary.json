@@ -26,15 +26,15 @@
       "path": "cann/graph-autofusion",
       "avg_days": 16.7,
       "closed": 49,
-      "opened": 5
+      "opened": 6
     },
     {
       "name": "torchair",
       "path": "Ascend/torchair",
       "avg_days": 19.6,
       "closed": 337,
-      "opened": 16
+      "opened": 17
     }
   ],
-  "generated_at": "2026-05-30"
+  "generated_at": "2026-05-31"
 }

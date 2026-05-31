@@ -1,5 +1,16 @@
 [
   {
+    "iid": 71,
+    "state": "opened",
+    "created_at": "2026-05-31",
+    "closed_at": "",
+    "author": "gcw_2hddZfvJ",
+    "title": "[Documentation|文档反馈]: ub应该改为UB",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/71"
+  },
+  {
     "iid": 60,
     "state": "opened",
     "created_at": "2026-05-30",
