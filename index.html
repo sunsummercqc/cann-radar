@@ -2047,19 +2047,18 @@ async function main() {
       });
       window.addEventListener('resize', () => mrChart2.resize());
 
-      // 14天未更新的开放MR统计
+      // 开启时间超过14天的MR统计
       const fourteenDaysMs = 14 * 24 * 3600 * 1000;
       const nowMs = Date.now();
 
       const staleMRs = mrs.filter(m => {
         if (m.state !== 'opened') return false;
-        const updatedAt = m.updated_at || m.created_at;
-        if (!updatedAt) return false;
-        const updated = new Date(updatedAt).getTime();
-        return (nowMs - updated) > fourteenDaysMs;
+        if (!m.created_at) return false;
+        const created = new Date(m.created_at).getTime();
+        return (nowMs - created) > fourteenDaysMs;
       }).sort((a, b) => {
-        const aTime = new Date(a.updated_at || a.created_at).getTime();
-        const bTime = new Date(b.updated_at || b.created_at).getTime();
+        const aTime = new Date(a.created_at).getTime();
+        const bTime = new Date(b.created_at).getTime();
         return aTime - bTime; // 升序，最老的优先
       });
 
@@ -2082,7 +2081,7 @@ async function main() {
           <div style="border-top:1px solid var(--border-2);padding-top:16px;margin-top:16px">
             <div style="font-size:14px;font-weight:600;color:var(--text);margin-bottom:12px">特殊规则统计</div>
             <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px">
-              <div style="font-size:13px;font-weight:600;color:#f5a623;margin-bottom:8px">超过14天未更新的开放MR (<span id="stale-mr-count">${staleMRData.length}</span>)</div>
+              <div style="font-size:13px;font-weight:600;color:#f5a623;margin-bottom:8px">开启时间超过14天的MR (<span id="stale-mr-count">${staleMRData.length}</span>)</div>
               <div class="table-wrapper">
               <table class="user-table" id="stale-mr-table">
                 <thead>
@@ -2226,7 +2225,7 @@ async function main() {
           <div style="border-top:1px solid var(--border-2);padding-top:16px;margin-top:16px">
             <div style="font-size:14px;font-weight:600;color:var(--text);margin-bottom:12px">特殊规则统计</div>
             <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px;text-align:center;color:var(--text-3);font-size:12px">
-              ✓ 无超过14天未更新的开放MR
+              ✓ 无开启时间超过14天的MR
             </div>
           </div>
         `;
