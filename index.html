@@ -2063,51 +2063,106 @@ async function main() {
         return aTime - bTime; // 升序，最老的优先
       });
 
-      // 渲染HTML结构
       if (staleMRs.length > 0) {
+        const staleMRData = staleMRs.map(m => {
+          const createdAt = m.created_at;
+          const openDays = Math.floor((nowMs - new Date(createdAt).getTime()) / (24 * 3600 * 1000));
+          return { ...m, openDays };
+        });
+
+        let staleMRFilters = { iid: new Set(), author: new Set() };
+        let staleMRSortDir = 'asc';
+        let staleMRPage = 1;
+        const MR_PAGE_SIZE = 20;
+
+        const uniqueIids = [...new Set(staleMRData.map(m => m.iid))].sort((a, b) => a - b);
+        const uniqueAuthors = [...new Set(staleMRData.map(m => m.author).filter(Boolean))].sort();
+
         const staleHtml = `
           <div style="border-top:1px solid var(--border-2);padding-top:16px;margin-top:16px">
             <div style="font-size:14px;font-weight:600;color:var(--text);margin-bottom:12px">特殊规则统计</div>
             <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px">
-              <div style="font-size:13px;font-weight:600;color:#f5a623;margin-bottom:8px">超过14天未更新的开放MR (${staleMRs.length})</div>
-              <div id="stale-mr-list" style="font-size:12px;color:var(--text-3);line-height:1.6"></div>
+              <div style="font-size:13px;font-weight:600;color:#f5a623;margin-bottom:8px">超过14天未更新的开放MR (<span id="stale-mr-count">${staleMRData.length}</span>)</div>
+              <div class="table-wrapper">
+              <table class="user-table" id="stale-mr-table">
+                <thead>
+                  <tr>
+                    <th>标题</th>
+                    <th>
+                      <div class="filter-container" id="stale-mr-filter-iid-container">
+                        <div class="filter-btn">
+                          PR号 <span class="filter-badge"></span><span class="icon">▼</span>
+                        </div>
+                        <div class="filter-popup">
+                          <div class="filter-options" id="stale-mr-filter-iid">
+                            ${uniqueIids.map(v => `<label class="filter-option-label"><input type="checkbox" value="${v}"> ${v}</label>`).join('')}
+                          </div>
+                        </div>
+                      </div>
+                    </th>
+                    <th>
+                      <div class="filter-container" id="stale-mr-filter-author-container">
+                        <div class="filter-btn">
+                          提出人 <span class="filter-badge"></span><span class="icon">▼</span>
+                        </div>
+                        <div class="filter-popup" style="min-width:180px">
+                          <input type="text" id="stale-mr-author-search" placeholder="搜索提出人..." style="width:100%;padding:6px 8px;margin-bottom:6px;border:1px solid var(--border-3);border-radius:4px;font-size:12px;background:var(--surface);color:var(--text)">
+                          <div class="filter-options" id="stale-mr-filter-author">
+                            ${uniqueAuthors.map(v => `<label class="filter-option-label"><input type="checkbox" value="${v}"> ${v}</label>`).join('')}
+                          </div>
+                        </div>
+                      </div>
+                    </th>
+                    <th><button class="sort-btn active" id="stale-mr-sort-btn" type="button">开启时长 ↑</button></th>
+                  </tr>
+                </thead>
+                <tbody id="stale-mr-tbody"></tbody>
+              </table>
+              </div>
               <div id="stale-mr-pagination" class="pagination" style="margin-top:8px"></div>
             </div>
           </div>
         `;
         document.getElementById('stale-mr-stats').innerHTML = staleHtml;
 
-        // 分页渲染
-        const MR_PAGE_SIZE = 20;
-        let staleMRPage = 1;
+        function getFilteredStaleMRs() {
+          return staleMRData.filter(m => {
+            if (staleMRFilters.iid.size && !staleMRFilters.iid.has(String(m.iid))) return false;
+            if (staleMRFilters.author.size && !staleMRFilters.author.has(m.author)) return false;
+            return true;
+          }).sort((a, b) => {
+            return (a.openDays - b.openDays) * (staleMRSortDir === 'asc' ? 1 : -1);
+          });
+        }
 
-        function renderStaleMRList() {
-          const total = staleMRs.length;
+        function renderStaleMRTable() {
+          const filtered = getFilteredStaleMRs();
+          const total = filtered.length;
           const totalPages = Math.ceil(total / MR_PAGE_SIZE);
           const start = (staleMRPage - 1) * MR_PAGE_SIZE;
-          const pageItems = staleMRs.slice(start, start + MR_PAGE_SIZE);
+          const pageItems = filtered.slice(start, start + MR_PAGE_SIZE);
 
-          const listHtml = pageItems.map((m, idx) => {
-            const updatedAt = m.updated_at || m.created_at;
-            const days = Math.floor((nowMs - new Date(updatedAt).getTime()) / (24 * 3600 * 1000));
-            const url = m.web_url || `https://gitcode.com/${repoPath}/merge_requests/${m.iid}`;
-            const title = (m.title || '').slice(0, 50);
-            return `<div style="margin-bottom:4px">
-              <span style="color:var(--text-4);font-size:11px">${start + idx + 1}</span>
-              <a href="${url}" target="_blank" style="color:var(--accent);text-decoration:none">#${m.iid}</a>
-              · ${title}
-              · 最后更新 ${updatedAt} · 已 ${days} 天
-            </div>`;
-          }).join('');
-          document.getElementById('stale-mr-list').innerHTML = listHtml;
+          document.getElementById('stale-mr-count').textContent = total;
 
-          // 分页控件
-          const pagContainer = document.getElementById('stale-mr-pagination');
-          if (totalPages <= 1) {
-            pagContainer.innerHTML = '';
-            return;
+          const tbody = document.getElementById('stale-mr-tbody');
+          if (pageItems.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="4" style="text-align:center;padding:20px;color:var(--text-4)">暂无匹配数据</td></tr>';
+          } else {
+            tbody.innerHTML = pageItems.map(m => {
+              const url = m.web_url || `https://gitcode.com/${repoPath}/merge_requests/${m.iid}`;
+              const fullTitle = (m.title || '').replace(/"/g, '&quot;');
+              const displayTitle = (m.title || '').length > 50 ? (m.title || '').slice(0, 50) + '…' : (m.title || '');
+              return `<tr>
+                <td title="${fullTitle}" style="max-width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${displayTitle}</td>
+                <td><a href="${url}" target="_blank" style="color:var(--accent);text-decoration:none">#${m.iid}</a></td>
+                <td>${m.author || '-'}</td>
+                <td>${m.openDays} 天</td>
+              </tr>`;
+            }).join('');
           }
 
+          const pagContainer = document.getElementById('stale-mr-pagination');
+          if (totalPages <= 1) { pagContainer.innerHTML = ''; return; }
           let pagHtml = '';
           if (staleMRPage > 1) pagHtml += `<button class="page-btn" data-page="${staleMRPage-1}">‹</button>`;
           const range = 5;
@@ -2121,14 +2176,50 @@ async function main() {
           pagContainer.innerHTML = pagHtml;
         }
 
-        renderStaleMRList();
+        renderStaleMRTable();
 
-        // 分页点击事件
+        ['stale-mr-filter-iid', 'stale-mr-filter-author'].forEach(filterId => {
+          const key = filterId === 'stale-mr-filter-iid' ? 'iid' : 'author';
+          document.getElementById(filterId).addEventListener('change', () => {
+            const checked = document.getElementById(filterId).querySelectorAll('input:checked');
+            staleMRFilters[key] = new Set([...checked].map(cb => cb.value));
+            const container = document.getElementById(filterId + '-container');
+            const badge = container.querySelector('.filter-badge');
+            const btn = container.querySelector('.filter-btn');
+            if (checked.length > 0) {
+              badge.textContent = checked.length;
+              badge.classList.add('active');
+              btn.classList.add('active-filter');
+            } else {
+              badge.classList.remove('active');
+              btn.classList.remove('active-filter');
+            }
+            staleMRPage = 1;
+            renderStaleMRTable();
+          });
+        });
+
+        document.getElementById('stale-mr-author-search').addEventListener('input', function() {
+          const query = this.value.toLowerCase();
+          const labels = document.getElementById('stale-mr-filter-author').querySelectorAll('.filter-option-label');
+          labels.forEach(label => {
+            const text = label.textContent.toLowerCase();
+            label.style.display = text.includes(query) ? '' : 'none';
+          });
+        });
+
+        document.getElementById('stale-mr-sort-btn').addEventListener('click', function() {
+          staleMRSortDir = staleMRSortDir === 'asc' ? 'desc' : 'asc';
+          this.textContent = `开启时长 ${staleMRSortDir === 'asc' ? '↑' : '↓'}`;
+          staleMRPage = 1;
+          renderStaleMRTable();
+        });
+
         document.getElementById('stale-mr-pagination').addEventListener('click', e => {
           const btn = e.target.closest('.page-btn');
           if (!btn) return;
           staleMRPage = Number(btn.dataset.page);
-          renderStaleMRList();
+          renderStaleMRTable();
         });
       } else {
         document.getElementById('stale-mr-stats').innerHTML = `
