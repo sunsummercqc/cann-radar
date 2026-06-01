@@ -1,5 +1,27 @@
 [
   {
+    "iid": 3308,
+    "state": "opened",
+    "title": "【PR】: 【Bug修复】TensorMoveDeletePass增加std::stoi异常安全处理",
+    "created_at": "2026-06-01",
+    "updated_at": "2026-06-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "Jiaming_Zhang",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3308"
+  },
+  {
+    "iid": 3307,
+    "state": "opened",
+    "title": "【PR】: sync develop to master 0601",
+    "created_at": "2026-06-01",
+    "updated_at": "2026-06-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "yangyongqiang0606",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3307"
+  },
+  {
     "iid": 3306,
     "state": "opened",
     "title": "【PR】: 简要描述",
@@ -48,7 +70,7 @@
     "state": "opened",
     "title": "【PR】: [feat] 新增算子core_num校验接口",
     "created_at": "2026-06-01",
-    "updated_at": "2026-06-01",
+    "updated_at": "2026-06-02",
     "merged_at": "",
     "closed_at": "",
     "author": "KenChow",
@@ -67,11 +89,11 @@
   },
   {
     "iid": 3300,
-    "state": "opened",
+    "state": "merged",
     "title": "【fix】: aiv概率core问题修复",
     "created_at": "2026-06-01",
     "updated_at": "2026-06-01",
-    "merged_at": "",
+    "merged_at": "2026-06-01",
     "closed_at": "",
     "author": "chenyia",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3300"
@@ -331,11 +353,11 @@
   },
   {
     "iid": 3276,
-    "state": "opened",
+    "state": "merged",
     "title": "fix: fix te user config error E40022 log",
     "created_at": "2026-06-01",
     "updated_at": "2026-06-01",
-    "merged_at": "",
+    "merged_at": "2026-06-01",
     "closed_at": "",
     "author": "lushiming0",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3276"
@@ -3062,7 +3084,7 @@
     "state": "opened",
     "title": "feat: 自定义算子多模型支持",
     "created_at": "2026-05-20",
-    "updated_at": "2026-05-30",
+    "updated_at": "2026-06-02",
     "merged_at": "",
     "closed_at": "",
     "author": "Chang-an-HW",
@@ -26387,17 +26409,6 @@
     "closed_at": "2026-03-10",
     "author": "liuyuanchen1",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/899"
-  },
-  {
-    "iid": 898,
-    "state": "merged",
-    "title": "【fix】：Fix ut st",
-    "created_at": "2026-03-05",
-    "updated_at": "2026-03-12",
-    "merged_at": "2026-03-12",
-    "closed_at": "",
-    "author": "tangqunzhang",
-    "web_url": "https://gitcode.com/cann/ge/merge_requests/898"
   },
   {
     "iid": 898,

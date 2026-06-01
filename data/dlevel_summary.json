@@ -1,22 +1,22 @@
 {
   "generated_at": "2026-06-01",
   "global_counts": {
-    "d0": 1203,
-    "d1": 734,
+    "d0": 1202,
+    "d1": 736,
     "d2": 537,
-    "total": 2474,
-    "d0_external": 864,
-    "d1_external": 534,
+    "total": 2475,
+    "d0_external": 863,
+    "d1_external": 536,
     "d2_external": 156
   },
   "repo_counts": {
     "cann/ge": {
-      "d0": 452,
-      "d1": 216,
+      "d0": 451,
+      "d1": 217,
       "d2": 170,
       "total": 838,
-      "d0_external": 189,
-      "d1_external": 122,
+      "d0_external": 188,
+      "d1_external": 123,
       "d2_external": 11,
       "discussion_d1_external": 20
     },
@@ -52,11 +52,11 @@
     },
     "Ascend/torchair": {
       "d0": 623,
-      "d1": 310,
+      "d1": 311,
       "d2": 307,
-      "total": 1240,
+      "total": 1241,
       "d0_external": 407,
-      "d1_external": 197,
+      "d1_external": 198,
       "d2_external": 114,
       "discussion_d1_external": 57
     }
@@ -1263,9 +1263,10 @@
       {
         "user_name": "Jiaming_Zhang",
         "nick_name": "Jiaming_Zhang",
-        "level": "d0",
+        "level": "d1",
         "sources": [
-          "fork"
+          "fork",
+          "pr"
         ],
         "star_time": "",
         "fans_count": null,
@@ -60480,6 +60481,20 @@
           "cann/graph-autofusion"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "ysidjskda",
+        "nick_name": "ysidjskda",
+        "level": "d1",
+        "sources": [
+          "issue"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
+        "developer_source": "external"
       },
       {
         "user_name": "yskhhh",

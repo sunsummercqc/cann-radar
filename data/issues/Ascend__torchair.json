@@ -1,5 +1,16 @@
 [
   {
+    "iid": 499,
+    "state": "opened",
+    "created_at": "2026-06-02",
+    "closed_at": "",
+    "author": "ysidjskda",
+    "title": "[Bug]: 怎么查明match_times和effect_times差异原因，为什么某些融合算子不生效",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/499"
+  },
+  {
     "iid": 498,
     "state": "opened",
     "created_at": "2026-06-01",
