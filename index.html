@@ -489,6 +489,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
 <script>
 const COLORS = {
   d0: '#4ecdc4',
@@ -2081,7 +2082,10 @@ async function main() {
           <div style="border-top:1px solid var(--border-2);padding-top:16px;margin-top:16px">
             <div style="font-size:14px;font-weight:600;color:var(--text);margin-bottom:12px">特殊规则统计</div>
             <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px">
-              <div style="font-size:13px;font-weight:600;color:#f5a623;margin-bottom:8px">开启时间超过14天的MR (<span id="stale-mr-count">${staleMRData.length}</span>)</div>
+              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+                <div style="font-size:13px;font-weight:600;color:#f5a623">开启时间超过14天的MR (<span id="stale-mr-count">${staleMRData.length}</span>)</div>
+                <button id="stale-mr-export-btn" style="padding:4px 12px;font-size:12px;background:var(--accent);color:#fff;border:none;border-radius:4px;cursor:pointer">导出 Excel</button>
+              </div>
               <div class="table-wrapper">
               <table class="user-table" id="stale-mr-table">
                 <thead>
@@ -2219,6 +2223,23 @@ async function main() {
           if (!btn) return;
           staleMRPage = Number(btn.dataset.page);
           renderStaleMRTable();
+        });
+
+        document.getElementById('stale-mr-export-btn').addEventListener('click', function() {
+          const filtered = getFilteredStaleMRs();
+          const data = filtered.map(m => ({
+            '标题': m.title || '',
+            'PR号': '#' + m.iid,
+            '提出人': m.author || '',
+            '开启时长(天)': m.openDays,
+            '创建时间': m.created_at || '',
+            '链接': m.web_url || `https://gitcode.com/${repoPath}/merge_requests/${m.iid}`
+          }));
+          const ws = XLSX.utils.json_to_sheet(data);
+          ws['!cols'] = [{ wch: 50 }, { wch: 8 }, { wch: 20 }, { wch: 12 }, { wch: 12 }, { wch: 60 }];
+          const wb = XLSX.utils.book_new();
+          XLSX.utils.book_append_sheet(wb, ws, '超过14天MR');
+          XLSX.writeFile(wb, `${repoPath.replace('/', '_')}_stale_mrs.xlsx`);
         });
       } else {
         document.getElementById('stale-mr-stats').innerHTML = `
