@@ -1,5 +1,16 @@
 [
   {
+    "iid": 498,
+    "state": "opened",
+    "created_at": "2026-06-01",
+    "closed_at": "",
+    "author": "Kiana1216",
+    "title": "[Feature]: codecheck失败的链接跳转不清晰",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/498"
+  },
+  {
     "iid": 497,
     "state": "opened",
     "created_at": "2026-05-31",

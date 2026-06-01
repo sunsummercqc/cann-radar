@@ -1,5 +1,49 @@
 [
   {
+    "iid": 342,
+    "state": "opened",
+    "created_at": "2026-06-01",
+    "closed_at": "",
+    "author": "super_chao_x",
+    "title": "[Bug-Report|缺陷反馈]: ",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/342"
+  },
+  {
+    "iid": 341,
+    "state": "opened",
+    "created_at": "2026-06-01",
+    "closed_at": "",
+    "author": "whh_smile",
+    "title": "[Bug-Report|缺陷反馈]: deallocate_blocks_cache中cache配置重复，无报错",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/341"
+  },
+  {
+    "iid": 340,
+    "state": "closed",
+    "created_at": "2026-06-01",
+    "closed_at": "2026-06-01",
+    "author": "OPALUS",
+    "title": "[Question|问题咨询]: 注冊内存失败，报错]Failed to register mem",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/340"
+  },
+  {
+    "iid": 339,
+    "state": "opened",
+    "created_at": "2026-06-01",
+    "closed_at": "",
+    "author": "whh_smile",
+    "title": "[Documentation|文档反馈]: SECURITY.md  权限表示法中使用了破折号而非连字符",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/339"
+  },
+  {
     "iid": 305,
     "state": "opened",
     "created_at": "2026-05-29",
@@ -117,7 +161,7 @@
     "author": "wufeng15",
     "title": "[Documentation|文档反馈]: 新增的hixl 支持A5的特性，请补充example工程和 D2D、RH2D、H2H等",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/295"
   },
   {
@@ -1327,7 +1371,7 @@
     "author": "zhaozhihui",
     "title": "[RFC]: HIXL支持异步建链/断链",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/172"
   },
   {
@@ -1376,9 +1420,9 @@
   },
   {
     "iid": 167,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-03-26",
-    "closed_at": "",
+    "closed_at": "2026-06-01",
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: 两个Sever端，互相发起建链，只有一条链路建链成功，另一条链路建链超时失败",
     "labels": [],

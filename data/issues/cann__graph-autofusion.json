@@ -1,9 +1,20 @@
 [
   {
-    "iid": 71,
+    "iid": 72,
     "state": "opened",
-    "created_at": "2026-05-31",
+    "created_at": "2026-06-01",
     "closed_at": "",
+    "author": "JaydenChu",
+    "title": "[Bug-Report|缺陷反馈]: 后端输入图中存在悬空节点时会导致codegen阶段出现coredump问题",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/72"
+  },
+  {
+    "iid": 71,
+    "state": "closed",
+    "created_at": "2026-05-31",
+    "closed_at": "2026-06-01",
     "author": "gcw_2hddZfvJ",
     "title": "[Documentation|文档反馈]: ub应该改为UB",
     "labels": [],
