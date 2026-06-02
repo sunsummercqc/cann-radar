@@ -34,9 +34,9 @@
   },
   {
     "iid": 6,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-16",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "szdaniel",
     "title": "[Question|问题咨询]: SlideTilingAttention A100耗时疑问",
     "labels": [],

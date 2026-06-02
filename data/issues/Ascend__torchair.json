@@ -1,5 +1,82 @@
 [
   {
+    "iid": 506,
+    "state": "opened",
+    "created_at": "2026-06-02",
+    "closed_at": "",
+    "author": "u010470851",
+    "title": "[Bug]: ",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/506"
+  },
+  {
+    "iid": 505,
+    "state": "opened",
+    "created_at": "2026-06-02",
+    "closed_at": "",
+    "author": "qq_43844249",
+    "title": "[Bug]: 循环创建graph model执行不同用例的图模式，部分用例会出现失败，单跑失败的用例是成功的",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/505"
+  },
+  {
+    "iid": 504,
+    "state": "opened",
+    "created_at": "2026-06-02",
+    "closed_at": "",
+    "author": "yayahello",
+    "title": "[Usage]: aclGraph static kernel 在线编译失败",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/504"
+  },
+  {
+    "iid": 503,
+    "state": "opened",
+    "created_at": "2026-06-02",
+    "closed_at": "",
+    "author": "hitwdy",
+    "title": "[Bug]: aten._assert_scalar 算子走torch.compile未注册到  lowering  白名单导致报错",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/503"
+  },
+  {
+    "iid": 502,
+    "state": "opened",
+    "created_at": "2026-06-02",
+    "closed_at": "",
+    "author": "u010986451",
+    "title": "[Usage]: 我们在qwen3迁移到npu的过程中，想开启aclgraph，结果始终开不起来",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/502"
+  },
+  {
+    "iid": 501,
+    "state": "opened",
+    "created_at": "2026-06-02",
+    "closed_at": "",
+    "author": "LinyuanLi0046",
+    "title": "[Bug]: A5 环境 acl graph中使用with torch.npu.npugraph_ex.scope.limit_core_num 控核不生效",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/501"
+  },
+  {
+    "iid": 500,
+    "state": "opened",
+    "created_at": "2026-06-02",
+    "closed_at": "",
+    "author": "wangqinyi817",
+    "title": "[Bug]: 异常场景_tensor_detail传入True的枚举值1，报错信息不符合预期",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/500"
+  },
+  {
     "iid": 499,
     "state": "opened",
     "created_at": "2026-06-02",
@@ -18,18 +95,18 @@
     "author": "Kiana1216",
     "title": "[Feature]: codecheck失败的链接跳转不清晰",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/498"
   },
   {
     "iid": 497,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-31",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "wuziyu",
     "title": "[Feature]: [Feature]: AlltoAllvQuantGroupedMatmul&QuantGroupedMatmulAlltoAllv&AlltoAllvGroupedMatmul&GroupedMatmulAlltoAllv算子需要增加comm_mode参数",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/497"
   },
   {

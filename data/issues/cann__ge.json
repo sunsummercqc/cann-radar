@@ -1,5 +1,60 @@
 [
   {
+    "iid": 424,
+    "state": "opened",
+    "created_at": "2026-06-02",
+    "closed_at": "",
+    "author": "chenweiheng",
+    "title": "[Feature-Request|需求反馈]: 新增StridedSliceV2 lowering注册",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/424"
+  },
+  {
+    "iid": 423,
+    "state": "opened",
+    "created_at": "2026-06-02",
+    "closed_at": "",
+    "author": "pan-tong",
+    "title": "[Feature-Request|需求反馈]: 调整常量折叠V2 soname匹配规则",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/423"
+  },
+  {
+    "iid": 422,
+    "state": "closed",
+    "created_at": "2026-06-02",
+    "closed_at": "2026-06-02",
+    "author": "small-hzyyyyy",
+    "title": "[Question|问题咨询]: ReduceMax算子通过onnx转om后执行结果shape错误",
+    "labels": [],
+    "user_notes_count": 6,
+    "web_url": "https://gitcode.com/cann/ge/issues/422"
+  },
+  {
+    "iid": 421,
+    "state": "closed",
+    "created_at": "2026-06-02",
+    "closed_at": "2026-06-02",
+    "author": "song-dongdong5",
+    "title": "[Question|问题咨询]: exeom解析网站无法打开，后续是否还能使用",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/ge/issues/421"
+  },
+  {
+    "iid": 420,
+    "state": "closed",
+    "created_at": "2026-06-02",
+    "closed_at": "2026-06-02",
+    "author": "lyppp11",
+    "title": "[Question|问题咨询]: 初次学习ascendc ,算子编译不过",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/ge/issues/420"
+  },
+  {
     "iid": 419,
     "state": "opened",
     "created_at": "2026-06-01",
@@ -7,7 +62,7 @@
     "author": "jichen123",
     "title": "[Documentation|文档反馈]: 安装三方依赖时下载速度过慢，建议参考官方的方式增加对应pip源配置的提示",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/419"
   },
   {
@@ -18,7 +73,7 @@
     "author": "jichen123",
     "title": "[Feature-Request|需求反馈]: 手动安装软件包方式当前针对daily和已发布版本，存在不一致的安装体验",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/418"
   },
   {
@@ -29,7 +84,7 @@
     "author": "jichen123",
     "title": "[Bug-Report|缺陷反馈]: quick_start中一站式开发平台描述存在误导",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/417"
   },
   {
@@ -106,7 +161,7 @@
     "author": "xiong-pan",
     "title": "[Question|问题咨询]: 对接cmo算子，图编译时报错",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/410"
   },
   {
@@ -331,13 +386,13 @@
   },
   {
     "iid": 388,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-19",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "stevenaw0",
     "title": "[Bug-Report|缺陷反馈]: loop_ops.h:1116:89: error: no matching function for call to ‘StrJoin(const std::vector<long int>&)’",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/388"
   },
   {
@@ -397,9 +452,9 @@
   },
   {
     "iid": 382,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-14",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "sisyphus11",
     "title": "[Bug-Report|缺陷反馈]: pytorch通过torch air转om过程中pytorch 模型输入与om模型输入数量与顺序不一样",
     "labels": [],
@@ -518,9 +573,9 @@
   },
   {
     "iid": 371,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-09",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "sjtulxh",
     "title": "[Question|问题咨询]: 算子调用时找不到tiling函数",
     "labels": [],
@@ -529,9 +584,9 @@
   },
   {
     "iid": 370,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-09",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "Amengclass",
     "title": "[Question|问题咨询]: GE组件中的InferShapeForPreprocess中出现报错",
     "labels": [],
@@ -540,9 +595,9 @@
   },
   {
     "iid": 369,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-09",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "Mrxxx7",
     "title": "[Question|问题咨询]: fusion pass问题咨询",
     "labels": [],

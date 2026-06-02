@@ -1,13 +1,46 @@
 [
   {
+    "iid": 345,
+    "state": "opened",
+    "created_at": "2026-06-02",
+    "closed_at": "",
+    "author": "postWater1",
+    "title": "[Question|问题咨询]: A2双机混部+VLLMAscend18.0+mooncake backend场景，部分链路建链失败，报错Failed to connect to target: xxxxx, status: 503900",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/345"
+  },
+  {
+    "iid": 344,
+    "state": "closed",
+    "created_at": "2026-06-02",
+    "closed_at": "2026-06-02",
+    "author": "p_ch",
+    "title": "[Bug-Report|缺陷反馈]: Failed to link clusters",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/344"
+  },
+  {
+    "iid": 343,
+    "state": "opened",
+    "created_at": "2026-06-02",
+    "closed_at": "",
+    "author": "hucheng-star",
+    "title": "[Bug-Report|缺陷反馈]: GLM5.1 PD分离场景kv cache传输超过200ms+，异常",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/343"
+  },
+  {
     "iid": 342,
     "state": "opened",
     "created_at": "2026-06-01",
     "closed_at": "",
     "author": "super_chao_x",
-    "title": "[Bug-Report|缺陷反馈]: ",
+    "title": "[Bug-Report|缺陷反馈]: 使用GetTransferStatus 批量获取接口后，存在user data等于空，业务无法正常处理",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/hixl/issues/342"
   },
   {
@@ -18,7 +51,7 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: deallocate_blocks_cache中cache配置重复，无报错",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/341"
   },
   {
@@ -29,14 +62,14 @@
     "author": "OPALUS",
     "title": "[Question|问题咨询]: 注冊内存失败，报错]Failed to register mem",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/340"
   },
   {
     "iid": 339,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-01",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: SECURITY.md  权限表示法中使用了破折号而非连字符",
     "labels": [],
@@ -111,13 +144,13 @@
   },
   {
     "iid": 299,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-26",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: 容器场景跑hixl用例socket失败",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/299"
   },
   {
@@ -183,7 +216,7 @@
     "author": "advheng",
     "title": "[Question|问题咨询]: hixl 与 MemFabric 在mooncake中集成时在功能、底层传输路径上有何异同，两者是否有依赖关系呢？",
     "labels": [],
-    "user_notes_count": 4,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/hixl/issues/293"
   },
   {
@@ -320,9 +353,9 @@
   },
   {
     "iid": 280,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-19",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "ZhaoBaiwei",
     "title": "[RFC]: HIXL 编译&LLT 在GCC14版本下验证",
     "labels": [],
@@ -694,9 +727,9 @@
   },
   {
     "iid": 246,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-06",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "ZhaoBaiwei",
     "title": "[RFC]: HIXL仓重复头文件整改",
     "labels": [],
@@ -815,9 +848,9 @@
   },
   {
     "iid": 229,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-28",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "xumengxuan",
     "title": "[RFC]：组件依赖工程公共仓",
     "labels": [],
@@ -1046,9 +1079,9 @@
   },
   {
     "iid": 207,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-20",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "Ming-Yan",
     "title": "[RFC]: HIXL支持异步建链/断链实现",
     "labels": [],
@@ -1365,13 +1398,13 @@
   },
   {
     "iid": 172,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-02",
-    "closed_at": "",
+    "closed_at": "2026-06-02",
     "author": "zhaozhihui",
     "title": "[RFC]: HIXL支持异步建链/断链",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/172"
   },
   {
