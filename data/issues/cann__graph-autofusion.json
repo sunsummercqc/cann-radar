@@ -1,5 +1,49 @@
 [
   {
+    "iid": 84,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "gcw_V3YyYBt1",
+    "title": "[Bug-Report|缺陷反馈]: power性能建模不准",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/84"
+  },
+  {
+    "iid": 83,
+    "state": "closed",
+    "created_at": "2026-06-03",
+    "closed_at": "2026-06-03",
+    "author": "zhang_shengjie",
+    "title": "【Bug】axes reorder 动态输入 shape 被子轴 align 反传污染",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/83"
+  },
+  {
+    "iid": 82,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "zhang_shengjie",
+    "title": "fix: ArgListManager 单例实例分裂导致 TestGlobalOccupy 测试在 aarch64 上失败",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/82"
+  },
+  {
+    "iid": 81,
+    "state": "closed",
+    "created_at": "2026-06-03",
+    "closed_at": "2026-06-03",
+    "author": "yelongjian",
+    "title": "[Requirement|需求建议]: 新增autofuse_headers，用于依赖gaf仓的联合编译改造",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/81"
+  },
+  {
     "iid": 80,
     "state": "opened",
     "created_at": "2026-06-02",
@@ -7,7 +51,7 @@
     "author": "JaydenChu",
     "title": "修复特定场景下dump图文件名超长问题",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/80"
   },
   {
@@ -18,7 +62,7 @@
     "author": "zqmin",
     "title": "feat: 新增AscIR适配",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/79"
   },
   {
@@ -29,7 +73,7 @@
     "author": "xchu42",
     "title": "【Bug】多轴slice-concat融合时出现精度错误",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/78"
   },
   {
@@ -40,18 +84,18 @@
     "author": "zhang_shengjie",
     "title": "【fix】删除AscirCompileAndLaunch接口",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/77"
   },
   {
     "iid": 76,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-06-03",
     "author": "chenyukai",
     "title": "codegen生成ApiParam，用来生成dump图和辅助att建模",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/76"
   },
   {
@@ -62,7 +106,7 @@
     "author": "zhang_shengjie",
     "title": "Reduce 参数构建逻辑重复且缺乏一致性校验",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/75"
   },
   {
@@ -84,7 +128,7 @@
     "author": "zqmin",
     "title": "fix: Inductor 编译产物缺少 graph_base 链接导致未定义符号",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/73"
   },
   {
@@ -95,7 +139,7 @@
     "author": "JaydenChu",
     "title": "[Bug-Report|缺陷反馈]: 后端输入图中存在悬空节点时会导致codegen阶段出现coredump问题",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/72"
   },
   {
@@ -106,7 +150,7 @@
     "author": "gcw_2hddZfvJ",
     "title": "[Documentation|文档反馈]: ub应该改为UB",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/71"
   },
   {
@@ -117,7 +161,7 @@
     "author": "gcw_WTfSfUy7",
     "title": "[Documentation|文档反馈]: docs/zh/quick_install.md中“云开发”按钮已经改名字了",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/60"
   },
   {
@@ -139,7 +183,7 @@
     "author": "Jett_Woo",
     "title": "[Bug] SubStringReplace 空 from 参数导致无限循环",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/58"
   },
   {

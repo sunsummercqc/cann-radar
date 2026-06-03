@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-02",
+  "generated_at": "2026-06-03",
   "source_count": 10,
   "discussion_count": 10,
-  "external_count": 391,
+  "external_count": 395,
   "internal_count": 11,
-  "total_unique_participants": 402,
+  "total_unique_participants": 406,
   "trend": [
     {
-      "date": "2026-06-02",
-      "external_count": 391,
-      "total_unique_participants": 402
+      "date": "2026-06-03",
+      "external_count": 395,
+      "total_unique_participants": 406
     }
   ],
   "participants": [
@@ -3644,6 +3644,24 @@
       "last_seen_at": "2026-06-01T17:41:18+08:00"
     },
     {
+      "user_name": "lauvforever",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/9",
+          "title": "🎁所有队伍都可参与！CANN 算子挑战赛（江山赛区）提交代码有奖活动开启（5.24~6.10）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-03T20:13:12+08:00",
+      "last_seen_at": "2026-06-03T20:13:12+08:00"
+    },
+    {
       "user_name": "Leafyezilu",
       "nick_name": "",
       "developer_source": "external",
@@ -3966,6 +3984,24 @@
       ],
       "first_seen_at": "2026-06-02T18:30:22+08:00",
       "last_seen_at": "2026-06-02T18:30:22+08:00"
+    },
+    {
+      "user_name": "ly_shy",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/9",
+          "title": "🎁所有队伍都可参与！CANN 算子挑战赛（江山赛区）提交代码有奖活动开启（5.24~6.10）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-03T10:57:27+08:00",
+      "last_seen_at": "2026-06-03T10:57:27+08:00"
     },
     {
       "user_name": "lzx0001",
@@ -4778,6 +4814,24 @@
       "last_seen_at": "2026-05-07T17:15:30+08:00"
     },
     {
+      "user_name": "qianhuan6",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/9",
+          "title": "🎁所有队伍都可参与！CANN 算子挑战赛（江山赛区）提交代码有奖活动开启（5.24~6.10）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-03T16:13:02+08:00",
+      "last_seen_at": "2026-06-03T16:13:02+08:00"
+    },
+    {
       "user_name": "qiheng11",
       "nick_name": "",
       "developer_source": "external",
@@ -5226,6 +5280,24 @@
       ],
       "first_seen_at": "2026-06-01T17:23:07+08:00",
       "last_seen_at": "2026-06-01T17:23:07+08:00"
+    },
+    {
+      "user_name": "Ruicech",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/9",
+          "title": "🎁所有队伍都可参与！CANN 算子挑战赛（江山赛区）提交代码有奖活动开启（5.24~6.10）",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-03T22:35:41+08:00",
+      "last_seen_at": "2026-06-03T22:35:41+08:00"
     },
     {
       "user_name": "s1231231msn-",
@@ -7332,10 +7404,10 @@
       "org": "cann/cann-ops-competitions",
       "number": "9",
       "title": "🎁所有队伍都可参与！CANN 算子挑战赛（江山赛区）提交代码有奖活动开启（5.24~6.10）",
-      "comment_total": 34,
+      "comment_total": 38,
       "reply_total": 9,
-      "unique_participants": 34,
-      "external_participants": 33
+      "unique_participants": 38,
+      "external_participants": 37
     },
     {
       "url": "https://gitcode.com/cann/cann-ops-competitions/discussions/8",

@@ -1,5 +1,38 @@
 [
   {
+    "iid": 348,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "M__Cheng",
+    "title": "[Bug-Report|缺陷反馈]: ",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/348"
+  },
+  {
+    "iid": 347,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "super_chao_x",
+    "title": "[Bug-Report|缺陷反馈]: GetTransferStatus failed, invalid req",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/347"
+  },
+  {
+    "iid": 346,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "super_chao_x",
+    "title": "[Question|问题咨询]: HIXL传输并发上限咨询",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/346"
+  },
+  {
     "iid": 345,
     "state": "opened",
     "created_at": "2026-06-02",
@@ -7,7 +40,7 @@
     "author": "postWater1",
     "title": "[Question|问题咨询]: A2双机混部+VLLMAscend18.0+mooncake backend场景，部分链路建链失败，报错Failed to connect to target: xxxxx, status: 503900",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/345"
   },
   {
@@ -29,7 +62,7 @@
     "author": "hucheng-star",
     "title": "[Bug-Report|缺陷反馈]: GLM5.1 PD分离场景kv cache传输超过200ms+，异常",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/343"
   },
   {
@@ -51,7 +84,7 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: deallocate_blocks_cache中cache配置重复，无报错",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/341"
   },
   {
@@ -122,13 +155,13 @@
   },
   {
     "iid": 301,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-27",
-    "closed_at": "",
+    "closed_at": "2026-06-03",
     "author": "gcw_IHBa4woR",
     "title": "[Bug-Report|缺陷反馈]:  GLM-5.1 W4A8 PD分离+MoonCake Store场景，910C使用 ROCE（非HCCS）不定期出现MoonCake 传输失败问题",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/301"
   },
   {
@@ -188,9 +221,9 @@
   },
   {
     "iid": 295,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-25",
-    "closed_at": "",
+    "closed_at": "2026-06-03",
     "author": "wufeng15",
     "title": "[Documentation|文档反馈]: 新增的hixl 支持A5的特性，请补充example工程和 D2D、RH2D、H2H等",
     "labels": [],
@@ -210,9 +243,9 @@
   },
   {
     "iid": 293,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-25",
-    "closed_at": "",
+    "closed_at": "2026-06-03",
     "author": "advheng",
     "title": "[Question|问题咨询]: hixl 与 MemFabric 在mooncake中集成时在功能、底层传输路径上有何异同，两者是否有依赖关系呢？",
     "labels": [],

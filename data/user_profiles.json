@@ -24506,7 +24506,7 @@
     "original_repo_count": 0,
     "total_repo_count": 2,
     "total_contributions": 601,
-    "user_type": "developer"
+    "user_type": "questioner"
   },
   {
     "user_name": "Jasmine_Lau",
@@ -32494,5 +32494,47 @@
     "total_repo_count": 0,
     "total_contributions": 9,
     "user_type": "developer"
+  },
+  {
+    "user_name": "xinchen1",
+    "nick_name": "xinchen",
+    "user_id": 8514911,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 2,
+    "total_repo_count": 2,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "wanghz-",
+    "nick_name": "离鸢",
+    "user_id": 6834532,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 3,
+    "original_repo_count": 3,
+    "total_repo_count": 4,
+    "total_contributions": 163,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "qq_43844249",
+    "nick_name": "screammaster",
+    "user_id": 821949,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 2,
+    "original_repo_count": 1,
+    "total_repo_count": 8,
+    "total_contributions": 1090,
+    "user_type": "contributor"
   }
 ]

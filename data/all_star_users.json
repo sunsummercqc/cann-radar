@@ -4771,7 +4771,9 @@
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
-      "cann/graph-autofusion"
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
     ]
   },
   {
@@ -5909,6 +5911,25 @@
       "cann/graph-autofusion",
       "cann/torchtitan-npu",
       "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "xinchen1",
+    "nick_name": "xinchen",
+    "user_id": 8514911,
+    "avatar": "",
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "gcw_gRmSQntE",
+    "nick_name": "gcw_gRmSQntE发给对方",
+    "user_id": 9602139,
+    "avatar": "https://cdn-img.gitcode.com/af/aa/afaaebda0282a783c33b6c356a29d4160019192befbce7d29a381b8585c57157.png?time=1776422886837",
+    "starred_repos": [
+      "cann/hixl",
+      "cann/torchtitan-npu"
     ]
   },
   {
@@ -10610,6 +10631,15 @@
     ]
   },
   {
+    "user_name": "wanghz-",
+    "nick_name": "离鸢",
+    "user_id": 6834532,
+    "avatar": "https://cdn-img.gitcode.com/fb/df/126f515b09577dfad2ca558a723ca7cc1d962b8e9e63aeec201ba8495c172906.png?time=1755849381205",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "seer671",
     "nick_name": "牧羊人",
     "user_id": 4326406,
@@ -10925,15 +10955,6 @@
     "starred_repos": [
       "cann/torchtitan-npu",
       "Ascend/torchair"
-    ]
-  },
-  {
-    "user_name": "gcw_gRmSQntE",
-    "nick_name": "gcw_gRmSQntE发给对方",
-    "user_id": 9602139,
-    "avatar": "https://cdn-img.gitcode.com/af/aa/afaaebda0282a783c33b6c356a29d4160019192befbce7d29a381b8585c57157.png?time=1776422886837",
-    "starred_repos": [
-      "cann/torchtitan-npu"
     ]
   },
   {
@@ -12558,6 +12579,15 @@
     "avatar": "",
     "starred_repos": [
       "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "qq_43844249",
+    "nick_name": "screammaster",
+    "user_id": 821949,
+    "avatar": "https://cdn-img.gitcode.com/dd/cf/8d8d379cf858e20744bb4306db09f76a925d59e2d8d482d5fc2b50aac950ea2d.png",
+    "starred_repos": [
+      "Ascend/torchair"
     ]
   },
   {

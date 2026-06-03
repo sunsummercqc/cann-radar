@@ -1,11 +1,55 @@
 [
   {
+    "iid": 510,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "Hu1L1",
+    "title": "feat(graph): QuantBatchMatmulV3 WeightNz 图优化 — Transpose 后移 Pass",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/510"
+  },
+  {
+    "iid": 509,
+    "state": "closed",
+    "created_at": "2026-06-03",
+    "closed_at": "2026-06-03",
+    "author": "Hu1L1",
+    "title": "feat(graph): QuantBatchMatmulV3 WeightNz 图优化 — Transpose 后移 Pass",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/509"
+  },
+  {
+    "iid": 508,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "fwx_110",
+    "title": "[Installation]: A5的2A+x环境跑了一个pytorch的alltoallv的aclgraph图模式的0tensor用例报错",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/508"
+  },
+  {
+    "iid": 507,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "wangqinyi817",
+    "title": "[Bug]: npugraph_ex模式动态shape场景，单个控核scope单层嵌套单个多流scope场景，执行卡死",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/507"
+  },
+  {
     "iid": 506,
     "state": "opened",
     "created_at": "2026-06-02",
     "closed_at": "",
     "author": "u010470851",
-    "title": "[Bug]: ",
+    "title": "[Bug]: ImportError: cannot import name 'hint_int' from 'torch.fx.experimental.symbolic_shapes'",
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/506"
@@ -313,9 +357,9 @@
   },
   {
     "iid": 478,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-18",
-    "closed_at": "",
+    "closed_at": "2026-06-03",
     "author": "yuanshuai000",
     "title": "[Feature]: quant_batch_matmul支持k方向8对齐",
     "labels": [],

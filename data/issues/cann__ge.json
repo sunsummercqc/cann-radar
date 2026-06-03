@@ -1,5 +1,93 @@
 [
   {
+    "iid": 432,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "Dksnsksk",
+    "title": "[Question|问题咨询]: ONNX通过ATC转为OM模型的问题",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/432"
+  },
+  {
+    "iid": 431,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "maxinyuan1",
+    "title": "[Bug-Report|缺陷反馈]: GE调用HCCL的HcomPlugin::Initialize接口和HcomPlugin::Finalize()不是同一线程导致getdevice失败",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/431"
+  },
+  {
+    "iid": 430,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "gcw_blkm9jRu",
+    "title": "[Documentation|文档反馈]: 源码构建指导文档，环境验证需要区分三种环境部署方式。cannlab方式部署的环境，环境验证部分不符合，需要改进",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/430"
+  },
+  {
+    "iid": 429,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "gcw_blkm9jRu",
+    "title": "[Bug-Report|缺陷反馈]: GE master分支编译错误",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/429"
+  },
+  {
+    "iid": 428,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "gcw_blkm9jRu",
+    "title": "[Documentation|文档反馈]: 开源项目资源默认目录描述错误",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/428"
+  },
+  {
+    "iid": 427,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "gcw_blkm9jRu",
+    "title": "从CannLab链接登录gitcode时，短信登录和密码登录无反应",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/427"
+  },
+  {
+    "iid": 426,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "gcw_blkm9jRu",
+    "title": "[Documentation|文档反馈]: 需要具有解释性描述，2级标题符，便于理解",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/426"
+  },
+  {
+    "iid": 425,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "ling-DT",
+    "title": "fix: 修复autofuse模块代码质量告警（magic number、const修饰、冗余头文件）",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/ge/issues/425"
+  },
+  {
     "iid": 424,
     "state": "opened",
     "created_at": "2026-06-02",
@@ -89,9 +177,9 @@
   },
   {
     "iid": 416,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-01",
-    "closed_at": "",
+    "closed_at": "2026-06-03",
     "author": "B1anrK",
     "title": "[Question|问题咨询]: 咨询tfa在数据读取时的行为",
     "labels": [],
@@ -172,7 +260,7 @@
     "author": "weixin_48253078",
     "title": "[Bug-Report|缺陷反馈]: 重复使用aclmdlLoadFromMemWithMem和aclmdlUnload加载卸载模型内存泄漏问题",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/409"
   },
   {
@@ -639,13 +727,13 @@
   },
   {
     "iid": 365,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-06",
-    "closed_at": "",
+    "closed_at": "2026-06-03",
     "author": "zhangshuoleiokok",
     "title": "[Documentation|文档反馈]: SetLocalMemorySize该接口如果是SIMT,SIMD混合编程，必须设置，否则就会报ub错误。",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/365"
   },
   {

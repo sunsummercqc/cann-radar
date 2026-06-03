@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02",
+  "generated_at": "2026-06-03",
   "source_count": 3,
   "discussion_count": 3,
   "external_count": 28,
@@ -7,7 +7,7 @@
   "total_unique_participants": 34,
   "trend": [
     {
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "external_count": 28,
       "total_unique_participants": 34
     }
@@ -102,6 +102,24 @@
       ],
       "first_seen_at": "2026-05-13T17:30:43+08:00",
       "last_seen_at": "2026-05-13T17:31:48+08:00"
+    },
+    {
+      "user_name": "yangxuming",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/3",
+          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
+          "top_comments": 1,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-05-29T16:30:54+08:00",
+      "last_seen_at": "2026-06-03T16:42:51+08:00"
     },
     {
       "user_name": "a123wjy",
@@ -590,24 +608,6 @@
       "last_seen_at": "2026-05-29T16:24:37+08:00"
     },
     {
-      "user_name": "yangxuming",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/hixl/discussions/3",
-          "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-29T16:30:54+08:00",
-      "last_seen_at": "2026-05-29T16:30:54+08:00"
-    },
-    {
       "user_name": "yusuya",
       "nick_name": "",
       "developer_source": "external",
@@ -651,7 +651,7 @@
       "number": "3",
       "title": "【5.29 直播有奖问答】|《HIXL协同Mooncake实现KV Cache池化技术实践分享》",
       "comment_total": 18,
-      "reply_total": 11,
+      "reply_total": 12,
       "unique_participants": 20,
       "external_participants": 14
     },

@@ -6152,7 +6152,9 @@
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
-      "cann/graph-autofusion"
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
     ],
     "user_type": "star_enthusiast",
     "fans_count": 1,
@@ -7596,6 +7598,31 @@
     "original_repo_count": 0,
     "total_contributions": 2108,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "xinchen1",
+    "nick_name": "xinchen",
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 2,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "gcw_gRmSQntE",
+    "nick_name": "gcw_gRmSQntE发给对方",
+    "starred_repos": [
+      "cann/hixl",
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 3,
+    "total_contributions": 82,
+    "developer_source": "external"
   },
   {
     "user_name": "Cristiano_Ronaldo",
@@ -9086,7 +9113,7 @@
     "starred_repos": [
       "cann/hixl"
     ],
-    "user_type": "developer",
+    "user_type": "questioner",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 601,
@@ -13805,6 +13832,18 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "wanghz-",
+    "nick_name": "离鸢",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 3,
+    "total_contributions": 163,
+    "developer_source": "external"
+  },
+  {
     "user_name": "seer671",
     "nick_name": "牧羊人",
     "starred_repos": [
@@ -14222,18 +14261,6 @@
     "fans_count": 0,
     "original_repo_count": 3,
     "total_contributions": 251,
-    "developer_source": "external"
-  },
-  {
-    "user_name": "gcw_gRmSQntE",
-    "nick_name": "gcw_gRmSQntE发给对方",
-    "starred_repos": [
-      "cann/torchtitan-npu"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 3,
-    "total_contributions": 82,
     "developer_source": "external"
   },
   {
@@ -16377,6 +16404,18 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 198,
+    "developer_source": "internal"
+  },
+  {
+    "user_name": "qq_43844249",
+    "nick_name": "screammaster",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 1090,
     "developer_source": "internal"
   },
   {

@@ -1,5 +1,16 @@
 [
   {
+    "iid": 11,
+    "state": "opened",
+    "created_at": "2026-06-03",
+    "closed_at": "",
+    "author": "YO_Y_O_",
+    "title": "【CLA校验异常】PR#230已签署CLA但cann-cla/no标签不通过",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/11"
+  },
+  {
     "iid": 10,
     "state": "closed",
     "created_at": "2026-05-31",
