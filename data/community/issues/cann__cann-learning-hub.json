@@ -1,5 +1,82 @@
 [
   {
+    "iid": 60,
+    "state": "opened",
+    "created_at": "2026-06-04",
+    "closed_at": "",
+    "author": "hid31551047",
+    "title": "[Bug-Report|缺陷反馈]:样例代码推理精度异常",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/60"
+  },
+  {
+    "iid": 59,
+    "state": "opened",
+    "created_at": "2026-06-04",
+    "closed_at": "",
+    "author": "cann_cm",
+    "title": "首页readme的格式没对齐",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/59"
+  },
+  {
+    "iid": 58,
+    "state": "opened",
+    "created_at": "2026-06-04",
+    "closed_at": "",
+    "author": "zhaoqwerty",
+    "title": "【CANN训练营】缺少前置课程情况下如何自学 ATVOSS",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/58"
+  },
+  {
+    "iid": 57,
+    "state": "opened",
+    "created_at": "2026-06-04",
+    "closed_at": "",
+    "author": "zhaohenhao",
+    "title": "[Requirement|需求建议]: 【CANN训练营】PyPTO示例缺少Python版本约束与一键依赖配置方案",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/57"
+  },
+  {
+    "iid": 56,
+    "state": "opened",
+    "created_at": "2026-06-04",
+    "closed_at": "",
+    "author": "hid55977309",
+    "title": "【文档建议】【CANN训练营】新手建议：完善 soc_version 参数使用指引",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/56"
+  },
+  {
+    "iid": 55,
+    "state": "opened",
+    "created_at": "2026-06-04",
+    "closed_at": "",
+    "author": "zhaohenhao",
+    "title": "【文档建议】【CANN训练营】新手看不懂快速入门教程，引导教程太简略",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/55"
+  },
+  {
+    "iid": 54,
+    "state": "closed",
+    "created_at": "2026-06-04",
+    "closed_at": "2026-06-04",
+    "author": "cann_cm",
+    "title": "learning-hub的页面学习路径不清晰",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/54"
+  },
+  {
     "iid": 53,
     "state": "opened",
     "created_at": "2026-06-03",
@@ -29,7 +106,7 @@
     "author": "CANN2025",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.4】",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 12,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/51"
   },
   {
@@ -557,7 +634,7 @@
     "author": "CANN2025",
     "title": "【评论答题赢定制毛毯、T恤】AI算子开发快速入门指南直播互动规则详情",
     "labels": [],
-    "user_notes_count": 67,
+    "user_notes_count": 71,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/3"
   },
   {

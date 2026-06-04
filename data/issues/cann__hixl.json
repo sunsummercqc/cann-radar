@@ -78,13 +78,13 @@
   },
   {
     "iid": 341,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-01",
-    "closed_at": "",
+    "closed_at": "2026-06-04",
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: deallocate_blocks_cache中cache配置重复，无报错",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/341"
   },
   {
@@ -166,9 +166,9 @@
   },
   {
     "iid": 300,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-27",
-    "closed_at": "",
+    "closed_at": "2026-06-04",
     "author": "SincoTeng",
     "title": "[Bug-Report|缺陷反馈]: 多进程场景，每个进程同时初始化client与server，client连接其他进程的server，比较高概率出现连接超时，无法正常连接通信",
     "labels": [],

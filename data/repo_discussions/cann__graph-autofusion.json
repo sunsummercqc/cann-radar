@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-03",
+  "generated_at": "2026-06-04",
   "source_count": 6,
   "discussion_count": 6,
-  "external_count": 90,
+  "external_count": 91,
   "internal_count": 8,
-  "total_unique_participants": 98,
+  "total_unique_participants": 99,
   "trend": [
     {
-      "date": "2026-06-03",
-      "external_count": 90,
-      "total_unique_participants": 98
+      "date": "2026-06-04",
+      "external_count": 91,
+      "total_unique_participants": 99
     }
   ],
   "participants": [
@@ -1238,6 +1238,24 @@
       "last_seen_at": "2026-05-19T19:31:49+08:00"
     },
     {
+      "user_name": "sunshine_lm",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
+          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-04T14:18:55+08:00",
+      "last_seen_at": "2026-06-04T14:18:55+08:00"
+    },
+    {
       "user_name": "swx5324126",
       "nick_name": "",
       "developer_source": "external",
@@ -1794,10 +1812,10 @@
       "org": "cann/graph-autofusion",
       "number": "5",
       "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
-      "comment_total": 92,
+      "comment_total": 93,
       "reply_total": 5,
-      "unique_participants": 96,
-      "external_participants": 89
+      "unique_participants": 97,
+      "external_participants": 90
     },
     {
       "url": "https://gitcode.com/cann/graph-autofusion/discussions/4",

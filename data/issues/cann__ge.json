@@ -51,7 +51,7 @@
     "author": "gcw_blkm9jRu",
     "title": "[Documentation|文档反馈]: 开源项目资源默认目录描述错误",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/428"
   },
   {
@@ -166,9 +166,9 @@
   },
   {
     "iid": 417,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-01",
-    "closed_at": "",
+    "closed_at": "2026-06-04",
     "author": "jichen123",
     "title": "[Bug-Report|缺陷反馈]: quick_start中一站式开发平台描述存在误导",
     "labels": [],
@@ -282,7 +282,7 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: OM模型可以指定调度的AI Core数量，时延优化的角度是建议如何调度？",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/407"
   },
   {
@@ -639,13 +639,13 @@
   },
   {
     "iid": 373,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-12",
-    "closed_at": "",
+    "closed_at": "2026-06-04",
     "author": "qlang",
     "title": "[Bug-Report|缺陷反馈]: 日志不明确",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/373"
   },
   {

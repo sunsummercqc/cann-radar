@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-03",
+  "generated_at": "2026-06-04",
   "source_count": 3,
   "discussion_count": 3,
-  "external_count": 28,
+  "external_count": 29,
   "internal_count": 6,
-  "total_unique_participants": 34,
+  "total_unique_participants": 35,
   "trend": [
     {
-      "date": "2026-06-03",
-      "external_count": 28,
-      "total_unique_participants": 34
+      "date": "2026-06-04",
+      "external_count": 29,
+      "total_unique_participants": 35
     }
   ],
   "participants": [
@@ -572,6 +572,24 @@
       "last_seen_at": "2026-05-29T16:28:58+08:00"
     },
     {
+      "user_name": "whh_smile",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/hixl/discussions/2",
+          "title": "【2026CANN 算子挑战赛（江山赛区）· 南京理工大学站】有奖问答 | HIXL基础知识",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-04T09:39:03+08:00",
+      "last_seen_at": "2026-06-04T09:39:03+08:00"
+    },
+    {
       "user_name": "xiewei-21",
       "nick_name": "",
       "developer_source": "external",
@@ -660,10 +678,10 @@
       "org": "cann/hixl",
       "number": "2",
       "title": "【2026CANN 算子挑战赛（江山赛区）· 南京理工大学站】有奖问答 | HIXL基础知识",
-      "comment_total": 17,
+      "comment_total": 18,
       "reply_total": 8,
-      "unique_participants": 16,
-      "external_participants": 14
+      "unique_participants": 17,
+      "external_participants": 15
     },
     {
       "url": "https://gitcode.com/cann/hixl/discussions/1",

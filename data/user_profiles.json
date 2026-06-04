@@ -17576,7 +17576,7 @@
     "original_repo_count": 0,
     "total_repo_count": 0,
     "total_contributions": 326,
-    "user_type": "questioner"
+    "user_type": "contributor"
   },
   {
     "user_name": "weixin_44583144",
@@ -30656,7 +30656,7 @@
     "original_repo_count": 0,
     "total_repo_count": 0,
     "total_contributions": 228,
-    "user_type": "developer"
+    "user_type": "questioner"
   },
   {
     "user_name": "gcw_gRmSQntE",
@@ -32535,6 +32535,155 @@
     "original_repo_count": 1,
     "total_repo_count": 8,
     "total_contributions": 1090,
+    "user_type": "contributor"
+  },
+  {
+    "user_name": "2402_84491885",
+    "nick_name": "人不帅霸气在179",
+    "user_id": 4377805,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "star_enthusiast"
+  },
+  {
+    "user_name": "2301_79792766",
+    "nick_name": "2301_79792766",
+    "user_id": 4500332,
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 3,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "dilettante2polymath",
+    "nick_name": "dilettante2polymath",
+    "user_id": 11162573,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "Dexzeng",
+    "nick_name": "Dexzeng",
+    "user_id": 11342588,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 1,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "juemingshuangzixing1346",
+    "nick_name": "juemingshuangzixing1346",
+    "user_id": 11341720,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "star_enthusiast"
+  },
+  {
+    "user_name": "2302_80810633",
+    "nick_name": "消失的下雨天295",
+    "user_id": 4467429,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 2,
+    "total_contributions": 3,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "sunshine_lm",
+    "nick_name": "sunshine_lm",
+    "user_id": 1408808,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "shenlank2",
+    "nick_name": "shenlank2",
+    "user_id": 4892975,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "qq_34777982",
+    "nick_name": "筑梦之路",
+    "user_id": 259271,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 1,
+    "total_repo_count": 2,
+    "total_contributions": 27,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "zhangzhuoran3",
+    "nick_name": "zhangzhuoran3",
+    "user_id": 7740306,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 1,
+    "total_repo_count": 6,
+    "total_contributions": 246,
     "user_type": "contributor"
   }
 ]
