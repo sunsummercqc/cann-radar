@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04",
+  "generated_at": "2026-06-05",
   "global_counts": {
-    "d0": 1270,
+    "d0": 1271,
     "d1": 753,
-    "d2": 546,
-    "total": 2569,
-    "d0_external": 931,
+    "d2": 547,
+    "total": 2571,
+    "d0_external": 933,
     "d1_external": 545,
     "d2_external": 162
   },
@@ -21,11 +21,11 @@
       "discussion_d1_external": 20
     },
     "cann/hixl": {
-      "d0": 588,
+      "d0": 589,
       "d1": 119,
       "d2": 38,
-      "total": 745,
-      "d0_external": 311,
+      "total": 746,
+      "d0_external": 312,
       "d1_external": 77,
       "d2_external": 15,
       "discussion_d1_external": 20
@@ -53,9 +53,9 @@
     "Ascend/torchair": {
       "d0": 630,
       "d1": 318,
-      "d2": 312,
-      "total": 1260,
-      "d0_external": 414,
+      "d2": 313,
+      "total": 1261,
+      "d0_external": 415,
       "d1_external": 197,
       "d2_external": 117,
       "discussion_d1_external": 57
@@ -21227,6 +21227,22 @@
           "cann/graph-autofusion"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "liuhaisheng2000",
+        "nick_name": "liuhaisheng",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-06-05T02:28:52.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 276,
+        "starred_repos": [
+          "cann/hixl"
+        ],
+        "developer_source": "external"
       },
       {
         "user_name": "liujie12345678",
@@ -59940,11 +59956,12 @@
       {
         "user_name": "u010470851",
         "nick_name": "sgqt12",
-        "level": "d1",
+        "level": "d2",
         "sources": [
           "fork",
           "issue",
-          "pr"
+          "pr",
+          "merged_pr"
         ],
         "star_time": "",
         "fans_count": null,
@@ -62522,6 +62539,22 @@
         "developer_source": "internal"
       },
       {
+        "user_name": "xushuaiyxf",
+        "nick_name": "xushuaiyxf",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-06-05T02:17:19.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 2,
+        "total_contributions": 1,
+        "starred_repos": [
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "xuuyangg",
         "nick_name": "xuuyangg",
         "level": "d2",
@@ -63852,9 +63885,10 @@
       {
         "user_name": "yushan-kite",
         "nick_name": "yushan-kite",
-        "level": "d0",
+        "level": "d1",
         "sources": [
-          "fork"
+          "fork",
+          "pr"
         ],
         "star_time": "",
         "fans_count": null,
@@ -65623,11 +65657,11 @@
     },
     {
       "month": "2026-06",
-      "d0": 263,
+      "d0": 265,
       "d1": 4,
       "d2": 7,
-      "new_stars": 274,
-      "cumulative": 2903
+      "new_stars": 276,
+      "cumulative": 2905
     }
   ],
   "discussion_commenter_assignment": {

@@ -7657,6 +7657,18 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "liuhaisheng2000",
+    "nick_name": "liuhaisheng",
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 276,
+    "developer_source": "external"
+  },
+  {
     "user_name": "seer671",
     "nick_name": "牧羊人",
     "starred_repos": [
@@ -16525,6 +16537,18 @@
     "original_repo_count": 0,
     "total_contributions": 198,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "xushuaiyxf",
+    "nick_name": "xushuaiyxf",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 2,
+    "total_contributions": 1,
+    "developer_source": "external"
   },
   {
     "user_name": "zhangzhuoran3",

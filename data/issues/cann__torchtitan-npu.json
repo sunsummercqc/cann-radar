@@ -1,5 +1,16 @@
 [
   {
+    "iid": 50,
+    "state": "opened",
+    "created_at": "2026-06-05",
+    "closed_at": "",
+    "author": "ihujun",
+    "title": "[Question|问题咨询]: aclnnLightningIndexer VEC Error Report",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/50"
+  },
+  {
     "iid": 49,
     "state": "opened",
     "created_at": "2026-06-04",
@@ -56,9 +67,9 @@
   },
   {
     "iid": 44,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-01",
-    "closed_at": "",
+    "closed_at": "2026-06-05",
     "author": "ihujun",
     "title": "[Question|问题咨询]:  请问deepSeekV4的稀疏注意力patch是否支持backward？看代码中没有实现backward方法，是fallback到原来的backward吗？",
     "labels": [],
@@ -309,9 +320,9 @@
   },
   {
     "iid": 21,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-11",
-    "closed_at": "",
+    "closed_at": "2026-06-05",
     "author": "hitwdy",
     "title": "[Requirement|需求建议]: torchtitan-npu 适配torchtitan主线重构待办事项",
     "labels": [],
