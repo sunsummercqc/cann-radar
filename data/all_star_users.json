@@ -1,5 +1,15 @@
 [
   {
+    "user_name": "chengyutao3",
+    "nick_name": "chengyutao3",
+    "user_id": 2561140,
+    "avatar": "https://cdn-img.gitcode.com/be/eb/be094e897b91ec766c531497e238e7c1b9d611c25edfae3fdf7c4fec2b947ed4.jpg",
+    "starred_repos": [
+      "cann/ge",
+      "cann/graph-autofusion"
+    ]
+  },
+  {
     "user_name": "juemingshuangzixing1346",
     "nick_name": "juemingshuangzixing1346",
     "user_id": 11341720,
@@ -259,16 +269,6 @@
     "avatar": null,
     "starred_repos": [
       "cann/ge"
-    ]
-  },
-  {
-    "user_name": "chengyutao3",
-    "nick_name": "chengyutao3",
-    "user_id": 2561140,
-    "avatar": "https://cdn-img.gitcode.com/be/eb/be094e897b91ec766c531497e238e7c1b9d611c25edfae3fdf7c4fec2b947ed4.jpg",
-    "starred_repos": [
-      "cann/ge",
-      "cann/graph-autofusion"
     ]
   },
   {
@@ -10744,6 +10744,15 @@
     ]
   },
   {
+    "user_name": "ningzhixiong",
+    "nick_name": "ningzhixiong",
+    "user_id": 6832498,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "shenlank2",
     "nick_name": "shenlank2",
     "user_id": 4892975,
@@ -12681,6 +12690,24 @@
     "avatar": "",
     "starred_repos": [
       "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "gcw_0mLLlyYP",
+    "nick_name": "gcw_0mLLlyYP",
+    "user_id": 9279334,
+    "avatar": "",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "e1eee1e",
+    "nick_name": "owo",
+    "user_id": 8064786,
+    "avatar": "",
+    "starred_repos": [
+      "Ascend/torchair"
     ]
   },
   {

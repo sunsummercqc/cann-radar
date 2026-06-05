@@ -1,5 +1,16 @@
 [
   {
+    "iid": 353,
+    "state": "opened",
+    "created_at": "2026-06-05",
+    "closed_at": "",
+    "author": "bbsh112",
+    "title": "[Question|问题咨询]: A5 UBOE 双机PD分离拉起后跑推理时，出现的D2RH传输，以及 D2D 传输失败问题",
+    "labels": [],
+    "user_notes_count": 7,
+    "web_url": "https://gitcode.com/cann/hixl/issues/353"
+  },
+  {
     "iid": 352,
     "state": "opened",
     "created_at": "2026-06-05",
@@ -7,7 +18,7 @@
     "author": "SincoTeng",
     "title": "[Bug-Report|缺陷反馈] 多进程hstu训练场景，每个进程同时初始化client与server，client连接其他进程的server，比较高概率出现连接超时，无法正常连接通信",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/hixl/issues/352"
   },
   {
@@ -22,17 +33,6 @@
     "web_url": "https://gitcode.com/cann/hixl/issues/351"
   },
   {
-    "iid": 350,
-    "state": "opened",
-    "created_at": "2026-06-05",
-    "closed_at": "",
-    "author": "youyx",
-    "title": "[RFC]: test delete me",
-    "labels": [],
-    "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/350"
-  },
-  {
     "iid": 349,
     "state": "opened",
     "created_at": "2026-06-05",
@@ -45,13 +45,13 @@
   },
   {
     "iid": 348,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-03",
-    "closed_at": "",
+    "closed_at": "2026-06-05",
     "author": "M__Cheng",
     "title": "[Bug-Report|缺陷反馈]: mooncake store 4p场景下传输报错",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/hixl/issues/348"
   },
   {

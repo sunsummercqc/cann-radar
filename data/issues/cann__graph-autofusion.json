@@ -1,9 +1,31 @@
 [
   {
-    "iid": 91,
+    "iid": 93,
+    "state": "closed",
+    "created_at": "2026-06-05",
+    "closed_at": "2026-06-05",
+    "author": "zhang_shengjie",
+    "title": "fix: AutofuseTilingWithConfig 中 set_ub_size 缺少 -256 偏移",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/93"
+  },
+  {
+    "iid": 92,
     "state": "opened",
     "created_at": "2026-06-05",
     "closed_at": "",
+    "author": "WangYanMale",
+    "title": "[Bug-Report|缺陷反馈]: A3的ArgMax算子在R轴较大执行时会出现ub不对齐报错",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/92"
+  },
+  {
+    "iid": 91,
+    "state": "closed",
+    "created_at": "2026-06-05",
+    "closed_at": "2026-06-05",
     "author": "yelongjian",
     "title": "[Requirement|需求建议]: autofuse_headers需要增加include路径",
     "labels": [],
@@ -34,13 +56,13 @@
   },
   {
     "iid": 88,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-04",
-    "closed_at": "",
+    "closed_at": "2026-06-05",
     "author": "xchu42",
     "title": "[bug] CastOptimizationPass 删除 reverse Cast 时未检查多消费者导致 dtype 不连续",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/88"
   },
   {
@@ -144,13 +166,13 @@
   },
   {
     "iid": 78,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-06-05",
     "author": "xchu42",
     "title": "【Bug】多轴slice-concat融合时出现精度错误",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/78"
   },
   {

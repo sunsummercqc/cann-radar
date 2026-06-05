@@ -1,5 +1,27 @@
 [
   {
+    "iid": 52,
+    "state": "opened",
+    "created_at": "2026-06-05",
+    "closed_at": "",
+    "author": "depeng1994",
+    "title": "[Bug-Report|缺陷反馈]: deepseek_v4_sfa 启用时缺少 ninja 运行依赖导致 C++ extension JIT 失败",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/52"
+  },
+  {
+    "iid": 51,
+    "state": "opened",
+    "created_at": "2026-06-05",
+    "closed_at": "",
+    "author": "www_atomgit",
+    "title": "[Question|问题咨询]: 尝试复现deepseek-v4-flash训练 段错误",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/51"
+  },
+  {
     "iid": 50,
     "state": "opened",
     "created_at": "2026-06-05",
@@ -7,7 +29,7 @@
     "author": "ihujun",
     "title": "[Question|问题咨询]: aclnnLightningIndexer VEC Error Report",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/50"
   },
   {
@@ -34,9 +56,9 @@
   },
   {
     "iid": 47,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-06-05",
     "author": "liuyuanchen1",
     "title": "文档内容错误",
     "labels": [],

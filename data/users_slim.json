@@ -1,5 +1,18 @@
 [
   {
+    "user_name": "chengyutao3",
+    "nick_name": "chengyutao3",
+    "starred_repos": [
+      "cann/ge",
+      "cann/graph-autofusion"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 487,
+    "developer_source": "internal"
+  },
+  {
     "user_name": "juemingshuangzixing1346",
     "nick_name": "juemingshuangzixing1346",
     "starred_repos": [
@@ -335,19 +348,6 @@
     "original_repo_count": 0,
     "total_contributions": 0,
     "developer_source": "external"
-  },
-  {
-    "user_name": "chengyutao3",
-    "nick_name": "chengyutao3",
-    "starred_repos": [
-      "cann/ge",
-      "cann/graph-autofusion"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 487,
-    "developer_source": "internal"
   },
   {
     "user_name": "leozjr",
@@ -13978,6 +13978,18 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "ningzhixiong",
+    "nick_name": "ningzhixiong",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 6,
+    "developer_source": "external"
+  },
+  {
     "user_name": "shenlank2",
     "nick_name": "shenlank2",
     "starred_repos": [
@@ -16537,6 +16549,30 @@
     "original_repo_count": 0,
     "total_contributions": 198,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "gcw_0mLLlyYP",
+    "nick_name": "gcw_0mLLlyYP",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "e1eee1e",
+    "nick_name": "owo",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 5,
+    "developer_source": "external"
   },
   {
     "user_name": "xushuaiyxf",

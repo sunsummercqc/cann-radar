@@ -32713,5 +32713,47 @@
     "total_repo_count": 0,
     "total_contributions": 276,
     "user_type": "developer"
+  },
+  {
+    "user_name": "gcw_0mLLlyYP",
+    "nick_name": "gcw_0mLLlyYP",
+    "user_id": 9279334,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "ningzhixiong",
+    "nick_name": "ningzhixiong",
+    "user_id": 6832498,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 6,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "e1eee1e",
+    "nick_name": "owo",
+    "user_id": 8064786,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 1,
+    "total_repo_count": 1,
+    "total_contributions": 5,
+    "user_type": "developer"
   }
 ]

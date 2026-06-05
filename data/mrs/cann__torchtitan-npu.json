@@ -1,11 +1,33 @@
 [
   {
-    "iid": 309,
+    "iid": 311,
     "state": "opened",
+    "title": "[refactor] move NPU deterministic env setup to patch",
+    "created_at": "2026-06-05",
+    "updated_at": "2026-06-05",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/311"
+  },
+  {
+    "iid": 310,
+    "state": "opened",
+    "title": "[feat] (deepseek-v4): support Context Parallel for SMLA attention",
+    "created_at": "2026-06-05",
+    "updated_at": "2026-06-05",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/310"
+  },
+  {
+    "iid": 309,
+    "state": "merged",
     "title": "【fix】git apply dsv4 patch for gc and FSDP/EP mesh",
     "created_at": "2026-06-04",
-    "updated_at": "2026-06-04",
-    "merged_at": "",
+    "updated_at": "2026-06-05",
+    "merged_at": "2026-06-05",
     "closed_at": "",
     "author": "zhaowei1936",
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/309"
@@ -122,11 +144,11 @@
   },
   {
     "iid": 298,
-    "state": "opened",
+    "state": "merged",
     "title": "[feat][打榜活动]支持 Qwen3-0.6B 模型预训练",
     "created_at": "2026-06-02",
     "updated_at": "2026-06-05",
-    "merged_at": "",
+    "merged_at": "2026-06-05",
     "closed_at": "",
     "author": "YueGuoDora",
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/298"
@@ -353,11 +375,11 @@
   },
   {
     "iid": 277,
-    "state": "opened",
+    "state": "merged",
     "title": "[feat] support smla/li/mhc",
     "created_at": "2026-05-28",
     "updated_at": "2026-06-05",
-    "merged_at": "",
+    "merged_at": "2026-06-05",
     "closed_at": "",
     "author": "rui-zhang",
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/277"
@@ -1379,7 +1401,7 @@
     "state": "opened",
     "title": "[refactor] Enable mla absorb mode with ModelCustomConfig",
     "created_at": "2026-05-11",
-    "updated_at": "2026-06-03",
+    "updated_at": "2026-06-05",
     "merged_at": "",
     "closed_at": "",
     "author": "zhaiyukun",

@@ -1,5 +1,27 @@
 [
   {
+    "iid": 590,
+    "state": "opened",
+    "title": "[refactor]处理黄区编译告警",
+    "created_at": "2026-06-05",
+    "updated_at": "2026-06-05",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "lugang11",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/590"
+  },
+  {
+    "iid": 589,
+    "state": "opened",
+    "title": "[docs]localcommres文档适配",
+    "created_at": "2026-06-05",
+    "updated_at": "2026-06-05",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "lugang11",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/589"
+  },
+  {
     "iid": 588,
     "state": "opened",
     "title": "[bugfix]: fix multi-repository compile bug",
@@ -12,22 +34,22 @@
   },
   {
     "iid": 587,
-    "state": "opened",
-    "title": "bugfix: 支持 CS listen_port 配置",
+    "state": "merged",
+    "title": "[bugfix]: HIXL CS支持listen_port 配置",
     "created_at": "2026-06-05",
     "updated_at": "2026-06-05",
-    "merged_at": "",
+    "merged_at": "2026-06-05",
     "closed_at": "",
     "author": "zhaozhihui",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/587"
   },
   {
     "iid": 586,
-    "state": "opened",
+    "state": "merged",
     "title": "[refactor]: reorganize tests into adxl and hixl directories",
     "created_at": "2026-06-05",
     "updated_at": "2026-06-05",
-    "merged_at": "",
+    "merged_at": "2026-06-05",
     "closed_at": "",
     "author": "youyx",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/586"
@@ -67,11 +89,11 @@
   },
   {
     "iid": 582,
-    "state": "opened",
+    "state": "merged",
     "title": "[bugfix] 修复cs接口port问题",
     "created_at": "2026-06-04",
-    "updated_at": "2026-06-04",
-    "merged_at": "",
+    "updated_at": "2026-06-05",
+    "merged_at": "2026-06-05",
     "closed_at": "",
     "author": "xumengxuan",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/582"
@@ -848,11 +870,11 @@
   },
   {
     "iid": 511,
-    "state": "opened",
+    "state": "merged",
     "title": "[feat] hixl engine 支持Notify和AutoConnect",
     "created_at": "2026-05-21",
     "updated_at": "2026-06-05",
-    "merged_at": "",
+    "merged_at": "2026-06-05",
     "closed_at": "",
     "author": "M__Cheng",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/511"
