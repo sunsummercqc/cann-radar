@@ -610,11 +610,12 @@ async function main() {
     ).join('');
 
     const safeName = repoPath.replace('/', '__');
-    const [starsData, issuesData, mrsData, discussionData] = await Promise.all([
+    const [starsData, issuesData, mrsData, discussionData, coauthorsData] = await Promise.all([
       loadJSON(`data/community/stars/${safeName}.json`).catch(() => []),
       loadJSON(`data/community/issues/${safeName}.json`).catch(() => []),
       loadJSON(`data/community/mrs/${safeName}.json`).catch(() => []),
       loadJSON(`data/community/repo_discussions/${safeName}.json`).catch(() => null),
+      loadJSON(`data/community/co_authors/${safeName}.json`).catch(() => []),
     ]);
 
     // 加载内部开发者名单（与仓库详情模块一致）
@@ -691,6 +692,24 @@ async function main() {
       } else {
         const user = allUsersMap.get(uname);
         if (user.level !== 'd2') user.level = 'd1';
+      }
+    }
+
+    // Co-author -> D2（跨 MR 去重已在 collector 中完成）
+    for (const mr of coauthorsData) {
+      for (const co of mr.co_authors || []) {
+        const uname = co.username;
+        if (!uname) continue;
+        if (!allUsersMap.has(uname)) {
+          allUsersMap.set(uname, {
+            user_name: uname,
+            level: 'd2',
+            developer_source: internalDevelopers.has(uname) ? 'internal' : 'external',
+          });
+        } else {
+          const user = allUsersMap.get(uname);
+          user.level = 'd2';
+        }
       }
     }
 

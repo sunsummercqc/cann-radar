@@ -2121,6 +2121,101 @@ def collect_community_discussions():
         print(f"  ✓ {repo_path}: 共 {summary['total_unique_participants']} 位参与者（内部 {summary['internal_count']}，外部 {summary['external_count']}）")
 
 
+BOT_EMAILS = {
+    "copilot@github.com",
+    "noreply@anthropic.com",
+}
+
+COAUTHOR_RE = re.compile(r"Co-authored-by:\s*(.+?)\s*<([^>]+)>", re.IGNORECASE)
+
+
+def collect_community_coauthors():
+    """采集社区公共仓库 merged MR 中的 Co-authored-by 信息。"""
+    print("\n=== 采集社区公共仓库 Co-author ===")
+    repos = load_json(COMMUNITY_DATA_DIR / "repos.json") or []
+    if not repos:
+        print("  请先运行 python collector.py community-repos")
+        return
+
+    coauthors_dir = COMMUNITY_DATA_DIR / "co_authors"
+    coauthors_dir.mkdir(exist_ok=True)
+
+    for repo in repos:
+        repo_id = repo["id"]
+        repo_path = repo["path"]
+        safe_name = repo_path.replace("/", "__")
+        cache_file = coauthors_dir / f"{safe_name}.json"
+
+        if cache_file.exists():
+            data = load_json(cache_file) or []
+            print(f"  {repo_path}: 使用缓存（{len(data)} 条）")
+            continue
+
+        mrs_file = COMMUNITY_DATA_DIR / "mrs" / f"{safe_name}.json"
+        mrs = load_json(mrs_file) or []
+        merged_mrs = [m for m in mrs if m.get("state") == "merged" and m.get("merged_at")]
+
+        if not merged_mrs:
+            print(f"  {repo_path}: 无 merged MR")
+            save_json(cache_file, [])
+            continue
+
+        print(f"  {repo_path}: {len(merged_mrs)} 个 merged MR")
+
+        all_coauthors = []
+        global_seen_emails = set()
+
+        for mr in merged_mrs:
+            iid = mr.get("iid")
+            mr_author = mr.get("author", "")
+
+            url = f"{BASE_URL}/api/v1/projects/{repo_id}/merge_requests/{iid}/commits"
+            commits_data = get(url)
+            if not commits_data or not commits_data.get("content"):
+                continue
+
+            commits = commits_data["content"]
+            commit_author_emails = {c.get("author_email", "").lower() for c in commits if c.get("author_email")}
+
+            mr_coauthors = []
+            mr_seen_emails = set()
+
+            for commit in commits:
+                message = commit.get("message", "")
+                for match in COAUTHOR_RE.finditer(message):
+                    name = match.group(1).strip()
+                    email = match.group(2).strip().lower()
+
+                    if email in BOT_EMAILS:
+                        continue
+                    if email in commit_author_emails:
+                        continue
+                    if email in mr_seen_emails:
+                        continue
+                    if email in global_seen_emails:
+                        continue
+
+                    username = email.split("@")[0]
+                    mr_coauthors.append({
+                        "username": username,
+                        "email": email,
+                        "name": name,
+                    })
+                    mr_seen_emails.add(email)
+                    global_seen_emails.add(email)
+
+            if mr_coauthors:
+                all_coauthors.append({
+                    "mr_iid": iid,
+                    "mr_author": mr_author,
+                    "co_authors": mr_coauthors,
+                })
+
+        save_json(cache_file, all_coauthors)
+        total_coauthors = sum(len(m["co_authors"]) for m in all_coauthors)
+        print(f"  ✓ {repo_path}: {total_coauthors} 个 co-author（来自 {len(all_coauthors)} 个 MR）")
+
+
 def collect_community_all():
     """一次性采集所有社区公共数据仓库数据。"""
     print("\n=== 一次性采集社区公共数据 ===")
@@ -2143,6 +2238,7 @@ def collect_community_all():
                 print(f"  ✗ {name} 失败: {e}")
 
     collect_community_discussions()
+    collect_community_coauthors()
 
     print(f"\n{'='*50}")
     print(f"  社区公共数据采集完成，总耗时 {time.time() - t_all:.0f}s")
@@ -2281,6 +2377,8 @@ def main():
         collect_community_mrs()
     elif cmd == "community-discussions":
         collect_community_discussions()
+    elif cmd == "community-coauthors":
+        collect_community_coauthors()
     elif cmd == "community-all":
         collect_community_all()
     elif cmd == "stars":
