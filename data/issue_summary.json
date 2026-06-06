@@ -3,9 +3,9 @@
     {
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
-      "avg_days": 9.9,
-      "closed": 43,
-      "opened": 9
+      "avg_days": 10.1,
+      "closed": 44,
+      "opened": 8
     },
     {
       "name": "ge",
@@ -17,8 +17,8 @@
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "avg_days": 12.4,
-      "closed": 281,
+      "avg_days": 12.5,
+      "closed": 282,
       "opened": 23
     },
     {
@@ -36,5 +36,5 @@
       "opened": 29
     }
   ],
-  "generated_at": "2026-06-05"
+  "generated_at": "2026-06-06"
 }

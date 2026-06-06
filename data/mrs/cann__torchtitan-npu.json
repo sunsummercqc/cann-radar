@@ -1,5 +1,27 @@
 [
   {
+    "iid": 313,
+    "state": "merged",
+    "title": "[docs]: update torch.compile guide",
+    "created_at": "2026-06-06",
+    "updated_at": "2026-06-06",
+    "merged_at": "2026-06-06",
+    "closed_at": "",
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/313"
+  },
+  {
+    "iid": 312,
+    "state": "merged",
+    "title": "[docs]: update torch.compile guide",
+    "created_at": "2026-06-06",
+    "updated_at": "2026-06-06",
+    "merged_at": "2026-06-06",
+    "closed_at": "",
+    "author": "xuyujun",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/312"
+  },
+  {
     "iid": 311,
     "state": "opened",
     "title": "[refactor] move NPU deterministic env setup to patch",
@@ -598,7 +620,7 @@
     "state": "opened",
     "title": "[feat] support dsv4 flash sft",
     "created_at": "2026-05-27",
-    "updated_at": "2026-06-02",
+    "updated_at": "2026-06-06",
     "merged_at": "",
     "closed_at": "",
     "author": "zzyyjj012",

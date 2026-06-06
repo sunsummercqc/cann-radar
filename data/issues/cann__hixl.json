@@ -1,5 +1,16 @@
 [
   {
+    "iid": 354,
+    "state": "opened",
+    "created_at": "2026-06-06",
+    "closed_at": "",
+    "author": "sinat_22339175",
+    "title": "[Bug-Report|缺陷反馈]:  PD网络隔离恢复后HCCS仍然无法通信",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/354"
+  },
+  {
     "iid": 353,
     "state": "opened",
     "created_at": "2026-06-05",
@@ -62,7 +73,7 @@
     "author": "super_chao_x",
     "title": "[Bug-Report|缺陷反馈]: GetTransferStatus failed, invalid req",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/347"
   },
   {
@@ -71,9 +82,9 @@
     "created_at": "2026-06-03",
     "closed_at": "",
     "author": "super_chao_x",
-    "title": "[Question|问题咨询]: HIXL传输并发上限咨询",
+    "title": "[Question|问题咨询]: HIXL连接规格并发上限咨询",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/346"
   },
   {
@@ -815,13 +826,13 @@
   },
   {
     "iid": 245,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-06",
-    "closed_at": "",
+    "closed_at": "2026-06-06",
     "author": "M__Cheng",
     "title": "[RFC]: HIXL Engine 支持 Notify 和 AutoConnect 能力",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/hixl/issues/245"
   },
   {

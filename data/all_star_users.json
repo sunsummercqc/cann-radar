@@ -1,5 +1,16 @@
 [
   {
+    "user_name": "dilettante2polymath",
+    "nick_name": "dilettante2polymath",
+    "user_id": 11162573,
+    "avatar": "https://cdn-img.gitcode.com/bb/cc/0b67298b45588c67cae8317ff8e6120c56d3f884fc8d31e86d9d06aed01d9b2e.jpg",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion"
+    ]
+  },
+  {
     "user_name": "chengyutao3",
     "nick_name": "chengyutao3",
     "user_id": 2561140,
@@ -5974,7 +5985,8 @@
     "avatar": "https://cdn-img.gitcode.com/df/fc/df577f5448395cd20feb94848724d09803989adb3c9cbf11d607e6c5599b99b7.png?time=1740671064329",
     "starred_repos": [
       "cann/hixl",
-      "cann/torchtitan-npu"
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
     ]
   },
   {
@@ -5995,17 +6007,9 @@
     "avatar": "https://cdn-img.gitcode.com/ec/dc/66ecd0ca1cf2d130e7218cea42a92e3a7517fad914c5f0d0adea97a6549759fd.png",
     "starred_repos": [
       "cann/hixl",
+      "cann/graph-autofusion",
       "cann/torchtitan-npu",
       "Ascend/torchair"
-    ]
-  },
-  {
-    "user_name": "dilettante2polymath",
-    "nick_name": "dilettante2polymath",
-    "user_id": 11162573,
-    "avatar": "https://cdn-img.gitcode.com/bb/cc/0b67298b45588c67cae8317ff8e6120c56d3f884fc8d31e86d9d06aed01d9b2e.jpg",
-    "starred_repos": [
-      "cann/hixl"
     ]
   },
   {

@@ -7,7 +7,7 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: npugraph_ex动态shape使能静态kernel报错“Not expected to checkpoint freeable graph”",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/515"
   },
   {

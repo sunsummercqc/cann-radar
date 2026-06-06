@@ -1,5 +1,19 @@
 [
   {
+    "user_name": "dilettante2polymath",
+    "nick_name": "dilettante2polymath",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
     "user_name": "chengyutao3",
     "nick_name": "chengyutao3",
     "starred_repos": [
@@ -7673,7 +7687,8 @@
     "nick_name": "牧羊人",
     "starred_repos": [
       "cann/hixl",
-      "cann/torchtitan-npu"
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
     ],
     "user_type": "die_hard_fan",
     "fans_count": 0,
@@ -7700,6 +7715,7 @@
     "nick_name": "Interset Wq",
     "starred_repos": [
       "cann/hixl",
+      "cann/graph-autofusion",
       "cann/torchtitan-npu",
       "Ascend/torchair"
     ],
@@ -7707,18 +7723,6 @@
     "fans_count": 1,
     "original_repo_count": 19,
     "total_contributions": 441,
-    "developer_source": "external"
-  },
-  {
-    "user_name": "dilettante2polymath",
-    "nick_name": "dilettante2polymath",
-    "starred_repos": [
-      "cann/hixl"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0,
     "developer_source": "external"
   },
   {
