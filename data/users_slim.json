@@ -75,7 +75,10 @@
     "user_name": "2301_79792766",
     "nick_name": "2301_79792766",
     "starred_repos": [
-      "cann/ge"
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
     ],
     "user_type": "developer",
     "fans_count": 0,
@@ -13982,6 +13985,30 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "qiulinyuan",
+    "nick_name": "明月风仁",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "Huanghe-LF",
+    "nick_name": "soft2026",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 2,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
     "user_name": "ningzhixiong",
     "nick_name": "ningzhixiong",
     "starred_repos": [
@@ -16216,18 +16243,6 @@
     "original_repo_count": 3,
     "total_contributions": 468,
     "developer_source": "internal"
-  },
-  {
-    "user_name": "qiulinyuan",
-    "nick_name": "明月风仁",
-    "starred_repos": [
-      "cann/torchtitan-npu"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0,
-    "developer_source": "external"
   },
   {
     "user_name": "weixin_59162571",

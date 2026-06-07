@@ -1,5 +1,27 @@
 [
   {
+    "iid": 3419,
+    "state": "opened",
+    "title": "【PR】【fix】修复自动融合切图场景下，相隔EP之间输入输出衔接的野指针问题",
+    "created_at": "2026-06-07",
+    "updated_at": "2026-06-07",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "xiebangrui2025",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3419"
+  },
+  {
+    "iid": 3418,
+    "state": "opened",
+    "title": "【PR】fix: remove redundant event-level perf logs",
+    "created_at": "2026-06-07",
+    "updated_at": "2026-06-07",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "yuchen97",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3418"
+  },
+  {
     "iid": 3417,
     "state": "opened",
     "title": "feat: 支持 ATC raw GE options",
@@ -3392,7 +3414,7 @@
     "state": "opened",
     "title": "perf: optimize JitExecutor hot path",
     "created_at": "2026-05-23",
-    "updated_at": "2026-06-06",
+    "updated_at": "2026-06-07",
     "merged_at": "",
     "closed_at": "",
     "author": "xiebangrui2025",

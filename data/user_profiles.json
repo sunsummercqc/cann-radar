@@ -32755,5 +32755,19 @@
     "total_repo_count": 1,
     "total_contributions": 5,
     "user_type": "developer"
+  },
+  {
+    "user_name": "Huanghe-LF",
+    "nick_name": "soft2026",
+    "user_id": 1284144,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 4,
+    "original_repo_count": 2,
+    "total_repo_count": 2,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
   }
 ]

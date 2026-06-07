@@ -84,7 +84,7 @@
     "author": "fwx_110",
     "title": "[Bug]: A5的2A+x环境跑了一个pytorch的alltoallv的aclgraph图模式的0tensor用例报错",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/508"
   },
   {

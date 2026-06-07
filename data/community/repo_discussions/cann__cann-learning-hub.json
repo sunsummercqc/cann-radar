@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-06",
+  "generated_at": "2026-06-07",
   "source_count": 20,
   "discussion_count": 20,
-  "external_count": 584,
+  "external_count": 588,
   "internal_count": 8,
-  "total_unique_participants": 592,
+  "total_unique_participants": 596,
   "trend": [
     {
-      "date": "2026-06-06",
-      "external_count": 584,
-      "total_unique_participants": 592
+      "date": "2026-06-07",
+      "external_count": 588,
+      "total_unique_participants": 596
     }
   ],
   "participants": [
@@ -3296,6 +3296,24 @@
       "last_seen_at": "2026-04-20T11:11:42+08:00"
     },
     {
+      "user_name": "2401_88020079",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-07T14:34:34+08:00",
+      "last_seen_at": "2026-06-07T14:34:34+08:00"
+    },
+    {
       "user_name": "2401_88052195",
       "nick_name": "",
       "developer_source": "external",
@@ -3942,6 +3960,24 @@
       ],
       "first_seen_at": "2026-05-06T14:42:14+08:00",
       "last_seen_at": "2026-05-06T14:42:14+08:00"
+    },
+    {
+      "user_name": "aldlss",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/6",
+          "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-07T21:05:38+08:00",
+      "last_seen_at": "2026-06-07T21:05:38+08:00"
     },
     {
       "user_name": "Alliswell123",
@@ -8606,6 +8642,24 @@
       "last_seen_at": "2026-05-06T20:27:25+08:00"
     },
     {
+      "user_name": "qq_37949449",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/6",
+          "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-07T14:12:35+08:00",
+      "last_seen_at": "2026-06-07T14:12:35+08:00"
+    },
+    {
       "user_name": "qq_44807478",
       "nick_name": "",
       "developer_source": "external",
@@ -9846,6 +9900,24 @@
       ],
       "first_seen_at": "2026-05-16T09:58:37+08:00",
       "last_seen_at": "2026-05-16T09:58:37+08:00"
+    },
+    {
+      "user_name": "vinceh233",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/6",
+          "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-07T18:01:24+08:00",
+      "last_seen_at": "2026-06-07T18:01:24+08:00"
     },
     {
       "user_name": "vinforlucky",
@@ -11168,10 +11240,10 @@
       "org": "cann/cann-learning-hub",
       "number": "26",
       "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
-      "comment_total": 0,
+      "comment_total": 1,
       "reply_total": 0,
-      "unique_participants": 0,
-      "external_participants": 0
+      "unique_participants": 1,
+      "external_participants": 1
     },
     {
       "url": "https://gitcode.com/cann/cann-learning-hub/discussions/25",
@@ -11318,10 +11390,10 @@
       "org": "cann/cann-learning-hub",
       "number": "6",
       "title": "【2026 · 南京大学站】面向软件工程的大语言模型后训练技术课程_相关交流与课后作业提交",
-      "comment_total": 31,
+      "comment_total": 34,
       "reply_total": 2,
-      "unique_participants": 32,
-      "external_participants": 32
+      "unique_participants": 35,
+      "external_participants": 35
     },
     {
       "url": "https://gitcode.com/cann/cann-learning-hub/discussions/5",
