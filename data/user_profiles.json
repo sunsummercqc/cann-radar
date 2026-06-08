@@ -32839,5 +32839,19 @@
     "total_repo_count": 0,
     "total_contributions": 0,
     "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "weiyyyuxin",
+    "nick_name": "weiyyyuxin",
+    "user_id": 11581381,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 1,
+    "total_repo_count": 1,
+    "total_contributions": 1,
+    "user_type": "developer"
   }
 ]

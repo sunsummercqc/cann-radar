@@ -1,11 +1,77 @@
 [
   {
-    "iid": 3432,
+    "iid": 3438,
     "state": "opened",
-    "title": "feat: 新增 CreateConst V2 接口",
+    "title": "【PR】: sync develop to master 20260608",
     "created_at": "2026-06-08",
     "updated_at": "2026-06-08",
     "merged_at": "",
+    "closed_at": "",
+    "author": "wangxiaotian995",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3438"
+  },
+  {
+    "iid": 3437,
+    "state": "merged",
+    "title": "【PR】: update RunGraphWithStreamAsync and ExecuteGraphWithStreamAsync api description in docs",
+    "created_at": "2026-06-08",
+    "updated_at": "2026-06-08",
+    "merged_at": "2026-06-08",
+    "closed_at": "",
+    "author": "tang-haojie",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3437"
+  },
+  {
+    "iid": 3436,
+    "state": "opened",
+    "title": "【PR】: 对外头文件整改",
+    "created_at": "2026-06-08",
+    "updated_at": "2026-06-08",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "jikai-tyler",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3436"
+  },
+  {
+    "iid": 3435,
+    "state": "merged",
+    "title": "【PR】:sync master to develop 20260608",
+    "created_at": "2026-06-08",
+    "updated_at": "2026-06-08",
+    "merged_at": "2026-06-08",
+    "closed_at": "",
+    "author": "wangxiaotian995",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3435"
+  },
+  {
+    "iid": 3434,
+    "state": "opened",
+    "title": "【fix】: 修改AI扫描的bugs",
+    "created_at": "2026-06-08",
+    "updated_at": "2026-06-08",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "kantao1",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3434"
+  },
+  {
+    "iid": 3433,
+    "state": "opened",
+    "title": "clan-format修改",
+    "created_at": "2026-06-08",
+    "updated_at": "2026-06-08",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "yelongjian",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3433"
+  },
+  {
+    "iid": 3432,
+    "state": "merged",
+    "title": "feat: 新增 CreateConst V2 接口",
+    "created_at": "2026-06-08",
+    "updated_at": "2026-06-08",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "kobemini",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3432"
@@ -23,11 +89,11 @@
   },
   {
     "iid": 3430,
-    "state": "opened",
+    "state": "merged",
     "title": "【chore】: 支持Q2工程优化：移除冗余链接库",
     "created_at": "2026-06-08",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "zhuhaoran5",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3430"
@@ -67,22 +133,22 @@
   },
   {
     "iid": 3426,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】【fix】修复断图场景下输入野指针问题",
     "created_at": "2026-06-08",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "xiebangrui2025",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3426"
   },
   {
     "iid": 3425,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】: 告警清理",
     "created_at": "2026-06-08",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "SeasonChu",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3425"
@@ -100,11 +166,11 @@
   },
   {
     "iid": 3423,
-    "state": "opened",
+    "state": "merged",
     "title": "refactor: 清理各模块硬编码的ASCEND_INSTALL_PATH路径依赖",
     "created_at": "2026-06-08",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "yitaoxt",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3423"
@@ -122,11 +188,11 @@
   },
   {
     "iid": 3421,
-    "state": "opened",
+    "state": "merged",
     "title": "【chore】: 支持Q2工程优化：恢复黄区编译选项",
     "created_at": "2026-06-08",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "zhuhaoran5",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3421"
@@ -155,11 +221,11 @@
   },
   {
     "iid": 3418,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】fix: remove redundant event-level perf logs",
     "created_at": "2026-06-07",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "yuchen97",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3418"
@@ -177,22 +243,22 @@
   },
   {
     "iid": 3416,
-    "state": "opened",
+    "state": "merged",
     "title": "fix: 更新ge离线编译",
     "created_at": "2026-06-06",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "yelongjian",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3416"
   },
   {
     "iid": 3415,
-    "state": "opened",
+    "state": "merged",
     "title": "fix:解决MDC场景下UpdateModelParam_dav_2201编译问题",
     "created_at": "2026-06-06",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "yelongjian",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3415"
@@ -210,11 +276,11 @@
   },
   {
     "iid": 3413,
-    "state": "opened",
+    "state": "merged",
     "title": "fix: DAG流分配支持子图及子图边界event同步",
     "created_at": "2026-06-06",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "Mexyy",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3413"
@@ -232,12 +298,12 @@
   },
   {
     "iid": 3411,
-    "state": "opened",
+    "state": "closed",
     "title": "clang-format",
     "created_at": "2026-06-06",
     "updated_at": "2026-06-08",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-06-08",
     "author": "yelongjian",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3411"
   },
@@ -287,11 +353,11 @@
   },
   {
     "iid": 3406,
-    "state": "opened",
+    "state": "merged",
     "title": "【refactor】: 替换runtime/rts下接口为aclrt接口或仓间接口 part2/2",
     "created_at": "2026-06-06",
-    "updated_at": "2026-06-06",
-    "merged_at": "",
+    "updated_at": "2026-06-08",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "kantao1",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3406"
@@ -342,11 +408,11 @@
   },
   {
     "iid": 3401,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】fix: codecheck告警修复",
     "created_at": "2026-06-05",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "xiangrenzhi",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3401"
@@ -452,11 +518,11 @@
   },
   {
     "iid": 3391,
-    "state": "opened",
+    "state": "merged",
     "title": "【fix】: aicore支持表驱动",
     "created_at": "2026-06-05",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "lidaoming1",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3391"
@@ -485,11 +551,11 @@
   },
   {
     "iid": 3388,
-    "state": "opened",
+    "state": "merged",
     "title": "【chore】: 支持Q2工程优化",
     "created_at": "2026-06-05",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "zhuhaoran5",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3388"
@@ -804,11 +870,11 @@
   },
   {
     "iid": 3359,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】:【fix】OM2优化合并外置权重加载性能",
     "created_at": "2026-06-03",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "ClarkXie",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3359"
@@ -1123,11 +1189,11 @@
   },
   {
     "iid": 3330,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】【feat】新增一些算子的符号化推导",
     "created_at": "2026-06-02",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "xiebangrui2025",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3330"
@@ -1365,11 +1431,11 @@
   },
   {
     "iid": 3308,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】: 【Bug修复】TensorMoveDeletePass增加std::stoi异常安全处理",
     "created_at": "2026-06-01",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "Jiaming_Zhang",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3308"
@@ -3557,7 +3623,7 @@
     "state": "opened",
     "title": "perf: optimize JitExecutor hot path",
     "created_at": "2026-05-23",
-    "updated_at": "2026-06-07",
+    "updated_at": "2026-06-08",
     "merged_at": "",
     "closed_at": "",
     "author": "xiebangrui2025",
@@ -4448,7 +4514,7 @@
     "state": "opened",
     "title": "feat: 自定义算子多模型支持",
     "created_at": "2026-05-20",
-    "updated_at": "2026-06-08",
+    "updated_at": "2026-06-09",
     "merged_at": "",
     "closed_at": "",
     "author": "Chang-an-HW",
@@ -13696,12 +13762,12 @@
   },
   {
     "iid": 2182,
-    "state": "opened",
+    "state": "closed",
     "title": "[WIP] 穿刺使用",
     "created_at": "2026-04-22",
     "updated_at": "2026-06-08",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-06-08",
     "author": "kantao1",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/2182"
   },

@@ -1,9 +1,9 @@
 [
   {
     "iid": 94,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-08",
-    "closed_at": "",
+    "closed_at": "2026-06-08",
     "author": "xchu42",
     "title": "CastOptimizationPass: dtype size 上升时消除 Cast 在一些场景会引入性能劣化",
     "labels": [],
@@ -100,9 +100,9 @@
   },
   {
     "iid": 85,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-04",
-    "closed_at": "",
+    "closed_at": "2026-06-08",
     "author": "gcw_WTfSfUy7",
     "title": "【🔥社区任务发布】：文档捉虫",
     "labels": [],
@@ -265,9 +265,9 @@
   },
   {
     "iid": 60,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-30",
-    "closed_at": "",
+    "closed_at": "2026-06-08",
     "author": "gcw_WTfSfUy7",
     "title": "[Documentation|文档反馈]: docs/zh/quick_install.md中“云开发”按钮已经改名字了",
     "labels": [],

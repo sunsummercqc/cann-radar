@@ -1,5 +1,38 @@
 [
   {
+    "iid": 733,
+    "state": "opened",
+    "title": "【PR】: sync develop to master 20260608",
+    "created_at": "2026-06-08",
+    "updated_at": "2026-06-08",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "wangxiaotian995",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/733"
+  },
+  {
+    "iid": 732,
+    "state": "opened",
+    "title": "docs: 补充项目规范指导",
+    "created_at": "2026-06-08",
+    "updated_at": "2026-06-08",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "Jett_Woo",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/732"
+  },
+  {
+    "iid": 731,
+    "state": "opened",
+    "title": "【PR】: [feat] Concat融合时通过合并相同轴的group，减少group的数量",
+    "created_at": "2026-06-08",
+    "updated_at": "2026-06-08",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "xchu42",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/731"
+  },
+  {
     "iid": 730,
     "state": "opened",
     "title": "feat: 新增 api_regbase 二类贝塞尔函数 BesselY0/BesselY1 接口及 UT",
@@ -57,7 +90,7 @@
   {
     "iid": 725,
     "state": "opened",
-    "title": "fix: 修复 inductor host ABI 兼容性问题并重构测试 helper",
+    "title": "fix: 修复 inductor host ABI 兼容性问题并重构inductor测试 helper",
     "created_at": "2026-06-08",
     "updated_at": "2026-06-08",
     "merged_at": "",
@@ -67,11 +100,11 @@
   },
   {
     "iid": 724,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】: [fix] 暂不处理dtype size上升时的Cast对消",
     "created_at": "2026-06-08",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "xchu42",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/724"
@@ -485,11 +518,11 @@
   },
   {
     "iid": 686,
-    "state": "opened",
+    "state": "merged",
     "title": "chore: align format and pre-commit configs",
     "created_at": "2026-06-05",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "ling-DT",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/686"
@@ -782,12 +815,12 @@
   },
   {
     "iid": 659,
-    "state": "opened",
+    "state": "closed",
     "title": "【PR】: 回退 修复Concat对齐问题",
     "created_at": "2026-06-04",
-    "updated_at": "2026-06-04",
+    "updated_at": "2026-06-08",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-06-08",
     "author": "xchu42",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/659"
   },
@@ -3227,7 +3260,7 @@
     "state": "closed",
     "title": "【feat】: Reduce算子三层性能建模及代码生成优化",
     "created_at": "2026-05-22",
-    "updated_at": "2026-05-28",
+    "updated_at": "2026-06-08",
     "merged_at": "",
     "closed_at": "2026-05-28",
     "author": "zhang_shengjie",

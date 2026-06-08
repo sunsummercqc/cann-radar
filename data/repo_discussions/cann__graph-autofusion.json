@@ -2,17 +2,203 @@
   "generated_at": "2026-06-08",
   "source_count": 7,
   "discussion_count": 7,
-  "external_count": 91,
-  "internal_count": 8,
-  "total_unique_participants": 99,
+  "external_count": 94,
+  "internal_count": 9,
+  "total_unique_participants": 103,
   "trend": [
     {
       "date": "2026-06-08",
-      "external_count": 91,
-      "total_unique_participants": 99
+      "external_count": 94,
+      "total_unique_participants": 103
     }
   ],
   "participants": [
+    {
+      "user_name": "gcw_sPU7hCXr",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/7",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/6",
+          "title": "【Autofuse】graph-autofusion开源仓库，小伙伴如何提交PR",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-01T10:15:00+08:00",
+      "last_seen_at": "2026-06-08T20:48:52+08:00"
+    },
+    {
+      "user_name": "gcw_WTfSfUy7",
+      "nick_name": "",
+      "developer_source": "internal",
+      "top_comments": 1,
+      "replies": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/7",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 0,
+          "replies": 1
+        },
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
+          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-14T13:11:32+08:00",
+      "last_seen_at": "2026-06-08T20:16:00+08:00"
+    },
+    {
+      "user_name": "Lgy278",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/7",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
+          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-14T21:49:47+08:00",
+      "last_seen_at": "2026-06-08T21:41:17+08:00"
+    },
+    {
+      "user_name": "liantian321",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/7",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
+          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-15T23:00:29+08:00",
+      "last_seen_at": "2026-06-08T20:20:53+08:00"
+    },
+    {
+      "user_name": "Qxg27",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/7",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
+          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-14T21:46:57+08:00",
+      "last_seen_at": "2026-06-08T21:32:00+08:00"
+    },
+    {
+      "user_name": "Qxy27",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/7",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
+          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-14T21:34:29+08:00",
+      "last_seen_at": "2026-06-08T20:00:23+08:00"
+    },
+    {
+      "user_name": "wangzicheng924",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/7",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
+          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-15T23:09:09+08:00",
+      "last_seen_at": "2026-06-08T20:26:28+08:00"
+    },
+    {
+      "user_name": "gcw_yc9ps1Ve",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/7",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 2,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-06-08T20:14:16+08:00",
+      "last_seen_at": "2026-06-08T21:16:29+08:00"
+    },
     {
       "user_name": "gcw_XOhlJrBe",
       "nick_name": "",
@@ -266,6 +452,24 @@
       "last_seen_at": "2026-05-14T19:14:43+08:00"
     },
     {
+      "user_name": "gcw_2hddZfvJ",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/7",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T21:09:08+08:00",
+      "last_seen_at": "2026-06-08T21:09:08+08:00"
+    },
+    {
       "user_name": "gcw_4YZOk1LP",
       "nick_name": "",
       "developer_source": "external",
@@ -464,24 +668,6 @@
       "last_seen_at": "2026-05-14T19:39:55+08:00"
     },
     {
-      "user_name": "gcw_sPU7hCXr",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/graph-autofusion/discussions/6",
-          "title": "【Autofuse】graph-autofusion开源仓库，小伙伴如何提交PR",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-06-01T10:15:00+08:00",
-      "last_seen_at": "2026-06-01T10:15:00+08:00"
-    },
-    {
       "user_name": "gcw_t89VpmIb",
       "nick_name": "",
       "developer_source": "external",
@@ -552,24 +738,6 @@
       ],
       "first_seen_at": "2026-05-15T08:44:01+08:00",
       "last_seen_at": "2026-05-15T08:44:01+08:00"
-    },
-    {
-      "user_name": "gcw_WTfSfUy7",
-      "nick_name": "",
-      "developer_source": "internal",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
-          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-14T13:11:32+08:00",
-      "last_seen_at": "2026-05-14T13:11:32+08:00"
     },
     {
       "user_name": "gcw_X5bTZsXT",
@@ -824,42 +992,6 @@
       "last_seen_at": "2026-05-14T19:31:56+08:00"
     },
     {
-      "user_name": "Lgy278",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
-          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-14T21:49:47+08:00",
-      "last_seen_at": "2026-05-14T21:49:47+08:00"
-    },
-    {
-      "user_name": "liantian321",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
-          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-15T23:00:29+08:00",
-      "last_seen_at": "2026-05-15T23:00:29+08:00"
-    },
-    {
       "user_name": "lifemp4",
       "nick_name": "",
       "developer_source": "external",
@@ -1056,42 +1188,6 @@
       ],
       "first_seen_at": "2026-05-15T09:25:42+08:00",
       "last_seen_at": "2026-05-15T09:25:42+08:00"
-    },
-    {
-      "user_name": "Qxg27",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
-          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-14T21:46:57+08:00",
-      "last_seen_at": "2026-05-14T21:46:57+08:00"
-    },
-    {
-      "user_name": "Qxy27",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
-          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-14T21:34:29+08:00",
-      "last_seen_at": "2026-05-14T21:34:29+08:00"
     },
     {
       "user_name": "rosepie",
@@ -1364,24 +1460,6 @@
       "last_seen_at": "2026-05-14T20:36:39+08:00"
     },
     {
-      "user_name": "wangzicheng924",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/graph-autofusion/discussions/5",
-          "title": "【2026CANN算子挑战赛（江山赛区）·南京理工大学站】 零基础玩转autofusion 第一期",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-15T23:09:09+08:00",
-      "last_seen_at": "2026-05-15T23:09:09+08:00"
-    },
-    {
       "user_name": "Watson_i",
       "nick_name": "",
       "developer_source": "external",
@@ -1398,6 +1476,24 @@
       ],
       "first_seen_at": "2026-05-15T09:34:51+08:00",
       "last_seen_at": "2026-05-15T09:34:51+08:00"
+    },
+    {
+      "user_name": "wei_shi",
+      "nick_name": "",
+      "developer_source": "internal",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/7",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T20:10:16+08:00",
+      "last_seen_at": "2026-06-08T20:10:16+08:00"
     },
     {
       "user_name": "weiguihuagitee",
@@ -1470,6 +1566,24 @@
       ],
       "first_seen_at": "2026-05-18T14:45:23+08:00",
       "last_seen_at": "2026-05-18T14:45:23+08:00"
+    },
+    {
+      "user_name": "weiyyyuxin",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/graph-autofusion/discussions/7",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T20:13:07+08:00",
+      "last_seen_at": "2026-06-08T20:13:07+08:00"
     },
     {
       "user_name": "wem603947175",
@@ -1802,10 +1916,10 @@
       "org": "cann/graph-autofusion",
       "number": "7",
       "title": "【新手村任务】图框架基础知识测试",
-      "comment_total": 0,
-      "reply_total": 0,
-      "unique_participants": 0,
-      "external_participants": 0
+      "comment_total": 11,
+      "reply_total": 2,
+      "unique_participants": 11,
+      "external_participants": 9
     },
     {
       "url": "https://gitcode.com/cann/graph-autofusion/discussions/6",

@@ -5974,6 +5974,15 @@
     ]
   },
   {
+    "user_name": "lyy_666",
+    "nick_name": "lyy_666",
+    "user_id": 10968447,
+    "avatar": null,
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
     "user_name": "chenbing9527",
     "nick_name": "chenbing9527",
     "user_id": 5296309,
@@ -7295,15 +7304,6 @@
     "nick_name": "李叉叉-",
     "user_id": 652896,
     "avatar": "https://cdn-img.gitcode.com/de/db/7ded2b0ed418d7b8bae67ab333c527e904637c3a3d9a4e7e4a7407dfe3f2862d.jpg",
-    "starred_repos": [
-      "cann/hixl"
-    ]
-  },
-  {
-    "user_name": "lyy_666",
-    "nick_name": "lyy_666",
-    "user_id": 10968447,
-    "avatar": null,
     "starred_repos": [
       "cann/hixl"
     ]
@@ -9604,6 +9604,15 @@
     "avatar": null,
     "starred_repos": [
       "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "weiyyyuxin",
+    "nick_name": "weiyyyuxin",
+    "user_id": 11581381,
+    "avatar": null,
+    "starred_repos": [
+      "cann/graph-autofusion"
     ]
   },
   {

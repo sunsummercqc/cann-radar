@@ -1,8 +1,19 @@
 [
   {
+    "iid": 321,
+    "state": "opened",
+    "title": "feat: add Wordle SFT config and reproduction recipe for Qwen3-1.7B",
+    "created_at": "2026-06-08",
+    "updated_at": "2026-06-08",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "mystri",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/321"
+  },
+  {
     "iid": 320,
     "state": "opened",
-    "title": "[fix]npu在complex64复数的张量操作报错，实效patch修复",
+    "title": "[fix]npu在complex64复数的张量操作报错，修复失效patch",
     "created_at": "2026-06-08",
     "updated_at": "2026-06-08",
     "merged_at": "",
@@ -23,22 +34,22 @@
   },
   {
     "iid": 318,
-    "state": "opened",
-    "title": "Update DSv4 CP doc",
+    "state": "merged",
+    "title": "[docs]: Update DSv4 CP doc",
     "created_at": "2026-06-08",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "lrwei0709",
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/318"
   },
   {
     "iid": 317,
-    "state": "opened",
+    "state": "merged",
     "title": "[fix] requirements 补充 ninja 依赖",
     "created_at": "2026-06-08",
     "updated_at": "2026-06-08",
-    "merged_at": "",
+    "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "liuyuanchen1",
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/317"

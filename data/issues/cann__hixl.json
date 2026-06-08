@@ -29,7 +29,7 @@
     "author": "super_chao_x",
     "title": "[Bug-Report|缺陷反馈]: HIXL 批量获取接口，存在重复上报IO的情况",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/356"
   },
   {
@@ -128,7 +128,7 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: HIXL连接规格并发上限咨询",
     "labels": [],
-    "user_notes_count": 4,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/hixl/issues/346"
   },
   {
@@ -172,7 +172,7 @@
     "author": "super_chao_x",
     "title": "[Bug-Report|缺陷反馈]: 使用GetTransferStatus 批量获取接口后，存在user data等于空，业务无法正常处理",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/342"
   },
   {

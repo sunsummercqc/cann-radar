@@ -7675,6 +7675,18 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "lyy_666",
+    "nick_name": "lyy_666",
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 7,
+    "developer_source": "external"
+  },
+  {
     "user_name": "chenbing9527",
     "nick_name": "chenbing9527",
     "starred_repos": [
@@ -9403,18 +9415,6 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 0,
-    "developer_source": "external"
-  },
-  {
-    "user_name": "lyy_666",
-    "nick_name": "lyy_666",
-    "starred_repos": [
-      "cann/hixl"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 7,
     "developer_source": "external"
   },
   {
@@ -12464,6 +12464,18 @@
     "original_repo_count": 0,
     "total_contributions": 0,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "weiyyyuxin",
+    "nick_name": "weiyyyuxin",
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 1,
+    "developer_source": "external"
   },
   {
     "user_name": "2302_80810633",
