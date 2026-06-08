@@ -1,5 +1,27 @@
 [
   {
+    "iid": 517,
+    "state": "opened",
+    "created_at": "2026-06-08",
+    "closed_at": "",
+    "author": "hyhhh14",
+    "title": "[Bug]: torch_npu.npu_mhc_pre算子跑torch.compile eager模式后入裸aclgraph时，并行跑用例出现报错和卡死现象",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/517"
+  },
+  {
+    "iid": 516,
+    "state": "opened",
+    "created_at": "2026-06-08",
+    "closed_at": "",
+    "author": "gugub",
+    "title": "[Doc]: npugraph_ex快速上手中aclgraph原理参考位置描述不准确",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/516"
+  },
+  {
     "iid": 515,
     "state": "opened",
     "created_at": "2026-06-05",
@@ -62,7 +84,7 @@
     "author": "Hu1L1",
     "title": "feat(graph): QuantBatchMatmulV3 WeightNz 图优化 — Transpose 后移 Pass",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/510"
   },
   {
@@ -183,7 +205,7 @@
     "author": "ysidjskda",
     "title": "[Bug]: 怎么查明match_times和effect_times差异原因，为什么某些融合算子不生效",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/499"
   },
   {

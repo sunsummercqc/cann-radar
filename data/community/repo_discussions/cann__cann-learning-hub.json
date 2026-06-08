@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-07",
+  "generated_at": "2026-06-08",
   "source_count": 20,
   "discussion_count": 20,
-  "external_count": 588,
+  "external_count": 783,
   "internal_count": 8,
-  "total_unique_participants": 596,
+  "total_unique_participants": 791,
   "trend": [
     {
-      "date": "2026-06-07",
-      "external_count": 588,
-      "total_unique_participants": 596
+      "date": "2026-06-08",
+      "external_count": 783,
+      "total_unique_participants": 791
     }
   ],
   "participants": [
@@ -1610,6 +1610,30 @@
       "last_seen_at": "2026-05-10T11:10:29+08:00"
     },
     {
+      "user_name": "yingzlee",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/18",
+          "title": "【2026 CANN算子挑战赛(江山赛区)· 东南大学站】社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-15T16:39:23+08:00",
+      "last_seen_at": "2026-06-08T14:24:04+08:00"
+    },
+    {
       "user_name": "ymzz_",
       "nick_name": "",
       "developer_source": "external",
@@ -1964,6 +1988,24 @@
       "last_seen_at": "2026-05-20T11:18:46+08:00"
     },
     {
+      "user_name": "gcw_sgsToFnq",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 3,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 3,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:55:52+08:00",
+      "last_seen_at": "2026-06-08T14:42:10+08:00"
+    },
+    {
       "user_name": "Ivan3636361",
       "nick_name": "",
       "developer_source": "external",
@@ -2162,6 +2204,24 @@
       "last_seen_at": "2026-05-17T21:21:07+08:00"
     },
     {
+      "user_name": "2301_79711343",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:58:10+08:00",
+      "last_seen_at": "2026-06-08T14:21:44+08:00"
+    },
+    {
       "user_name": "2301_79759398",
       "nick_name": "",
       "developer_source": "external",
@@ -2178,6 +2238,24 @@
       ],
       "first_seen_at": "2026-05-08T19:08:41+08:00",
       "last_seen_at": "2026-05-16T11:42:47+08:00"
+    },
+    {
+      "user_name": "2401_88517177",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:57:51+08:00",
+      "last_seen_at": "2026-06-08T14:02:54+08:00"
     },
     {
       "user_name": "2402_87736285",
@@ -2216,6 +2294,78 @@
       "last_seen_at": "2026-04-27T14:53:38+08:00"
     },
     {
+      "user_name": "2501_90860318",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:53:54+08:00",
+      "last_seen_at": "2026-06-08T14:42:44+08:00"
+    },
+    {
+      "user_name": "2501_91069096",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-06-08T15:57:35+08:00",
+      "last_seen_at": "2026-06-08T15:58:06+08:00"
+    },
+    {
+      "user_name": "A15982460997",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:56:33+08:00",
+      "last_seen_at": "2026-06-08T13:57:01+08:00"
+    },
+    {
+      "user_name": "aa2589",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:53:35+08:00",
+      "last_seen_at": "2026-06-08T14:44:13+08:00"
+    },
+    {
       "user_name": "aweakbeginner",
       "nick_name": "",
       "developer_source": "external",
@@ -2232,6 +2382,24 @@
       ],
       "first_seen_at": "2026-04-25T17:25:14+08:00",
       "last_seen_at": "2026-04-26T21:41:38+08:00"
+    },
+    {
+      "user_name": "brilliantYiy",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:25:05+08:00",
+      "last_seen_at": "2026-06-08T14:25:41+08:00"
     },
     {
       "user_name": "Ciall0721",
@@ -2268,6 +2436,24 @@
       ],
       "first_seen_at": "2026-05-06T14:57:43+08:00",
       "last_seen_at": "2026-05-06T14:58:52+08:00"
+    },
+    {
+      "user_name": "dony_dy",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:00:15+08:00",
+      "last_seen_at": "2026-06-08T14:24:21+08:00"
     },
     {
       "user_name": "Duvetgit",
@@ -2376,6 +2562,24 @@
       ],
       "first_seen_at": "2026-05-16T09:58:26+08:00",
       "last_seen_at": "2026-05-16T15:38:29+08:00"
+    },
+    {
+      "user_name": "gcw_doqGoEBw",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:56:42+08:00",
+      "last_seen_at": "2026-06-08T14:19:43+08:00"
     },
     {
       "user_name": "gcw_m9QLu8Dq",
@@ -2558,6 +2762,24 @@
       "last_seen_at": "2026-04-29T14:38:46+08:00"
     },
     {
+      "user_name": "luther1",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:53:43+08:00",
+      "last_seen_at": "2026-06-08T14:43:12+08:00"
+    },
+    {
       "user_name": "m0_75041434",
       "nick_name": "",
       "developer_source": "external",
@@ -2592,6 +2814,24 @@
       ],
       "first_seen_at": "2026-05-16T09:58:02+08:00",
       "last_seen_at": "2026-05-16T15:33:40+08:00"
+    },
+    {
+      "user_name": "o-o5",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:58:59+08:00",
+      "last_seen_at": "2026-06-08T14:42:14+08:00"
     },
     {
       "user_name": "painki11er",
@@ -2646,6 +2886,24 @@
       ],
       "first_seen_at": "2026-05-21T16:23:25+08:00",
       "last_seen_at": "2026-05-21T16:23:31+08:00"
+    },
+    {
+      "user_name": "qq_66154365",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:02:20+08:00",
+      "last_seen_at": "2026-06-08T14:02:49+08:00"
     },
     {
       "user_name": "qunzhongjia",
@@ -2756,6 +3014,24 @@
       "last_seen_at": "2026-04-28T22:42:16+08:00"
     },
     {
+      "user_name": "uused",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:14:20+08:00",
+      "last_seen_at": "2026-06-08T14:42:56+08:00"
+    },
+    {
       "user_name": "wangjingyi28571",
       "nick_name": "",
       "developer_source": "external",
@@ -2810,6 +3086,24 @@
       "last_seen_at": "2026-04-20T14:12:52+08:00"
     },
     {
+      "user_name": "weixin_69591333",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:19:32+08:00",
+      "last_seen_at": "2026-06-08T14:41:40+08:00"
+    },
+    {
       "user_name": "Xiaolllll",
       "nick_name": "",
       "developer_source": "external",
@@ -2826,6 +3120,24 @@
       ],
       "first_seen_at": "2026-04-25T18:31:39+08:00",
       "last_seen_at": "2026-04-28T20:52:56+08:00"
+    },
+    {
+      "user_name": "XiaoZheng610",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:50:49+08:00",
+      "last_seen_at": "2026-06-08T14:43:01+08:00"
     },
     {
       "user_name": "xpb123",
@@ -2862,6 +3174,24 @@
       ],
       "first_seen_at": "2026-04-25T17:32:57+08:00",
       "last_seen_at": "2026-04-27T09:55:07+08:00"
+    },
+    {
+      "user_name": "Yuan-furina",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 2,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:47:27+08:00",
+      "last_seen_at": "2026-06-08T14:19:39+08:00"
     },
     {
       "user_name": "Zhrzx",
@@ -2918,6 +3248,42 @@
       "last_seen_at": "2026-04-26T09:37:35+08:00"
     },
     {
+      "user_name": "2201_75444206",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:22:12+08:00",
+      "last_seen_at": "2026-06-08T14:22:12+08:00"
+    },
+    {
+      "user_name": "2201_75988551",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:00:12+08:00",
+      "last_seen_at": "2026-06-08T14:00:12+08:00"
+    },
+    {
       "user_name": "2203_75477063",
       "nick_name": "",
       "developer_source": "external",
@@ -2936,6 +3302,24 @@
       "last_seen_at": "2026-05-21T19:00:55+08:00"
     },
     {
+      "user_name": "2301_76295660",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:55:13+08:00",
+      "last_seen_at": "2026-06-08T13:55:13+08:00"
+    },
+    {
       "user_name": "2301_76692482",
       "nick_name": "",
       "developer_source": "external",
@@ -2952,6 +3336,150 @@
       ],
       "first_seen_at": "2026-04-26T09:00:30+08:00",
       "last_seen_at": "2026-04-26T09:00:30+08:00"
+    },
+    {
+      "user_name": "2301_79025321",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:00:11+08:00",
+      "last_seen_at": "2026-06-08T14:00:11+08:00"
+    },
+    {
+      "user_name": "2301_79156829",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:50:04+08:00",
+      "last_seen_at": "2026-06-08T13:50:04+08:00"
+    },
+    {
+      "user_name": "2301_79306123",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:52:25+08:00",
+      "last_seen_at": "2026-06-08T13:52:25+08:00"
+    },
+    {
+      "user_name": "2301_79362926",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:01:53+08:00",
+      "last_seen_at": "2026-06-08T14:01:53+08:00"
+    },
+    {
+      "user_name": "2301_79800624",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:43:03+08:00",
+      "last_seen_at": "2026-06-08T13:43:03+08:00"
+    },
+    {
+      "user_name": "2301_79814528",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:54:22+08:00",
+      "last_seen_at": "2026-06-08T13:54:22+08:00"
+    },
+    {
+      "user_name": "2301_79842066",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:36:16+08:00",
+      "last_seen_at": "2026-06-08T13:36:16+08:00"
+    },
+    {
+      "user_name": "2301_79859651",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:53:44+08:00",
+      "last_seen_at": "2026-06-08T13:53:44+08:00"
     },
     {
       "user_name": "2301_79879509",
@@ -2990,6 +3518,24 @@
       "last_seen_at": "2026-05-16T09:58:20+08:00"
     },
     {
+      "user_name": "2301_79987938",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:30:03+08:00",
+      "last_seen_at": "2026-06-08T14:30:03+08:00"
+    },
+    {
       "user_name": "2301_80118541",
       "nick_name": "",
       "developer_source": "external",
@@ -3024,6 +3570,24 @@
       ],
       "first_seen_at": "2026-05-28T10:42:03+08:00",
       "last_seen_at": "2026-05-28T10:42:03+08:00"
+    },
+    {
+      "user_name": "2301_80228774",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:21:21+08:00",
+      "last_seen_at": "2026-06-08T14:21:21+08:00"
     },
     {
       "user_name": "2301_80350363",
@@ -3098,6 +3662,60 @@
       "last_seen_at": "2026-05-20T16:50:29+08:00"
     },
     {
+      "user_name": "2301_81046391",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:02:16+08:00",
+      "last_seen_at": "2026-06-08T14:02:16+08:00"
+    },
+    {
+      "user_name": "2301_81098270",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:50:55+08:00",
+      "last_seen_at": "2026-06-08T13:50:55+08:00"
+    },
+    {
+      "user_name": "2301_82108037",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:59:29+08:00",
+      "last_seen_at": "2026-06-08T13:59:29+08:00"
+    },
+    {
       "user_name": "2302_79171096",
       "nick_name": "",
       "developer_source": "external",
@@ -3114,6 +3732,24 @@
       ],
       "first_seen_at": "2026-04-19T16:28:58+08:00",
       "last_seen_at": "2026-04-19T16:28:58+08:00"
+    },
+    {
+      "user_name": "2302_79310529",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:42:23+08:00",
+      "last_seen_at": "2026-06-08T13:42:23+08:00"
     },
     {
       "user_name": "2302_79787942",
@@ -3152,6 +3788,24 @@
       "last_seen_at": "2026-05-29T10:15:15+08:00"
     },
     {
+      "user_name": "2302_80484786",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:45:11+08:00",
+      "last_seen_at": "2026-06-08T14:45:11+08:00"
+    },
+    {
       "user_name": "2302_80505356",
       "nick_name": "",
       "developer_source": "external",
@@ -3186,6 +3840,96 @@
       ],
       "first_seen_at": "2026-05-27T20:32:31+08:00",
       "last_seen_at": "2026-05-27T20:32:31+08:00"
+    },
+    {
+      "user_name": "2401_82468699",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:16:29+08:00",
+      "last_seen_at": "2026-06-08T14:16:29+08:00"
+    },
+    {
+      "user_name": "2401_83560072",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:59:10+08:00",
+      "last_seen_at": "2026-06-08T13:59:10+08:00"
+    },
+    {
+      "user_name": "2401_84075074",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:07:00+08:00",
+      "last_seen_at": "2026-06-08T14:07:00+08:00"
+    },
+    {
+      "user_name": "2401_84241023",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:49:57+08:00",
+      "last_seen_at": "2026-06-08T13:49:57+08:00"
+    },
+    {
+      "user_name": "2401_84367321",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:46:11+08:00",
+      "last_seen_at": "2026-06-08T13:46:11+08:00"
     },
     {
       "user_name": "2401_84427790",
@@ -3242,6 +3986,24 @@
       "last_seen_at": "2026-05-22T16:00:47+08:00"
     },
     {
+      "user_name": "2401_87158424",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:33:25+08:00",
+      "last_seen_at": "2026-06-08T14:33:25+08:00"
+    },
+    {
       "user_name": "2401_87266724",
       "nick_name": "",
       "developer_source": "external",
@@ -3260,6 +4022,24 @@
       "last_seen_at": "2026-04-26T10:24:19+08:00"
     },
     {
+      "user_name": "2401_87283207",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:07:45+08:00",
+      "last_seen_at": "2026-06-08T14:07:45+08:00"
+    },
+    {
       "user_name": "2401_87415092",
       "nick_name": "",
       "developer_source": "external",
@@ -3276,6 +4056,24 @@
       ],
       "first_seen_at": "2026-05-22T13:39:02+08:00",
       "last_seen_at": "2026-05-22T13:39:02+08:00"
+    },
+    {
+      "user_name": "2401_87708408",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:53:01+08:00",
+      "last_seen_at": "2026-06-08T13:53:01+08:00"
     },
     {
       "user_name": "2401_87849691",
@@ -3350,6 +4148,42 @@
       "last_seen_at": "2026-05-22T13:36:35+08:00"
     },
     {
+      "user_name": "2401_88198331",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:46:35+08:00",
+      "last_seen_at": "2026-06-08T13:46:35+08:00"
+    },
+    {
+      "user_name": "2401_88550956",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:00:47+08:00",
+      "last_seen_at": "2026-06-08T14:00:47+08:00"
+    },
+    {
       "user_name": "2401_89087983",
       "nick_name": "",
       "developer_source": "external",
@@ -3366,6 +4200,24 @@
       ],
       "first_seen_at": "2026-05-21T21:03:50+08:00",
       "last_seen_at": "2026-05-21T21:03:50+08:00"
+    },
+    {
+      "user_name": "2401_89687410",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:11:15+08:00",
+      "last_seen_at": "2026-06-08T14:11:15+08:00"
     },
     {
       "user_name": "2402_85107202",
@@ -3494,6 +4346,24 @@
       "last_seen_at": "2026-05-30T12:40:18+08:00"
     },
     {
+      "user_name": "2403_89682707",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:53:28+08:00",
+      "last_seen_at": "2026-06-08T13:53:28+08:00"
+    },
+    {
       "user_name": "2501_90411675",
       "nick_name": "",
       "developer_source": "external",
@@ -3546,6 +4416,24 @@
       ],
       "first_seen_at": "2026-05-12T20:46:18+08:00",
       "last_seen_at": "2026-05-12T20:46:18+08:00"
+    },
+    {
+      "user_name": "2501_92674105",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:58:45+08:00",
+      "last_seen_at": "2026-06-08T13:58:45+08:00"
     },
     {
       "user_name": "2501_93658561",
@@ -3638,6 +4526,24 @@
       "last_seen_at": "2026-05-21T08:21:20+08:00"
     },
     {
+      "user_name": "2502_91379725",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:22:39+08:00",
+      "last_seen_at": "2026-06-08T14:22:39+08:00"
+    },
+    {
       "user_name": "2502_94707562",
       "nick_name": "",
       "developer_source": "external",
@@ -3654,6 +4560,24 @@
       ],
       "first_seen_at": "2026-05-21T18:28:28+08:00",
       "last_seen_at": "2026-05-21T18:28:28+08:00"
+    },
+    {
+      "user_name": "2503_90662851",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:46:25+08:00",
+      "last_seen_at": "2026-06-08T13:46:25+08:00"
     },
     {
       "user_name": "2503_92054723",
@@ -3782,6 +4706,24 @@
       "last_seen_at": "2026-05-06T15:00:14+08:00"
     },
     {
+      "user_name": "a11y",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:42:59+08:00",
+      "last_seen_at": "2026-06-08T13:42:59+08:00"
+    },
+    {
       "user_name": "a333666666",
       "nick_name": "",
       "developer_source": "external",
@@ -3818,6 +4760,42 @@
       "last_seen_at": "2026-05-08T18:52:12+08:00"
     },
     {
+      "user_name": "a_xmrlbz",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:20:21+08:00",
+      "last_seen_at": "2026-06-08T14:20:21+08:00"
+    },
+    {
+      "user_name": "aaaa249",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:39:12+08:00",
+      "last_seen_at": "2026-06-08T13:39:12+08:00"
+    },
+    {
       "user_name": "aaaaahwhbxjss",
       "nick_name": "",
       "developer_source": "external",
@@ -3834,6 +4812,42 @@
       ],
       "first_seen_at": "2026-05-22T13:38:00+08:00",
       "last_seen_at": "2026-05-22T13:38:00+08:00"
+    },
+    {
+      "user_name": "AB123_457",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:48:30+08:00",
+      "last_seen_at": "2026-06-08T13:48:30+08:00"
+    },
+    {
+      "user_name": "ab65745",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:59:50+08:00",
+      "last_seen_at": "2026-06-08T13:59:50+08:00"
     },
     {
       "user_name": "abc0402",
@@ -3870,6 +4884,42 @@
       ],
       "first_seen_at": "2026-05-22T13:35:29+08:00",
       "last_seen_at": "2026-05-22T13:35:29+08:00"
+    },
+    {
+      "user_name": "abcfqz",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:54:34+08:00",
+      "last_seen_at": "2026-06-08T14:54:34+08:00"
+    },
+    {
+      "user_name": "AdddLzc",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:06:58+08:00",
+      "last_seen_at": "2026-06-08T14:06:58+08:00"
     },
     {
       "user_name": "Adrian_y",
@@ -3998,6 +5048,24 @@
       "last_seen_at": "2026-05-21T18:47:34+08:00"
     },
     {
+      "user_name": "appleea",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:47:24+08:00",
+      "last_seen_at": "2026-06-08T13:47:24+08:00"
+    },
+    {
       "user_name": "Ariawwwang",
       "nick_name": "",
       "developer_source": "external",
@@ -4014,6 +5082,24 @@
       ],
       "first_seen_at": "2026-05-13T22:54:22+08:00",
       "last_seen_at": "2026-05-13T22:54:22+08:00"
+    },
+    {
+      "user_name": "Arthur1024",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:33:39+08:00",
+      "last_seen_at": "2026-06-08T14:33:39+08:00"
     },
     {
       "user_name": "asdfgqq",
@@ -4160,6 +5246,24 @@
       "last_seen_at": "2026-05-21T18:49:59+08:00"
     },
     {
+      "user_name": "bmgn",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:01:29+08:00",
+      "last_seen_at": "2026-06-08T14:01:29+08:00"
+    },
+    {
       "user_name": "BodBot",
       "nick_name": "",
       "developer_source": "external",
@@ -4176,6 +5280,24 @@
       ],
       "first_seen_at": "2026-05-21T18:28:00+08:00",
       "last_seen_at": "2026-05-21T18:28:00+08:00"
+    },
+    {
+      "user_name": "Bruce215135",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:56:05+08:00",
+      "last_seen_at": "2026-06-08T13:56:05+08:00"
     },
     {
       "user_name": "c2892480843s",
@@ -4268,6 +5390,42 @@
       "last_seen_at": "2026-05-14T12:58:20+08:00"
     },
     {
+      "user_name": "ccc_chenchen",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:50:45+08:00",
+      "last_seen_at": "2026-06-08T13:50:45+08:00"
+    },
+    {
+      "user_name": "ccc_j92233",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:47:24+08:00",
+      "last_seen_at": "2026-06-08T13:47:24+08:00"
+    },
+    {
       "user_name": "ccccclllvc",
       "nick_name": "",
       "developer_source": "external",
@@ -4284,6 +5442,24 @@
       ],
       "first_seen_at": "2026-05-21T21:03:58+08:00",
       "last_seen_at": "2026-05-21T21:03:58+08:00"
+    },
+    {
+      "user_name": "CCCUW",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T15:07:28+08:00",
+      "last_seen_at": "2026-06-08T15:07:28+08:00"
     },
     {
       "user_name": "ChangqiHugo",
@@ -4320,6 +5496,24 @@
       ],
       "first_seen_at": "2026-05-30T11:31:10+08:00",
       "last_seen_at": "2026-05-30T11:31:10+08:00"
+    },
+    {
+      "user_name": "chebqiuyu",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:53:51+08:00",
+      "last_seen_at": "2026-06-08T13:53:51+08:00"
     },
     {
       "user_name": "chenge1",
@@ -4376,6 +5570,24 @@
       "last_seen_at": "2026-05-06T14:56:26+08:00"
     },
     {
+      "user_name": "CHN_FRANK",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:57:06+08:00",
+      "last_seen_at": "2026-06-08T13:57:06+08:00"
+    },
+    {
       "user_name": "chuyue2025",
       "nick_name": "",
       "developer_source": "external",
@@ -4410,6 +5622,24 @@
       ],
       "first_seen_at": "2026-04-19T16:10:26+08:00",
       "last_seen_at": "2026-04-19T16:10:26+08:00"
+    },
+    {
+      "user_name": "Cizici",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:42:06+08:00",
+      "last_seen_at": "2026-06-08T14:42:06+08:00"
     },
     {
       "user_name": "clo_txb_ud",
@@ -4574,6 +5804,24 @@
       "last_seen_at": "2026-04-26T09:30:16+08:00"
     },
     {
+      "user_name": "czdd9527",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:40:57+08:00",
+      "last_seen_at": "2026-06-08T13:40:57+08:00"
+    },
+    {
       "user_name": "D2604161371",
       "nick_name": "",
       "developer_source": "external",
@@ -4608,6 +5856,24 @@
       ],
       "first_seen_at": "2026-04-20T14:48:49+08:00",
       "last_seen_at": "2026-04-20T14:48:49+08:00"
+    },
+    {
+      "user_name": "Deft_Kepler",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T15:04:16+08:00",
+      "last_seen_at": "2026-06-08T15:04:16+08:00"
     },
     {
       "user_name": "dengbuliduofan",
@@ -4646,6 +5912,24 @@
       "last_seen_at": "2026-05-22T17:04:02+08:00"
     },
     {
+      "user_name": "df0712",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:00:28+08:00",
+      "last_seen_at": "2026-06-08T14:00:28+08:00"
+    },
+    {
       "user_name": "dhh_",
       "nick_name": "",
       "developer_source": "external",
@@ -4662,6 +5946,24 @@
       ],
       "first_seen_at": "2026-05-12T18:48:32+08:00",
       "last_seen_at": "2026-05-12T18:48:32+08:00"
+    },
+    {
+      "user_name": "diudiudiu1111111",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:38:05+08:00",
+      "last_seen_at": "2026-06-08T13:38:05+08:00"
     },
     {
       "user_name": "dmazq",
@@ -4698,6 +6000,24 @@
       ],
       "first_seen_at": "2026-05-30T10:55:59+08:00",
       "last_seen_at": "2026-05-30T10:55:59+08:00"
+    },
+    {
+      "user_name": "dorlin",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:51:19+08:00",
+      "last_seen_at": "2026-06-08T13:51:19+08:00"
     },
     {
       "user_name": "Dreaminity",
@@ -4772,6 +6092,24 @@
       "last_seen_at": "2026-05-06T14:56:39+08:00"
     },
     {
+      "user_name": "dutu1",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:10:07+08:00",
+      "last_seen_at": "2026-06-08T14:10:07+08:00"
+    },
+    {
       "user_name": "E_Trans",
       "nick_name": "",
       "developer_source": "external",
@@ -4788,6 +6126,24 @@
       ],
       "first_seen_at": "2026-05-06T14:55:33+08:00",
       "last_seen_at": "2026-05-06T14:55:33+08:00"
+    },
+    {
+      "user_name": "Edgar506",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:52:22+08:00",
+      "last_seen_at": "2026-06-08T13:52:22+08:00"
     },
     {
       "user_name": "Ediwin_Joe",
@@ -4880,6 +6236,24 @@
       "last_seen_at": "2026-05-22T13:39:28+08:00"
     },
     {
+      "user_name": "Eternity_Hour",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:55:59+08:00",
+      "last_seen_at": "2026-06-08T13:55:59+08:00"
+    },
+    {
       "user_name": "f054421",
       "nick_name": "",
       "developer_source": "external",
@@ -4950,6 +6324,24 @@
       ],
       "first_seen_at": "2026-04-26T09:33:35+08:00",
       "last_seen_at": "2026-04-26T09:33:35+08:00"
+    },
+    {
+      "user_name": "Farewellyouth",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:43:07+08:00",
+      "last_seen_at": "2026-06-08T13:43:07+08:00"
     },
     {
       "user_name": "feng_jfff",
@@ -5042,6 +6434,24 @@
       "last_seen_at": "2026-05-30T11:42:51+08:00"
     },
     {
+      "user_name": "Firefly_",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:52:28+08:00",
+      "last_seen_at": "2026-06-08T13:52:28+08:00"
+    },
+    {
       "user_name": "fireworktwo",
       "nick_name": "",
       "developer_source": "external",
@@ -5112,6 +6522,24 @@
       ],
       "first_seen_at": "2026-05-16T16:49:18+08:00",
       "last_seen_at": "2026-05-16T16:49:18+08:00"
+    },
+    {
+      "user_name": "Fos_boc2",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:22:10+08:00",
+      "last_seen_at": "2026-06-08T14:22:10+08:00"
     },
     {
       "user_name": "Frank_99",
@@ -5222,6 +6650,24 @@
       "last_seen_at": "2026-04-26T10:33:27+08:00"
     },
     {
+      "user_name": "gca_u230378464410",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:05:24+08:00",
+      "last_seen_at": "2026-06-08T14:05:24+08:00"
+    },
+    {
       "user_name": "gca_user011111111111111111nuo",
       "nick_name": "",
       "developer_source": "external",
@@ -5238,6 +6684,24 @@
       ],
       "first_seen_at": "2026-05-08T17:39:12+08:00",
       "last_seen_at": "2026-05-08T17:39:12+08:00"
+    },
+    {
+      "user_name": "gcw_1oba1kp9",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:35:20+08:00",
+      "last_seen_at": "2026-06-08T13:35:20+08:00"
     },
     {
       "user_name": "gcw_2nEACjQd",
@@ -5420,6 +6884,24 @@
       "last_seen_at": "2026-05-08T19:05:48+08:00"
     },
     {
+      "user_name": "gcw_c5337rLy",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:51:04+08:00",
+      "last_seen_at": "2026-06-08T13:51:04+08:00"
+    },
+    {
       "user_name": "gcw_cH24Di9Y",
       "nick_name": "",
       "developer_source": "external",
@@ -5472,6 +6954,24 @@
       ],
       "first_seen_at": "2026-04-25T15:45:51+08:00",
       "last_seen_at": "2026-04-25T15:45:51+08:00"
+    },
+    {
+      "user_name": "gcw_E0wh2FUw",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:42:34+08:00",
+      "last_seen_at": "2026-06-08T14:42:34+08:00"
     },
     {
       "user_name": "gcw_F1JqS7b4",
@@ -5816,6 +7316,24 @@
       "last_seen_at": "2026-05-08T14:39:52+08:00"
     },
     {
+      "user_name": "gcw_ty5K0Rl3",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:59:13+08:00",
+      "last_seen_at": "2026-06-08T13:59:13+08:00"
+    },
+    {
       "user_name": "gcw_uwuzuAaH",
       "nick_name": "",
       "developer_source": "external",
@@ -5832,6 +7350,24 @@
       ],
       "first_seen_at": "2026-04-20T16:22:41+08:00",
       "last_seen_at": "2026-04-20T16:22:41+08:00"
+    },
+    {
+      "user_name": "gcw_wQZCvc4w",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:23:00+08:00",
+      "last_seen_at": "2026-06-08T14:23:00+08:00"
     },
     {
       "user_name": "gcw_YrxPCFFH",
@@ -5942,6 +7478,24 @@
       "last_seen_at": "2026-05-19T15:19:59+08:00"
     },
     {
+      "user_name": "ghlfp",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:43:07+08:00",
+      "last_seen_at": "2026-06-08T13:43:07+08:00"
+    },
+    {
       "user_name": "Ghosper",
       "nick_name": "",
       "developer_source": "external",
@@ -6012,6 +7566,24 @@
       ],
       "first_seen_at": "2026-04-19T16:00:57+08:00",
       "last_seen_at": "2026-04-19T16:00:57+08:00"
+    },
+    {
+      "user_name": "gms516",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:41:20+08:00",
+      "last_seen_at": "2026-06-08T13:41:20+08:00"
     },
     {
       "user_name": "GODNWGDIKWE",
@@ -6086,6 +7658,24 @@
       "last_seen_at": "2026-05-16T16:48:02+08:00"
     },
     {
+      "user_name": "greenbook",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:57:57+08:00",
+      "last_seen_at": "2026-06-08T13:57:57+08:00"
+    },
+    {
       "user_name": "gttttt",
       "nick_name": "",
       "developer_source": "external",
@@ -6138,6 +7728,24 @@
       ],
       "first_seen_at": "2026-05-29T00:38:06+08:00",
       "last_seen_at": "2026-05-29T00:38:06+08:00"
+    },
+    {
+      "user_name": "h571876750",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:03:00+08:00",
+      "last_seen_at": "2026-06-08T14:03:00+08:00"
     },
     {
       "user_name": "haidxxx",
@@ -6212,6 +7820,24 @@
       "last_seen_at": "2026-05-30T14:37:28+08:00"
     },
     {
+      "user_name": "hanserisangel",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:45:38+08:00",
+      "last_seen_at": "2026-06-08T13:45:38+08:00"
+    },
+    {
       "user_name": "hantao55_",
       "nick_name": "",
       "developer_source": "external",
@@ -6264,6 +7890,24 @@
       ],
       "first_seen_at": "2026-05-21T18:30:20+08:00",
       "last_seen_at": "2026-05-21T18:30:20+08:00"
+    },
+    {
+      "user_name": "Haya_7",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:57:40+08:00",
+      "last_seen_at": "2026-06-08T13:57:40+08:00"
     },
     {
       "user_name": "Hccccca",
@@ -6356,6 +8000,24 @@
       "last_seen_at": "2026-06-01T17:13:02+08:00"
     },
     {
+      "user_name": "hhlongg",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:46:09+08:00",
+      "last_seen_at": "2026-06-08T13:46:09+08:00"
+    },
+    {
       "user_name": "hillsidesheep",
       "nick_name": "",
       "developer_source": "external",
@@ -6410,6 +8072,24 @@
       "last_seen_at": "2026-05-06T14:55:03+08:00"
     },
     {
+      "user_name": "HOLYH",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T12:20:45+08:00",
+      "last_seen_at": "2026-06-08T12:20:45+08:00"
+    },
+    {
       "user_name": "Hongya__",
       "nick_name": "",
       "developer_source": "external",
@@ -6426,6 +8106,24 @@
       ],
       "first_seen_at": "2026-05-30T10:55:34+08:00",
       "last_seen_at": "2026-05-30T10:55:34+08:00"
+    },
+    {
+      "user_name": "hrystal",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:58:32+08:00",
+      "last_seen_at": "2026-06-08T13:58:32+08:00"
     },
     {
       "user_name": "hstral",
@@ -6500,6 +8198,42 @@
       "last_seen_at": "2026-06-04T23:33:35+08:00"
     },
     {
+      "user_name": "hybrz",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:22:08+08:00",
+      "last_seen_at": "2026-06-08T14:22:08+08:00"
+    },
+    {
+      "user_name": "I__helloworld__",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:22:03+08:00",
+      "last_seen_at": "2026-06-08T14:22:03+08:00"
+    },
+    {
       "user_name": "ianm3ng",
       "nick_name": "",
       "developer_source": "external",
@@ -6534,6 +8268,24 @@
       ],
       "first_seen_at": "2026-05-30T14:24:52+08:00",
       "last_seen_at": "2026-05-30T14:24:52+08:00"
+    },
+    {
+      "user_name": "idea111666",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T16:12:01+08:00",
+      "last_seen_at": "2026-06-08T16:12:01+08:00"
     },
     {
       "user_name": "IllMK",
@@ -6588,6 +8340,24 @@
       ],
       "first_seen_at": "2026-04-26T09:27:58+08:00",
       "last_seen_at": "2026-04-26T09:27:58+08:00"
+    },
+    {
+      "user_name": "imaginationshen",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:58:09+08:00",
+      "last_seen_at": "2026-06-08T13:58:09+08:00"
     },
     {
       "user_name": "index0118",
@@ -6716,6 +8486,24 @@
       "last_seen_at": "2026-05-30T10:55:25+08:00"
     },
     {
+      "user_name": "Jcheng6",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:42:39+08:00",
+      "last_seen_at": "2026-06-08T13:42:39+08:00"
+    },
+    {
       "user_name": "jdjjs",
       "nick_name": "",
       "developer_source": "external",
@@ -6770,6 +8558,24 @@
       "last_seen_at": "2026-04-26T08:52:38+08:00"
     },
     {
+      "user_name": "jingb",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:40:42+08:00",
+      "last_seen_at": "2026-06-08T13:40:42+08:00"
+    },
+    {
       "user_name": "jjsjjssn",
       "nick_name": "",
       "developer_source": "external",
@@ -6806,6 +8612,42 @@
       "last_seen_at": "2026-05-21T20:48:17+08:00"
     },
     {
+      "user_name": "JoyfulOne5",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:36:10+08:00",
+      "last_seen_at": "2026-06-08T13:36:10+08:00"
+    },
+    {
+      "user_name": "jpyyds1",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:41:32+08:00",
+      "last_seen_at": "2026-06-08T13:41:32+08:00"
+    },
+    {
       "user_name": "jyao_hw",
       "nick_name": "",
       "developer_source": "external",
@@ -6822,6 +8664,60 @@
       ],
       "first_seen_at": "2026-05-19T19:06:54+08:00",
       "last_seen_at": "2026-05-19T19:06:54+08:00"
+    },
+    {
+      "user_name": "jzx200506",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:49:37+08:00",
+      "last_seen_at": "2026-06-08T13:49:37+08:00"
+    },
+    {
+      "user_name": "kamida486",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:55:05+08:00",
+      "last_seen_at": "2026-06-08T13:55:05+08:00"
+    },
+    {
+      "user_name": "KaranocaVe",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:43:12+08:00",
+      "last_seen_at": "2026-06-08T13:43:12+08:00"
     },
     {
       "user_name": "KasuganoG",
@@ -6878,6 +8774,24 @@
       "last_seen_at": "2026-05-22T13:36:17+08:00"
     },
     {
+      "user_name": "KeepAwake",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T09:48:10+08:00",
+      "last_seen_at": "2026-06-08T09:48:10+08:00"
+    },
+    {
       "user_name": "kelypoutin",
       "nick_name": "",
       "developer_source": "external",
@@ -6912,6 +8826,42 @@
       ],
       "first_seen_at": "2026-05-06T14:56:43+08:00",
       "last_seen_at": "2026-05-06T14:56:43+08:00"
+    },
+    {
+      "user_name": "Kfcsniper",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T12:20:01+08:00",
+      "last_seen_at": "2026-06-08T12:20:01+08:00"
+    },
+    {
+      "user_name": "kiddgar",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:41:38+08:00",
+      "last_seen_at": "2026-06-08T13:41:38+08:00"
     },
     {
       "user_name": "Kiki2049",
@@ -7056,6 +9006,24 @@
       ],
       "first_seen_at": "2026-05-30T15:06:05+08:00",
       "last_seen_at": "2026-05-30T15:06:05+08:00"
+    },
+    {
+      "user_name": "kokc",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T15:16:32+08:00",
+      "last_seen_at": "2026-06-08T15:16:32+08:00"
     },
     {
       "user_name": "ksjshsks",
@@ -7310,6 +9278,24 @@
       "last_seen_at": "2026-05-30T14:37:01+08:00"
     },
     {
+      "user_name": "Liiiiiiiiiiiiiippppyyyyyyy",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T15:48:41+08:00",
+      "last_seen_at": "2026-06-08T15:48:41+08:00"
+    },
+    {
       "user_name": "lijinsong2025",
       "nick_name": "",
       "developer_source": "external",
@@ -7346,6 +9332,24 @@
       "last_seen_at": "2026-05-08T18:53:49+08:00"
     },
     {
+      "user_name": "lit_bei",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:22:45+08:00",
+      "last_seen_at": "2026-06-08T14:22:45+08:00"
+    },
+    {
       "user_name": "liyangbinbin0427",
       "nick_name": "",
       "developer_source": "external",
@@ -7362,6 +9366,24 @@
       ],
       "first_seen_at": "2026-04-26T08:58:10+08:00",
       "last_seen_at": "2026-04-26T08:58:10+08:00"
+    },
+    {
+      "user_name": "Lizon",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:22:02+08:00",
+      "last_seen_at": "2026-06-08T14:22:02+08:00"
     },
     {
       "user_name": "ljc_zs",
@@ -7416,6 +9438,24 @@
       ],
       "first_seen_at": "2026-05-19T17:17:36+08:00",
       "last_seen_at": "2026-05-19T17:17:36+08:00"
+    },
+    {
+      "user_name": "LLLFire",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:29:06+08:00",
+      "last_seen_at": "2026-06-08T14:29:06+08:00"
     },
     {
       "user_name": "lslx00",
@@ -7616,6 +9656,42 @@
       "last_seen_at": "2026-05-06T14:46:32+08:00"
     },
     {
+      "user_name": "m0_52424458",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:51:35+08:00",
+      "last_seen_at": "2026-06-08T13:51:35+08:00"
+    },
+    {
+      "user_name": "m0_56616852",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:43:57+08:00",
+      "last_seen_at": "2026-06-08T13:43:57+08:00"
+    },
+    {
       "user_name": "m0_56798263",
       "nick_name": "",
       "developer_source": "external",
@@ -7706,6 +9782,60 @@
       "last_seen_at": "2026-05-20T09:51:43+08:00"
     },
     {
+      "user_name": "m0_58103001",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:53:57+08:00",
+      "last_seen_at": "2026-06-08T13:53:57+08:00"
+    },
+    {
+      "user_name": "m0_58842280",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:50:12+08:00",
+      "last_seen_at": "2026-06-08T13:50:12+08:00"
+    },
+    {
+      "user_name": "m0_60459490",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:53:43+08:00",
+      "last_seen_at": "2026-06-08T13:53:43+08:00"
+    },
+    {
       "user_name": "m0_60529401",
       "nick_name": "",
       "developer_source": "external",
@@ -7724,6 +9854,24 @@
       "last_seen_at": "2026-05-21T18:47:08+08:00"
     },
     {
+      "user_name": "m0_60561846",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T15:13:20+08:00",
+      "last_seen_at": "2026-06-08T15:13:20+08:00"
+    },
+    {
       "user_name": "m0_61949215",
       "nick_name": "",
       "developer_source": "external",
@@ -7740,6 +9888,42 @@
       ],
       "first_seen_at": "2026-05-06T14:58:05+08:00",
       "last_seen_at": "2026-05-06T14:58:05+08:00"
+    },
+    {
+      "user_name": "m0_62184455",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:21:01+08:00",
+      "last_seen_at": "2026-06-08T14:21:01+08:00"
+    },
+    {
+      "user_name": "m0_62322288",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:01:29+08:00",
+      "last_seen_at": "2026-06-08T14:01:29+08:00"
     },
     {
       "user_name": "m0_62362152",
@@ -7850,6 +10034,24 @@
       "last_seen_at": "2026-05-21T18:32:25+08:00"
     },
     {
+      "user_name": "m0_65473889",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:08:37+08:00",
+      "last_seen_at": "2026-06-08T14:08:37+08:00"
+    },
+    {
       "user_name": "m0_65486263",
       "nick_name": "",
       "developer_source": "external",
@@ -7958,6 +10160,42 @@
       "last_seen_at": "2026-04-26T09:36:19+08:00"
     },
     {
+      "user_name": "m0_72335048",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:53:37+08:00",
+      "last_seen_at": "2026-06-08T13:53:37+08:00"
+    },
+    {
+      "user_name": "m0_72446794",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:50:17+08:00",
+      "last_seen_at": "2026-06-08T13:50:17+08:00"
+    },
+    {
       "user_name": "m0_72496284",
       "nick_name": "",
       "developer_source": "external",
@@ -7992,6 +10230,60 @@
       ],
       "first_seen_at": "2026-05-21T19:13:20+08:00",
       "last_seen_at": "2026-05-21T19:13:20+08:00"
+    },
+    {
+      "user_name": "m0_73552367",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:50:32+08:00",
+      "last_seen_at": "2026-06-08T14:50:32+08:00"
+    },
+    {
+      "user_name": "m0_73836565",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:50:33+08:00",
+      "last_seen_at": "2026-06-08T13:50:33+08:00"
+    },
+    {
+      "user_name": "m0_73859755",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:39:46+08:00",
+      "last_seen_at": "2026-06-08T13:39:46+08:00"
     },
     {
       "user_name": "m0_73885054",
@@ -8030,6 +10322,42 @@
       "last_seen_at": "2026-05-21T11:54:21+08:00"
     },
     {
+      "user_name": "m0_74174894",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:20:29+08:00",
+      "last_seen_at": "2026-06-08T14:20:29+08:00"
+    },
+    {
+      "user_name": "m0_74249892",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:55:09+08:00",
+      "last_seen_at": "2026-06-08T13:55:09+08:00"
+    },
+    {
       "user_name": "m0_74251176",
       "nick_name": "",
       "developer_source": "external",
@@ -8064,6 +10392,42 @@
       ],
       "first_seen_at": "2026-05-30T14:26:22+08:00",
       "last_seen_at": "2026-05-30T14:26:22+08:00"
+    },
+    {
+      "user_name": "m0_74943679",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:50:16+08:00",
+      "last_seen_at": "2026-06-08T13:50:16+08:00"
+    },
+    {
+      "user_name": "m0_75243199",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:56:19+08:00",
+      "last_seen_at": "2026-06-08T13:56:19+08:00"
     },
     {
       "user_name": "M123547",
@@ -8120,6 +10484,24 @@
       "last_seen_at": "2026-05-21T16:13:39+08:00"
     },
     {
+      "user_name": "maiyan",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:58:28+08:00",
+      "last_seen_at": "2026-06-08T13:58:28+08:00"
+    },
+    {
       "user_name": "maomaoyjp",
       "nick_name": "",
       "developer_source": "external",
@@ -8154,6 +10536,24 @@
       ],
       "first_seen_at": "2026-05-21T12:27:36+08:00",
       "last_seen_at": "2026-05-21T12:27:36+08:00"
+    },
+    {
+      "user_name": "MaxYangMoon",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:59:00+08:00",
+      "last_seen_at": "2026-06-08T13:59:00+08:00"
     },
     {
       "user_name": "Meteor_77",
@@ -8390,6 +10790,24 @@
       "last_seen_at": "2026-04-26T08:59:02+08:00"
     },
     {
+      "user_name": "Niffler",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:24:32+08:00",
+      "last_seen_at": "2026-06-08T14:24:32+08:00"
+    },
+    {
       "user_name": "nimoni",
       "nick_name": "",
       "developer_source": "external",
@@ -8444,6 +10862,24 @@
       "last_seen_at": "2026-05-06T14:43:23+08:00"
     },
     {
+      "user_name": "OceanX2",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:02:14+08:00",
+      "last_seen_at": "2026-06-08T14:02:14+08:00"
+    },
+    {
       "user_name": "overturnedtea",
       "nick_name": "",
       "developer_source": "external",
@@ -8478,6 +10914,42 @@
       ],
       "first_seen_at": "2026-05-20T16:53:09+08:00",
       "last_seen_at": "2026-05-20T16:53:09+08:00"
+    },
+    {
+      "user_name": "pandagerzi",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:04:25+08:00",
+      "last_seen_at": "2026-06-08T14:04:25+08:00"
+    },
+    {
+      "user_name": "partezzZ",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:52:59+08:00",
+      "last_seen_at": "2026-06-08T13:52:59+08:00"
     },
     {
       "user_name": "PepperFiish",
@@ -8534,6 +11006,24 @@
       "last_seen_at": "2026-05-21T19:14:14+08:00"
     },
     {
+      "user_name": "Q1Tiayyy",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:48:59+08:00",
+      "last_seen_at": "2026-06-08T13:48:59+08:00"
+    },
+    {
       "user_name": "q6lwowl9p",
       "nick_name": "",
       "developer_source": "external",
@@ -8568,6 +11058,60 @@
       ],
       "first_seen_at": "2026-04-26T08:55:08+08:00",
       "last_seen_at": "2026-04-26T08:55:08+08:00"
+    },
+    {
+      "user_name": "qianfangqiao",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:06:54+08:00",
+      "last_seen_at": "2026-06-08T14:06:54+08:00"
+    },
+    {
+      "user_name": "QianMoTaOShi",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:48:05+08:00",
+      "last_seen_at": "2026-06-08T14:48:05+08:00"
+    },
+    {
+      "user_name": "QianXi_0223",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:01:26+08:00",
+      "last_seen_at": "2026-06-08T13:01:26+08:00"
     },
     {
       "user_name": "Qinging_267",
@@ -8714,6 +11258,24 @@
       "last_seen_at": "2026-04-26T09:34:11+08:00"
     },
     {
+      "user_name": "qq_46338812",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:51:07+08:00",
+      "last_seen_at": "2026-06-08T13:51:07+08:00"
+    },
+    {
       "user_name": "qq_51609253",
       "nick_name": "",
       "developer_source": "external",
@@ -8804,6 +11366,24 @@
       "last_seen_at": "2026-06-05T02:11:21+08:00"
     },
     {
+      "user_name": "qq_53754649",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T15:35:50+08:00",
+      "last_seen_at": "2026-06-08T15:35:50+08:00"
+    },
+    {
       "user_name": "qq_54019228",
       "nick_name": "",
       "developer_source": "external",
@@ -8892,6 +11472,24 @@
       ],
       "first_seen_at": "2026-04-26T08:53:27+08:00",
       "last_seen_at": "2026-04-26T08:53:27+08:00"
+    },
+    {
+      "user_name": "qq_56405273",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:44:49+08:00",
+      "last_seen_at": "2026-06-08T14:44:49+08:00"
     },
     {
       "user_name": "qq_59180233",
@@ -9020,6 +11618,60 @@
       "last_seen_at": "2026-05-06T14:55:40+08:00"
     },
     {
+      "user_name": "qq_63325714",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:47:40+08:00",
+      "last_seen_at": "2026-06-08T14:47:40+08:00"
+    },
+    {
+      "user_name": "qq_63728953",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:28:38+08:00",
+      "last_seen_at": "2026-06-08T14:28:38+08:00"
+    },
+    {
+      "user_name": "qq_65580070",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:46:20+08:00",
+      "last_seen_at": "2026-06-08T14:46:20+08:00"
+    },
+    {
       "user_name": "qq_66487911",
       "nick_name": "",
       "developer_source": "external",
@@ -9036,6 +11688,78 @@
       ],
       "first_seen_at": "2026-05-25T16:34:11+08:00",
       "last_seen_at": "2026-05-25T16:34:11+08:00"
+    },
+    {
+      "user_name": "qq_66599751",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:53:22+08:00",
+      "last_seen_at": "2026-06-08T13:53:22+08:00"
+    },
+    {
+      "user_name": "qq_66695889",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:52:29+08:00",
+      "last_seen_at": "2026-06-08T13:52:29+08:00"
+    },
+    {
+      "user_name": "qq_69694563",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:21:46+08:00",
+      "last_seen_at": "2026-06-08T14:21:46+08:00"
+    },
+    {
+      "user_name": "qq_74289668",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:08:50+08:00",
+      "last_seen_at": "2026-06-08T14:08:50+08:00"
     },
     {
       "user_name": "Qrazy",
@@ -9056,6 +11780,42 @@
       "last_seen_at": "2026-05-16T09:56:57+08:00"
     },
     {
+      "user_name": "qwewaa",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:22:54+08:00",
+      "last_seen_at": "2026-06-08T14:22:54+08:00"
+    },
+    {
+      "user_name": "RanderTorres",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:08:51+08:00",
+      "last_seen_at": "2026-06-08T14:08:51+08:00"
+    },
+    {
       "user_name": "RED25",
       "nick_name": "",
       "developer_source": "external",
@@ -9072,6 +11832,24 @@
       ],
       "first_seen_at": "2026-05-22T15:57:38+08:00",
       "last_seen_at": "2026-05-22T15:57:38+08:00"
+    },
+    {
+      "user_name": "rjdjxjj",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:51:06+08:00",
+      "last_seen_at": "2026-06-08T13:51:06+08:00"
     },
     {
       "user_name": "rokuyo",
@@ -9108,6 +11886,24 @@
       ],
       "first_seen_at": "2026-05-06T14:54:14+08:00",
       "last_seen_at": "2026-05-06T14:54:14+08:00"
+    },
+    {
+      "user_name": "Sanae_123",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:16:49+08:00",
+      "last_seen_at": "2026-06-08T13:16:49+08:00"
     },
     {
       "user_name": "Sandy_malz",
@@ -9308,6 +12104,24 @@
       "last_seen_at": "2026-05-09T00:07:10+08:00"
     },
     {
+      "user_name": "ShiQing196",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:34:49+08:00",
+      "last_seen_at": "2026-06-08T14:34:49+08:00"
+    },
+    {
       "user_name": "ShiYan-",
       "nick_name": "",
       "developer_source": "external",
@@ -9342,6 +12156,42 @@
       ],
       "first_seen_at": "2026-05-06T14:57:10+08:00",
       "last_seen_at": "2026-05-06T14:57:10+08:00"
+    },
+    {
+      "user_name": "shpiderman",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:45:45+08:00",
+      "last_seen_at": "2026-06-08T13:45:45+08:00"
+    },
+    {
+      "user_name": "SHQSe_ing",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:20:57+08:00",
+      "last_seen_at": "2026-06-08T14:20:57+08:00"
     },
     {
       "user_name": "silenecho996",
@@ -9414,6 +12264,24 @@
       ],
       "first_seen_at": "2026-05-21T19:20:03+08:00",
       "last_seen_at": "2026-05-21T19:20:03+08:00"
+    },
+    {
+      "user_name": "Smallprobability",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T15:24:35+08:00",
+      "last_seen_at": "2026-06-08T15:24:35+08:00"
     },
     {
       "user_name": "sny303",
@@ -9578,6 +12446,24 @@
       "last_seen_at": "2026-05-30T10:53:10+08:00"
     },
     {
+      "user_name": "StudentXHF",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:01:32+08:00",
+      "last_seen_at": "2026-06-08T14:01:32+08:00"
+    },
+    {
       "user_name": "sududh33",
       "nick_name": "",
       "developer_source": "external",
@@ -9668,6 +12554,24 @@
       "last_seen_at": "2026-05-06T15:02:14+08:00"
     },
     {
+      "user_name": "sunstarmoon",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:21:23+08:00",
+      "last_seen_at": "2026-06-08T14:21:23+08:00"
+    },
+    {
       "user_name": "Sweetzz",
       "nick_name": "",
       "developer_source": "external",
@@ -9738,6 +12642,42 @@
       ],
       "first_seen_at": "2026-05-20T15:38:01+08:00",
       "last_seen_at": "2026-05-20T15:38:01+08:00"
+    },
+    {
+      "user_name": "tang0123",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 0,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 0,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:47:20+08:00",
+      "last_seen_at": "2026-06-08T13:47:20+08:00"
+    },
+    {
+      "user_name": "tianlann",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:49:25+08:00",
+      "last_seen_at": "2026-06-08T13:49:25+08:00"
     },
     {
       "user_name": "tianqiguang",
@@ -9812,6 +12752,24 @@
       "last_seen_at": "2026-05-20T19:43:45+08:00"
     },
     {
+      "user_name": "TrainK1ng",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:02:03+08:00",
+      "last_seen_at": "2026-06-08T14:02:03+08:00"
+    },
+    {
       "user_name": "tuzi233",
       "nick_name": "",
       "developer_source": "external",
@@ -9848,6 +12806,24 @@
       "last_seen_at": "2026-05-08T19:01:36+08:00"
     },
     {
+      "user_name": "uestsb",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:45:41+08:00",
+      "last_seen_at": "2026-06-08T14:45:41+08:00"
+    },
+    {
       "user_name": "uknownplayer",
       "nick_name": "",
       "developer_source": "external",
@@ -9882,6 +12858,24 @@
       ],
       "first_seen_at": "2026-05-30T20:56:45+08:00",
       "last_seen_at": "2026-05-30T20:56:45+08:00"
+    },
+    {
+      "user_name": "UYZY",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T15:39:21+08:00",
+      "last_seen_at": "2026-06-08T15:39:21+08:00"
     },
     {
       "user_name": "Vardon",
@@ -10082,6 +13076,24 @@
       "last_seen_at": "2026-05-08T18:35:11+08:00"
     },
     {
+      "user_name": "weiqie_",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:51:19+08:00",
+      "last_seen_at": "2026-06-08T13:51:19+08:00"
+    },
+    {
       "user_name": "weixin_43373034",
       "nick_name": "",
       "developer_source": "external",
@@ -10154,6 +13166,24 @@
       "last_seen_at": "2026-05-06T15:02:24+08:00"
     },
     {
+      "user_name": "weixin_48579586",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:57:05+08:00",
+      "last_seen_at": "2026-06-08T13:57:05+08:00"
+    },
+    {
       "user_name": "weixin_49058764",
       "nick_name": "",
       "developer_source": "external",
@@ -10170,6 +13200,42 @@
       ],
       "first_seen_at": "2026-05-09T00:05:15+08:00",
       "last_seen_at": "2026-05-09T00:05:15+08:00"
+    },
+    {
+      "user_name": "weixin_52745854",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:47:39+08:00",
+      "last_seen_at": "2026-06-08T13:47:39+08:00"
+    },
+    {
+      "user_name": "weixin_53204501",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:35:14+08:00",
+      "last_seen_at": "2026-06-08T13:35:14+08:00"
     },
     {
       "user_name": "weixin_55837048",
@@ -10262,6 +13328,24 @@
       "last_seen_at": "2026-04-26T08:53:55+08:00"
     },
     {
+      "user_name": "weixin_68483734",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T15:18:31+08:00",
+      "last_seen_at": "2026-06-08T15:18:31+08:00"
+    },
+    {
       "user_name": "weixin_70982981",
       "nick_name": "",
       "developer_source": "external",
@@ -10296,6 +13380,24 @@
       ],
       "first_seen_at": "2026-05-13T14:49:06+08:00",
       "last_seen_at": "2026-05-13T14:49:06+08:00"
+    },
+    {
+      "user_name": "weixin_72893419",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:42:13+08:00",
+      "last_seen_at": "2026-06-08T14:42:13+08:00"
     },
     {
       "user_name": "wensizhao_",
@@ -10350,6 +13452,42 @@
       ],
       "first_seen_at": "2026-04-19T17:25:49+08:00",
       "last_seen_at": "2026-04-19T17:25:49+08:00"
+    },
+    {
+      "user_name": "wionysus",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:09:29+08:00",
+      "last_seen_at": "2026-06-08T14:09:29+08:00"
+    },
+    {
+      "user_name": "wJinL111",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 0,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 0,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:43:00+08:00",
+      "last_seen_at": "2026-06-08T13:43:00+08:00"
     },
     {
       "user_name": "wjl12_123",
@@ -10478,6 +13616,24 @@
       "last_seen_at": "2026-05-21T20:41:16+08:00"
     },
     {
+      "user_name": "ww32039",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:21:57+08:00",
+      "last_seen_at": "2026-06-08T14:21:57+08:00"
+    },
+    {
       "user_name": "ww_3643",
       "nick_name": "",
       "developer_source": "external",
@@ -10532,6 +13688,24 @@
       "last_seen_at": "2026-05-06T14:46:48+08:00"
     },
     {
+      "user_name": "WYK0410",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:17:54+08:00",
+      "last_seen_at": "2026-06-08T14:17:54+08:00"
+    },
+    {
       "user_name": "WyT____",
       "nick_name": "",
       "developer_source": "external",
@@ -10566,6 +13740,24 @@
       ],
       "first_seen_at": "2026-06-06T21:10:08+08:00",
       "last_seen_at": "2026-06-06T21:10:08+08:00"
+    },
+    {
+      "user_name": "X1AONUO",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:49:28+08:00",
+      "last_seen_at": "2026-06-08T13:49:28+08:00"
     },
     {
       "user_name": "xanfro",
@@ -10622,6 +13814,60 @@
       "last_seen_at": "2026-05-06T20:29:29+08:00"
     },
     {
+      "user_name": "xiaoxixioo",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:02:27+08:00",
+      "last_seen_at": "2026-06-08T14:02:27+08:00"
+    },
+    {
+      "user_name": "xingguangyaoyu",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:51:23+08:00",
+      "last_seen_at": "2026-06-08T13:51:23+08:00"
+    },
+    {
+      "user_name": "XioawangABB",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:16:39+08:00",
+      "last_seen_at": "2026-06-08T14:16:39+08:00"
+    },
+    {
       "user_name": "Xu_II",
       "nick_name": "",
       "developer_source": "external",
@@ -10658,6 +13904,24 @@
       "last_seen_at": "2026-05-06T14:53:36+08:00"
     },
     {
+      "user_name": "xuedaokuqi",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:22:20+08:00",
+      "last_seen_at": "2026-06-08T14:22:20+08:00"
+    },
+    {
       "user_name": "xulicheng_",
       "nick_name": "",
       "developer_source": "external",
@@ -10674,6 +13938,24 @@
       ],
       "first_seen_at": "2026-05-08T18:46:31+08:00",
       "last_seen_at": "2026-05-08T18:46:31+08:00"
+    },
+    {
+      "user_name": "xwz942692694",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:21:59+08:00",
+      "last_seen_at": "2026-06-08T14:21:59+08:00"
     },
     {
       "user_name": "xxxx11111111",
@@ -10694,6 +13976,24 @@
       "last_seen_at": "2026-05-06T14:48:55+08:00"
     },
     {
+      "user_name": "xzl125",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:47:24+08:00",
+      "last_seen_at": "2026-06-08T14:47:24+08:00"
+    },
+    {
       "user_name": "xzw250666",
       "nick_name": "",
       "developer_source": "external",
@@ -10710,6 +14010,24 @@
       ],
       "first_seen_at": "2026-05-21T18:38:57+08:00",
       "last_seen_at": "2026-05-21T18:38:57+08:00"
+    },
+    {
+      "user_name": "y0x0x",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:54:12+08:00",
+      "last_seen_at": "2026-06-08T13:54:12+08:00"
     },
     {
       "user_name": "y1234bdjd",
@@ -10784,6 +14102,24 @@
       "last_seen_at": "2026-05-16T09:57:44+08:00"
     },
     {
+      "user_name": "ycywdhb",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:56:35+08:00",
+      "last_seen_at": "2026-06-08T13:56:35+08:00"
+    },
+    {
       "user_name": "yet666",
       "nick_name": "",
       "developer_source": "external",
@@ -10802,7 +14138,25 @@
       "last_seen_at": "2026-05-21T19:21:00+08:00"
     },
     {
-      "user_name": "yingzlee",
+      "user_name": "yonghengchengbao",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 0,
+      "replies": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 0,
+          "replies": 1
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:09:02+08:00",
+      "last_seen_at": "2026-06-08T14:09:02+08:00"
+    },
+    {
+      "user_name": "Yrz_",
       "nick_name": "",
       "developer_source": "external",
       "top_comments": 1,
@@ -10810,14 +14164,50 @@
       "discussion_count": 1,
       "discussions": [
         {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/18",
-          "title": "【2026 CANN算子挑战赛(江山赛区)· 东南大学站】社区文化小测",
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
           "top_comments": 1,
           "replies": 0
         }
       ],
-      "first_seen_at": "2026-05-15T16:39:23+08:00",
-      "last_seen_at": "2026-05-15T16:39:23+08:00"
+      "first_seen_at": "2026-06-08T13:47:09+08:00",
+      "last_seen_at": "2026-06-08T13:47:09+08:00"
+    },
+    {
+      "user_name": "ysy12138",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:42:10+08:00",
+      "last_seen_at": "2026-06-08T13:42:10+08:00"
+    },
+    {
+      "user_name": "yunchangxixixi666",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:02:22+08:00",
+      "last_seen_at": "2026-06-08T14:02:22+08:00"
     },
     {
       "user_name": "yuxie",
@@ -10982,6 +14372,24 @@
       "last_seen_at": "2026-05-06T15:01:54+08:00"
     },
     {
+      "user_name": "ZHJYYDSm",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:52:20+08:00",
+      "last_seen_at": "2026-06-08T13:52:20+08:00"
+    },
+    {
       "user_name": "zixiaowei",
       "nick_name": "",
       "developer_source": "external",
@@ -11036,6 +14444,42 @@
       "last_seen_at": "2026-04-26T09:21:50+08:00"
     },
     {
+      "user_name": "zjy_123456",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:44:22+08:00",
+      "last_seen_at": "2026-06-08T13:44:22+08:00"
+    },
+    {
+      "user_name": "zmjdhq",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T16:05:51+08:00",
+      "last_seen_at": "2026-06-08T16:05:51+08:00"
+    },
+    {
       "user_name": "zmjjkkkkkkkkkkkkkk",
       "nick_name": "",
       "developer_source": "external",
@@ -11052,6 +14496,24 @@
       ],
       "first_seen_at": "2026-05-21T18:39:53+08:00",
       "last_seen_at": "2026-05-21T18:39:53+08:00"
+    },
+    {
+      "user_name": "Zombie-ZZZ",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:43:59+08:00",
+      "last_seen_at": "2026-06-08T14:43:59+08:00"
     },
     {
       "user_name": "zouguangwenjie",
@@ -11090,6 +14552,24 @@
       "last_seen_at": "2026-05-30T21:08:28+08:00"
     },
     {
+      "user_name": "ztwjccfs",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:43:29+08:00",
+      "last_seen_at": "2026-06-08T14:43:29+08:00"
+    },
+    {
       "user_name": "zy2026",
       "nick_name": "",
       "developer_source": "external",
@@ -11124,6 +14604,24 @@
       ],
       "first_seen_at": "2026-05-08T18:49:39+08:00",
       "last_seen_at": "2026-05-08T18:49:39+08:00"
+    },
+    {
+      "user_name": "zyh_12138",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T14:10:27+08:00",
+      "last_seen_at": "2026-06-08T14:10:27+08:00"
     },
     {
       "user_name": "zywoo112",
@@ -11198,6 +14696,24 @@
       "last_seen_at": "2026-05-21T18:43:03+08:00"
     },
     {
+      "user_name": "ZZZGGG666",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:55:58+08:00",
+      "last_seen_at": "2026-06-08T13:55:58+08:00"
+    },
+    {
       "user_name": "Zzzhe-t",
       "nick_name": "",
       "developer_source": "external",
@@ -11240,10 +14756,10 @@
       "org": "cann/cann-learning-hub",
       "number": "26",
       "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
-      "comment_total": 1,
-      "reply_total": 0,
-      "unique_participants": 1,
-      "external_participants": 1
+      "comment_total": 210,
+      "reply_total": 5,
+      "unique_participants": 197,
+      "external_participants": 197
     },
     {
       "url": "https://gitcode.com/cann/cann-learning-hub/discussions/25",

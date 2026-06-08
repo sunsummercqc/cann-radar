@@ -1,5 +1,16 @@
 [
   {
+    "iid": 94,
+    "state": "opened",
+    "created_at": "2026-06-08",
+    "closed_at": "",
+    "author": "xchu42",
+    "title": "CastOptimizationPass: dtype size 上升时消除 Cast 在一些场景会引入性能劣化",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/94"
+  },
+  {
     "iid": 93,
     "state": "closed",
     "created_at": "2026-06-05",
@@ -45,9 +56,9 @@
   },
   {
     "iid": 89,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-04",
-    "closed_at": "",
+    "closed_at": "2026-06-08",
     "author": "qqqZZZ_3",
     "title": "autofuse_frames_af.h 头文件缺少自包含，导致依赖包含顺序才能编译通过",
     "labels": [],
@@ -155,9 +166,9 @@
   },
   {
     "iid": 79,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-06-08",
     "author": "zqmin",
     "title": "feat: 新增AscIR适配",
     "labels": [],

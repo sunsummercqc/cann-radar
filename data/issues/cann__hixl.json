@@ -1,5 +1,49 @@
 [
   {
+    "iid": 358,
+    "state": "opened",
+    "created_at": "2026-06-08",
+    "closed_at": "",
+    "author": "tianlianga1",
+    "title": "目前支持vnpu的场景嘛？我在vnpu场景下运行MooncakeDistributedStore.setup报 Failed to connect to target: 172.30.132.83:20348, status: 103900, errmsg: E19999: Inner Errorl",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/358"
+  },
+  {
+    "iid": 357,
+    "state": "opened",
+    "created_at": "2026-06-08",
+    "closed_at": "",
+    "author": "msjopp",
+    "title": "[Bug-Report|缺陷反馈]: mooncake + hixl 双机16p kvcache传输 报错ErrorNo: 103900 [HIXL]invalid msg len:272 of create channel, must = 176",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/357"
+  },
+  {
+    "iid": 356,
+    "state": "opened",
+    "created_at": "2026-06-08",
+    "closed_at": "",
+    "author": "super_chao_x",
+    "title": "[Bug-Report|缺陷反馈]: HIXL 批量获取接口，存在重复上报IO的情况",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/356"
+  },
+  {
+    "iid": 355,
+    "state": "closed",
+    "created_at": "2026-06-08",
+    "closed_at": "2026-06-08",
+    "author": "chenbing9527",
+    "title": "[Question|问题咨询]: 环境上找不到npu_peermem.ko",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/355"
+  },
+  {
     "iid": 354,
     "state": "opened",
     "created_at": "2026-06-06",
@@ -7,7 +51,7 @@
     "author": "sinat_22339175",
     "title": "[Bug-Report|缺陷反馈]:  PD网络隔离恢复后HCCS仍然无法通信",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/354"
   },
   {
@@ -18,7 +62,7 @@
     "author": "bbsh112",
     "title": "[Question|问题咨询]: A5 UBOE 双机PD分离拉起后跑推理时，出现的D2RH传输，以及 D2D 传输失败问题",
     "labels": [],
-    "user_notes_count": 7,
+    "user_notes_count": 8,
     "web_url": "https://gitcode.com/cann/hixl/issues/353"
   },
   {
@@ -67,13 +111,13 @@
   },
   {
     "iid": 347,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-03",
-    "closed_at": "",
+    "closed_at": "2026-06-08",
     "author": "super_chao_x",
     "title": "[Bug-Report|缺陷反馈]: GetTransferStatus failed, invalid req",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/347"
   },
   {
@@ -177,13 +221,13 @@
   },
   {
     "iid": 304,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-29",
-    "closed_at": "",
+    "closed_at": "2026-06-08",
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: python样例push_blocks_sample.py执行失败，plog有报错cache_key: (18446744073709551615, 0) does not exist",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/304"
   },
   {
