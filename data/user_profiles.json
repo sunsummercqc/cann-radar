@@ -32684,7 +32684,7 @@
     "original_repo_count": 0,
     "total_repo_count": 0,
     "total_contributions": 6,
-    "user_type": "developer"
+    "user_type": "questioner"
   },
   {
     "user_name": "e1eee1e",
@@ -32852,6 +32852,20 @@
     "original_repo_count": 1,
     "total_repo_count": 1,
     "total_contributions": 1,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "linghz666",
+    "nick_name": "linghz666",
+    "user_id": 7975627,
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 4,
     "user_type": "developer"
   }
 ]

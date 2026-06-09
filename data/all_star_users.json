@@ -1,5 +1,14 @@
 [
   {
+    "user_name": "linghz666",
+    "nick_name": "linghz666",
+    "user_id": 7975627,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
     "user_name": "dilettante2polymath",
     "nick_name": "dilettante2polymath",
     "user_id": 11162573,
@@ -2888,7 +2897,8 @@
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
-      "cann/graph-autofusion"
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
     ]
   },
   {
@@ -8222,7 +8232,7 @@
     "user_name": "xiangyaocheng",
     "nick_name": "yaocheng",
     "user_id": 8422374,
-    "avatar": "https://cdn-img.gitcode.com/ab/da/abdaa818c1a4b371809a8c1b3ded9854a9972804e9a7a3756dc5bc1afa8dfa13.png?time=1780909618240",
+    "avatar": "https://cdn-img.gitcode.com/ee/ec/ee26e753c4997af4d89f16699e66ec86d4bf2bfddea03a4fe284a14a25bd52b8.png?time=1780972774860",
     "starred_repos": [
       "cann/hixl"
     ]

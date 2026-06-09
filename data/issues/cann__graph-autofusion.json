@@ -1,5 +1,104 @@
 [
   {
+    "iid": 103,
+    "state": "opened",
+    "created_at": "2026-06-09",
+    "closed_at": "",
+    "author": "j18351891940",
+    "title": "[Requirement|需求建议]: ",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/103"
+  },
+  {
+    "iid": 102,
+    "state": "closed",
+    "created_at": "2026-06-09",
+    "closed_at": "2026-06-09",
+    "author": "zhang_shengjie",
+    "title": "inductor调用GetTopn接口存在ABI不兼容问题",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/102"
+  },
+  {
+    "iid": 101,
+    "state": "closed",
+    "created_at": "2026-06-09",
+    "closed_at": "2026-06-09",
+    "author": "zhang_shengjie",
+    "title": "ATT生成的TilingFunc中获取UB大小的函数可读性较差",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/101"
+  },
+  {
+    "iid": 100,
+    "state": "opened",
+    "created_at": "2026-06-09",
+    "closed_at": "",
+    "author": "zhang_shengjie",
+    "title": "inductor 基于接口的PGO接口存在浮点数溢出问题",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/100"
+  },
+  {
+    "iid": 99,
+    "state": "closed",
+    "created_at": "2026-06-09",
+    "closed_at": "2026-06-09",
+    "author": "xchu42",
+    "title": "schedule支持合并轴相同的group，防止group数量过多",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/99"
+  },
+  {
+    "iid": 98,
+    "state": "closed",
+    "created_at": "2026-06-09",
+    "closed_at": "2026-06-09",
+    "author": "Yanggong98",
+    "title": "[Requirement|需求建议]: codegen增加dump图",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/98"
+  },
+  {
+    "iid": 97,
+    "state": "closed",
+    "created_at": "2026-06-09",
+    "closed_at": "2026-06-09",
+    "author": "WangYanMale",
+    "title": "[Bug-Report|缺陷反馈]: norm类结构通过inductor + AF传下来之后，会有编译报错",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/97"
+  },
+  {
+    "iid": 96,
+    "state": "opened",
+    "created_at": "2026-06-09",
+    "closed_at": "",
+    "author": "zqmin",
+    "title": "[Bug-Report|缺陷反馈]: 修复本地编译缺失 gtest target 问题",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/96"
+  },
+  {
+    "iid": 95,
+    "state": "closed",
+    "created_at": "2026-06-09",
+    "closed_at": "2026-06-09",
+    "author": "Jett_Woo",
+    "title": "Documentation: 补充项目规范指导",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/95"
+  },
+  {
     "iid": 94,
     "state": "closed",
     "created_at": "2026-06-08",
@@ -23,9 +122,9 @@
   },
   {
     "iid": 92,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-05",
-    "closed_at": "",
+    "closed_at": "2026-06-09",
     "author": "WangYanMale",
     "title": "[Bug-Report|缺陷反馈]: A3的ArgMax算子在R轴较大执行时会出现ub不对齐报错",
     "labels": [],
@@ -89,9 +188,9 @@
   },
   {
     "iid": 86,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-04",
-    "closed_at": "",
+    "closed_at": "2026-06-09",
     "author": "qqqZZZ_3",
     "title": "【fix】：修改头文件没有自包含问题",
     "labels": [],
@@ -210,9 +309,9 @@
   },
   {
     "iid": 75,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-06-09",
     "author": "zhang_shengjie",
     "title": "Reduce 参数构建逻辑重复且缺乏一致性校验",
     "labels": [],
@@ -315,7 +414,7 @@
     "author": "dingdairong",
     "title": "[Requirement|需求建议]: 有两个elementwise的算子，希望能支持，IsInf, MaskedFill",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/51"
   },
   {

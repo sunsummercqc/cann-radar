@@ -1,5 +1,49 @@
 [
   {
+    "iid": 362,
+    "state": "opened",
+    "created_at": "2026-06-09",
+    "closed_at": "",
+    "author": "super_chao_x",
+    "title": "[Question|问题咨询]: 异步建链，增加线程数后，效果不符合预期",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/362"
+  },
+  {
+    "iid": 361,
+    "state": "opened",
+    "created_at": "2026-06-09",
+    "closed_at": "",
+    "author": "gcw_RywTBohB",
+    "title": "[Documentation|文档反馈]: C/C++ API的接口文档为什么只体现了3个接口？建议参考Python API进行优化",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/361"
+  },
+  {
+    "iid": 360,
+    "state": "opened",
+    "created_at": "2026-06-09",
+    "closed_at": "",
+    "author": "whh_smile",
+    "title": "[Question|问题咨询]: 单边通信接口query_register_mem_status测试，组网1p1d,  参数异常comm_id值为-1, link失败了，为啥还打印[pull_cache] success",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/360"
+  },
+  {
+    "iid": 359,
+    "state": "opened",
+    "created_at": "2026-06-09",
+    "closed_at": "",
+    "author": "Sterling-Gong",
+    "title": "[Bug-Report|缺陷反馈]: mooncake benchmark bandwidth example cannot run",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/359"
+  },
+  {
     "iid": 358,
     "state": "opened",
     "created_at": "2026-06-08",
@@ -7,7 +51,7 @@
     "author": "tianlianga1",
     "title": "目前支持vnpu的场景嘛？我在vnpu场景下运行MooncakeDistributedStore.setup报 Failed to connect to target: 172.30.132.83:20348, status: 103900, errmsg: E19999: Inner Errorl",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/358"
   },
   {
@@ -18,7 +62,7 @@
     "author": "msjopp",
     "title": "[Bug-Report|缺陷反馈]: mooncake + hixl 双机16p kvcache传输 报错ErrorNo: 103900 [HIXL]invalid msg len:272 of create channel, must = 176",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/357"
   },
   {
@@ -62,7 +106,7 @@
     "author": "bbsh112",
     "title": "[Question|问题咨询]: A5 UBOE 双机PD分离拉起后跑推理时，出现的D2RH传输，以及 D2D 传输失败问题",
     "labels": [],
-    "user_notes_count": 8,
+    "user_notes_count": 13,
     "web_url": "https://gitcode.com/cann/hixl/issues/353"
   },
   {
@@ -84,7 +128,7 @@
     "author": "youyx",
     "title": "[RFC]: FabricMem 异步传输 aclrtStreamQuery 快速失败",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/hixl/issues/351"
   },
   {
@@ -155,9 +199,9 @@
   },
   {
     "iid": 343,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-06-09",
     "author": "hucheng-star",
     "title": "[Bug-Report|缺陷反馈]: GLM5.1 PD分离场景kv cache传输超过200ms+，异常",
     "labels": [],
@@ -282,7 +326,7 @@
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: 容器场景跑hixl用例socket失败",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/299"
   },
   {
@@ -518,9 +562,9 @@
   },
   {
     "iid": 277,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-18",
-    "closed_at": "",
+    "closed_at": "2026-06-09",
     "author": "lugang11",
     "title": "[Feature-Request|需求反馈]: HIXL_CI改进",
     "labels": [],
@@ -667,7 +711,7 @@
     "author": "he_ziwei",
     "title": "[Question|问题咨询]: 单向建链时失败 ra socket send",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/264"
   },
   {
@@ -777,7 +821,7 @@
     "author": "A-Liuhao",
     "title": "[Bug-Report|缺陷反馈]: 执行bash tests/run_test.sh -t=py出现段错误",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/254"
   },
   {
