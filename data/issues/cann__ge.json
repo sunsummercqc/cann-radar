@@ -1,5 +1,38 @@
 [
   {
+    "iid": 440,
+    "state": "opened",
+    "created_at": "2026-06-10",
+    "closed_at": "",
+    "author": "j18351891940",
+    "title": "[Bug-Report|缺陷反馈]: mdc网络开启自动融合与Aipp pass和CastReshapeCast pass有冲突",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/ge/issues/440"
+  },
+  {
+    "iid": 439,
+    "state": "opened",
+    "created_at": "2026-06-10",
+    "closed_at": "",
+    "author": "gcw_cNancIvg",
+    "title": "[Question|问题咨询]: AscendC 自动向量化后计算出错，求 CCE 向量化触发条件及局部禁用方法",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/ge/issues/439"
+  },
+  {
+    "iid": 438,
+    "state": "opened",
+    "created_at": "2026-06-10",
+    "closed_at": "",
+    "author": "gcw_bjTgaH1Z",
+    "title": "[Question|问题咨询]: CANN针对框架动静图的算子内存布局、调度逻辑的区别",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/ge/issues/438"
+  },
+  {
     "iid": 435,
     "state": "opened",
     "created_at": "2026-06-08",
@@ -309,9 +342,9 @@
   },
   {
     "iid": 406,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-27",
-    "closed_at": "",
+    "closed_at": "2026-06-10",
     "author": "Y_Keven",
     "title": "[Question|问题咨询]: aclmdlLoadFromFile接口返回的错误码是否有变更",
     "labels": [],
@@ -507,9 +540,9 @@
   },
   {
     "iid": 387,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-18",
-    "closed_at": "",
+    "closed_at": "2026-06-10",
     "author": "yuchen97",
     "title": "[Bug-Report|缺陷反馈]: 【外部开发者】TensorMoveDeletePass 使用 std::stoi 缺少异常安全处理",
     "labels": [],

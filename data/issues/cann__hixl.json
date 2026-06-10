@@ -1,5 +1,16 @@
 [
   {
+    "iid": 363,
+    "state": "opened",
+    "created_at": "2026-06-10",
+    "closed_at": "",
+    "author": "super_chao_x",
+    "title": "[Bug-Report|缺陷反馈]: hixl建链、断链后重连失败",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/363"
+  },
+  {
     "iid": 362,
     "state": "opened",
     "created_at": "2026-06-09",
@@ -49,16 +60,16 @@
     "created_at": "2026-06-08",
     "closed_at": "",
     "author": "tianlianga1",
-    "title": "目前支持vnpu的场景嘛？我在vnpu场景下运行MooncakeDistributedStore.setup报 Failed to connect to target: 172.30.132.83:20348, status: 103900, errmsg: E19999: Inner Errorl",
+    "title": "[Question|问题咨询]:目前支持vnpu的场景嘛？我在vnpu场景下运行MooncakeDistributedStore.setup报 Failed to connect to target: 172.30.132.83:20348, status: 103900, errmsg: E19999: Inner Errorl",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/358"
   },
   {
     "iid": 357,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-08",
-    "closed_at": "",
+    "closed_at": "2026-06-10",
     "author": "msjopp",
     "title": "[Bug-Report|缺陷反馈]: mooncake + hixl 双机16p kvcache传输 报错ErrorNo: 103900 [HIXL]invalid msg len:272 of create channel, must = 176",
     "labels": [],
@@ -67,13 +78,13 @@
   },
   {
     "iid": 356,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-08",
-    "closed_at": "",
+    "closed_at": "2026-06-10",
     "author": "super_chao_x",
     "title": "[Bug-Report|缺陷反馈]: HIXL 批量获取接口，存在重复上报IO的情况",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/356"
   },
   {
@@ -106,7 +117,7 @@
     "author": "bbsh112",
     "title": "[Question|问题咨询]: A5 UBOE 双机PD分离拉起后跑推理时，出现的D2RH传输，以及 D2D 传输失败问题",
     "labels": [],
-    "user_notes_count": 13,
+    "user_notes_count": 14,
     "web_url": "https://gitcode.com/cann/hixl/issues/353"
   },
   {
@@ -166,13 +177,13 @@
   },
   {
     "iid": 346,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-03",
-    "closed_at": "",
+    "closed_at": "2026-06-10",
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: HIXL连接规格并发上限咨询",
     "labels": [],
-    "user_notes_count": 5,
+    "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/hixl/issues/346"
   },
   {
@@ -183,7 +194,7 @@
     "author": "postWater1",
     "title": "[Question|问题咨询]: A2双机混部+VLLMAscend18.0+mooncake backend场景，部分链路建链失败，报错Failed to connect to target: xxxxx, status: 503900",
     "labels": [],
-    "user_notes_count": 4,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/hixl/issues/345"
   },
   {
@@ -216,7 +227,7 @@
     "author": "super_chao_x",
     "title": "[Bug-Report|缺陷反馈]: 使用GetTransferStatus 批量获取接口后，存在user data等于空，业务无法正常处理",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/342"
   },
   {
@@ -375,9 +386,9 @@
   },
   {
     "iid": 294,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-25",
-    "closed_at": "",
+    "closed_at": "2026-06-10",
     "author": "andy_git",
     "title": "[Feature-Request|需求反馈]: HIXL CS单边接口A5支持Qos相关能力",
     "labels": [],

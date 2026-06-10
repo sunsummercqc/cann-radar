@@ -34,9 +34,9 @@
   },
   {
     "iid": 100,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-09",
-    "closed_at": "",
+    "closed_at": "2026-06-10",
     "author": "zhang_shengjie",
     "title": "inductor 基于接口的PGO接口存在浮点数溢出问题",
     "labels": [],

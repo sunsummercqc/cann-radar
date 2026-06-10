@@ -3,39 +3,39 @@
     {
       "name": "torchair",
       "path": "Ascend/torchair",
-      "merged": 2251,
-      "open": 251,
+      "merged": 2254,
+      "open": 248,
       "total": 2502
     },
     {
       "name": "ge",
       "path": "cann/ge",
-      "merged": 1722,
-      "open": 124,
-      "total": 1846
+      "merged": 1733,
+      "open": 123,
+      "total": 1856
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "merged": 485,
-      "open": 21,
-      "total": 506
+      "merged": 488,
+      "open": 20,
+      "total": 508
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "merged": 441,
-      "open": 52,
-      "total": 493
+      "merged": 445,
+      "open": 58,
+      "total": 503
     },
     {
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
-      "merged": 243,
-      "open": 20,
-      "total": 263
+      "merged": 246,
+      "open": 21,
+      "total": 267
     }
   ],
-  "unique_authors": 701,
-  "generated_at": "2026-06-09"
+  "unique_authors": 702,
+  "generated_at": "2026-06-10"
 }

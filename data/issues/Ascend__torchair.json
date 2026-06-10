@@ -1,5 +1,49 @@
 [
   {
+    "iid": 521,
+    "state": "opened",
+    "created_at": "2026-06-10",
+    "closed_at": "",
+    "author": "lqqqqq0125",
+    "title": "[Bug]: 动态调用到npu_moe_eplb_update_expert时报错",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/521"
+  },
+  {
+    "iid": 520,
+    "state": "opened",
+    "created_at": "2026-06-10",
+    "closed_at": "",
+    "author": "chenjiale56",
+    "title": "[Usage]: 图模式接口与单算子接口参数不一致",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/520"
+  },
+  {
+    "iid": 519,
+    "state": "closed",
+    "created_at": "2026-06-10",
+    "closed_at": "2026-06-10",
+    "author": "qq_42133073",
+    "title": "[Usage]: inplace自定义算子入图失败",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/519"
+  },
+  {
+    "iid": 518,
+    "state": "closed",
+    "created_at": "2026-06-10",
+    "closed_at": "2026-06-10",
+    "author": "guoxu7",
+    "title": "[Feature]: 新增RmsNormBackwardQuant算子入图接口",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/518"
+  },
+  {
     "iid": 517,
     "state": "closed",
     "created_at": "2026-06-08",
