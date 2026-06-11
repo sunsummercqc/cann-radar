@@ -1,5 +1,27 @@
 [
   {
+    "id": 10097318,
+    "namespace": "zhuofanshen/torchtitan-npu_master_0611",
+    "name": "torchtitan-npu_master_0611",
+    "web_url": "https://gitcode.com/zhuofanshen/torchtitan-npu_master_0611",
+    "http_url_to_repo": "https://gitcode.com/zhuofanshen/torchtitan-npu_master_0611.git",
+    "created_at": "2026-06-11T18:54:06.427+08:00",
+    "creator_username": "zhuofanshen",
+    "creator_nick_name": "zhuofanshen",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
+    "id": 10091972,
+    "namespace": "dty_30041779/torchtitan-npu_0611",
+    "name": "torchtitan-npu_0611",
+    "web_url": "https://gitcode.com/dty_30041779/torchtitan-npu_0611",
+    "http_url_to_repo": "https://gitcode.com/dty_30041779/torchtitan-npu_0611.git",
+    "created_at": "2026-06-11T09:38:08.035+08:00",
+    "creator_username": "dty_30041779",
+    "creator_nick_name": "hid63711715",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
     "id": 10085872,
     "namespace": "dty_30041779/torchtitan-npu_0610_1",
     "name": "torchtitan-npu_0610_1",

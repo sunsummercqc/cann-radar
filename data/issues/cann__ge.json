@@ -1,5 +1,27 @@
 [
   {
+    "iid": 443,
+    "state": "opened",
+    "created_at": "2026-06-11",
+    "closed_at": "",
+    "author": "aishenghuo_aidaka",
+    "title": "[Question|问题咨询]: ATC工具模型转换时完成之后运行报错",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/443"
+  },
+  {
+    "iid": 442,
+    "state": "opened",
+    "created_at": "2026-06-11",
+    "closed_at": "",
+    "author": "whh_smile",
+    "title": "[Documentation|文档反馈]: AIagent发现的一些问题",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/442"
+  },
+  {
     "iid": 440,
     "state": "opened",
     "created_at": "2026-06-10",
@@ -7,8 +29,19 @@
     "author": "j18351891940",
     "title": "[Bug-Report|缺陷反馈]: mdc网络开启自动融合与Aipp pass和CastReshapeCast pass有冲突",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/440"
+  },
+  {
+    "iid": 441,
+    "state": "opened",
+    "created_at": "2026-06-10",
+    "closed_at": "",
+    "author": "m0_68855833",
+    "title": "[Question|问题咨询]: JIT 编译缓存：磁盘空间与老化规则",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/441"
   },
   {
     "iid": 439,
@@ -18,7 +51,7 @@
     "author": "gcw_cNancIvg",
     "title": "[Question|问题咨询]: AscendC 自动向量化后计算出错，求 CCE 向量化触发条件及局部禁用方法",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/439"
   },
   {
@@ -29,8 +62,30 @@
     "author": "gcw_bjTgaH1Z",
     "title": "[Question|问题咨询]: CANN针对框架动静图的算子内存布局、调度逻辑的区别",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/438"
+  },
+  {
+    "iid": 444,
+    "state": "opened",
+    "created_at": "2026-06-10",
+    "closed_at": "",
+    "author": "2301_80288985",
+    "title": "[Question|问题咨询]:尝试将ONNX模型转换为支持动态BatchSize的OM模型，以适配推理时不同的批处理大小",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/ge/issues/444"
+  },
+  {
+    "iid": 445,
+    "state": "opened",
+    "created_at": "2026-06-10",
+    "closed_at": "",
+    "author": "gcw_QOyI0tVS",
+    "title": "模型编译阶段报错： Unknown ATC error code(1343266818)",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/ge/issues/445"
   },
   {
     "iid": 435,
@@ -45,13 +100,13 @@
   },
   {
     "iid": 434,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-05",
-    "closed_at": "",
+    "closed_at": "2026-06-11",
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: md文档中拼写问题",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/434"
   },
   {
@@ -304,7 +359,7 @@
     "author": "xiong-pan",
     "title": "[Question|问题咨询]: 对接cmo算子，图编译时报错",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/410"
   },
   {
@@ -315,7 +370,7 @@
     "author": "weixin_48253078",
     "title": "[Bug-Report|缺陷反馈]: 重复使用aclmdlLoadFromMemWithMem和aclmdlUnload加载卸载模型内存泄漏问题",
     "labels": [],
-    "user_notes_count": 4,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/409"
   },
   {
@@ -331,13 +386,13 @@
   },
   {
     "iid": 407,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-27",
-    "closed_at": "",
+    "closed_at": "2026-06-11",
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: OM模型可以指定调度的AI Core数量，时延优化的角度是建议如何调度？",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/407"
   },
   {
@@ -364,9 +419,9 @@
   },
   {
     "iid": 403,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-25",
-    "closed_at": "",
+    "closed_at": "2026-06-11",
     "author": "dingdairong",
     "title": "[Bug-Report|缺陷反馈]: ge 图模式，用例执行完成之后，有一个报错：ValueError: invalid literal for int() with base 10: '0+git010098d'",
     "labels": [],
@@ -485,13 +540,13 @@
   },
   {
     "iid": 392,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-20",
-    "closed_at": "",
+    "closed_at": "2026-06-11",
     "author": "eco_zsj",
     "title": "[Bug-Report|缺陷反馈]: a5 2a+x环境 reducescatter算子，静态图模式，aiv展开模式，控核配置65核时，用例执行会卡住",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/392"
   },
   {
@@ -914,9 +969,9 @@
   },
   {
     "iid": 352,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-29",
-    "closed_at": "",
+    "closed_at": "2026-06-11",
     "author": "huang-chuhong",
     "title": "[Documentation|文档反馈]: ATC 参数冲突、编译约束与推理性能瓶颈，缺乏实战级交叉场景指导",
     "labels": [],

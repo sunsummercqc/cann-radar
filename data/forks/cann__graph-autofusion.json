@@ -1,5 +1,38 @@
 [
   {
+    "id": 10098108,
+    "namespace": "gothizzz/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/gothizzz/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/gothizzz/graph-autofusion.git",
+    "created_at": "2026-06-11T20:31:50.943+08:00",
+    "creator_username": "gothizzz",
+    "creator_nick_name": "gothizzz",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 10096893,
+    "namespace": "wanghuajie/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/wanghuajie/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/wanghuajie/graph-autofusion.git",
+    "created_at": "2026-06-11T17:48:37.735+08:00",
+    "creator_username": "wanghuajie",
+    "creator_nick_name": "王华杰",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 10092822,
+    "namespace": "gaoshuer913/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/gaoshuer913/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/gaoshuer913/graph-autofusion.git",
+    "created_at": "2026-06-11T10:51:43.278+08:00",
+    "creator_username": "gaoshuer913",
+    "creator_nick_name": "gaoshuer",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
     "id": 10085746,
     "namespace": "jinhu_huawei/graph-autofusion",
     "name": "graph-autofusion",
@@ -41,17 +74,6 @@
     "created_at": "2026-06-05T15:24:31.076+08:00",
     "creator_username": "zhangfeifan0709",
     "creator_nick_name": "zhangfeifan0709",
-    "forked_from": "cann/graph-autofusion"
-  },
-  {
-    "id": 10036043,
-    "namespace": "tmj1128/graph-autofusion",
-    "name": "graph-autofusion",
-    "web_url": "https://gitcode.com/tmj1128/graph-autofusion",
-    "http_url_to_repo": "https://gitcode.com/tmj1128/graph-autofusion.git",
-    "created_at": "2026-06-04T16:33:35.874+08:00",
-    "creator_username": "tmj1128",
-    "creator_nick_name": "tanmengjie",
     "forked_from": "cann/graph-autofusion"
   },
   {

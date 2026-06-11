@@ -1,5 +1,16 @@
 [
   {
+    "iid": 69,
+    "state": "opened",
+    "created_at": "2026-06-11",
+    "closed_at": "",
+    "author": "m0_73842873",
+    "title": "模型类型查看",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/69"
+  },
+  {
     "iid": 68,
     "state": "opened",
     "created_at": "2026-06-10",
@@ -18,7 +29,7 @@
     "author": "CANN2025",
     "title": "【企业对话专场】观看直播参与直播答题互动赢定制T恤、毛毯！【6.11】",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 14,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/67"
   },
   {
@@ -84,7 +95,7 @@
     "author": "CANN2025",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.8】",
     "labels": [],
-    "user_notes_count": 15,
+    "user_notes_count": 16,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/61"
   },
   {

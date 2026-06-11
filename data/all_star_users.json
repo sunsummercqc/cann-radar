@@ -1,5 +1,15 @@
 [
   {
+    "user_name": "qq_44783643",
+    "nick_name": "bnulp",
+    "user_id": 144666,
+    "avatar": "https://cdn-img.gitcode.com/fe/ef/006fee88163ff13ea5b2a4dc93ae498bb69b5f98325675a6fced23bdb1075a49.png",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl"
+    ]
+  },
+  {
     "user_name": "xhb1996",
     "nick_name": "xhb1996",
     "user_id": 11580045,
@@ -3200,6 +3210,7 @@
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
+      "cann/graph-autofusion",
       "Ascend/torchair"
     ]
   },
@@ -5989,6 +6000,52 @@
       "cann/graph-autofusion",
       "cann/torchtitan-npu",
       "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "gcw_fiAo4tDr",
+    "nick_name": "gcw_fiAo4tDr",
+    "user_id": 11472177,
+    "avatar": "",
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "wanghz-",
+    "nick_name": "离鸢",
+    "user_id": 6834532,
+    "avatar": "https://cdn-img.gitcode.com/fb/df/126f515b09577dfad2ca558a723ca7cc1d962b8e9e63aeec201ba8495c172906.png?time=1755849381205",
+    "starred_repos": [
+      "cann/hixl",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "wanghui390",
+    "nick_name": "wanghui390",
+    "user_id": 5759234,
+    "avatar": "https://cdn-img.gitcode.com/aa/ce/21a78a1c86e02c4e29ab418ba54152256200267378a970ad39072deb1ffff187.png",
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "AIQ_ZHOU",
+    "nick_name": "芯片雕刻师",
+    "user_id": 7115131,
+    "avatar": "https://cdn-img.gitcode.com/df/aa/8966df21a4a4854d1ca9dc31eca116bd690a1596acc0b0202964ec08e0d0fde8.jpg",
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "luxary",
+    "nick_name": "luxary",
+    "user_id": 4661181,
+    "avatar": "https://cdn-img.gitcode.com/ec/be/4e4c080be0efa8dd63594402f43be507633144196050fee7d4a280e0fee57a5d.png",
+    "starred_repos": [
+      "cann/hixl"
     ]
   },
   {
@@ -9573,7 +9630,7 @@
   },
   {
     "user_name": "Mutu010",
-    "nick_name": "张子东",
+    "nick_name": "zhangzidong",
     "user_id": 6792823,
     "avatar": "https://cdn-img.gitcode.com/ef/ae/864efa59eb84cb070d5058523c1051b423fe77132e128c8c5b5821a0e4e05fab.png",
     "starred_repos": [
@@ -10078,8 +10135,8 @@
     ]
   },
   {
-    "user_name": "dandandeli",
-    "nick_name": "dandandeli",
+    "user_name": "xiao_hhh",
+    "nick_name": "xiao_hhh",
     "user_id": 10181588,
     "avatar": "https://cdn-img.gitcode.com/ee/ca/38e3855e281068c1909a07d7c0b8d994c7575ef10fe0987c4b0144c09709e40c.jpg",
     "starred_repos": [
@@ -10886,15 +10943,6 @@
     "nick_name": "筑梦之路",
     "user_id": 259271,
     "avatar": "https://cdn-img.gitcode.com/ae/ac/a03e9ace43392e091407ae74a911eae84c6a50a1ad989870e0b3e018f127e448.png",
-    "starred_repos": [
-      "cann/torchtitan-npu"
-    ]
-  },
-  {
-    "user_name": "wanghz-",
-    "nick_name": "离鸢",
-    "user_id": 6834532,
-    "avatar": "https://cdn-img.gitcode.com/fb/df/126f515b09577dfad2ca558a723ca7cc1d962b8e9e63aeec201ba8495c172906.png?time=1755849381205",
     "starred_repos": [
       "cann/torchtitan-npu"
     ]

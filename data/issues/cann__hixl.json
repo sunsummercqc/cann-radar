@@ -1,5 +1,60 @@
 [
   {
+    "iid": 368,
+    "state": "opened",
+    "created_at": "2026-06-11",
+    "closed_at": "",
+    "author": "A-Liuhao",
+    "title": "[Feature-Request|需求反馈]: 代码检视skill建议增加文档/日志规范检查",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/368"
+  },
+  {
+    "iid": 367,
+    "state": "opened",
+    "created_at": "2026-06-11",
+    "closed_at": "",
+    "author": "A-Liuhao",
+    "title": "[Documentation|文档反馈]: benchmark性能数据展示优化建议",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/367"
+  },
+  {
+    "iid": 366,
+    "state": "opened",
+    "created_at": "2026-06-11",
+    "closed_at": "",
+    "author": "qq_56278931",
+    "title": "[Documentation|文档反馈]: TTFHW--SKILLS验证仓库的编译&UT/DT&样例执行情况问题反馈",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/366"
+  },
+  {
+    "iid": 365,
+    "state": "opened",
+    "created_at": "2026-06-11",
+    "closed_at": "",
+    "author": "willzhuyx",
+    "title": "[Bug-Report|缺陷反馈]: A5 Server通过1825网卡通过RoCE进行通讯，Mooncake transfer engine启动失败",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/365"
+  },
+  {
+    "iid": 364,
+    "state": "opened",
+    "created_at": "2026-06-11",
+    "closed_at": "",
+    "author": "super_chao_x",
+    "title": "[Question|问题咨询]: kNotifyDefaultWaitTimeMs和kCustomTimeoutMs问题咨询",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/364"
+  },
+  {
     "iid": 363,
     "state": "opened",
     "created_at": "2026-06-10",
@@ -117,7 +172,7 @@
     "author": "bbsh112",
     "title": "[Question|问题咨询]: A5 UBOE 双机PD分离拉起后跑推理时，出现的D2RH传输，以及 D2D 传输失败问题",
     "labels": [],
-    "user_notes_count": 14,
+    "user_notes_count": 15,
     "web_url": "https://gitcode.com/cann/hixl/issues/353"
   },
   {
