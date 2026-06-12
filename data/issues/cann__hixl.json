@@ -1,5 +1,27 @@
 [
   {
+    "iid": 370,
+    "state": "opened",
+    "created_at": "2026-06-12",
+    "closed_at": "",
+    "author": "zhaomingchu",
+    "title": "[Bug-Report|缺陷反馈]: Deepseek适配KV Pool，ROCE通信异常",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/370"
+  },
+  {
+    "iid": 369,
+    "state": "opened",
+    "created_at": "2026-06-12",
+    "closed_at": "",
+    "author": "leijie-ww",
+    "title": "[Bug-Report|缺陷反馈]: A3+Qwen3.5+PD分离场景下首次hixl传输数据异常",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/369"
+  },
+  {
     "iid": 368,
     "state": "opened",
     "created_at": "2026-06-11",
@@ -205,7 +227,7 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: A2性能相关问题咨询（多卡性能、小IO时延）",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/349"
   },
   {
@@ -249,7 +271,7 @@
     "author": "postWater1",
     "title": "[Question|问题咨询]: A2双机混部+VLLMAscend18.0+mooncake backend场景，部分链路建链失败，报错Failed to connect to target: xxxxx, status: 503900",
     "labels": [],
-    "user_notes_count": 5,
+    "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/hixl/issues/345"
   },
   {

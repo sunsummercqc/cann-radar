@@ -7563,7 +7563,7 @@
     "original_repo_count": 0,
     "total_repo_count": 1,
     "total_contributions": 136,
-    "user_type": "developer"
+    "user_type": "questioner"
   },
   {
     "user_name": "zhaozhihui",
@@ -33008,6 +33008,20 @@
     "follow_count": 0,
     "original_repo_count": 0,
     "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "Huang-Peng",
+    "nick_name": "Huang-Peng",
+    "user_id": 7131511,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 1,
+    "total_repo_count": 10,
     "total_contributions": 0,
     "user_type": "die_hard_fan"
   }

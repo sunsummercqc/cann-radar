@@ -1,5 +1,38 @@
 [
   {
+    "iid": 110,
+    "state": "closed",
+    "created_at": "2026-06-12",
+    "closed_at": "2026-06-12",
+    "author": "zhang_shengjie",
+    "title": "fix: 静态化编译 vector 核数来源不一致",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/110"
+  },
+  {
+    "iid": 109,
+    "state": "closed",
+    "created_at": "2026-06-12",
+    "closed_at": "2026-06-12",
+    "author": "Yanggong98",
+    "title": "[Bug-Report|缺陷反馈]: binary_api_call.cpp中出现v_strides未初始化导致ActualSize core的问题",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/109"
+  },
+  {
+    "iid": 108,
+    "state": "opened",
+    "created_at": "2026-06-12",
+    "closed_at": "",
+    "author": "zqmin",
+    "title": "feat: 支持rpm和deb包构建",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/108"
+  },
+  {
     "iid": 107,
     "state": "closed",
     "created_at": "2026-06-11",
@@ -18,25 +51,25 @@
     "author": "gothizzz",
     "title": "fix(init_env): CANN_VERSION 硬编码 9.0.0 与 master 镜像源最新 9.1.0 不一致,导致 404",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/106"
   },
   {
     "iid": 105,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-11",
-    "closed_at": "",
+    "closed_at": "2026-06-12",
     "author": "WangYanMale",
     "title": "[Bug-Report|缺陷反馈]: reducer融合当R轴全载时，无效轴差异会导致前后端的判断结果不一致，产生编译报错",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/105"
   },
   {
     "iid": 104,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-11",
-    "closed_at": "",
+    "closed_at": "2026-06-12",
     "author": "JaydenChu",
     "title": "[Bug-Report|缺陷反馈]: autofuse_v35 GatherExtendShortVector ParamFullLoad 分支缺失 MTE2_V 同步导致 gather+sign 精度异常",
     "labels": [],
@@ -122,9 +155,9 @@
   },
   {
     "iid": 96,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-09",
-    "closed_at": "",
+    "closed_at": "2026-06-12",
     "author": "zqmin",
     "title": "[Bug-Report|缺陷反馈]: 修复本地编译缺失 gtest target 问题",
     "labels": [],

@@ -1,5 +1,16 @@
 [
   {
+    "iid": 70,
+    "state": "opened",
+    "created_at": "2026-06-12",
+    "closed_at": "",
+    "author": "CANN2025",
+    "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.15】",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/70"
+  },
+  {
     "iid": 69,
     "state": "opened",
     "created_at": "2026-06-11",
@@ -18,7 +29,7 @@
     "author": "liuyang_806",
     "title": "[Requirement|需求建议]: 增加基于 Ascend950 的 Matmul 类课程",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/68"
   },
   {
@@ -29,7 +40,7 @@
     "author": "CANN2025",
     "title": "【企业对话专场】观看直播参与直播答题互动赢定制T恤、毛毯！【6.11】",
     "labels": [],
-    "user_notes_count": 14,
+    "user_notes_count": 18,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/67"
   },
   {
@@ -40,7 +51,7 @@
     "author": "hitianjun",
     "title": "[Bug-Report|缺陷反馈]: CANN notebook 不支持 pytorch的profiler",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/66"
   },
   {
@@ -51,7 +62,7 @@
     "author": "Abotes",
     "title": "[Question|问题咨询]: first_custom_operator中的这句话：“在整个调用过程中，需要申请Host核Device内存，在Host侧读入数据后，将数据拷贝到Device测”中的“申请Host核Device内存”",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/65"
   },
   {
@@ -84,7 +95,7 @@
     "author": "HHHzy0903",
     "title": "[Question|问题咨询]: 有没有Ascend 310B的学习资料",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/62"
   },
   {
@@ -117,7 +128,7 @@
     "author": "cann_cm",
     "title": "首页readme的格式没对齐",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/59"
   },
   {
@@ -128,7 +139,7 @@
     "author": "zhaoqwerty",
     "title": "【CANN训练营】缺少前置课程情况下如何自学 ATVOSS",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/58"
   },
   {
@@ -139,7 +150,7 @@
     "author": "zhaohenhao",
     "title": "[Requirement|需求建议]: 【CANN训练营】PyPTO示例缺少Python版本约束与一键依赖配置方案",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/57"
   },
   {
@@ -150,7 +161,7 @@
     "author": "hid55977309",
     "title": "【文档建议】【CANN训练营】新手建议：完善 soc_version 参数使用指引",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/56"
   },
   {
@@ -161,7 +172,7 @@
     "author": "zhaohenhao",
     "title": "【文档建议】【CANN训练营】新手看不懂快速入门教程，引导教程太简略",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/55"
   },
   {

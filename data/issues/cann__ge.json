@@ -1,5 +1,49 @@
 [
   {
+    "iid": 449,
+    "state": "opened",
+    "created_at": "2026-06-12",
+    "closed_at": "",
+    "author": "wtf_newage",
+    "title": "【fix】解决pack算子lowering时，输入纯scalar场景",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/449"
+  },
+  {
+    "iid": 448,
+    "state": "opened",
+    "created_at": "2026-06-12",
+    "closed_at": "",
+    "author": "whh_smile",
+    "title": "[Bug-Report|缺陷反馈]: 使用conda环境编译compiler包时，会不受当前conda环境限制，无差别地为所有发现的Python版本编译",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/448"
+  },
+  {
+    "iid": 447,
+    "state": "opened",
+    "created_at": "2026-06-12",
+    "closed_at": "",
+    "author": "tttmmmppp",
+    "title": "[Question|问题咨询]: aclmdlExecuteAsync和aclrtSynchronizeStream间时延，单次推理符合msprof性能数据，多次推理时延异常拉长",
+    "labels": [],
+    "user_notes_count": 5,
+    "web_url": "https://gitcode.com/cann/ge/issues/447"
+  },
+  {
+    "iid": 446,
+    "state": "closed",
+    "created_at": "2026-06-12",
+    "closed_at": "2026-06-12",
+    "author": "zutao",
+    "title": "[Bug-Report|缺陷反馈]: Pytorch 在线推理 Qwen3-0.6B 模型使能npugraph_ex推理失败 ",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/446"
+  },
+  {
     "iid": 443,
     "state": "opened",
     "created_at": "2026-06-11",
@@ -7,7 +51,7 @@
     "author": "aishenghuo_aidaka",
     "title": "[Question|问题咨询]: ATC工具模型转换时完成之后运行报错",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/443"
   },
   {
@@ -518,9 +562,9 @@
   },
   {
     "iid": 394,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-21",
-    "closed_at": "",
+    "closed_at": "2026-06-12",
     "author": "daiwei18",
     "title": "[Bug-Report|缺陷反馈]: 新环境安装失败",
     "labels": [],

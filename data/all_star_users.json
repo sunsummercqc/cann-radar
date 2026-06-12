@@ -1,5 +1,27 @@
 [
   {
+    "user_name": "dilettante2polymath",
+    "nick_name": "dilettante2polymath",
+    "user_id": 11162573,
+    "avatar": "https://cdn-img.gitcode.com/bb/cc/0b67298b45588c67cae8317ff8e6120c56d3f884fc8d31e86d9d06aed01d9b2e.jpg",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion"
+    ]
+  },
+  {
+    "user_name": "gcw_fiAo4tDr",
+    "nick_name": "gcw_fiAo4tDr",
+    "user_id": 11472177,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion"
+    ]
+  },
+  {
     "user_name": "qq_44783643",
     "nick_name": "bnulp",
     "user_id": 144666,
@@ -25,17 +47,6 @@
     "avatar": "",
     "starred_repos": [
       "cann/ge"
-    ]
-  },
-  {
-    "user_name": "dilettante2polymath",
-    "nick_name": "dilettante2polymath",
-    "user_id": 11162573,
-    "avatar": "https://cdn-img.gitcode.com/bb/cc/0b67298b45588c67cae8317ff8e6120c56d3f884fc8d31e86d9d06aed01d9b2e.jpg",
-    "starred_repos": [
-      "cann/ge",
-      "cann/hixl",
-      "cann/graph-autofusion"
     ]
   },
   {
@@ -3162,7 +3173,7 @@
     "user_name": "evans_d",
     "nick_name": "evans_d",
     "user_id": 6630470,
-    "avatar": null,
+    "avatar": "https://cdn-img.gitcode.com/ea/ec/20e07a1ec573d1d7344a316996b6e2255fd41f9aa887f0c60c9f4a00a48f3050.png?time=1781265838946",
     "starred_repos": [
       "cann/ge"
     ]
@@ -5378,7 +5389,8 @@
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
-      "cann/graph-autofusion"
+      "cann/graph-autofusion",
+      "Ascend/torchair"
     ]
   },
   {
@@ -6000,15 +6012,6 @@
       "cann/graph-autofusion",
       "cann/torchtitan-npu",
       "Ascend/torchair"
-    ]
-  },
-  {
-    "user_name": "gcw_fiAo4tDr",
-    "nick_name": "gcw_fiAo4tDr",
-    "user_id": 11472177,
-    "avatar": "",
-    "starred_repos": [
-      "cann/hixl"
     ]
   },
   {
@@ -12849,6 +12852,15 @@
     "avatar": "",
     "starred_repos": [
       "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "Huang-Peng",
+    "nick_name": "Huang-Peng",
+    "user_id": 7131511,
+    "avatar": null,
+    "starred_repos": [
+      "Ascend/torchair"
     ]
   },
   {

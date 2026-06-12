@@ -10,31 +10,31 @@
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "avg_days": 10.6,
-      "closed": 83,
-      "opened": 8
+      "avg_days": 10.1,
+      "closed": 88,
+      "opened": 6
     },
     {
       "name": "ge",
       "path": "cann/ge",
       "avg_days": 11.5,
-      "closed": 374,
-      "opened": 44
+      "closed": 376,
+      "opened": 46
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
       "avg_days": 12.3,
       "closed": 292,
-      "opened": 27
+      "opened": 29
     },
     {
       "name": "torchair",
       "path": "Ascend/torchair",
       "avg_days": 19.2,
-      "closed": 348,
-      "opened": 34
+      "closed": 349,
+      "opened": 39
     }
   ],
-  "generated_at": "2026-06-11"
+  "generated_at": "2026-06-12"
 }

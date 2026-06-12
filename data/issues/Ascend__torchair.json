@@ -1,5 +1,73 @@
 [
   {
+    "iid": 531,
+    "state": "opened",
+    "created_at": "2026-06-12",
+    "closed_at": "",
+    "author": "ltllt1",
+    "title": "[Doc]: 高阶特性-编译缓存效果展示空白",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/531"
+  },
+  {
+    "iid": 530,
+    "state": "opened",
+    "created_at": "2026-06-12",
+    "closed_at": "",
+    "author": "kpxing",
+    "title": "[Bug]: torch.compile npugraph_ex后端SuperKernel不生效",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/530"
+  },
+  {
+    "iid": 529,
+    "state": "closed",
+    "created_at": "2026-06-12",
+    "closed_at": "2026-06-12",
+    "author": "yurongkun",
+    "title": "[feature]: inductor_npu_ext增加非连续store调轴处理，待Autofuse支持后回退",
+    "labels": [
+      "bug"
+    ],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/529"
+  },
+  {
+    "iid": 528,
+    "state": "opened",
+    "created_at": "2026-06-12",
+    "closed_at": "",
+    "author": "zutao",
+    "title": "[Bug]: qwen3-0.6B 使能npugraph_ex推理失败",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/528"
+  },
+  {
+    "iid": 527,
+    "state": "opened",
+    "created_at": "2026-06-12",
+    "closed_at": "",
+    "author": "hhh118",
+    "title": "[Feature]: 支持自定义算子在 torch.compile 图模式下的自动注册与 InferShape 推导",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/527"
+  },
+  {
+    "iid": 526,
+    "state": "opened",
+    "created_at": "2026-06-12",
+    "closed_at": "",
+    "author": "hhh118",
+    "title": "[Feature]: 支持动态Shape场景下图模式自动重编译性能优化",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/526"
+  },
+  {
     "iid": 525,
     "state": "opened",
     "created_at": "2026-06-11",
@@ -7,7 +75,7 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: aclgraph，atb算子多次刷新host tensor执行，和单算子执行的值对比没通过",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/525"
   },
   {
