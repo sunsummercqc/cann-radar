@@ -1,5 +1,27 @@
 [
   {
+    "iid": 372,
+    "state": "opened",
+    "created_at": "2026-06-13",
+    "closed_at": "",
+    "author": "whh_smile",
+    "title": "[Question|问题咨询]: 接口测试, Initialize接口入参options中OPTION_DEVICE_ID超出范围，plog无 \"SetDevice failed\"报错",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/372"
+  },
+  {
+    "iid": 371,
+    "state": "opened",
+    "created_at": "2026-06-13",
+    "closed_at": "",
+    "author": "whh_smile",
+    "title": "[Bug-Report|缺陷反馈]: llm_datadist_v1/llm_utils.py 的 check_transfer_config() 方法中格式字符串中{0}被使用2次，会导致始终取第一个参数num_tensors_to_transfer的数值，造成语义混乱",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/371"
+  },
+  {
     "iid": 370,
     "state": "opened",
     "created_at": "2026-06-12",

@@ -33024,5 +33024,75 @@
     "total_repo_count": 10,
     "total_contributions": 0,
     "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "gcw_ig9lDez8",
+    "nick_name": "gcw_ig9lDez8",
+    "user_id": 11646432,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 3,
+    "user_type": "contributor"
+  },
+  {
+    "user_name": "larryliuqing",
+    "nick_name": "拉里山姆",
+    "user_id": 7789916,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "liantian321",
+    "nick_name": "蓝天",
+    "user_id": 11258628,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 5,
+    "user_type": "contributor"
+  },
+  {
+    "user_name": "ZikQ522",
+    "nick_name": "小小",
+    "user_id": 344021,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 3,
+    "total_contributions": 4,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "gcw_yc9ps1Ve",
+    "nick_name": "RedCode",
+    "user_id": 11375755,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 3,
+    "user_type": "contributor"
   }
 ]

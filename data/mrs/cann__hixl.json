@@ -1,5 +1,16 @@
 [
   {
+    "iid": 622,
+    "state": "opened",
+    "title": "[feat]: add hixl d2rh async transfer example",
+    "created_at": "2026-06-13",
+    "updated_at": "2026-06-13",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zhaozhihui",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/622"
+  },
+  {
     "iid": 621,
     "state": "opened",
     "title": "[feat] 支持deb/rpm",
@@ -169,7 +180,7 @@
     "state": "opened",
     "title": "[BugFix] fix store bench",
     "created_at": "2026-06-09",
-    "updated_at": "2026-06-12",
+    "updated_at": "2026-06-13",
     "merged_at": "",
     "closed_at": "",
     "author": "ZhaoBaiwei",
