@@ -102,9 +102,9 @@
   },
   {
     "iid": 522,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-11",
-    "closed_at": "",
+    "closed_at": "2026-06-14",
     "author": "yin-peng",
     "title": "[Usage]: 在op-plugin层通过判断某个参数来走不同的aclnn接口，torchair层怎么走不同算子的infershap？",
     "labels": [],

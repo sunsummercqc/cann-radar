@@ -48,7 +48,7 @@
     "state": "opened",
     "title": "[fix]  Fix MXLinear comply with the Module Protocol and add the MXFP8 config registry for the ds-v4-flash debug model",
     "created_at": "2026-06-12",
-    "updated_at": "2026-06-13",
+    "updated_at": "2026-06-14",
     "merged_at": "",
     "closed_at": "",
     "author": "zhuofanshen",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13",
+  "generated_at": "2026-06-14",
   "global_counts": {
-    "d0": 1280,
+    "d0": 1281,
     "d1": 796,
     "d2": 557,
-    "total": 2633,
-    "d0_external": 942,
+    "total": 2634,
+    "d0_external": 943,
     "d1_external": 588,
     "d2_external": 166
   },
@@ -51,11 +51,11 @@
       "discussion_d1_external": 67
     },
     "Ascend/torchair": {
-      "d0": 640,
+      "d0": 641,
       "d1": 326,
       "d2": 318,
-      "total": 1284,
-      "d0_external": 423,
+      "total": 1285,
+      "d0_external": 424,
       "d1_external": 207,
       "d2_external": 117,
       "discussion_d1_external": 64
@@ -48680,6 +48680,22 @@
         "developer_source": "external"
       },
       {
+        "user_name": "Sparrow-ZL",
+        "nick_name": "Sparrow-ZL",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-06-14T10:23:07.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 11,
+        "starred_repos": [
+          "Ascend/torchair"
+        ],
+        "developer_source": "external"
+      },
+      {
         "user_name": "Sunee",
         "nick_name": "Sunee",
         "level": "d0",
@@ -67110,11 +67126,11 @@
     },
     {
       "month": "2026-06",
-      "d0": 298,
+      "d0": 299,
       "d1": 18,
       "d2": 9,
-      "new_stars": 325,
-      "cumulative": 2950
+      "new_stars": 326,
+      "cumulative": 2951
     }
   ],
   "discussion_commenter_assignment": {
