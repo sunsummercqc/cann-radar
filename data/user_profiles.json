@@ -33108,5 +33108,20 @@
     "total_repo_count": 3,
     "total_contributions": 11,
     "user_type": "developer"
+  },
+  {
+    "user_name": "Yanggong98",
+    "nick_name": "Yanggong98",
+    "user_id": 7904092,
+    "starred_repos": [
+      "cann/ge",
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 3,
+    "total_contributions": 873,
+    "user_type": "contributor"
   }
 ]

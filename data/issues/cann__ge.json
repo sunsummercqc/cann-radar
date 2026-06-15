@@ -29,7 +29,7 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: aclmdlExecuteAsync和aclrtSynchronizeStream间时延，单次推理符合msprof性能数据，多次推理时延异常拉长",
     "labels": [],
-    "user_notes_count": 6,
+    "user_notes_count": 7,
     "web_url": "https://gitcode.com/cann/ge/issues/447"
   },
   {
@@ -210,9 +210,9 @@
   },
   {
     "iid": 427,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-03",
-    "closed_at": "",
+    "closed_at": "2026-06-15",
     "author": "gcw_blkm9jRu",
     "title": "从CannLab链接登录gitcode时，短信登录和密码登录无反应",
     "labels": [],

@@ -1,5 +1,16 @@
 [
   {
+    "iid": 73,
+    "state": "opened",
+    "created_at": "2026-06-15",
+    "closed_at": "",
+    "author": "2501_94542411",
+    "title": "[Bug-Report|缺陷反馈]: YOLOv8 集成自定义 CBAM 算子后，ATC 模型转换/推理阶段报错：Operator not supported or compilation failed",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/73"
+  },
+  {
     "iid": 72,
     "state": "opened",
     "created_at": "2026-06-14",
@@ -29,7 +40,7 @@
     "author": "CANN2025",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.15】",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 16,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/70"
   },
   {
@@ -62,7 +73,7 @@
     "author": "CANN2025",
     "title": "【企业对话专场】观看直播参与直播答题互动赢定制T恤、毛毯！【6.11】",
     "labels": [],
-    "user_notes_count": 19,
+    "user_notes_count": 23,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/67"
   },
   {
@@ -128,7 +139,7 @@
     "author": "CANN2025",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.8】",
     "labels": [],
-    "user_notes_count": 18,
+    "user_notes_count": 19,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/61"
   },
   {

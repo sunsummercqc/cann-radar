@@ -1,5 +1,27 @@
 [
   {
+    "user_name": "wei_shi",
+    "nick_name": "wei_shi",
+    "user_id": 6534473,
+    "avatar": "https://cdn-img.gitcode.com/de/ac/99d3eacc458a95443e2ce0c8d3a612da24f2183344a0282ba699cd48140d902a.jpg",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "Yanggong98",
+    "nick_name": "Yanggong98",
+    "user_id": 7904092,
+    "avatar": "https://cdn-img.gitcode.com/bd/db/b4d87563dbf60a8f84a03be3f5a4e773ecffb0aeda85b51ed28c146c2a484643.jpg",
+    "starred_repos": [
+      "cann/ge",
+      "cann/graph-autofusion"
+    ]
+  },
+  {
     "user_name": "dilettante2polymath",
     "nick_name": "dilettante2polymath",
     "user_id": 11162573,
@@ -4082,18 +4104,6 @@
       "cann/hixl",
       "cann/graph-autofusion",
       "cann/torchtitan-npu"
-    ]
-  },
-  {
-    "user_name": "wei_shi",
-    "nick_name": "wei_shi",
-    "user_id": 6534473,
-    "avatar": "https://cdn-img.gitcode.com/de/ac/99d3eacc458a95443e2ce0c8d3a612da24f2183344a0282ba699cd48140d902a.jpg",
-    "starred_repos": [
-      "cann/ge",
-      "cann/hixl",
-      "cann/graph-autofusion",
-      "Ascend/torchair"
     ]
   },
   {

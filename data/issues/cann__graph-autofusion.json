@@ -1,5 +1,38 @@
 [
   {
+    "iid": 118,
+    "state": "opened",
+    "created_at": "2026-06-15",
+    "closed_at": "",
+    "author": "zhang_shengjie",
+    "title": "fix: PGO TopN 候选过滤无效 GetTiling 结果及 tilingData 未使用参数编译错误",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/118"
+  },
+  {
+    "iid": 117,
+    "state": "opened",
+    "created_at": "2026-06-15",
+    "closed_at": "",
+    "author": "JaydenChu",
+    "title": "[Bug] GatherV2+BroadcastTo 融合场景下 indices 张量 shape 变量未收集导致编译失败",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/117"
+  },
+  {
+    "iid": 114,
+    "state": "closed",
+    "created_at": "2026-06-15",
+    "closed_at": "2026-06-15",
+    "author": "haipingmao",
+    "title": "[Requirement|需求建议]: 新增SignBit函数用于判断输入的符号位",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/114"
+  },
+  {
     "iid": 113,
     "state": "closed",
     "created_at": "2026-06-13",
@@ -436,7 +469,7 @@
     "author": "gcw_OBck1qwP",
     "title": "执行构建文档丢失",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/74"
   },
   {

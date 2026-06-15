@@ -1,13 +1,13 @@
 [
   {
     "iid": 57,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-11",
-    "closed_at": "",
+    "closed_at": "2026-06-15",
     "author": "dty_30041779",
     "title": "[Bug-Report|缺陷反馈]: master分支下，dsv32模型，单机16die，4layer，设置切分策略为pp1 dp4 cp2 tp2 ep8，开启mtp功能时会报错，不开启mtp能正常跑",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/57"
   },
   {

@@ -58,9 +58,9 @@
   },
   {
     "iid": 526,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-12",
-    "closed_at": "",
+    "closed_at": "2026-06-15",
     "author": "hhh118",
     "title": "[Feature]: 支持动态Shape场景下图模式自动重编译性能优化",
     "labels": [],
@@ -130,7 +130,7 @@
     "author": "chenjiale56",
     "title": "[Usage]: 图模式接口与单算子接口参数不一致",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/520"
   },
   {
@@ -168,9 +168,9 @@
   },
   {
     "iid": 516,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-08",
-    "closed_at": "",
+    "closed_at": "2026-06-15",
     "author": "gugub",
     "title": "[Doc]: npugraph_ex快速上手中aclgraph原理参考位置描述不准确",
     "labels": [],
