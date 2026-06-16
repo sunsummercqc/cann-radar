@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-15",
+  "generated_at": "2026-06-16",
   "source_count": 6,
   "discussion_count": 6,
-  "external_count": 73,
+  "external_count": 75,
   "internal_count": 3,
-  "total_unique_participants": 76,
+  "total_unique_participants": 78,
   "trend": [
     {
-      "date": "2026-06-15",
-      "external_count": 73,
-      "total_unique_participants": 76
+      "date": "2026-06-16",
+      "external_count": 75,
+      "total_unique_participants": 78
     }
   ],
   "participants": [
@@ -758,6 +758,24 @@
       "last_seen_at": "2026-06-15T01:42:27+08:00"
     },
     {
+      "user_name": "insummer",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/10",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-16T21:48:11+08:00",
+      "last_seen_at": "2026-06-16T21:48:11+08:00"
+    },
+    {
       "user_name": "jinn0118",
       "nick_name": "",
       "developer_source": "external",
@@ -774,6 +792,24 @@
       ],
       "first_seen_at": "2026-05-13T17:35:46+08:00",
       "last_seen_at": "2026-05-13T17:35:46+08:00"
+    },
+    {
+      "user_name": "Jon-Snow",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/10",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-16T16:42:41+08:00",
+      "last_seen_at": "2026-06-16T16:42:41+08:00"
     },
     {
       "user_name": "liyuhao21",
@@ -1394,10 +1430,10 @@
       "org": "Ascend/torchair",
       "number": "10",
       "title": "【新手村任务】图框架基础知识测试",
-      "comment_total": 10,
+      "comment_total": 12,
       "reply_total": 1,
-      "unique_participants": 11,
-      "external_participants": 9
+      "unique_participants": 13,
+      "external_participants": 11
     },
     {
       "url": "https://gitcode.com/Ascend/torchair/discussions/9",

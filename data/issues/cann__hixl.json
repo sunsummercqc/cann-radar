@@ -1,5 +1,82 @@
 [
   {
+    "iid": 384,
+    "state": "opened",
+    "created_at": "2026-06-16",
+    "closed_at": "",
+    "author": "sinat_22339175",
+    "title": "[Question|问题咨询]:  请求传输失败",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/384"
+  },
+  {
+    "iid": 383,
+    "state": "opened",
+    "created_at": "2026-06-16",
+    "closed_at": "",
+    "author": "wangqixin",
+    "title": "我们在部署大模型后测试mooncake，当前的情况是这种报错，帮忙看一下是否是mooncake传输引擎哪的问题",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/383"
+  },
+  {
+    "iid": 382,
+    "state": "opened",
+    "created_at": "2026-06-16",
+    "closed_at": "",
+    "author": "qq_53572475",
+    "title": "[Question|问题咨询]: Mooncake DP2TP8 GLM5.1-w4a8，传输报错Failed to connect to target: 141.111.32.82:20502, status: 503900 ",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/382"
+  },
+  {
+    "iid": 381,
+    "state": "opened",
+    "created_at": "2026-06-16",
+    "closed_at": "",
+    "author": "gcw_HC48V26H",
+    "title": "[Question|问题咨询]: 安装编译完成后，执行bash benchmarks/run_all_bench.sh报错",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/381"
+  },
+  {
+    "iid": 380,
+    "state": "opened",
+    "created_at": "2026-06-16",
+    "closed_at": "",
+    "author": "wanghui390",
+    "title": "[Question|问题咨询]: Mooncake store setup失败",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/380"
+  },
+  {
+    "iid": 379,
+    "state": "opened",
+    "created_at": "2026-06-16",
+    "closed_at": "",
+    "author": "wulu0120",
+    "title": "[Question|问题咨询]: 使用mooncake的transfer_sync_read从远端获取数据，建链正常，报错 failed to connect target, status 503900",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/379"
+  },
+  {
+    "iid": 378,
+    "state": "opened",
+    "created_at": "2026-06-16",
+    "closed_at": "",
+    "author": "tangjie66",
+    "title": "[Bug-Report|缺陷反馈]: 代码里aclrtWaitAndResetNotify和aclrtLaunchKernelWithConfig的入参超时时间是ms还是s",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/378"
+  },
+  {
     "iid": 377,
     "state": "opened",
     "created_at": "2026-06-15",
@@ -40,7 +117,7 @@
     "author": "tianlianga1",
     "title": "[Question|问题咨询]: hccl和hixl底层共用一套物理传输链路嘛？ 那在使用hixl传输时是不是会降低npu卡并行计算通信的效率？",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/374"
   },
   {
@@ -144,13 +221,13 @@
   },
   {
     "iid": 364,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-11",
-    "closed_at": "",
+    "closed_at": "2026-06-16",
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: kNotifyDefaultWaitTimeMs和kCustomTimeoutMs问题咨询",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/364"
   },
   {
@@ -172,18 +249,18 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: 异步建链，增加线程数后，效果不符合预期",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/362"
   },
   {
     "iid": 361,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-09",
-    "closed_at": "",
+    "closed_at": "2026-06-16",
     "author": "gcw_RywTBohB",
     "title": "[Documentation|文档反馈]: C/C++ API的接口文档为什么只体现了3个接口？建议参考Python API进行优化",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/361"
   },
   {
@@ -254,13 +331,13 @@
   },
   {
     "iid": 354,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-06",
-    "closed_at": "",
+    "closed_at": "2026-06-16",
     "author": "sinat_22339175",
     "title": "[Bug-Report|缺陷反馈]:  PD网络隔离恢复后HCCS仍然无法通信",
     "labels": [],
-    "user_notes_count": 4,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/hixl/issues/354"
   },
   {
@@ -271,7 +348,7 @@
     "author": "bbsh112",
     "title": "[Question|问题咨询]: A5 UBOE 双机PD分离拉起后跑推理时，出现的D2RH传输，以及 D2D 传输失败问题",
     "labels": [],
-    "user_notes_count": 15,
+    "user_notes_count": 16,
     "web_url": "https://gitcode.com/cann/hixl/issues/353"
   },
   {
@@ -496,9 +573,9 @@
   },
   {
     "iid": 298,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-26",
-    "closed_at": "",
+    "closed_at": "2026-06-16",
     "author": "lugang11",
     "title": "[Feature-Request|需求反馈]: LocalCommRes 模块增强需求文档",
     "labels": [],
@@ -3461,7 +3538,7 @@
     "author": "happppy",
     "title": "[Question|问题咨询]: 调用HIXL接口建链报错，HCCS模式，[drv][devmm][share_log_read_in_single_module]Invalid para",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/14"
   },
   {

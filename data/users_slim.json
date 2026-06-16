@@ -12562,7 +12562,7 @@
   },
   {
     "user_name": "tian-ccs",
-    "nick_name": "tianjiayuan",
+    "nick_name": "tianjyoi",
     "starred_repos": [
       "cann/hixl"
     ],
@@ -16820,6 +16820,30 @@
     "original_repo_count": 0,
     "total_contributions": 198,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "weixin_69877254",
+    "nick_name": "不定积分要加c370",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 3,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "chenxinxin",
+    "nick_name": "chenxinxin",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 0,
+    "developer_source": "external"
   },
   {
     "user_name": "Sparrow-ZL",

@@ -9682,7 +9682,7 @@
   },
   {
     "user_name": "tian-ccs",
-    "nick_name": "tianjiayuan",
+    "nick_name": "tianjyoi",
     "user_id": 4547775,
     "avatar": "https://cdn-img.gitcode.com/eb/ca/80705736e2b5ca29d4b22dd1eedb7cb75712d0e358209f1cb949a3635eb8c0ec.png?time=1756995614323",
     "starred_repos": [
@@ -12898,6 +12898,24 @@
     "avatar": "",
     "starred_repos": [
       "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "weixin_69877254",
+    "nick_name": "不定积分要加c370",
+    "user_id": 5257424,
+    "avatar": "https://cdn-img.gitcode.com/ae/fe/aef72e1ad538a82f669a0c2c184849a0753f1c126abd205f031e1032302f7f05.jpg",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "chenxinxin",
+    "nick_name": "chenxinxin",
+    "user_id": 3570442,
+    "avatar": null,
+    "starred_repos": [
+      "Ascend/torchair"
     ]
   },
   {

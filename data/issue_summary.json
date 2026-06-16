@@ -1,40 +1,40 @@
 {
   "repos": [
     {
-      "name": "torchtitan-npu",
-      "path": "cann/torchtitan-npu",
-      "avg_days": 9.4,
-      "closed": 49,
-      "opened": 8
-    },
-    {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "avg_days": 9.6,
-      "closed": 92,
-      "opened": 8
+      "avg_days": 9.4,
+      "closed": 96,
+      "opened": 10
+    },
+    {
+      "name": "torchtitan-npu",
+      "path": "cann/torchtitan-npu",
+      "avg_days": 9.5,
+      "closed": 51,
+      "opened": 7
     },
     {
       "name": "ge",
       "path": "cann/ge",
       "avg_days": 11.4,
       "closed": 378,
-      "opened": 44
+      "opened": 45
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
       "avg_days": 12.2,
-      "closed": 294,
-      "opened": 34
+      "closed": 298,
+      "opened": 37
     },
     {
       "name": "torchair",
       "path": "Ascend/torchair",
       "avg_days": 19.0,
       "closed": 352,
-      "opened": 36
+      "opened": 38
     }
   ],
-  "generated_at": "2026-06-15"
+  "generated_at": "2026-06-16"
 }

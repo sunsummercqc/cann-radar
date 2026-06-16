@@ -33123,5 +33123,33 @@
     "total_repo_count": 3,
     "total_contributions": 873,
     "user_type": "contributor"
+  },
+  {
+    "user_name": "weixin_69877254",
+    "nick_name": "不定积分要加c370",
+    "user_id": 5257424,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 3,
+    "user_type": "contributor"
+  },
+  {
+    "user_name": "chenxinxin",
+    "nick_name": "chenxinxin",
+    "user_id": 3570442,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 3,
+    "original_repo_count": 1,
+    "total_repo_count": 12,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
   }
 ]
