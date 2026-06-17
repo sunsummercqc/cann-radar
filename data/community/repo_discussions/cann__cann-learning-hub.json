@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16",
+  "generated_at": "2026-06-17",
   "source_count": 21,
   "discussion_count": 21,
   "external_count": 816,
@@ -7,7 +7,7 @@
   "total_unique_participants": 824,
   "trend": [
     {
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "external_count": 816,
       "total_unique_participants": 824
     }
@@ -1562,6 +1562,30 @@
       "last_seen_at": "2026-06-15T20:08:37+08:00"
     },
     {
+      "user_name": "hugangming",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/27",
+          "title": "【2026 CANN实训基地 · 电子科技大学】课程相关交流与课后作业提交",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
+          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-08T13:53:43+08:00",
+      "last_seen_at": "2026-06-15T20:02:20+08:00"
+    },
+    {
       "user_name": "hybrz",
       "nick_name": "",
       "developer_source": "external",
@@ -1800,30 +1824,6 @@
       ],
       "first_seen_at": "2026-05-06T14:53:39+08:00",
       "last_seen_at": "2026-05-06T20:28:00+08:00"
-    },
-    {
-      "user_name": "m0_60459490",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 2,
-      "replies": 0,
-      "discussion_count": 2,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/27",
-          "title": "【2026 CANN实训基地 · 电子科技大学】课程相关交流与课后作业提交",
-          "top_comments": 1,
-          "replies": 0
-        },
-        {
-          "url": "https://gitcode.com/cann/cann-learning-hub/discussions/26",
-          "title": "【2026 CANN实训基地 · 成都电子科技大学站】基础图框架社区文化小测",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-06-08T13:53:43+08:00",
-      "last_seen_at": "2026-06-15T20:02:20+08:00"
     },
     {
       "user_name": "m0_62184455",

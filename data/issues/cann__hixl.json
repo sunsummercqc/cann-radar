@@ -1,5 +1,16 @@
 [
   {
+    "iid": 385,
+    "state": "opened",
+    "created_at": "2026-06-17",
+    "closed_at": "",
+    "author": "gcw_HC48V26H",
+    "title": "[Bug-Report|缺陷反馈]: 执行bash benchmarks/run_all_bench.sh后，报错TypeError: info() missing 1 required positional argument: 'msg'",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/385"
+  },
+  {
     "iid": 384,
     "state": "opened",
     "created_at": "2026-06-16",
@@ -7,7 +18,7 @@
     "author": "sinat_22339175",
     "title": "[Question|问题咨询]:  请求传输失败",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/384"
   },
   {
@@ -18,7 +29,7 @@
     "author": "wangqixin",
     "title": "我们在部署大模型后测试mooncake，当前的情况是这种报错，帮忙看一下是否是mooncake传输引擎哪的问题",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/383"
   },
   {
@@ -29,18 +40,18 @@
     "author": "qq_53572475",
     "title": "[Question|问题咨询]: Mooncake DP2TP8 GLM5.1-w4a8，传输报错Failed to connect to target: 141.111.32.82:20502, status: 503900 ",
     "labels": [],
-    "user_notes_count": 4,
+    "user_notes_count": 8,
     "web_url": "https://gitcode.com/cann/hixl/issues/382"
   },
   {
     "iid": 381,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-16",
-    "closed_at": "",
+    "closed_at": "2026-06-17",
     "author": "gcw_HC48V26H",
     "title": "[Question|问题咨询]: 安装编译完成后，执行bash benchmarks/run_all_bench.sh报错",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/381"
   },
   {
@@ -78,9 +89,9 @@
   },
   {
     "iid": 377,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-15",
-    "closed_at": "",
+    "closed_at": "2026-06-17",
     "author": "A-Liuhao",
     "title": "[Documentation|文档反馈]: HIXL资料书架中部分技术文章链接失效",
     "labels": [],
@@ -381,7 +392,7 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: A2性能相关问题咨询（多卡性能、小IO时延）",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/349"
   },
   {
@@ -414,7 +425,7 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: HIXL连接规格并发上限咨询",
     "labels": [],
-    "user_notes_count": 6,
+    "user_notes_count": 7,
     "web_url": "https://gitcode.com/cann/hixl/issues/346"
   },
   {

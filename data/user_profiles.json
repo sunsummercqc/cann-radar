@@ -33151,5 +33151,48 @@
     "total_repo_count": 12,
     "total_contributions": 0,
     "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "Liiii159573",
+    "nick_name": "蓝色圣托里尼",
+    "user_id": 3526756,
+    "starred_repos": [
+      "cann/hixl",
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 2,
+    "original_repo_count": 0,
+    "total_repo_count": 2,
+    "total_contributions": 0,
+    "user_type": "star_enthusiast"
+  },
+  {
+    "user_name": "Tangweijie_",
+    "nick_name": "Tangweijie_",
+    "user_id": 1554993,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "lin-zhichao",
+    "nick_name": "Leopold",
+    "user_id": 5713640,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 2,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 44,
+    "user_type": "developer"
   }
 ]

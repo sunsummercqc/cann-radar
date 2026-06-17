@@ -1,5 +1,38 @@
 [
   {
+    "iid": 536,
+    "state": "opened",
+    "created_at": "2026-06-17",
+    "closed_at": "",
+    "author": "xiongyifu",
+    "title": "[Bug]: 日志问题",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/536"
+  },
+  {
+    "iid": 535,
+    "state": "opened",
+    "created_at": "2026-06-17",
+    "closed_at": "",
+    "author": "TimeVShow",
+    "title": "[Bug]: 使用TorchAir图编译优化后，torch.roll算子出现精度异常",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/535"
+  },
+  {
+    "iid": 534,
+    "state": "opened",
+    "created_at": "2026-06-17",
+    "closed_at": "",
+    "author": "ASCEND222",
+    "title": "[Usage]: grouped_dynamic_block_quant support dst_type_max",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/534"
+  },
+  {
     "iid": 533,
     "state": "opened",
     "created_at": "2026-06-16",
@@ -64,7 +97,7 @@
     "author": "zutao",
     "title": "[Bug]: qwen3-0.6B 使能npugraph_ex推理失败",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/528"
   },
   {
@@ -97,7 +130,7 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: aclgraph，atb算子多次刷新host tensor执行，和单算子执行的值对比没通过",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/525"
   },
   {
@@ -223,13 +256,13 @@
   },
   {
     "iid": 513,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-04",
-    "closed_at": "",
+    "closed_at": "2026-06-17",
     "author": "pengxiao",
     "title": "[Doc]: “集合通信入图”章节的md表格语法错误，导致显示出现异常。",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/513"
   },
   {

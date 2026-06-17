@@ -1,5 +1,71 @@
 [
   {
+    "iid": 130,
+    "state": "opened",
+    "created_at": "2026-06-17",
+    "closed_at": "",
+    "author": "WangYanMale",
+    "title": "[Requirement|需求建议]: schedule处理过程可定位性提升",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/130"
+  },
+  {
+    "iid": 129,
+    "state": "opened",
+    "created_at": "2026-06-17",
+    "closed_at": "",
+    "author": "liyuewei",
+    "title": "[Bug-Report|缺陷反馈]: 自动融合中的VF融合函数使用__VEC_SCOPE__修饰符存在功能问题。",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/129"
+  },
+  {
+    "iid": 128,
+    "state": "closed",
+    "created_at": "2026-06-17",
+    "closed_at": "2026-06-17",
+    "author": "liyuewei",
+    "title": "[Requirement|需求建议]: transpose融合对齐策略优化",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/128"
+  },
+  {
+    "iid": 127,
+    "state": "closed",
+    "created_at": "2026-06-17",
+    "closed_at": "2026-06-17",
+    "author": "chenyukai",
+    "title": "v35的remaider接口存在精度问题",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/127"
+  },
+  {
+    "iid": 126,
+    "state": "closed",
+    "created_at": "2026-06-17",
+    "closed_at": "2026-06-17",
+    "author": "zhang_shengjie",
+    "title": "perf: 静态 shape 场景下 tiling data 参数未从 kernel launch 中移除",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/126"
+  },
+  {
+    "iid": 125,
+    "state": "opened",
+    "created_at": "2026-06-17",
+    "closed_at": "",
+    "author": "haipingmao",
+    "title": "[Bug-Report|缺陷反馈]: autofuse/v35/ascendc/api_regbase/utils.h文件存在BUG，会导致编译失败",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/125"
+  },
+  {
     "iid": 124,
     "state": "opened",
     "created_at": "2026-06-16",
@@ -623,7 +689,7 @@
     "author": "dingdairong",
     "title": "[Requirement|需求建议]: 有两个elementwise的算子，希望能支持，IsInf, MaskedFill",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/51"
   },
   {
