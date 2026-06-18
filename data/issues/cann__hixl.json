@@ -1,5 +1,27 @@
 [
   {
+    "iid": 388,
+    "state": "opened",
+    "created_at": "2026-06-18",
+    "closed_at": "",
+    "author": "Mutu010",
+    "title": "[Bug-Report|缺陷反馈]: hixl_example_d2rd 样例执行失败",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/388"
+  },
+  {
+    "iid": 387,
+    "state": "opened",
+    "created_at": "2026-06-18",
+    "closed_at": "",
+    "author": "wujiao_swag",
+    "title": "[Bug-Report|缺陷反馈]: docs/build.md目录下 ，离线编译源码，下载安装第三方开源依赖，开源软件cann-cmake链接无法下载",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/387"
+  },
+  {
     "iid": 385,
     "state": "opened",
     "created_at": "2026-06-17",
@@ -18,7 +40,7 @@
     "author": "sinat_22339175",
     "title": "[Question|问题咨询]:  请求传输失败",
     "labels": [],
-    "user_notes_count": 4,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/hixl/issues/384"
   },
   {
@@ -40,7 +62,7 @@
     "author": "qq_53572475",
     "title": "[Question|问题咨询]: Mooncake DP2TP8 GLM5.1-w4a8，传输报错Failed to connect to target: 141.111.32.82:20502, status: 503900 ",
     "labels": [],
-    "user_notes_count": 8,
+    "user_notes_count": 10,
     "web_url": "https://gitcode.com/cann/hixl/issues/382"
   },
   {
@@ -117,14 +139,14 @@
     "author": "huchunmei_123",
     "title": "[Bug-Report|缺陷反馈]: 验证 mem_handle 输出指针为NULL时返回 HIXL_PARAM_INVALID，库内部空指针解引用导致Segfault",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/375"
   },
   {
     "iid": 374,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-15",
-    "closed_at": "",
+    "closed_at": "2026-06-18",
     "author": "tianlianga1",
     "title": "[Question|问题咨询]: hccl和hixl底层共用一套物理传输链路嘛？ 那在使用hixl传输时是不是会降低npu卡并行计算通信的效率？",
     "labels": [],
@@ -144,13 +166,13 @@
   },
   {
     "iid": 372,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-13",
-    "closed_at": "",
+    "closed_at": "2026-06-18",
     "author": "whh_smile",
     "title": "[Question|问题咨询]: 接口测试, Initialize接口入参options中OPTION_DEVICE_ID超出范围，plog无 \"SetDevice failed\"报错",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/372"
   },
   {
@@ -216,7 +238,7 @@
     "author": "qq_56278931",
     "title": "[Documentation|文档反馈]: TTFHW--SKILLS验证仓库的编译&UT/DT&样例执行情况问题反馈",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/366"
   },
   {
@@ -227,7 +249,7 @@
     "author": "willzhuyx",
     "title": "[Bug-Report|缺陷反馈]: A5 Server通过1825网卡通过RoCE进行通讯，Mooncake transfer engine启动失败",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/365"
   },
   {
@@ -359,7 +381,7 @@
     "author": "bbsh112",
     "title": "[Question|问题咨询]: A5 UBOE 双机PD分离拉起后跑推理时，出现的D2RH传输，以及 D2D 传输失败问题",
     "labels": [],
-    "user_notes_count": 16,
+    "user_notes_count": 18,
     "web_url": "https://gitcode.com/cann/hixl/issues/353"
   },
   {

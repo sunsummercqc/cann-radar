@@ -23871,7 +23871,7 @@
     "original_repo_count": 0,
     "total_repo_count": 1,
     "total_contributions": 238,
-    "user_type": "developer"
+    "user_type": "contributor"
   },
   {
     "user_name": "gcw_maqAfEaS",
@@ -33193,6 +33193,34 @@
     "original_repo_count": 0,
     "total_repo_count": 1,
     "total_contributions": 44,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "dl9864",
+    "nick_name": "dl9864",
+    "user_id": 5293821,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 57,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "linzehui2058",
+    "nick_name": "林泽辉",
+    "user_id": 10518745,
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 1,
+    "total_repo_count": 7,
+    "total_contributions": 110,
     "user_type": "developer"
   }
 ]

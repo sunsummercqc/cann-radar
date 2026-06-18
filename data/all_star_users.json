@@ -1,5 +1,49 @@
 [
   {
+    "user_name": "qq_40517592",
+    "nick_name": "Phl17",
+    "user_id": 7162794,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "wanghao1717",
+    "nick_name": "王豪",
+    "user_id": 2077158,
+    "avatar": "https://cdn-img.gitcode.com/da/dc/21dad8724c81c75f8f4411d3baff4974838e37985011ff29d0156105f27c29d5.png?time=1742030530894",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "linzehui2058",
+    "nick_name": "林泽辉",
+    "user_id": 10518745,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
+    "user_name": "hanxiaolu_12138",
+    "nick_name": "HELLOhello",
+    "user_id": 7056261,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "wei_shi",
     "nick_name": "wei_shi",
     "user_id": 6534473,
@@ -40,7 +84,8 @@
     "starred_repos": [
       "cann/ge",
       "cann/hixl",
-      "cann/graph-autofusion"
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
     ]
   },
   {
@@ -5708,7 +5753,7 @@
   },
   {
     "user_name": "andy_git",
-    "nick_name": "liaomeifeng",
+    "nick_name": "andy",
     "user_id": 5258783,
     "avatar": null,
     "starred_repos": [
@@ -5900,7 +5945,7 @@
   },
   {
     "user_name": "weixin_60945716",
-    "nick_name": "wangqian",
+    "nick_name": "jake",
     "user_id": 140,
     "avatar": "https://cdn-img.gitcode.com/ce/aa/315ce671a747ab2716d36e24629277a20bc65af4e1e188065ba3be371e170369.png?time=1769066471391",
     "starred_repos": [
@@ -6087,17 +6132,6 @@
     "avatar": "https://cdn-img.gitcode.com/ec/be/4e4c080be0efa8dd63594402f43be507633144196050fee7d4a280e0fee57a5d.png",
     "starred_repos": [
       "cann/hixl"
-    ]
-  },
-  {
-    "user_name": "wanghao1717",
-    "nick_name": "王豪",
-    "user_id": 2077158,
-    "avatar": "https://cdn-img.gitcode.com/da/dc/21dad8724c81c75f8f4411d3baff4974838e37985011ff29d0156105f27c29d5.png?time=1742030530894",
-    "starred_repos": [
-      "cann/hixl",
-      "cann/graph-autofusion",
-      "cann/torchtitan-npu"
     ]
   },
   {
@@ -10276,7 +10310,7 @@
   },
   {
     "user_name": "whylazy",
-    "nick_name": "whylazy",
+    "nick_name": "yaodonghai",
     "user_id": 8565330,
     "avatar": "",
     "starred_repos": [
@@ -10290,16 +10324,6 @@
     "avatar": "https://cdn-img.gitcode.com/be/aa/46545b5ea36a74529df8c489c1d3b7652bebfbac7105b85106ad767b32ade56c.jpg",
     "starred_repos": [
       "cann/graph-autofusion"
-    ]
-  },
-  {
-    "user_name": "qq_40517592",
-    "nick_name": "Phl17",
-    "user_id": 7162794,
-    "avatar": null,
-    "starred_repos": [
-      "cann/graph-autofusion",
-      "cann/torchtitan-npu"
     ]
   },
   {
@@ -11312,15 +11336,6 @@
     "starred_repos": [
       "cann/torchtitan-npu",
       "Ascend/torchair"
-    ]
-  },
-  {
-    "user_name": "hanxiaolu_12138",
-    "nick_name": "HELLOhello",
-    "user_id": 7056261,
-    "avatar": null,
-    "starred_repos": [
-      "cann/torchtitan-npu"
     ]
   },
   {
@@ -12622,9 +12637,9 @@
   },
   {
     "user_name": "Messi8",
-    "nick_name": "cin",
+    "nick_name": "titan-npu-reviewer",
     "user_id": 11153735,
-    "avatar": "https://cdn-img.gitcode.com/eb/be/4454eb31be3500426ce4b6c99f841d4cce0b98180eb2e1def671b6c2972cbbfa.jpg",
+    "avatar": "https://cdn-img.gitcode.com/fe/aa/808f7e1aa7e73766f60021582a3c18ce5e78817550ad251e963b6b195f7d1840.png?time=1781767446897",
     "starred_repos": [
       "cann/torchtitan-npu"
     ]
@@ -12917,6 +12932,15 @@
     "avatar": "",
     "starred_repos": [
       "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "dl9864",
+    "nick_name": "dl9864",
+    "user_id": 5293821,
+    "avatar": null,
+    "starred_repos": [
+      "Ascend/torchair"
     ]
   },
   {
@@ -17216,7 +17240,7 @@
     "user_name": "will_csdn_go",
     "nick_name": "will_csdn_go",
     "user_id": 976666,
-    "avatar": "https://cdn-img.gitcode.com/ad/fa/3ad2fad69a2601d080c60f0f7f7346510cc226ffbfb66126e8c2f1a7d80a5e43.png?time=1763575345664",
+    "avatar": "https://cdn-img.gitcode.com/be/ab/b365ea7bfc7e811e165b908b04dc45ff5c1a2bcd7ebea37073735e864d464ee0.png?time=1781753562849",
     "starred_repos": [
       "Ascend/torchair"
     ]

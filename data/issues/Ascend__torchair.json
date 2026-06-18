@@ -1,5 +1,16 @@
 [
   {
+    "iid": 537,
+    "state": "opened",
+    "created_at": "2026-06-18",
+    "closed_at": "",
+    "author": "nichorians",
+    "title": "[Feature]: GE模式下支持mxfp8推理",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/537"
+  },
+  {
     "iid": 536,
     "state": "opened",
     "created_at": "2026-06-17",
@@ -18,14 +29,14 @@
     "author": "TimeVShow",
     "title": "[Bug]: 使用TorchAir图编译优化后，torch.roll算子出现精度异常",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/535"
   },
   {
     "iid": 534,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-17",
-    "closed_at": "",
+    "closed_at": "2026-06-18",
     "author": "ASCEND222",
     "title": "[Usage]: grouped_dynamic_block_quant support dst_type_max",
     "labels": [],
@@ -124,9 +135,9 @@
   },
   {
     "iid": 525,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-11",
-    "closed_at": "",
+    "closed_at": "2026-06-18",
     "author": "chen-yuqi-ba",
     "title": "[Bug]: aclgraph，atb算子多次刷新host tensor执行，和单算子执行的值对比没通过",
     "labels": [],

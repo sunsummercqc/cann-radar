@@ -1,5 +1,16 @@
 [
   {
+    "id": 10157522,
+    "namespace": "caoshuyang/torchtitan-npu",
+    "name": "torchtitan-npu",
+    "web_url": "https://gitcode.com/caoshuyang/torchtitan-npu",
+    "http_url_to_repo": "https://gitcode.com/caoshuyang/torchtitan-npu.git",
+    "created_at": "2026-06-18T11:55:20.559+08:00",
+    "creator_username": "caoshuyang",
+    "creator_nick_name": "caoshuyang",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
     "id": 10142288,
     "namespace": "dty_30041779/torchtitan-npu_0616_022",
     "name": "torchtitan-npu_0616_022",
@@ -502,7 +513,7 @@
     "http_url_to_repo": "https://gitcode.com/Messi8/torchtitan-npu.git",
     "created_at": "2026-05-08T16:25:41.207+08:00",
     "creator_username": "Messi8",
-    "creator_nick_name": "cin",
+    "creator_nick_name": "titan-npu-reviewer",
     "forked_from": "cann/torchtitan-npu"
   },
   {
