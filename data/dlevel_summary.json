@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-18",
+  "generated_at": "2026-06-19",
   "global_counts": {
-    "d0": 1292,
-    "d1": 801,
+    "d0": 1293,
+    "d1": 802,
     "d2": 566,
-    "total": 2659,
-    "d0_external": 952,
-    "d1_external": 594,
+    "total": 2661,
+    "d0_external": 953,
+    "d1_external": 595,
     "d2_external": 173
   },
   "repo_counts": {
     "cann/ge": {
-      "d0": 459,
+      "d0": 460,
       "d1": 238,
       "d2": 179,
-      "total": 876,
-      "d0_external": 197,
+      "total": 877,
+      "d0_external": 198,
       "d1_external": 140,
       "d2_external": 17,
       "discussion_d1_external": 24
@@ -32,11 +32,11 @@
     },
     "cann/graph-autofusion": {
       "d0": 402,
-      "d1": 116,
+      "d1": 117,
       "d2": 68,
-      "total": 586,
+      "total": 587,
       "d0_external": 156,
-      "d1_external": 99,
+      "d1_external": 100,
       "d2_external": 12,
       "discussion_d1_external": 85
     },
@@ -9765,6 +9765,22 @@
         "starred_repos": [
           "cann/ge",
           "cann/hixl"
+        ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "qoosong",
+        "nick_name": "qoosong",
+        "level": "d0",
+        "sources": [
+          "star"
+        ],
+        "star_time": "2026-06-19T11:08:11.000+00:00",
+        "fans_count": 0,
+        "original_repo_count": 0,
+        "total_contributions": 0,
+        "starred_repos": [
+          "cann/ge"
         ],
         "developer_source": "external"
       },
@@ -33571,6 +33587,20 @@
           "cann/graph-autofusion",
           "Ascend/torchair"
         ],
+        "developer_source": "external"
+      },
+      {
+        "user_name": "leeibo",
+        "nick_name": "leeibo",
+        "level": "d1",
+        "sources": [
+          "issue"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
         "developer_source": "external"
       },
       {
@@ -67675,11 +67705,11 @@
     },
     {
       "month": "2026-06",
-      "d0": 310,
+      "d0": 311,
       "d1": 18,
       "d2": 15,
-      "new_stars": 343,
-      "cumulative": 2967
+      "new_stars": 344,
+      "cumulative": 2968
     }
   ],
   "discussion_commenter_assignment": {

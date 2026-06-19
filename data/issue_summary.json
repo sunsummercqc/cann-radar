@@ -5,7 +5,7 @@
       "path": "cann/graph-autofusion",
       "avg_days": 9.1,
       "closed": 99,
-      "opened": 13
+      "opened": 14
     },
     {
       "name": "torchtitan-npu",
@@ -25,8 +25,8 @@
       "name": "hixl",
       "path": "cann/hixl",
       "avg_days": 12.1,
-      "closed": 302,
-      "opened": 36
+      "closed": 303,
+      "opened": 35
     },
     {
       "name": "torchair",
@@ -36,5 +36,5 @@
       "opened": 39
     }
   ],
-  "generated_at": "2026-06-18"
+  "generated_at": "2026-06-19"
 }

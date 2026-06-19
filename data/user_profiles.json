@@ -33222,5 +33222,19 @@
     "total_repo_count": 7,
     "total_contributions": 110,
     "user_type": "developer"
+  },
+  {
+    "user_name": "qoosong",
+    "nick_name": "qoosong",
+    "user_id": 11729367,
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
   }
 ]

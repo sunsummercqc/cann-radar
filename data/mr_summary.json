@@ -18,8 +18,8 @@
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
       "merged": 486,
-      "open": 67,
-      "total": 553
+      "open": 68,
+      "total": 554
     },
     {
       "name": "hixl",
@@ -32,10 +32,10 @@
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
       "merged": 274,
-      "open": 20,
-      "total": 294
+      "open": 21,
+      "total": 295
     }
   ],
   "unique_authors": 717,
-  "generated_at": "2026-06-18"
+  "generated_at": "2026-06-19"
 }

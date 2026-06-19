@@ -478,7 +478,7 @@
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "total": 931,
+      "total": 943,
       "data": [
         0,
         0,
@@ -632,7 +632,7 @@
         133,
         132,
         129,
-        85
+        97
       ]
     },
     {
@@ -798,7 +798,7 @@
     {
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
-      "total": 364,
+      "total": 365,
       "data": [
         0,
         0,
@@ -952,9 +952,9 @@
         43,
         27,
         41,
-        11
+        12
       ]
     }
   ],
-  "generated_at": "2026-06-18"
+  "generated_at": "2026-06-19"
 }

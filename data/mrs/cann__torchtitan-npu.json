@@ -1,5 +1,16 @@
 [
   {
+    "iid": 366,
+    "state": "opened",
+    "title": "docs: auto-fix severe documentation issues under docs/",
+    "created_at": "2026-06-20",
+    "updated_at": "2026-06-20",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/366"
+  },
+  {
     "iid": 365,
     "state": "opened",
     "title": "[fix] preserve DeepSeek-V4 w13 values in HF export",
