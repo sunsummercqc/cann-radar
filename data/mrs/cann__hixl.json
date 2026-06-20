@@ -1,5 +1,16 @@
 [
   {
+    "iid": 656,
+    "state": "opened",
+    "title": "[feat]: fast-fail adxl transfers on an unavailable link",
+    "created_at": "2026-06-20",
+    "updated_at": "2026-06-20",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "youyx",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/656"
+  },
+  {
     "iid": 655,
     "state": "opened",
     "title": "[feat]修改ut运行脚本，新增pr修改文件识别功能，如果发现修改是纯文档类文件，则不执行UT用例",

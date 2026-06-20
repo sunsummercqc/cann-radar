@@ -478,7 +478,7 @@
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "total": 943,
+      "total": 954,
       "data": [
         0,
         0,
@@ -632,13 +632,13 @@
         133,
         132,
         129,
-        97
+        108
       ]
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "total": 655,
+      "total": 656,
       "data": [
         0,
         0,
@@ -792,7 +792,7 @@
         28,
         43,
         27,
-        33
+        34
       ]
     },
     {
@@ -956,5 +956,5 @@
       ]
     }
   ],
-  "generated_at": "2026-06-19"
+  "generated_at": "2026-06-20"
 }

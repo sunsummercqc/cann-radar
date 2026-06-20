@@ -25,8 +25,8 @@
       "name": "hixl",
       "path": "cann/hixl",
       "merged": 531,
-      "open": 17,
-      "total": 548
+      "open": 18,
+      "total": 549
     },
     {
       "name": "torchtitan-npu",
@@ -37,5 +37,5 @@
     }
   ],
   "unique_authors": 717,
-  "generated_at": "2026-06-19"
+  "generated_at": "2026-06-20"
 }

@@ -1,5 +1,34 @@
 [
   {
+    "user_name": "dhltat",
+    "nick_name": "dhltat",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 8,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "m0_67762624",
+    "nick_name": "cy",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
     "user_name": "qoosong",
     "nick_name": "qoosong",
     "starred_repos": [
