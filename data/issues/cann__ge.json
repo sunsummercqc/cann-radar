@@ -1,5 +1,16 @@
 [
   {
+    "iid": 452,
+    "state": "opened",
+    "created_at": "2026-06-21",
+    "closed_at": "",
+    "author": "HGHAAQq",
+    "title": "[Question|问题咨询]: 1952 PTO开发框架，PTO自定义算子ATC转模型报错，但没有报错详情",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/ge/issues/452"
+  },
+  {
     "iid": 451,
     "state": "opened",
     "created_at": "2026-06-18",
@@ -117,18 +128,18 @@
     "author": "gcw_cNancIvg",
     "title": "[Question|问题咨询]: AscendC 自动向量化后计算出错，求 CCE 向量化触发条件及局部禁用方法",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/439"
   },
   {
     "iid": 438,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-10",
-    "closed_at": "",
+    "closed_at": "2026-06-21",
     "author": "gcw_bjTgaH1Z",
     "title": "[Question|问题咨询]: CANN针对框架动静图的算子内存布局、调度逻辑的区别",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/438"
   },
   {
@@ -782,35 +793,35 @@
   },
   {
     "iid": 376,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-12",
-    "closed_at": "",
+    "closed_at": "2026-06-21",
     "author": "dingdairong",
     "title": "[Feature-Request|需求反馈]: ge图模式data dump数据比较不支持比较数据的有效部分，或者可配置的只比较数据的有效部分",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/376"
   },
   {
     "iid": 375,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-12",
-    "closed_at": "",
+    "closed_at": "2026-06-21",
     "author": "dingdairong",
     "title": "[Feature-Request|需求反馈]: ge图data dump数据和base line比较，仅支持单个step比较，不支持，多个step批量比较",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/375"
   },
   {
     "iid": 374,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-12",
-    "closed_at": "",
+    "closed_at": "2026-06-21",
     "author": "dingdairong",
     "title": "[Feature-Request|需求反馈]: ge图data dump，dump出来的tensor dtype类型是bool的不支持比较，比较结果显示为NAN",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/374"
   },
   {

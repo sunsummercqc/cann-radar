@@ -17,9 +17,9 @@
     {
       "name": "ge",
       "path": "cann/ge",
-      "avg_days": 11.4,
-      "closed": 378,
-      "opened": 46
+      "avg_days": 11.7,
+      "closed": 382,
+      "opened": 43
     },
     {
       "name": "hixl",
@@ -36,5 +36,5 @@
       "opened": 39
     }
   ],
-  "generated_at": "2026-06-20"
+  "generated_at": "2026-06-21"
 }

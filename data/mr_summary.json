@@ -18,8 +18,8 @@
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
       "merged": 486,
-      "open": 68,
-      "total": 554
+      "open": 71,
+      "total": 557
     },
     {
       "name": "hixl",
@@ -37,5 +37,5 @@
     }
   ],
   "unique_authors": 717,
-  "generated_at": "2026-06-20"
+  "generated_at": "2026-06-21"
 }

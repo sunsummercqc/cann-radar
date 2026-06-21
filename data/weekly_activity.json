@@ -478,7 +478,7 @@
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "total": 954,
+      "total": 969,
       "data": [
         0,
         0,
@@ -632,7 +632,7 @@
         133,
         132,
         129,
-        108
+        123
       ]
     },
     {
@@ -956,5 +956,5 @@
       ]
     }
   ],
-  "generated_at": "2026-06-20"
+  "generated_at": "2026-06-21"
 }

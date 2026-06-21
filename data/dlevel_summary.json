@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-20",
+  "generated_at": "2026-06-21",
   "global_counts": {
     "d0": 1295,
-    "d1": 802,
+    "d1": 803,
     "d2": 566,
-    "total": 2663,
+    "total": 2664,
     "d0_external": 955,
-    "d1_external": 595,
+    "d1_external": 596,
     "d2_external": 173
   },
   "repo_counts": {
     "cann/ge": {
       "d0": 462,
-      "d1": 238,
+      "d1": 239,
       "d2": 179,
-      "total": 879,
+      "total": 880,
       "d0_external": 200,
-      "d1_external": 140,
+      "d1_external": 141,
       "d2_external": 17,
       "discussion_d1_external": 24
     },
@@ -1109,6 +1109,20 @@
           "cann/torchtitan-npu"
         ],
         "developer_source": "internal"
+      },
+      {
+        "user_name": "HGHAAQq",
+        "nick_name": "HGHAAQq",
+        "level": "d1",
+        "sources": [
+          "issue"
+        ],
+        "star_time": "",
+        "fans_count": null,
+        "original_repo_count": null,
+        "total_contributions": null,
+        "starred_repos": [],
+        "developer_source": "external"
       },
       {
         "user_name": "HJ92",
