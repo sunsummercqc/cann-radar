@@ -1,5 +1,16 @@
 [
   {
+    "iid": 389,
+    "state": "opened",
+    "created_at": "2026-06-22",
+    "closed_at": "",
+    "author": "whh_smile",
+    "title": "[Question|问题咨询]: llm_datadist V2库的 listenIpInfo 选项目前只接受单个 ip:port 格式？",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/389"
+  },
+  {
     "iid": 388,
     "state": "opened",
     "created_at": "2026-06-18",
@@ -7,18 +18,18 @@
     "author": "Mutu010",
     "title": "[Bug-Report|缺陷反馈]: hixl_example_d2rd 样例执行失败",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/388"
   },
   {
     "iid": 387,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-18",
-    "closed_at": "",
+    "closed_at": "2026-06-22",
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: docs/build.md目录下 ，离线编译源码，下载安装第三方开源依赖，开源软件cann-cmake链接无法下载",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/387"
   },
   {
@@ -34,13 +45,13 @@
   },
   {
     "iid": 384,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-16",
-    "closed_at": "",
+    "closed_at": "2026-06-22",
     "author": "sinat_22339175",
     "title": "[Question|问题咨询]:  请求传输失败",
     "labels": [],
-    "user_notes_count": 5,
+    "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/hixl/issues/384"
   },
   {
@@ -78,9 +89,9 @@
   },
   {
     "iid": 380,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-16",
-    "closed_at": "",
+    "closed_at": "2026-06-22",
     "author": "wanghui390",
     "title": "[Question|问题咨询]: Mooncake store setup失败",
     "labels": [],
@@ -122,9 +133,9 @@
   },
   {
     "iid": 376,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-15",
-    "closed_at": "",
+    "closed_at": "2026-06-22",
     "author": "wanghui390",
     "title": "[Question|问题咨询]: hixl连接两个设备，使用connect，传入IP和端口，就可以连接，是怎么做权限校验的",
     "labels": [],
@@ -133,9 +144,9 @@
   },
   {
     "iid": 375,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-15",
-    "closed_at": "",
+    "closed_at": "2026-06-22",
     "author": "huchunmei_123",
     "title": "[Bug-Report|缺陷反馈]: 验证 mem_handle 输出指针为NULL时返回 HIXL_PARAM_INVALID，库内部空指针解引用导致Segfault",
     "labels": [],
@@ -161,7 +172,7 @@
     "author": "wanghui390",
     "title": "[Question|问题咨询]: 超节点D2D传输，如果一次传输一个50GB显存，是会同时使用7条HCCS链路传输（并行），还是只使用一个HCCS链路的一个Lane呢？",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/373"
   },
   {
@@ -177,24 +188,24 @@
   },
   {
     "iid": 371,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-13",
-    "closed_at": "",
+    "closed_at": "2026-06-22",
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: llm_datadist_v1/llm_utils.py 的 check_transfer_config() 方法中格式字符串中{0}被使用2次，会导致始终取第一个参数num_tensors_to_transfer的数值，造成语义混乱",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/371"
   },
   {
     "iid": 370,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-12",
-    "closed_at": "",
+    "closed_at": "2026-06-22",
     "author": "zhaomingchu",
     "title": "[Bug-Report|缺陷反馈]: Deepseek适配KV Pool，ROCE通信异常",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/370"
   },
   {
@@ -320,13 +331,13 @@
   },
   {
     "iid": 358,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-08",
-    "closed_at": "",
+    "closed_at": "2026-06-22",
     "author": "tianlianga1",
     "title": "[Question|问题咨询]:目前支持vnpu的场景嘛？我在vnpu场景下运行MooncakeDistributedStore.setup报 Failed to connect to target: 172.30.132.83:20348, status: 103900, errmsg: E19999: Inner Errorl",
     "labels": [],
-    "user_notes_count": 5,
+    "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/hixl/issues/358"
   },
   {
@@ -381,7 +392,7 @@
     "author": "bbsh112",
     "title": "[Question|问题咨询]: A5 UBOE 双机PD分离拉起后跑推理时，出现的D2RH传输，以及 D2D 传输失败问题",
     "labels": [],
-    "user_notes_count": 18,
+    "user_notes_count": 20,
     "web_url": "https://gitcode.com/cann/hixl/issues/353"
   },
   {
@@ -414,7 +425,7 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: A2性能相关问题咨询（多卡性能、小IO时延）",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/349"
   },
   {

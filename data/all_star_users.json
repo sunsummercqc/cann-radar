@@ -1,5 +1,38 @@
 [
   {
+    "user_name": "QQ72",
+    "nick_name": "QQ72",
+    "user_id": 11193102,
+    "avatar": "https://cdn-img.gitcode.com/de/dd/d30ed4dd2d674a415528f51a17f48f3f06624fac5cc9ca6ef281d93c9f20e8d0.jpg",
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
+    "user_name": "gcw_oNpMgs4b",
+    "nick_name": "Jocelyn_Wen",
+    "user_id": 11290103,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "flow_bo",
+    "nick_name": "flow_bo",
+    "user_id": 10501461,
+    "avatar": "https://cdn-img.gitcode.com/ce/cc/c574059ecc288e5015d218fdcdc194ae863b74ddd236d976660594d89ffffba6.png",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "dhltat",
     "nick_name": "dhltat",
     "user_id": 10311501,
@@ -523,7 +556,7 @@
   },
   {
     "user_name": "weixin_47253752",
-    "nick_name": "weixin_47253752",
+    "nick_name": "shaoshuai",
     "user_id": 3419880,
     "avatar": "https://cdn-img.gitcode.com/cf/db/c6fd2bcfd9c16bdc477a06fb758433f8e0cf22f057c752a77397c201becd31d8.png",
     "starred_repos": [
@@ -692,7 +725,7 @@
   },
   {
     "user_name": "newlittlewhite",
-    "nick_name": "yangjinhui003",
+    "nick_name": "yangjinhui8",
     "user_id": 332287,
     "avatar": "https://cdn-img.gitcode.com/ae/bd/6a3e1bdd04dcb66c12b41b866cd22dcea87a016d4f57a416e8d929786a5e40ad.png",
     "starred_repos": [
@@ -6099,6 +6132,15 @@
       "cann/graph-autofusion",
       "cann/torchtitan-npu",
       "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "zhaotiensn",
+    "nick_name": "ztn",
+    "user_id": 9798627,
+    "avatar": "https://cdn-img.gitcode.com/da/fc/185dafcbd6a515c9b8e1921b9e39ec52c7ba435480cc1912fdc01e367d625acf.jpg",
+    "starred_repos": [
+      "cann/hixl"
     ]
   },
   {
@@ -12964,6 +13006,51 @@
     "avatar": "",
     "starred_repos": [
       "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "weizhaoyang",
+    "nick_name": "weizhaoyang",
+    "user_id": 11383387,
+    "avatar": "",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "gcw_USRnw7AT",
+    "nick_name": "gcw_USRnw7AT",
+    "user_id": 9009855,
+    "avatar": "",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "lfz12323",
+    "nick_name": "lfz12323",
+    "user_id": 6910930,
+    "avatar": null,
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "sunsummercqc",
+    "nick_name": "sunsummercqc",
+    "user_id": 534077,
+    "avatar": "https://cdn-img.gitcode.com/bd/db/b1ddb24ba1d1d6b25365633872651cb7e0c97df480acea5392026d0b46927559.jpg",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "m0_64914656",
+    "nick_name": "m0_64914656",
+    "user_id": 1002177,
+    "avatar": "https://cdn-img.gitcode.com/bf/eb/1b7361feb149db43af8292c4e07e24f8246d4406ec901646b542d403c72aa692.png",
+    "starred_repos": [
+      "Ascend/torchair"
     ]
   },
   {

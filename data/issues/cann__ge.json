@@ -1,13 +1,46 @@
 [
   {
-    "iid": 452,
+    "iid": 455,
+    "state": "closed",
+    "created_at": "2026-06-22",
+    "closed_at": "2026-06-22",
+    "author": "HGHAAQq",
+    "title": "[Question|问题咨询]: PTO算子上MDC推理报错",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/455"
+  },
+  {
+    "iid": 454,
     "state": "opened",
-    "created_at": "2026-06-21",
+    "created_at": "2026-06-22",
     "closed_at": "",
+    "author": "wei_shi",
+    "title": "[Bug-Report|缺陷反馈]: reduce融合norm-like阈值日志与实际不符",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/ge/issues/454"
+  },
+  {
+    "iid": 453,
+    "state": "opened",
+    "created_at": "2026-06-22",
+    "closed_at": "",
+    "author": "TimeVShow",
+    "title": "[Bug-Report|缺陷反馈]: GE.roll算子精度异常",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/ge/issues/453"
+  },
+  {
+    "iid": 452,
+    "state": "closed",
+    "created_at": "2026-06-21",
+    "closed_at": "2026-06-22",
     "author": "HGHAAQq",
     "title": "[Question|问题咨询]: 1952 PTO开发框架，PTO自定义算子ATC转模型报错，但没有报错详情",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/452"
   },
   {
@@ -221,9 +254,9 @@
   },
   {
     "iid": 429,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-03",
-    "closed_at": "",
+    "closed_at": "2026-06-22",
     "author": "gcw_blkm9jRu",
     "title": "[Bug-Report|缺陷反馈]: GE master分支编译错误",
     "labels": [],
@@ -397,9 +430,9 @@
   },
   {
     "iid": 413,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-29",
-    "closed_at": "",
+    "closed_at": "2026-06-22",
     "author": "xiong-pan",
     "title": "[Bug-Report|缺陷反馈]: if算子编译完成后加载模型报错",
     "labels": [],
