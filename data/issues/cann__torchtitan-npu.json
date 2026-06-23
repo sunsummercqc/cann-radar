@@ -45,13 +45,13 @@
   },
   {
     "iid": 54,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-09",
-    "closed_at": "",
+    "closed_at": "2026-06-23",
     "author": "ningzhixiong",
     "title": "[Question|问题咨询]: 什么时候会对接verl？",
     "labels": [],
-    "user_notes_count": 5,
+    "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/54"
   },
   {

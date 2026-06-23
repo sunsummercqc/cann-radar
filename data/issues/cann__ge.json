@@ -1,5 +1,16 @@
 [
   {
+    "iid": 458,
+    "state": "opened",
+    "created_at": "2026-06-23",
+    "closed_at": "",
+    "author": "hugo111",
+    "title": "[Documentation|文档反馈]: ",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/458"
+  },
+  {
     "iid": 455,
     "state": "closed",
     "created_at": "2026-06-22",
@@ -12,9 +23,9 @@
   },
   {
     "iid": 454,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-22",
-    "closed_at": "",
+    "closed_at": "2026-06-23",
     "author": "wei_shi",
     "title": "[Bug-Report|缺陷反馈]: reduce融合norm-like阈值日志与实际不符",
     "labels": [],
@@ -23,13 +34,13 @@
   },
   {
     "iid": 453,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-22",
-    "closed_at": "",
+    "closed_at": "2026-06-23",
     "author": "TimeVShow",
     "title": "[Bug-Report|缺陷反馈]: GE.roll算子精度异常",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/453"
   },
   {
@@ -56,9 +67,9 @@
   },
   {
     "iid": 450,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-16",
-    "closed_at": "",
+    "closed_at": "2026-06-23",
     "author": "j18351891940",
     "title": "[Bug-Report|缺陷反馈]:  mdc网络开启自动融合Cast Reshape后接多个Cast产生融合节点&&cse优化失效",
     "labels": [],
@@ -67,9 +78,9 @@
   },
   {
     "iid": 449,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-12",
-    "closed_at": "",
+    "closed_at": "2026-06-23",
     "author": "wtf_newage",
     "title": "【fix】解决pack算子lowering时，输入纯scalar场景",
     "labels": [],
@@ -117,14 +128,14 @@
     "author": "aishenghuo_aidaka",
     "title": "[Question|问题咨询]: ATC工具模型转换时完成之后运行报错",
     "labels": [],
-    "user_notes_count": 7,
+    "user_notes_count": 8,
     "web_url": "https://gitcode.com/cann/ge/issues/443"
   },
   {
     "iid": 442,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-11",
-    "closed_at": "",
+    "closed_at": "2026-06-23",
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: AIagent发现的一些问题",
     "labels": [],
@@ -133,9 +144,9 @@
   },
   {
     "iid": 440,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-10",
-    "closed_at": "",
+    "closed_at": "2026-06-23",
     "author": "j18351891940",
     "title": "[Bug-Report|缺陷反馈]: mdc网络开启自动融合与Aipp pass和CastReshapeCast pass有冲突",
     "labels": [],
@@ -221,9 +232,9 @@
   },
   {
     "iid": 432,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-03",
-    "closed_at": "",
+    "closed_at": "2026-06-23",
     "author": "Dksnsksk",
     "title": "[Question|问题咨询]: ONNX通过ATC转为OM模型的问题",
     "labels": [],
@@ -243,9 +254,9 @@
   },
   {
     "iid": 430,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-03",
-    "closed_at": "",
+    "closed_at": "2026-06-23",
     "author": "gcw_blkm9jRu",
     "title": "[Documentation|文档反馈]: 源码构建指导文档，环境验证需要区分三种环境部署方式。cannlab方式部署的环境，环境验证部分不符合，需要改进",
     "labels": [],
@@ -309,9 +320,9 @@
   },
   {
     "iid": 424,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-06-23",
     "author": "chenweiheng",
     "title": "[Feature-Request|需求反馈]: 新增StridedSliceV2 lowering注册",
     "labels": [],
@@ -1417,17 +1428,6 @@
     "labels": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/311"
-  },
-  {
-    "iid": 310,
-    "state": "opened",
-    "created_at": "2026-04-16",
-    "closed_at": "",
-    "author": "xtzx_17",
-    "title": "[Bug-Report|缺陷反馈]: GE datedump，全量dump，不同rank下的dump出来的文件个数不一致，疑似丢文件",
-    "labels": [],
-    "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/ge/issues/310"
   },
   {
     "iid": 309,

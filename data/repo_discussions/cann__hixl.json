@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22",
+  "generated_at": "2026-06-23",
   "source_count": 4,
   "discussion_count": 4,
   "external_count": 30,
@@ -7,7 +7,7 @@
   "total_unique_participants": 36,
   "trend": [
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "external_count": 30,
       "total_unique_participants": 36
     }
@@ -18,14 +18,14 @@
       "nick_name": "",
       "developer_source": "internal",
       "top_comments": 4,
-      "replies": 10,
+      "replies": 13,
       "discussion_count": 3,
       "discussions": [
         {
           "url": "https://gitcode.com/cann/hixl/discussions/4",
           "title": "【新手村任务】图框架基础知识测试",
           "top_comments": 1,
-          "replies": 0
+          "replies": 3
         },
         {
           "url": "https://gitcode.com/cann/hixl/discussions/3",
@@ -41,7 +41,7 @@
         }
       ],
       "first_seen_at": "2026-04-29T14:54:12+08:00",
-      "last_seen_at": "2026-06-08T15:26:40+08:00"
+      "last_seen_at": "2026-06-23T15:08:58+08:00"
     },
     {
       "user_name": "jiazhaoyang",
@@ -705,7 +705,7 @@
       "number": "4",
       "title": "【新手村任务】图框架基础知识测试",
       "comment_total": 4,
-      "reply_total": 0,
+      "reply_total": 3,
       "unique_participants": 4,
       "external_participants": 3
     },

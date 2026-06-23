@@ -1,5 +1,49 @@
 [
   {
+    "iid": 140,
+    "state": "opened",
+    "created_at": "2026-06-23",
+    "closed_at": "",
+    "author": "zhang_shengjie",
+    "title": "fix: Reduce RA 未对齐尾部开销重复计算 VF Head Cost 及 tile reorder 缺少参数化阈值",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/140"
+  },
+  {
+    "iid": 139,
+    "state": "closed",
+    "created_at": "2026-06-23",
+    "closed_at": "2026-06-23",
+    "author": "chenyukai",
+    "title": "重构Reduce/RegReduce代码生成架构",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/139"
+  },
+  {
+    "iid": 138,
+    "state": "opened",
+    "created_at": "2026-06-23",
+    "closed_at": "",
+    "author": "zhangyi371",
+    "title": "[Bug-Report|缺陷反馈]: reduce R轴判断不正确",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/138"
+  },
+  {
+    "iid": 137,
+    "state": "opened",
+    "created_at": "2026-06-23",
+    "closed_at": "",
+    "author": "liyuewei",
+    "title": "[Requirement|需求建议]: Transpose+Brc融合向量化轴对齐策略优化",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/137"
+  },
+  {
     "iid": 136,
     "state": "opened",
     "created_at": "2026-06-22",
@@ -78,9 +122,9 @@
   },
   {
     "iid": 129,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-17",
-    "closed_at": "",
+    "closed_at": "2026-06-23",
     "author": "liyuewei",
     "title": "[Bug-Report|缺陷反馈]: 自动融合中的VF融合函数使用__VEC_SCOPE__修饰符存在功能问题。",
     "labels": [],

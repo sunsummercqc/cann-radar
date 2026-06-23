@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-22",
+  "generated_at": "2026-06-23",
   "source_count": 5,
   "discussion_count": 5,
-  "external_count": 73,
+  "external_count": 74,
   "internal_count": 2,
-  "total_unique_participants": 75,
+  "total_unique_participants": 76,
   "trend": [
     {
-      "date": "2026-06-22",
-      "external_count": 73,
-      "total_unique_participants": 75
+      "date": "2026-06-23",
+      "external_count": 74,
+      "total_unique_participants": 76
     }
   ],
   "participants": [
@@ -18,14 +18,14 @@
       "nick_name": "",
       "developer_source": "internal",
       "top_comments": 1,
-      "replies": 11,
+      "replies": 31,
       "discussion_count": 2,
       "discussions": [
         {
           "url": "https://gitcode.com/cann/torchtitan-npu/discussions/5",
           "title": "【新手村任务】图框架基础知识测试",
           "top_comments": 1,
-          "replies": 1
+          "replies": 21
         },
         {
           "url": "https://gitcode.com/cann/torchtitan-npu/discussions/1",
@@ -35,7 +35,7 @@
         }
       ],
       "first_seen_at": "2026-05-08T22:11:42+08:00",
-      "last_seen_at": "2026-06-08T16:00:22+08:00"
+      "last_seen_at": "2026-06-23T16:18:07+08:00"
     },
     {
       "user_name": "Faust-0221",
@@ -60,6 +60,30 @@
       ],
       "first_seen_at": "2026-05-08T16:26:44+08:00",
       "last_seen_at": "2026-06-08T18:14:28+08:00"
+    },
+    {
+      "user_name": "katie-123",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 2,
+      "replies": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/torchtitan-npu/discussions/5",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        },
+        {
+          "url": "https://gitcode.com/cann/torchtitan-npu/discussions/1",
+          "title": "有奖问答｜TorchTitan-NPU:训练性能与易用性齐飞，解锁昇腾训练入图新体验",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-05-08T16:51:00+08:00",
+      "last_seen_at": "2026-06-23T17:07:23+08:00"
     },
     {
       "user_name": "lvnbest",
@@ -494,6 +518,24 @@
       "last_seen_at": "2026-05-26T12:24:51+08:00"
     },
     {
+      "user_name": "gu-mengchen",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/cann/torchtitan-npu/discussions/5",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-23T19:57:15+08:00",
+      "last_seen_at": "2026-06-23T19:57:15+08:00"
+    },
+    {
       "user_name": "GUOoooooo",
       "nick_name": "",
       "developer_source": "external",
@@ -600,24 +642,6 @@
       ],
       "first_seen_at": "2026-05-08T16:35:35+08:00",
       "last_seen_at": "2026-05-08T16:35:35+08:00"
-    },
-    {
-      "user_name": "katie-123",
-      "nick_name": "",
-      "developer_source": "external",
-      "top_comments": 1,
-      "replies": 0,
-      "discussion_count": 1,
-      "discussions": [
-        {
-          "url": "https://gitcode.com/cann/torchtitan-npu/discussions/1",
-          "title": "有奖问答｜TorchTitan-NPU:训练性能与易用性齐飞，解锁昇腾训练入图新体验",
-          "top_comments": 1,
-          "replies": 0
-        }
-      ],
-      "first_seen_at": "2026-05-08T16:51:00+08:00",
-      "last_seen_at": "2026-05-08T16:51:00+08:00"
     },
     {
       "user_name": "kiksion",
@@ -1436,10 +1460,10 @@
       "org": "cann/torchtitan-npu",
       "number": "5",
       "title": "【新手村任务】图框架基础知识测试",
-      "comment_total": 20,
-      "reply_total": 2,
-      "unique_participants": 21,
-      "external_participants": 20
+      "comment_total": 22,
+      "reply_total": 22,
+      "unique_participants": 23,
+      "external_participants": 22
     },
     {
       "url": "https://gitcode.com/cann/torchtitan-npu/discussions/4",
