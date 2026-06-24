@@ -1,5 +1,38 @@
 [
   {
+    "iid": 395,
+    "state": "closed",
+    "created_at": "2026-06-24",
+    "closed_at": "2026-06-24",
+    "author": "ccccccxy",
+    "title": "[Bug-Report|缺陷反馈]: MOONCAKE REAL REAL同卡部署传输失败",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/hixl/issues/395"
+  },
+  {
+    "iid": 394,
+    "state": "opened",
+    "created_at": "2026-06-24",
+    "closed_at": "",
+    "author": "gcw_FYN1wICt",
+    "title": "[Question|问题咨询]: A5 HOST ROCE异构验证Mooncake池化，求指导如何配置",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/394"
+  },
+  {
+    "iid": 393,
+    "state": "opened",
+    "created_at": "2026-06-24",
+    "closed_at": "",
+    "author": "gcw_FYN1wICt",
+    "title": "[Question|问题咨询]: A5机器查ROCE IP",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/393"
+  },
+  {
     "iid": 392,
     "state": "opened",
     "created_at": "2026-06-23",
@@ -7,7 +40,7 @@
     "author": "chenpengjhony",
     "title": "[Question|问题咨询]: HOST RDMA链路编程咨询",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/392"
   },
   {
@@ -51,7 +84,7 @@
     "author": "Mutu010",
     "title": "[Bug-Report|缺陷反馈]: hixl_example_d2rd 样例执行失败",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/388"
   },
   {
@@ -93,7 +126,7 @@
     "created_at": "2026-06-16",
     "closed_at": "",
     "author": "wangqixin",
-    "title": "我们在部署大模型后测试mooncake，当前的情况是这种报错，帮忙看一下是否是mooncake传输引擎哪的问题",
+    "title": "[Question|问题咨询]: 我们在部署大模型后测试mooncake，当前的情况是这种报错，帮忙看一下是否是mooncake传输引擎哪的问题",
     "labels": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/383"
@@ -133,9 +166,9 @@
   },
   {
     "iid": 379,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-16",
-    "closed_at": "",
+    "closed_at": "2026-06-24",
     "author": "wulu0120",
     "title": "[Question|问题咨询]: 使用mooncake的transfer_sync_read从远端获取数据，建链正常，报错 failed to connect target, status 503900",
     "labels": [],
@@ -150,7 +183,7 @@
     "author": "tangjie66",
     "title": "[Bug-Report|缺陷反馈]: 代码里aclrtWaitAndResetNotify和aclrtLaunchKernelWithConfig的入参超时时间是ms还是s",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/378"
   },
   {
@@ -276,9 +309,9 @@
   },
   {
     "iid": 366,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-11",
-    "closed_at": "",
+    "closed_at": "2026-06-24",
     "author": "qq_56278931",
     "title": "[Documentation|文档反馈]: TTFHW--SKILLS验证仓库的编译&UT/DT&样例执行情况问题反馈",
     "labels": [],
@@ -315,7 +348,7 @@
     "author": "super_chao_x",
     "title": "[Bug-Report|缺陷反馈]: hixl建链、断链后重连失败",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/363"
   },
   {
@@ -326,7 +359,7 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: 异步建链，增加线程数后，效果不符合预期",
     "labels": [],
-    "user_notes_count": 5,
+    "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/hixl/issues/362"
   },
   {
@@ -447,7 +480,7 @@
     "author": "youyx",
     "title": "[RFC]: FabricMem 异步传输 aclrtStreamQuery 快速失败",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/351"
   },
   {

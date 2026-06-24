@@ -21911,7 +21911,7 @@
     "original_repo_count": 0,
     "total_repo_count": 3,
     "total_contributions": 107,
-    "user_type": "developer"
+    "user_type": "questioner"
   },
   {
     "user_name": "luboyang",
@@ -33434,20 +33434,6 @@
     "user_type": "die_hard_fan"
   },
   {
-    "user_name": "TANGTANGWOAI",
-    "nick_name": "❀savage",
-    "user_id": 4295524,
-    "starred_repos": [
-      "cann/ge"
-    ],
-    "fans_count": 0,
-    "follow_count": 1,
-    "original_repo_count": 0,
-    "total_repo_count": 1,
-    "total_contributions": 3,
-    "user_type": "developer"
-  },
-  {
     "user_name": "renox",
     "nick_name": "renox",
     "user_id": 5580029,
@@ -33516,5 +33502,19 @@
     "total_repo_count": 2,
     "total_contributions": 0,
     "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "qxyaba0",
+    "nick_name": "qxy",
+    "user_id": 5563772,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 2,
+    "user_type": "developer"
   }
 ]

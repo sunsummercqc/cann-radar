@@ -1,5 +1,17 @@
 [
   {
+    "user_name": "zhaotiensn",
+    "nick_name": "ztn",
+    "user_id": 9798627,
+    "avatar": "https://cdn-img.gitcode.com/da/fc/185dafcbd6a515c9b8e1921b9e39ec52c7ba435480cc1912fdc01e367d625acf.jpg",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "weixin_40382270",
     "nick_name": "pengyongrong@huawei",
     "user_id": 1569975,
@@ -9,15 +21,6 @@
       "cann/hixl",
       "cann/graph-autofusion",
       "cann/torchtitan-npu"
-    ]
-  },
-  {
-    "user_name": "TANGTANGWOAI",
-    "nick_name": "❀savage",
-    "user_id": 4295524,
-    "avatar": "https://cdn-img.gitcode.com/ef/fa/8ef8f4a0036e8a377f4300077b1db9335dd15153ee04c6cb3fcdbfbb484f0775.png",
-    "starred_repos": [
-      "cann/ge"
     ]
   },
   {
@@ -6167,6 +6170,16 @@
     ]
   },
   {
+    "user_name": "ccccccxy",
+    "nick_name": "ccccccxy",
+    "user_id": 7610458,
+    "avatar": null,
+    "starred_repos": [
+      "cann/hixl",
+      "Ascend/torchair"
+    ]
+  },
+  {
     "user_name": "zzmmmqqq",
     "nick_name": "今日晴",
     "user_id": 11772809,
@@ -6198,15 +6211,6 @@
     "nick_name": "🥐zz",
     "user_id": 11771684,
     "avatar": "https://cdn-img.gitcode.com/fb/ff/f8bffa451dcd997e9328f46fcf689419aab4888e3b33d334259915c8b7362d71.jpg",
-    "starred_repos": [
-      "cann/hixl"
-    ]
-  },
-  {
-    "user_name": "zhaotiensn",
-    "nick_name": "ztn",
-    "user_id": 9798627,
-    "avatar": "https://cdn-img.gitcode.com/da/fc/185dafcbd6a515c9b8e1921b9e39ec52c7ba435480cc1912fdc01e367d625acf.jpg",
     "starred_repos": [
       "cann/hixl"
     ]
@@ -11098,6 +11102,15 @@
     "avatar": "https://cdn-img.gitcode.com/da/cc/5d0a0c9c1fca5243d1ba0dc98041d00c95be5c1d74769ff86ec6f62ffd050cce.png",
     "starred_repos": [
       "cann/graph-autofusion"
+    ]
+  },
+  {
+    "user_name": "qxyaba0",
+    "nick_name": "qxy",
+    "user_id": 5563772,
+    "avatar": "https://cdn-img.gitcode.com/ea/ab/ea2796939ab7bc61c30ca22497c089de7a5c065622da6269e8915486420076d8.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
     ]
   },
   {
@@ -16042,15 +16055,6 @@
     "user_name": "luboyang",
     "nick_name": "luboyang",
     "user_id": 5578877,
-    "avatar": null,
-    "starred_repos": [
-      "Ascend/torchair"
-    ]
-  },
-  {
-    "user_name": "ccccccxy",
-    "nick_name": "ccccccxy",
-    "user_id": 7610458,
     "avatar": null,
     "starred_repos": [
       "Ascend/torchair"

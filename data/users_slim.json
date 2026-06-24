@@ -1,5 +1,20 @@
 [
   {
+    "user_name": "zhaotiensn",
+    "nick_name": "ztn",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 89,
+    "developer_source": "external"
+  },
+  {
     "user_name": "weixin_40382270",
     "nick_name": "pengyongrong@huawei",
     "starred_repos": [
@@ -13,18 +28,6 @@
     "original_repo_count": 1,
     "total_contributions": 7,
     "developer_source": "internal"
-  },
-  {
-    "user_name": "TANGTANGWOAI",
-    "nick_name": "❀savage",
-    "starred_repos": [
-      "cann/ge"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 3,
-    "developer_source": "external"
   },
   {
     "user_name": "renox",
@@ -7922,6 +7925,19 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "ccccccxy",
+    "nick_name": "ccccccxy",
+    "starred_repos": [
+      "cann/hixl",
+      "Ascend/torchair"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 107,
+    "developer_source": "internal"
+  },
+  {
     "user_name": "zzmmmqqq",
     "nick_name": "今日晴",
     "starred_repos": [
@@ -7967,18 +7983,6 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 0,
-    "developer_source": "external"
-  },
-  {
-    "user_name": "zhaotiensn",
-    "nick_name": "ztn",
-    "starred_repos": [
-      "cann/hixl"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 89,
     "developer_source": "external"
   },
   {
@@ -14438,6 +14442,18 @@
     "original_repo_count": 37,
     "total_contributions": 628,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "qxyaba0",
+    "nick_name": "qxy",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 2,
+    "developer_source": "external"
   },
   {
     "user_name": "Liz_",
@@ -21007,18 +21023,6 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 468,
-    "developer_source": "internal"
-  },
-  {
-    "user_name": "ccccccxy",
-    "nick_name": "ccccccxy",
-    "starred_repos": [
-      "Ascend/torchair"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 107,
     "developer_source": "internal"
   },
   {

@@ -1,5 +1,49 @@
 [
   {
+    "iid": 547,
+    "state": "opened",
+    "created_at": "2026-06-24",
+    "closed_at": "",
+    "author": "daifu1234567",
+    "title": "[Bug]: ",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/547"
+  },
+  {
+    "iid": 546,
+    "state": "opened",
+    "created_at": "2026-06-24",
+    "closed_at": "",
+    "author": "chen-yuqi-ba",
+    "title": "[Bug]: npugraph_ex多流+控核失效",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/546"
+  },
+  {
+    "iid": 545,
+    "state": "opened",
+    "created_at": "2026-06-24",
+    "closed_at": "",
+    "author": "gcw_Ec20be8I",
+    "title": "[Bug]: ",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/545"
+  },
+  {
+    "iid": 544,
+    "state": "opened",
+    "created_at": "2026-06-24",
+    "closed_at": "",
+    "author": "wangchenfeng6",
+    "title": "[Usage]: mega_moe算子weight nz场景aclgraph入图报错，咨询适配点",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/544"
+  },
+  {
     "iid": 543,
     "state": "opened",
     "created_at": "2026-06-23",
@@ -7,7 +51,7 @@
     "author": "panchao-gitcode",
     "title": "[Bug]: 使能inductor-npu-ext后，采集的profiling没有shape信息",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/543"
   },
   {
@@ -18,7 +62,7 @@
     "author": "zutao",
     "title": "[Bug]: Qwen3-0.6B 使能npugraph_ex后算子执行完存在长时间空闲时间",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/542"
   },
   {
@@ -29,7 +73,7 @@
     "author": "Tflowers-0129",
     "title": "[Bug]: ",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/541"
   },
   {
@@ -311,9 +355,9 @@
   },
   {
     "iid": 515,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-05",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "chen-yuqi-ba",
     "title": "[Bug]: npugraph_ex动态shape使能静态kernel报错“Not expected to checkpoint freeable graph”",
     "labels": [],
@@ -322,13 +366,13 @@
   },
   {
     "iid": 514,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-04",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "www_atomgit",
     "title": "[Bug]: npu.py:concat() 是否会存在bfloat16 到float32的转换问题",
     "labels": [],
-    "user_notes_count": 4,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/514"
   },
   {
@@ -366,9 +410,9 @@
   },
   {
     "iid": 510,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-03",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "Hu1L1",
     "title": "feat(graph): QuantBatchMatmulV3 WeightNz 图优化 — Transpose 后移 Pass",
     "labels": [],
@@ -399,20 +443,20 @@
   },
   {
     "iid": 507,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-03",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "wangqinyi817",
     "title": "[Bug]: npugraph_ex模式动态shape场景，单个控核scope单层嵌套单个多流scope场景，执行卡死",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/507"
   },
   {
     "iid": 506,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-06-24",
     "author": "u010470851",
     "title": "[Bug]: ImportError: cannot import name 'hint_int' from 'torch.fx.experimental.symbolic_shapes'",
     "labels": [],
@@ -432,13 +476,13 @@
   },
   {
     "iid": 504,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "yayahello",
     "title": "[Usage]: aclGraph static kernel 在线编译失败",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/504"
   },
   {
@@ -454,9 +498,9 @@
   },
   {
     "iid": 502,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-06-24",
     "author": "u010986451",
     "title": "[Usage]: 我们在qwen3迁移到npu的过程中，想开启aclgraph，结果始终开不起来",
     "labels": [],
@@ -465,46 +509,46 @@
   },
   {
     "iid": 501,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "LinyuanLi0046",
     "title": "[Bug]: A5 环境 acl graph中使用with torch.npu.npugraph_ex.scope.limit_core_num 控核不生效",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/501"
   },
   {
     "iid": 500,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "wangqinyi817",
     "title": "[Bug]: 异常场景_tensor_detail传入True的枚举值1，报错信息不符合预期",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/500"
   },
   {
     "iid": 499,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "ysidjskda",
     "title": "[Bug]: 怎么查明match_times和effect_times差异原因，为什么某些融合算子不生效",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/499"
   },
   {
     "iid": 498,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-01",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "Kiana1216",
     "title": "[Feature]: codecheck失败的链接跳转不清晰",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/498"
   },
   {
@@ -533,13 +577,13 @@
   },
   {
     "iid": 495,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-29",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "nichorians",
     "title": "[Feature]: view()的view_dtype的converter支持",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/495"
   },
   {
@@ -555,13 +599,13 @@
   },
   {
     "iid": 493,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-28",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "alistair_pan",
     "title": "[Bug]: 上库跑pipeline无法通过pre-commit，指向库上公共文件有格式错误",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/493"
   },
   {
@@ -577,9 +621,9 @@
   },
   {
     "iid": 491,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-26",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "ltllt1",
     "title": "[Doc]: 图模式的入门案例中，可打印出eager模式和图模式的耗时对比，直观展示加速效果",
     "labels": [],
@@ -599,9 +643,9 @@
   },
   {
     "iid": 489,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-26",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "ltllt1",
     "title": "[Doc]: https://gitcode.com/Ascend/pytorch/issues/1663",
     "labels": [],
@@ -610,13 +654,13 @@
   },
   {
     "iid": 488,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-26",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "qq_43844249",
     "title": "[Bug]: 算子执行静态图调用但是却走入了单算子通路",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/488"
   },
   {
@@ -643,13 +687,13 @@
   },
   {
     "iid": 485,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-22",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "lyz0328",
     "title": "[Doc]: 代码缩进导致用户问题",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/485"
   },
   {
@@ -676,9 +720,9 @@
   },
   {
     "iid": 482,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-19",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "dingdairong",
     "title": "[Bug]: dump的fx图中有未定义的变量",
     "labels": [
@@ -689,9 +733,9 @@
   },
   {
     "iid": 481,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-19",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "jgx12",
     "title": "[Bug]: batchmatmul走图通路在2.10的torch_npu会走入matmul导致被拦截",
     "labels": [],
@@ -744,13 +788,13 @@
   },
   {
     "iid": 474,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-15",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "yijiliang",
     "title": "[Bug]: gmm算子跑图模式传入的转置信息失效，变为不转置",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/Ascend/torchair/issues/474"
   },
   {
@@ -975,9 +1019,9 @@
   },
   {
     "iid": 451,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-24",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "baidu_41609401",
     "title": "[Usage]:对yolov5进行推理时，报错AssertionError: Guard check failed: 5/0: tensor '___from_numpy(x)' dispatch key set mismatch. expected DispatchKeySet(CPU, BackendSelect, ADInplaceOrView), actual DispatchKeySet",
     "labels": [],
