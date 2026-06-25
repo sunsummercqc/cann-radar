@@ -1,5 +1,16 @@
 [
   {
+    "id": 10217071,
+    "namespace": "qq_52874943/torchair",
+    "name": "torchair",
+    "web_url": "https://gitcode.com/qq_52874943/torchair",
+    "http_url_to_repo": "https://gitcode.com/qq_52874943/torchair.git",
+    "created_at": "2026-06-25T16:14:03.252+08:00",
+    "creator_username": "qq_52874943",
+    "creator_nick_name": "gaomingyuan",
+    "forked_from": "Ascend/torchair"
+  },
+  {
     "id": 10208883,
     "namespace": "showcase/torchair",
     "name": "torchair",

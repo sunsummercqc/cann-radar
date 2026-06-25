@@ -24982,7 +24982,7 @@
     "original_repo_count": 0,
     "total_repo_count": 6,
     "total_contributions": 383,
-    "user_type": "developer"
+    "user_type": "contributor"
   },
   {
     "user_name": "m0_74733076",
@@ -33347,20 +33347,6 @@
     "user_type": "contributor"
   },
   {
-    "user_name": "lfz12323",
-    "nick_name": "lfz12323",
-    "user_id": 6910930,
-    "starred_repos": [
-      "Ascend/torchair"
-    ],
-    "fans_count": 0,
-    "follow_count": 0,
-    "original_repo_count": 0,
-    "total_repo_count": 0,
-    "total_contributions": 0,
-    "user_type": "die_hard_fan"
-  },
-  {
     "user_name": "m0_64914656",
     "nick_name": "m0_64914656",
     "user_id": 1002177,
@@ -33400,7 +33386,7 @@
     "original_repo_count": 0,
     "total_repo_count": 1,
     "total_contributions": 1,
-    "user_type": "developer"
+    "user_type": "contributor"
   },
   {
     "user_name": "weixin_40382270",
@@ -33516,5 +33502,135 @@
     "total_repo_count": 1,
     "total_contributions": 2,
     "user_type": "developer"
+  },
+  {
+    "user_name": "qq_40005102",
+    "nick_name": "qq_40005102",
+    "user_id": 6324924,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 1,
+    "user_type": "questioner"
+  },
+  {
+    "user_name": "rsm1223",
+    "nick_name": "rsm1223",
+    "user_id": 9481633,
+    "starred_repos": [
+      "cann/hixl",
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 1,
+    "total_repo_count": 2,
+    "total_contributions": 176,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "nancycyzl",
+    "nick_name": "nancycyzl",
+    "user_id": 11728176,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 1,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "gcw_2sZfnYq9",
+    "nick_name": "gcw_2sZfnYq9",
+    "user_id": 11151186,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 20,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "rsm0624",
+    "nick_name": "rsm0624",
+    "user_id": 11787703,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 1,
+    "total_repo_count": 2,
+    "total_contributions": 5,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "weixin_52391581",
+    "nick_name": "weixin_52391581",
+    "user_id": 4702083,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "lfz2812",
+    "nick_name": "lfz12323",
+    "user_id": 6910930,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 3,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "zhangh2417",
+    "nick_name": "zhangh",
+    "user_id": 3056055,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 17,
+    "total_contributions": 190,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "qq_52874943",
+    "nick_name": "gaomingyuan",
+    "user_id": 4340556,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 13,
+    "total_contributions": 597,
+    "user_type": "contributor"
   }
 ]

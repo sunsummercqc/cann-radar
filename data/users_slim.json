@@ -1,5 +1,20 @@
 [
   {
+    "user_name": "gcw_2sZfnYq9",
+    "nick_name": "gcw_2sZfnYq9",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 20,
+    "developer_source": "external"
+  },
+  {
     "user_name": "zhaotiensn",
     "nick_name": "ztn",
     "starred_repos": [
@@ -7925,6 +7940,43 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "qq_40005102",
+    "nick_name": "qq_40005102",
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "rsm0624",
+    "nick_name": "rsm0624",
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 5,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "rsm1223",
+    "nick_name": "rsm1223",
+    "starred_repos": [
+      "cann/hixl",
+      "cann/graph-autofusion"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 176,
+    "developer_source": "external"
+  },
+  {
     "user_name": "ccccccxy",
     "nick_name": "ccccccxy",
     "starred_repos": [
@@ -14444,6 +14496,31 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "nancycyzl",
+    "nick_name": "nancycyzl",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "weixin_69877254",
+    "nick_name": "不定积分要加c370",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 3,
+    "developer_source": "external"
+  },
+  {
     "user_name": "qxyaba0",
     "nick_name": "qxy",
     "starred_repos": [
@@ -17090,6 +17167,42 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "zhangh2417",
+    "nick_name": "zhangh",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 190,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "qq_52874943",
+    "nick_name": "gaomingyuan",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 597,
+    "developer_source": "internal"
+  },
+  {
+    "user_name": "weixin_52391581",
+    "nick_name": "weixin_52391581",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
     "user_name": "weizhaoyang",
     "nick_name": "weizhaoyang",
     "starred_repos": [
@@ -17114,15 +17227,15 @@
     "developer_source": "external"
   },
   {
-    "user_name": "lfz12323",
+    "user_name": "lfz2812",
     "nick_name": "lfz12323",
     "starred_repos": [
       "Ascend/torchair"
     ],
-    "user_type": "die_hard_fan",
+    "user_type": "developer",
     "fans_count": 0,
     "original_repo_count": 0,
-    "total_contributions": 0,
+    "total_contributions": 3,
     "developer_source": "external"
   },
   {
@@ -17131,7 +17244,7 @@
     "starred_repos": [
       "Ascend/torchair"
     ],
-    "user_type": "developer",
+    "user_type": "contributor",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 1,
@@ -17171,18 +17284,6 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 0,
-    "developer_source": "external"
-  },
-  {
-    "user_name": "weixin_69877254",
-    "nick_name": "不定积分要加c370",
-    "starred_repos": [
-      "Ascend/torchair"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 3,
     "developer_source": "external"
   },
   {
@@ -18355,7 +18456,7 @@
     "starred_repos": [
       "Ascend/torchair"
     ],
-    "user_type": "developer",
+    "user_type": "contributor",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 383,

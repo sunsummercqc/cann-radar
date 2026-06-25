@@ -1,11 +1,33 @@
 [
   {
-    "id": 10156241,
-    "namespace": "yuwang-/hixl_7353",
-    "name": "hixl_7353",
-    "web_url": "https://gitcode.com/yuwang-/hixl_7353",
-    "http_url_to_repo": "https://gitcode.com/yuwang-/hixl_7353.git",
-    "created_at": "2026-06-18T09:43:54.462+08:00",
+    "id": 10216600,
+    "namespace": "lwx1255555/hixl",
+    "name": "hixl",
+    "web_url": "https://gitcode.com/lwx1255555/hixl",
+    "http_url_to_repo": "https://gitcode.com/lwx1255555/hixl.git",
+    "created_at": "2026-06-25T15:34:05.455+08:00",
+    "creator_username": "lwx1255555",
+    "creator_nick_name": "lwx1255555",
+    "forked_from": "cann/hixl"
+  },
+  {
+    "id": 10214015,
+    "namespace": "showcase/hixl",
+    "name": "hixl",
+    "web_url": "https://gitcode.com/showcase/hixl",
+    "http_url_to_repo": "https://gitcode.com/showcase/hixl.git",
+    "created_at": "2026-06-25T10:48:51.025+08:00",
+    "creator_username": "showcase",
+    "creator_nick_name": "showcase",
+    "forked_from": "cann/hixl"
+  },
+  {
+    "id": 10213955,
+    "namespace": "yuwang-/hixl",
+    "name": "hixl",
+    "web_url": "https://gitcode.com/yuwang-/hixl",
+    "http_url_to_repo": "https://gitcode.com/yuwang-/hixl.git",
+    "created_at": "2026-06-25T10:44:19.080+08:00",
     "creator_username": "yuwang-",
     "creator_nick_name": "yuwang-",
     "forked_from": "cann/hixl"
@@ -41,17 +63,6 @@
     "created_at": "2026-06-15T19:27:23.423+08:00",
     "creator_username": "claire8090",
     "creator_nick_name": "claire8090",
-    "forked_from": "cann/hixl"
-  },
-  {
-    "id": 10131270,
-    "namespace": "yuwang-/hixl",
-    "name": "hixl",
-    "web_url": "https://gitcode.com/yuwang-/hixl",
-    "http_url_to_repo": "https://gitcode.com/yuwang-/hixl.git",
-    "created_at": "2026-06-15T16:33:04.389+08:00",
-    "creator_username": "yuwang-",
-    "creator_nick_name": "yuwang-",
     "forked_from": "cann/hixl"
   },
   {

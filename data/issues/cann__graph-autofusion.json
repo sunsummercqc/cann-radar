@@ -1,9 +1,53 @@
 [
   {
-    "iid": 141,
+    "iid": 146,
     "state": "opened",
-    "created_at": "2026-06-24",
+    "created_at": "2026-06-25",
     "closed_at": "",
+    "author": "wei_shi",
+    "title": "【Bug-Report】Broadcast 冗余删除误判导致 Reduce 前扩展节点被删除",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/146"
+  },
+  {
+    "iid": 145,
+    "state": "opened",
+    "created_at": "2026-06-25",
+    "closed_at": "",
+    "author": "wuzhengzhen",
+    "title": "【feature】: 新增 api_regbase下A5的ndtri算子",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/145"
+  },
+  {
+    "iid": 144,
+    "state": "opened",
+    "created_at": "2026-06-25",
+    "closed_at": "",
+    "author": "liyuewei",
+    "title": "[Bug-Report|缺陷反馈]: 删除AscirRegister当前不使用的成员函数",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/144"
+  },
+  {
+    "iid": 143,
+    "state": "opened",
+    "created_at": "2026-06-25",
+    "closed_at": "",
+    "author": "gothizzz",
+    "title": "[Bug-Report|缺陷反馈]: super_kernel CMake 硬编码 python3 -m build 与 venv 文档流程冲突，wheel 构建报 No module named build",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/143"
+  },
+  {
+    "iid": 141,
+    "state": "closed",
+    "created_at": "2026-06-24",
+    "closed_at": "2026-06-25",
     "author": "gcw_V3YyYBt1",
     "title": "[Bug-Report|缺陷反馈]: 从pkg_inc/runtime/runtime目录下引用的rtGetSocSpec接口后面会日落，需要整改",
     "labels": [],

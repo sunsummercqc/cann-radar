@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-24",
+  "generated_at": "2026-06-25",
   "source_count": 6,
   "discussion_count": 6,
-  "external_count": 76,
+  "external_count": 77,
   "internal_count": 3,
-  "total_unique_participants": 79,
+  "total_unique_participants": 80,
   "trend": [
     {
-      "date": "2026-06-24",
-      "external_count": 76,
-      "total_unique_participants": 79
+      "date": "2026-06-25",
+      "external_count": 77,
+      "total_unique_participants": 80
     }
   ],
   "participants": [
@@ -1440,6 +1440,24 @@
       ],
       "first_seen_at": "2026-05-13T17:32:29+08:00",
       "last_seen_at": "2026-05-13T17:32:29+08:00"
+    },
+    {
+      "user_name": "zzyy_zzyy",
+      "nick_name": "",
+      "developer_source": "external",
+      "top_comments": 1,
+      "replies": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "url": "https://gitcode.com/Ascend/torchair/discussions/10",
+          "title": "【新手村任务】图框架基础知识测试",
+          "top_comments": 1,
+          "replies": 0
+        }
+      ],
+      "first_seen_at": "2026-06-25T11:31:03+08:00",
+      "last_seen_at": "2026-06-25T11:31:03+08:00"
     }
   ],
   "discussions": [
@@ -1448,10 +1466,10 @@
       "org": "Ascend/torchair",
       "number": "10",
       "title": "【新手村任务】图框架基础知识测试",
-      "comment_total": 13,
+      "comment_total": 14,
       "reply_total": 1,
-      "unique_participants": 14,
-      "external_participants": 12
+      "unique_participants": 15,
+      "external_participants": 13
     },
     {
       "url": "https://gitcode.com/Ascend/torchair/discussions/9",

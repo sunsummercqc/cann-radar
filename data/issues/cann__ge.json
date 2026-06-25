@@ -1,13 +1,57 @@
 [
   {
+    "iid": 469,
+    "state": "opened",
+    "created_at": "2026-06-25",
+    "closed_at": "",
+    "author": "qq_40517592",
+    "title": "[Bug-Report|缺陷反馈]: tf在线推理，静态shape+切图场景，模型执行失败",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/469"
+  },
+  {
+    "iid": 468,
+    "state": "opened",
+    "created_at": "2026-06-25",
+    "closed_at": "",
+    "author": "gcw_pfzw85mp",
+    "title": "[Feature-Request|需求反馈]: 将昇腾社区关于图开发的问题导入ge仓issue",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/ge/issues/468"
+  },
+  {
+    "iid": 467,
+    "state": "opened",
+    "created_at": "2026-06-25",
+    "closed_at": "",
+    "author": "gothizzz",
+    "title": "[Documentation|文档反馈]: build.md 依赖/UT章节与Dockerfile若干缺口（lcov可选性未标注、UT未提示ASAN默认开启、Dockerfile基于EOL的ubuntu18.04）",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/467"
+  },
+  {
+    "iid": 466,
+    "state": "opened",
+    "created_at": "2026-06-25",
+    "closed_at": "",
+    "author": "gothizzz",
+    "title": "[Bug-Report|缺陷反馈]: x86 默认开启 ASAN 导致 UT 编译阶段 gen_esb 崩溃，--asan=false 因脚本缓存陈旧不生效",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/466"
+  },
+  {
     "iid": 465,
     "state": "opened",
     "created_at": "2026-06-24",
     "closed_at": "",
     "author": "captainmiaow",
-    "title": "[Documentation|文档反馈]:  zh/user-guides/dflow/dflow_dev/python/quick_start.md \"获取样例\"链接文本无实际链接",
+    "title": "[算子开发][内测体验][Graph Engine][Documentation|文档反馈]: zh/user-guides/dflow/dflow_dev/python/quick_start.md \"获取样例\"链接文本无实际链接",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/465"
   },
   {
@@ -16,9 +60,9 @@
     "created_at": "2026-06-24",
     "closed_at": "",
     "author": "captainmiaow",
-    "title": "[Documentation|文档反馈]: docs/zh/user-guides/dflow/dflow_dev/cpp/preparations.md shell注释用#",
+    "title": "[算子开发][内测体验][Graph Engine][Documentation|文档反馈]: docs/zh/user-guides/dflow/dflow_dev/cpp/preparations.md shell注释用#",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/464"
   },
   {
@@ -27,9 +71,9 @@
     "created_at": "2026-06-24",
     "closed_at": "",
     "author": "captainmiaow",
-    "title": "[Documentation|文档反馈]: docs/zh/user-guides/llm_datadist/llm_datadist_dev/cpp/quick_start.md缺少AUTO_USE_UC_MEMORY描述",
+    "title": "[算子开发][内测体验][Graph Engine][Documentation|文档反馈]: docs/zh/user-guides/llm_datadist/llm_datadist_dev/cpp/quick_start.md缺少AUTO_USE_UC_MEMORY描述",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/463"
   },
   {
@@ -38,9 +82,9 @@
     "created_at": "2026-06-24",
     "closed_at": "",
     "author": "captainmiaow",
-    "title": "[Documentation|文档反馈]: docs/zh/user-guides/dflow/dflow_dev/python/special_topics.md中FLOW_FUNC_REGISTRAR代码有语法错误",
+    "title": "[算子开发][内测体验][Graph Engine] [Documentation|文档反馈]:docs/zh/user-guides/dflow/dflow_dev/python/special_topics.md中FLOW_FUNC_REGISTRAR代码有语法错误",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/462"
   },
   {
@@ -49,9 +93,9 @@
     "created_at": "2026-06-24",
     "closed_at": "",
     "author": "captainmiaow",
-    "title": "[Documentation|文档反馈]: docs/zh/user-guides/dflow/dflow_dev/python/dataflow_running.md中不同图片编号重复",
+    "title": "[算子开发][内测体验][Graph Engine][Documentation|文档反馈]: docs/zh/user-guides/dflow/dflow_dev/python/dataflow_running.md中不同图片编号重复",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/461"
   },
   {
@@ -60,9 +104,9 @@
     "created_at": "2026-06-24",
     "closed_at": "",
     "author": "captainmiaow",
-    "title": "[Documentation|文档反馈]: docs/zh/quick_install.md中有提及950，但很多子文档中未写明是否支持950或A5",
+    "title": "[算子开发][内测体验][Graph Engine][Documentation|文档反馈]: docs/zh/quick_install.md中有提及950，但很多子文档中未写明是否支持950或A5",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/460"
   },
   {
@@ -71,9 +115,9 @@
     "created_at": "2026-06-24",
     "closed_at": "",
     "author": "captainmiaow",
-    "title": "[Documentation|文档反馈]: llm_datadist_dev/python/quick_start.md描述文字重复",
+    "title": "[算子开发][内测体验][Graph Engine][Documentation|文档反馈]:llm_datadist_dev/python/quick_start.md描述文字重复",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/459"
   },
   {
@@ -507,9 +551,9 @@
   },
   {
     "iid": 414,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-29",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "TingShiJieDeXuanNa",
     "title": "[Question|问题咨询]: 哪些ONNX算子昇腾不支持",
     "labels": [],
@@ -551,9 +595,9 @@
   },
   {
     "iid": 410,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-27",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "xiong-pan",
     "title": "[Question|问题咨询]: 对接cmo算子，图编译时报错",
     "labels": [],
@@ -4775,9 +4819,9 @@
   },
   {
     "iid": 1,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2025-12-27",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "hugo111",
     "title": "[RFC]: 语言无关自定义算子接入GE",
     "labels": [],

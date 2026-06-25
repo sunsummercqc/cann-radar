@@ -1,5 +1,60 @@
 [
   {
+    "iid": 400,
+    "state": "closed",
+    "created_at": "2026-06-25",
+    "closed_at": "2026-06-25",
+    "author": "qq_40005102",
+    "title": "[Question|问题咨询]: vllm框架、双机PD分离场景，发送curl请求，报kvcache传输失败",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/400"
+  },
+  {
+    "iid": 399,
+    "state": "opened",
+    "created_at": "2026-06-25",
+    "closed_at": "",
+    "author": "gcw_pfzw85mp",
+    "title": "[Feature-Request|需求反馈]: 将昇腾社区关于hixl单边通信库的问题导入hixl仓issue",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/399"
+  },
+  {
+    "iid": 398,
+    "state": "opened",
+    "created_at": "2026-06-25",
+    "closed_at": "",
+    "author": "xumengxuan",
+    "title": "[RFC]：自动建链支持根据传输方向自动创建链路",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/398"
+  },
+  {
+    "iid": 397,
+    "state": "closed",
+    "created_at": "2026-06-25",
+    "closed_at": "2026-06-25",
+    "author": "wanghui390",
+    "title": "[Question|问题咨询]: 根据Mooncake的文档,  如果TransferEngine 的 metadata_server 使用 P2Phandshake模式，在数据传输前，会通过RPC有数据 交互，但是抓包并看没有看到这部分交互。",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/397"
+  },
+  {
+    "iid": 396,
+    "state": "opened",
+    "created_at": "2026-06-25",
+    "closed_at": "",
+    "author": "bbsh112",
+    "title": "[Question|问题咨询]:  A5 Server UBOE+D2RH  链路模型推理服务KV传输性能问题",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/396"
+  },
+  {
     "iid": 395,
     "state": "closed",
     "created_at": "2026-06-24",
@@ -139,7 +194,7 @@
     "author": "qq_53572475",
     "title": "[Question|问题咨询]: Mooncake DP2TP8 GLM5.1-w4a8，传输报错Failed to connect to target: 141.111.32.82:20502, status: 503900 ",
     "labels": [],
-    "user_notes_count": 10,
+    "user_notes_count": 11,
     "web_url": "https://gitcode.com/cann/hixl/issues/382"
   },
   {
@@ -359,7 +414,7 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: 异步建链，增加线程数后，效果不符合预期",
     "labels": [],
-    "user_notes_count": 6,
+    "user_notes_count": 7,
     "web_url": "https://gitcode.com/cann/hixl/issues/362"
   },
   {
@@ -452,13 +507,13 @@
   },
   {
     "iid": 353,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-05",
-    "closed_at": "",
+    "closed_at": "2026-06-25",
     "author": "bbsh112",
     "title": "[Question|问题咨询]: A5 UBOE 双机PD分离拉起后跑推理时，出现的D2RH传输，以及 D2D 传输失败问题",
     "labels": [],
-    "user_notes_count": 21,
+    "user_notes_count": 22,
     "web_url": "https://gitcode.com/cann/hixl/issues/353"
   },
   {

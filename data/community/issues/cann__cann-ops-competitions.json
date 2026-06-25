@@ -1,5 +1,16 @@
 [
   {
+    "iid": 17,
+    "state": "opened",
+    "created_at": "2026-06-25",
+    "closed_at": "",
+    "author": "lqq12345677",
+    "title": "[Documentation|文档反馈]: ",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/17"
+  },
+  {
     "iid": 16,
     "state": "opened",
     "created_at": "2026-06-23",
@@ -7,7 +18,7 @@
     "author": "Xavier_Qiu",
     "title": "[Question|问题咨询]: Im2col 算子复用已有 op_api 时，与仓内已有 Im2col op type 疑似冲突导致 561103",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/16"
   },
   {

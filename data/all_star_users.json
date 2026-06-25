@@ -1,5 +1,17 @@
 [
   {
+    "user_name": "gcw_2sZfnYq9",
+    "nick_name": "gcw_2sZfnYq9",
+    "user_id": 11151186,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "zhaotiensn",
     "nick_name": "ztn",
     "user_id": 9798627,
@@ -6170,6 +6182,34 @@
     ]
   },
   {
+    "user_name": "qq_40005102",
+    "nick_name": "qq_40005102",
+    "user_id": 6324924,
+    "avatar": "https://cdn-img.gitcode.com/fe/fb/65fe7530fbef6e50213d1b26e38561a78e69c9f81f8fb99c0f1cf8ce226752ae.png",
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "rsm0624",
+    "nick_name": "rsm0624",
+    "user_id": 11787703,
+    "avatar": null,
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "rsm1223",
+    "nick_name": "rsm1223",
+    "user_id": 9481633,
+    "avatar": null,
+    "starred_repos": [
+      "cann/hixl",
+      "cann/graph-autofusion"
+    ]
+  },
+  {
     "user_name": "ccccccxy",
     "nick_name": "ccccccxy",
     "user_id": 7610458,
@@ -11105,6 +11145,25 @@
     ]
   },
   {
+    "user_name": "nancycyzl",
+    "nick_name": "nancycyzl",
+    "user_id": 11728176,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "weixin_69877254",
+    "nick_name": "不定积分要加c370",
+    "user_id": 5257424,
+    "avatar": "https://cdn-img.gitcode.com/ae/fe/aef72e1ad538a82f669a0c2c184849a0753f1c126abd205f031e1032302f7f05.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu",
+      "Ascend/torchair"
+    ]
+  },
+  {
     "user_name": "qxyaba0",
     "nick_name": "qxy",
     "user_id": 5563772,
@@ -13109,6 +13168,33 @@
     ]
   },
   {
+    "user_name": "zhangh2417",
+    "nick_name": "zhangh",
+    "user_id": 3056055,
+    "avatar": "https://cdn-img.gitcode.com/fc/ea/f11c7e8a0814122fa13dfca0df99620985767851b72cecf49c70162d1708b355.png",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "qq_52874943",
+    "nick_name": "gaomingyuan",
+    "user_id": 4340556,
+    "avatar": "https://cdn-img.gitcode.com/aa/fe/241a4afe2ec6b202e5b1554dd36317b546a67857c4a25b562ebcacb9fb002f67.jpg",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "weixin_52391581",
+    "nick_name": "weixin_52391581",
+    "user_id": 4702083,
+    "avatar": "https://cdn-img.gitcode.com/ed/fc/48e5d77389fc47d813410905cfe5b740ef4ce025a5a3482f2afcecf68cab51cf.jpg",
+    "starred_repos": [
+      "Ascend/torchair"
+    ]
+  },
+  {
     "user_name": "weizhaoyang",
     "nick_name": "weizhaoyang",
     "user_id": 11383387,
@@ -13127,7 +13213,7 @@
     ]
   },
   {
-    "user_name": "lfz12323",
+    "user_name": "lfz2812",
     "nick_name": "lfz12323",
     "user_id": 6910930,
     "avatar": null,
@@ -13167,15 +13253,6 @@
     "nick_name": "Tangweijie_",
     "user_id": 1554993,
     "avatar": "https://cdn-img.gitcode.com/ff/fd/935f32552ffdcc2726a857d01c059661556d711a13e1722c7a1779ee271371d4.png",
-    "starred_repos": [
-      "Ascend/torchair"
-    ]
-  },
-  {
-    "user_name": "weixin_69877254",
-    "nick_name": "不定积分要加c370",
-    "user_id": 5257424,
-    "avatar": "https://cdn-img.gitcode.com/ae/fe/aef72e1ad538a82f669a0c2c184849a0753f1c126abd205f031e1032302f7f05.jpg",
     "starred_repos": [
       "Ascend/torchair"
     ]
