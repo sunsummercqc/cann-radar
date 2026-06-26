@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25",
+  "generated_at": "2026-06-26",
   "source_count": 1,
   "discussion_count": 1,
   "external_count": 40,
@@ -313,6 +313,11 @@
     },
     {
       "date": "2026-06-25",
+      "external_count": 40,
+      "total_unique_participants": 55
+    },
+    {
+      "date": "2026-06-26",
       "external_count": 40,
       "total_unique_participants": 55
     }

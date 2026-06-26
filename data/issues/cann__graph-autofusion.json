@@ -1,5 +1,16 @@
 [
   {
+    "iid": 147,
+    "state": "opened",
+    "created_at": "2026-06-26",
+    "closed_at": "",
+    "author": "zqmin",
+    "title": "fix: 修复 ScalarData VFCall 变量名生成错误",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/147"
+  },
+  {
     "iid": 146,
     "state": "opened",
     "created_at": "2026-06-25",
@@ -23,9 +34,9 @@
   },
   {
     "iid": 144,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-25",
-    "closed_at": "",
+    "closed_at": "2026-06-26",
     "author": "liyuewei",
     "title": "[Bug-Report|缺陷反馈]: 删除AscirRegister当前不使用的成员函数",
     "labels": [],
@@ -56,9 +67,9 @@
   },
   {
     "iid": 140,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-23",
-    "closed_at": "",
+    "closed_at": "2026-06-26",
     "author": "zhang_shengjie",
     "title": "fix: Reduce RA 未对齐尾部开销重复计算 VF Head Cost 及 tile reorder 缺少参数化阈值",
     "labels": [],
@@ -144,9 +155,9 @@
   },
   {
     "iid": 132,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-22",
-    "closed_at": "",
+    "closed_at": "2026-06-26",
     "author": "xingzhixiong",
     "title": "[Documentation|文档反馈]: Sample样例文档中的英文拼写有误，构建指导中的三方包存放文件夹名有误并且缺少需要使用的三方包",
     "labels": [],

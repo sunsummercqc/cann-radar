@@ -33361,20 +33361,6 @@
     "user_type": "developer"
   },
   {
-    "user_name": "gcw_USRnw7AT",
-    "nick_name": "gcw_USRnw7AT",
-    "user_id": 9009855,
-    "starred_repos": [
-      "Ascend/torchair"
-    ],
-    "fans_count": 0,
-    "follow_count": 1,
-    "original_repo_count": 0,
-    "total_repo_count": 0,
-    "total_contributions": 0,
-    "user_type": "die_hard_fan"
-  },
-  {
     "user_name": "sunsummercqc",
     "nick_name": "sunsummercqc",
     "user_id": 534077,
@@ -33631,6 +33617,78 @@
     "original_repo_count": 0,
     "total_repo_count": 13,
     "total_contributions": 597,
+    "user_type": "contributor"
+  },
+  {
+    "user_name": "leijie-ww",
+    "nick_name": "leijie",
+    "user_id": 251136,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 35,
+    "user_type": "questioner"
+  },
+  {
+    "user_name": "wuwuwuvvv",
+    "nick_name": "wuwuwuvvv",
+    "user_id": 7047740,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 2,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "die_hard_fan"
+  },
+  {
+    "user_name": "user36330",
+    "nick_name": "user36330",
+    "user_id": 6934875,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 2,
+    "total_contributions": 43,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "2301_79678018",
+    "nick_name": "eason317",
+    "user_id": 5143843,
+    "starred_repos": [
+      "cann/ge",
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 1,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "HMJ_711",
+    "nick_name": "HMJ_711",
+    "user_id": 9009855,
+    "starred_repos": [
+      "cann/hixl",
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 4,
     "user_type": "contributor"
   }
 ]

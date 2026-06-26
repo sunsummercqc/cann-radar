@@ -1,5 +1,27 @@
 [
   {
+    "iid": 85,
+    "state": "opened",
+    "created_at": "2026-06-26",
+    "closed_at": "",
+    "author": "weixin_48384182",
+    "title": "[Question|问题咨询]: 【CANN训练营】PyTorch 模型迁移昇腾 CANN 平台实战经验分享",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/85"
+  },
+  {
+    "iid": 84,
+    "state": "opened",
+    "created_at": "2026-06-26",
+    "closed_at": "",
+    "author": "Ascend-CANN",
+    "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.29】",
+    "labels": [],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/84"
+  },
+  {
     "iid": 83,
     "state": "opened",
     "created_at": "2026-06-25",
@@ -40,7 +62,7 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.25】",
     "labels": [],
-    "user_notes_count": 15,
+    "user_notes_count": 24,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/80"
   },
   {

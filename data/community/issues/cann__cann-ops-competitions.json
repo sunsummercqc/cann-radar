@@ -18,7 +18,7 @@
     "author": "Xavier_Qiu",
     "title": "[Question|问题咨询]: Im2col 算子复用已有 op_api 时，与仓内已有 Im2col op type 疑似冲突导致 561103",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/16"
   },
   {

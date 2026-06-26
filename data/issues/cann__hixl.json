@@ -1,5 +1,16 @@
 [
   {
+    "iid": 401,
+    "state": "opened",
+    "created_at": "2026-06-26",
+    "closed_at": "",
+    "author": "leijie-ww",
+    "title": "[Question|问题咨询]: A5-PR标卡+PD分离+ConnectorV1的推理场景下，发送curl请求后，D节点推理出现报错 json object has no property called 'rank_count'",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/401"
+  },
+  {
     "iid": 400,
     "state": "closed",
     "created_at": "2026-06-25",
@@ -12,13 +23,13 @@
   },
   {
     "iid": 399,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-25",
-    "closed_at": "",
+    "closed_at": "2026-06-26",
     "author": "gcw_pfzw85mp",
     "title": "[Feature-Request|需求反馈]: 将昇腾社区关于hixl单边通信库的问题导入hixl仓issue",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/399"
   },
   {
@@ -29,7 +40,7 @@
     "author": "xumengxuan",
     "title": "[RFC]：自动建链支持根据传输方向自动创建链路",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/398"
   },
   {
@@ -51,7 +62,7 @@
     "author": "bbsh112",
     "title": "[Question|问题咨询]:  A5 Server UBOE+D2RH  链路模型推理服务KV传输性能问题",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/396"
   },
   {
@@ -155,13 +166,13 @@
   },
   {
     "iid": 385,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-17",
-    "closed_at": "",
+    "closed_at": "2026-06-26",
     "author": "gcw_HC48V26H",
     "title": "[Bug-Report|缺陷反馈]: 执行bash benchmarks/run_all_bench.sh后，报错TypeError: info() missing 1 required positional argument: 'msg'",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/385"
   },
   {
@@ -177,9 +188,9 @@
   },
   {
     "iid": 383,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-16",
-    "closed_at": "",
+    "closed_at": "2026-06-26",
     "author": "wangqixin",
     "title": "[Question|问题咨询]: 我们在部署大模型后测试mooncake，当前的情况是这种报错，帮忙看一下是否是mooncake传输引擎哪的问题",
     "labels": [],
@@ -694,9 +705,9 @@
   },
   {
     "iid": 302,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-27",
-    "closed_at": "",
+    "closed_at": "2026-06-26",
     "author": "tangjie66",
     "title": "[RFC]: HIXL 单边通信支持 UBG 协议+支持自动选取scaleout口",
     "labels": [],
@@ -3571,7 +3582,7 @@
     "author": "youyx",
     "title": "[Question|问题咨询]: 调试过程中建链报错",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/26"
   },
   {

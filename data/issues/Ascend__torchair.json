@@ -1,5 +1,16 @@
 [
   {
+    "iid": 549,
+    "state": "opened",
+    "created_at": "2026-06-26",
+    "closed_at": "",
+    "author": "wzf_1411",
+    "title": "[Bug]: 1981A3冒烟的deepseek aclgraph用例在更新torch_npu包后，profiling的静态算子未生成，导致用例校验失败",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/549"
+  },
+  {
     "iid": 548,
     "state": "opened",
     "created_at": "2026-06-25",
