@@ -15648,7 +15648,7 @@
     "original_repo_count": 1,
     "total_repo_count": 2,
     "total_contributions": 159,
-    "user_type": "questioner"
+    "user_type": "contributor"
   },
   {
     "user_name": "luoaluo123456789",
@@ -16384,7 +16384,7 @@
     "original_repo_count": 1,
     "total_repo_count": 4,
     "total_contributions": 444,
-    "user_type": "developer"
+    "user_type": "questioner"
   },
   {
     "user_name": "lwx1255555",
@@ -23927,7 +23927,7 @@
     "original_repo_count": 0,
     "total_repo_count": 6,
     "total_contributions": 198,
-    "user_type": "developer"
+    "user_type": "questioner"
   },
   {
     "user_name": "zxhdl",
@@ -33690,5 +33690,36 @@
     "total_repo_count": 1,
     "total_contributions": 4,
     "user_type": "contributor"
+  },
+  {
+    "user_name": "cokelin",
+    "nick_name": "cokelin",
+    "user_id": 8236113,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 5,
+    "total_contributions": 145,
+    "user_type": "contributor"
+  },
+  {
+    "user_name": "ASFSAFDASF",
+    "nick_name": "ASFSAFDASF",
+    "user_id": 11790727,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 3,
+    "total_contributions": 28,
+    "user_type": "developer"
   }
 ]

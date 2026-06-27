@@ -23,9 +23,9 @@
   },
   {
     "iid": 14,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-09",
-    "closed_at": "",
+    "closed_at": "2026-06-27",
     "author": "a1465114862",
     "title": "[Question|问题咨询]: 仓库中收录的(CANN算子挑战赛初赛/erf)答案不满足原题目要求",
     "labels": [],
@@ -45,13 +45,13 @@
   },
   {
     "iid": 11,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-03",
-    "closed_at": "",
+    "closed_at": "2026-06-27",
     "author": "YO_Y_O_",
     "title": "【CLA校验异常】PR#230已签署CLA但cann-cla/no标签不通过",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/11"
   },
   {
@@ -139,7 +139,7 @@
     "author": "qq_53242130",
     "title": "[Documentation|文档反馈]: 建议补充参考论文的标题、DOI 和可访问说明",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/2"
   },
   {

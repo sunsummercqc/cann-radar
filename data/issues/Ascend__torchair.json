@@ -1,5 +1,60 @@
 [
   {
+    "iid": 554,
+    "state": "opened",
+    "created_at": "2026-06-27",
+    "closed_at": "",
+    "author": "fengye0903",
+    "title": "[Bug]: 盘古训练对接inductor+af触发重编译后报错PrintMethodNotImplementedError FloorDiv",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/554"
+  },
+  {
+    "iid": 553,
+    "state": "opened",
+    "created_at": "2026-06-27",
+    "closed_at": "",
+    "author": "fengye0903",
+    "title": "[Bug]: 盘古训练对接inductor+af，发现addmm算子错误融合导致性能劣化",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/553"
+  },
+  {
+    "iid": 552,
+    "state": "opened",
+    "created_at": "2026-06-27",
+    "closed_at": "",
+    "author": "fengye0903",
+    "title": "[Bug]: 盘古训练对接inductor+af报错Template node passed to CppScheduler.codegen_template must be a SchedulerNode that wraps a CppTemplateBuffer",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/552"
+  },
+  {
+    "iid": 551,
+    "state": "opened",
+    "created_at": "2026-06-27",
+    "closed_at": "",
+    "author": "fengye0903",
+    "title": "[Bug]: 盘古训练对接inductor+af报错select_slice",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/551"
+  },
+  {
+    "iid": 550,
+    "state": "opened",
+    "created_at": "2026-06-27",
+    "closed_at": "",
+    "author": "cpy_123456",
+    "title": "[Feature]: MoeInitRoutingV3 支持 FP8 PerGroup 量化",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/550"
+  },
+  {
     "iid": 549,
     "state": "opened",
     "created_at": "2026-06-26",
@@ -12,9 +67,9 @@
   },
   {
     "iid": 548,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-25",
-    "closed_at": "",
+    "closed_at": "2026-06-27",
     "author": "yuanshuai000",
     "title": "[Bug]: quant_matmul mxA8W4-fp32打包fp4时没有正确拦截k<=64",
     "labels": [],

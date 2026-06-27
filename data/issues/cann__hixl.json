@@ -1,13 +1,13 @@
 [
   {
     "iid": 401,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-26",
-    "closed_at": "",
+    "closed_at": "2026-06-27",
     "author": "leijie-ww",
     "title": "[Question|问题咨询]: A5-PR标卡+PD分离+ConnectorV1的推理场景下，发送curl请求后，D节点推理出现报错 json object has no property called 'rank_count'",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/401"
   },
   {
@@ -106,14 +106,14 @@
     "author": "chenpengjhony",
     "title": "[Question|问题咨询]: HOST RDMA链路编程咨询",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/hixl/issues/392"
   },
   {
     "iid": 391,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-23",
-    "closed_at": "",
+    "closed_at": "2026-06-27",
     "author": "gcw_iupKrO77",
     "title": "[Bug-Report|缺陷反馈]: A2机器minimax2.5 池化设置HCCL_INTRA_ROCE_ENABLE=1，请求报错",
     "labels": [],
@@ -243,13 +243,13 @@
   },
   {
     "iid": 378,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-16",
-    "closed_at": "",
+    "closed_at": "2026-06-27",
     "author": "tangjie66",
     "title": "[Bug-Report|缺陷反馈]: 代码里aclrtWaitAndResetNotify和aclrtLaunchKernelWithConfig的入参超时时间是ms还是s",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/378"
   },
   {
@@ -408,13 +408,13 @@
   },
   {
     "iid": 363,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-10",
-    "closed_at": "",
+    "closed_at": "2026-06-27",
     "author": "super_chao_x",
     "title": "[Bug-Report|缺陷反馈]: hixl建链、断链后重连失败",
     "labels": [],
-    "user_notes_count": 3,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/hixl/issues/363"
   },
   {
@@ -1343,9 +1343,9 @@
   },
   {
     "iid": 244,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-06",
-    "closed_at": "",
+    "closed_at": "2026-06-27",
     "author": "AlexRen998916",
     "title": "[RFC]: 构建效率优化，编译支持依赖子包的源码和二进制",
     "labels": [],
@@ -1970,9 +1970,9 @@
   },
   {
     "iid": 174,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-03",
-    "closed_at": "",
+    "closed_at": "2026-06-27",
     "author": "jiazhaoyang",
     "title": "[RFC]: hixl异构通用服务器",
     "labels": [],

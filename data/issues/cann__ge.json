@@ -1,5 +1,27 @@
 [
   {
+    "iid": 478,
+    "state": "opened",
+    "created_at": "2026-06-27",
+    "closed_at": "",
+    "author": "flyswa",
+    "title": "[Documentation|文档反馈]: zh/README.md中的链接失效",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/ge/issues/478"
+  },
+  {
+    "iid": 477,
+    "state": "opened",
+    "created_at": "2026-06-27",
+    "closed_at": "",
+    "author": "zhaozhixuan",
+    "title": "[Feature-Request|需求反馈]: rts引擎支持在op上打上实现方式的属性",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/ge/issues/477"
+  },
+  {
     "iid": 476,
     "state": "opened",
     "created_at": "2026-06-26",
@@ -18,7 +40,7 @@
     "author": "hugo111",
     "title": "[RFC]: 语言无关自定义算子高阶优化",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/474"
   },
   {
@@ -29,7 +51,7 @@
     "author": "hugo111",
     "title": "[RFC]: 基于符号化推导结果通过codegen对host上shape计算类kernel进行优化",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/473"
   },
   {
@@ -89,9 +111,9 @@
   },
   {
     "iid": 467,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-25",
-    "closed_at": "",
+    "closed_at": "2026-06-27",
     "author": "gothizzz",
     "title": "[Documentation|文档反馈]: build.md 依赖/UT章节与Dockerfile若干缺口（lcov可选性未标注、UT未提示ASAN默认开启、Dockerfile基于EOL的ubuntu18.04）",
     "labels": [],
@@ -315,7 +337,7 @@
     "author": "aishenghuo_aidaka",
     "title": "[Question|问题咨询]: ATC工具模型转换时完成之后运行报错",
     "labels": [],
-    "user_notes_count": 8,
+    "user_notes_count": 9,
     "web_url": "https://gitcode.com/cann/ge/issues/443"
   },
   {
@@ -669,17 +691,6 @@
     "labels": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/410"
-  },
-  {
-    "iid": 409,
-    "state": "opened",
-    "created_at": "2026-05-27",
-    "closed_at": "",
-    "author": "weixin_48253078",
-    "title": "[Bug-Report|缺陷反馈]: 重复使用aclmdlLoadFromMemWithMem和aclmdlUnload加载卸载模型内存泄漏问题",
-    "labels": [],
-    "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/ge/issues/409"
   },
   {
     "iid": 408,

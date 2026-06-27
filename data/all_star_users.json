@@ -1,5 +1,17 @@
 [
   {
+    "user_name": "ASFSAFDASF",
+    "nick_name": "ASFSAFDASF",
+    "user_id": 11790727,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "2301_79678018",
     "nick_name": "eason317",
     "user_id": 5143843,
@@ -11190,6 +11202,15 @@
     "avatar": "https://cdn-img.gitcode.com/da/cc/5d0a0c9c1fca5243d1ba0dc98041d00c95be5c1d74769ff86ec6f62ffd050cce.png",
     "starred_repos": [
       "cann/graph-autofusion"
+    ]
+  },
+  {
+    "user_name": "cokelin",
+    "nick_name": "cokelin",
+    "user_id": 8236113,
+    "avatar": "",
+    "starred_repos": [
+      "cann/torchtitan-npu"
     ]
   },
   {

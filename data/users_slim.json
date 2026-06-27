@@ -1,5 +1,20 @@
 [
   {
+    "user_name": "ASFSAFDASF",
+    "nick_name": "ASFSAFDASF",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 28,
+    "developer_source": "external"
+  },
+  {
     "user_name": "2301_79678018",
     "nick_name": "eason317",
     "starred_repos": [
@@ -7111,7 +7126,7 @@
       "cann/ge",
       "cann/hixl"
     ],
-    "user_type": "questioner",
+    "user_type": "contributor",
     "fans_count": 0,
     "original_repo_count": 1,
     "total_contributions": 159,
@@ -12822,7 +12837,7 @@
     "starred_repos": [
       "cann/hixl"
     ],
-    "user_type": "developer",
+    "user_type": "questioner",
     "fans_count": 0,
     "original_repo_count": 1,
     "total_contributions": 444,
@@ -14557,6 +14572,18 @@
     "original_repo_count": 37,
     "total_contributions": 628,
     "developer_source": "internal"
+  },
+  {
+    "user_name": "cokelin",
+    "nick_name": "cokelin",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 145,
+    "developer_source": "external"
   },
   {
     "user_name": "nancycyzl",
@@ -17223,7 +17250,7 @@
     "starred_repos": [
       "cann/torchtitan-npu"
     ],
-    "user_type": "developer",
+    "user_type": "questioner",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 198,
