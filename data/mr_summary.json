@@ -4,8 +4,8 @@
       "name": "torchair",
       "path": "Ascend/torchair",
       "merged": 2313,
-      "open": 262,
-      "total": 2575
+      "open": 263,
+      "total": 2576
     },
     {
       "name": "ge",
@@ -37,5 +37,5 @@
     }
   ],
   "unique_authors": 729,
-  "generated_at": "2026-06-27"
+  "generated_at": "2026-06-28"
 }

@@ -320,7 +320,7 @@
     {
       "name": "torchair",
       "path": "Ascend/torchair",
-      "total": 3269,
+      "total": 3270,
       "data": [
         1,
         8,
@@ -475,13 +475,13 @@
         33,
         43,
         26,
-        37
+        38
       ]
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "total": 1105,
+      "total": 1117,
       "data": [
         0,
         0,
@@ -636,7 +636,7 @@
         132,
         129,
         123,
-        136
+        148
       ]
     },
     {
@@ -962,5 +962,5 @@
       ]
     }
   ],
-  "generated_at": "2026-06-27"
+  "generated_at": "2026-06-28"
 }
