@@ -26,8 +26,8 @@
     "contributor": 305,
     "questioner": 25,
     "developer": 333,
-    "star_enthusiast": 87,
-    "die_hard_fan": 22
+    "star_enthusiast": 86,
+    "die_hard_fan": 23
   },
   {
     "month": "2026-01",
@@ -63,8 +63,8 @@
     "month": "2026-04",
     "new_stars": 303,
     "cumulative": 2125,
-    "contributor": 88,
-    "questioner": 24,
+    "contributor": 89,
+    "questioner": 23,
     "developer": 60,
     "star_enthusiast": 21,
     "die_hard_fan": 110
@@ -85,8 +85,8 @@
     "cumulative": 3036,
     "contributor": 32,
     "questioner": 7,
-    "developer": 84,
+    "developer": 83,
     "star_enthusiast": 215,
-    "die_hard_fan": 73
+    "die_hard_fan": 74
   }
 ]

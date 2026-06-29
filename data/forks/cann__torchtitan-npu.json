@@ -1,5 +1,49 @@
 [
   {
+    "id": 10248749,
+    "namespace": "zzyy_zzyy/torchtitan-npu",
+    "name": "torchtitan-npu",
+    "web_url": "https://gitcode.com/zzyy_zzyy/torchtitan-npu",
+    "http_url_to_repo": "https://gitcode.com/zzyy_zzyy/torchtitan-npu.git",
+    "created_at": "2026-06-29T19:36:22.571+08:00",
+    "creator_username": "zzyy_zzyy",
+    "creator_nick_name": "zzyy_zzyy",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
+    "id": 10247246,
+    "namespace": "sun_xuexin/torchtitan-npu",
+    "name": "torchtitan-npu",
+    "web_url": "https://gitcode.com/sun_xuexin/torchtitan-npu",
+    "http_url_to_repo": "https://gitcode.com/sun_xuexin/torchtitan-npu.git",
+    "created_at": "2026-06-29T16:32:17.940+08:00",
+    "creator_username": "sun_xuexin",
+    "creator_nick_name": "sun-xuexin",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
+    "id": 10246492,
+    "namespace": "chai-hw/torchtitan-npu",
+    "name": "torchtitan-npu",
+    "web_url": "https://gitcode.com/chai-hw/torchtitan-npu",
+    "http_url_to_repo": "https://gitcode.com/chai-hw/torchtitan-npu.git",
+    "created_at": "2026-06-29T15:23:58.220+08:00",
+    "creator_username": "chai-hw",
+    "creator_nick_name": "chaizhengtong",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
+    "id": 10244598,
+    "namespace": "nancycyzl/torchtitan-npu-dsv4",
+    "name": "torchtitan-npu-dsv4",
+    "web_url": "https://gitcode.com/nancycyzl/torchtitan-npu-dsv4",
+    "http_url_to_repo": "https://gitcode.com/nancycyzl/torchtitan-npu-dsv4.git",
+    "created_at": "2026-06-29T11:22:53.426+08:00",
+    "creator_username": "nancycyzl",
+    "creator_nick_name": "nancycyzl",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
     "id": 10232030,
     "namespace": "chai-hw/chai_torchtitan-npu",
     "name": "chai_torchtitan-npu",

@@ -1,5 +1,27 @@
 [
   {
+    "iid": 87,
+    "state": "opened",
+    "created_at": "2026-06-29",
+    "closed_at": "",
+    "author": "jackwangc",
+    "title": "[Documentation|文档反馈]: 3.6 编程语言 Ascend C —— 自定义算子的开发利器 图例请刷新",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/87"
+  },
+  {
+    "iid": 86,
+    "state": "opened",
+    "created_at": "2026-06-29",
+    "closed_at": "",
+    "author": "yangyang016",
+    "title": "【matmul教程/test分支】matmul_operator_development 低错与易用性问题汇总",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/86"
+  },
+  {
     "iid": 85,
     "state": "opened",
     "created_at": "2026-06-26",
@@ -18,7 +40,7 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.29】",
     "labels": [],
-    "user_notes_count": 7,
+    "user_notes_count": 15,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/84"
   },
   {
@@ -38,7 +60,7 @@
     "created_at": "2026-06-24",
     "closed_at": "",
     "author": "zhangchenzi",
-    "title": "[Documentation|文档反馈]: ",
+    "title": "[Documentation|文档反馈]: 01.02_first_matmul_sample_run.ipynb 的4.1.5 Host 侧主函数章节的代码样例中异常网址问题",
     "labels": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/82"
@@ -51,7 +73,7 @@
     "author": "kaixiangruan",
     "title": "[Question|问题咨询]: 开发者学习路径 中 Qwen3-0.6B 推理（图模式） 提供的代码运行有误",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/81"
   },
   {

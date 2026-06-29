@@ -9052,8 +9052,8 @@
     ]
   },
   {
-    "user_name": "gcw_TutNfd5n",
-    "nick_name": "gcw_TutNfd5n",
+    "user_name": "lanlongwen",
+    "nick_name": "lanlongwen",
     "user_id": 9314716,
     "avatar": "",
     "starred_repos": [
@@ -11205,6 +11205,15 @@
     ]
   },
   {
+    "user_name": "zzyy_zzyy",
+    "nick_name": "zzyy_zzyy",
+    "user_id": 11796308,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "cokelin",
     "nick_name": "cokelin",
     "user_id": 8236113,
@@ -13349,15 +13358,6 @@
     "nick_name": "Huang-Peng",
     "user_id": 7131511,
     "avatar": null,
-    "starred_repos": [
-      "Ascend/torchair"
-    ]
-  },
-  {
-    "user_name": "ldhnet",
-    "nick_name": "lidonghui",
-    "user_id": 854882,
-    "avatar": "https://cdn-img.gitcode.com/fe/bd/46f7e909641b981dfed7ee2243b7825cf841ce6a12519b5633473401dfbb9e0f.png",
     "starred_repos": [
       "Ascend/torchair"
     ]

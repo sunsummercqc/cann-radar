@@ -1,5 +1,38 @@
 [
   {
+    "iid": 152,
+    "state": "opened",
+    "created_at": "2026-06-29",
+    "closed_at": "",
+    "author": "liyuewei",
+    "title": "[Requirement|需求建议]: Transpose放开Gather模板，提供一种在UB内实现Transpose的方式。",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/152"
+  },
+  {
+    "iid": 151,
+    "state": "opened",
+    "created_at": "2026-06-29",
+    "closed_at": "",
+    "author": "zqmin",
+    "title": "修复path.cfg不正交影响deb/rpm包安装",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/151"
+  },
+  {
+    "iid": 150,
+    "state": "closed",
+    "created_at": "2026-06-29",
+    "closed_at": "2026-06-29",
+    "author": "liyuewei",
+    "title": "[Bug-Report|缺陷反馈]: 修复ScalarData流程异常。",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/150"
+  },
+  {
     "iid": 149,
     "state": "opened",
     "created_at": "2026-06-27",
@@ -7,7 +40,7 @@
     "author": "liyuewei",
     "title": "[Bug-Report|缺陷反馈]: ApiParam的dump图放在图名对应的路径下",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/149"
   },
   {
@@ -18,7 +51,7 @@
     "author": "liyuewei",
     "title": "[Bug-Report|缺陷反馈]: AscBackend节点当前只统计Data节点作为输入",
     "labels": [],
-    "user_notes_count": 0,
+    "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/graph-autofusion/issues/148"
   },
   {
