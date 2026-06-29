@@ -10,5 +10,11 @@
 # 内部开发者名单（敏感数据，通过 CI Secret / 私有仓注入）
 config/internal_developers.txt
 
+# GitCode 用户名→邮箱映射（敏感数据，通过 CI Secret / 私有仓注入）
+config/gitcode_2_mail.txt
+
+# SMTP 发送配置（敏感数据，通过 CI Secret / 私有仓注入）
+config/smtp_config.ini
+
 # Python 缓存
 __pycache__/

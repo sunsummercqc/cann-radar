@@ -2,6 +2,7 @@ repos:
 - path: cann/ge
   display_name: GE
   enabled: true
+  notify: true
   goals:
   - metric: star
     label: Star 数
@@ -31,6 +32,7 @@ repos:
 - path: cann/hixl
   display_name: hixl
   enabled: true
+  notify: false
   goals:
   - metric: star
     label: Star 数
@@ -58,6 +60,7 @@ repos:
 - path: cann/graph-autofusion
   display_name: auto-fusion
   enabled: true
+  notify: false
   goals:
   - metric: star
     label: Star 数
@@ -85,6 +88,7 @@ repos:
 - path: cann/torchtitan-npu
   display_name: torchtitan-npu
   enabled: true
+  notify: false
   goals:
   - metric: star
     label: Star 数
@@ -112,6 +116,7 @@ repos:
 - path: Ascend/torchair
   display_name: TorchAir
   enabled: true
+  notify: false
   goals:
   - metric: star
     label: Star 数
