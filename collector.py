@@ -1268,6 +1268,7 @@ def _fetch_repo_mrs(repo, mrs_dir):
             merged_raw = mr.get("merged_at") or ""
             closed_raw = mr.get("closed_at") or ""
             updated_raw = mr.get("updated_at") or ""
+            ent_labels = mr.get("enterprise_labels") or []
             all_mrs.append({
                 "iid":        mr.get("iid"),
                 "state":      mr.get("state", "opened"),
@@ -1278,6 +1279,7 @@ def _fetch_repo_mrs(repo, mrs_dir):
                 "closed_at":  closed_raw[:10] if closed_raw else "",
                 "author":     (mr.get("author") or {}).get("username", ""),
                 "web_url":    mr.get("web_url") or "",
+                "labels":     [label.get("name", "") if isinstance(label, dict) else str(label) for label in ent_labels],
             })
 
         if (total and len(all_mrs) >= total) or len(data["content"]) < 100:
@@ -2018,6 +2020,7 @@ def collect_community_mrs():
                 merged_raw = mr.get("merged_at") or ""
                 closed_raw = mr.get("closed_at") or ""
                 updated_raw = mr.get("updated_at") or ""
+                ent_labels = mr.get("enterprise_labels") or []
                 all_mrs.append({
                     "iid": mr.get("iid"),
                     "state": mr.get("state", "opened"),
@@ -2028,6 +2031,7 @@ def collect_community_mrs():
                     "closed_at": closed_raw[:10] if closed_raw else "",
                     "author": (mr.get("author") or {}).get("username", ""),
                     "web_url": mr.get("web_url") or "",
+                    "labels": [label.get("name", "") if isinstance(label, dict) else str(label) for label in ent_labels],
                 })
             if len(data["content"]) < 100:
                 break

@@ -18,6 +18,22 @@ on:
         description: '是否全量刷新用户画像（清空 user_profiles.json）'
         type: boolean
         default: false
+      run_stale_notify:
+        description: '是否执行超期 MR 通知'
+        type: boolean
+        default: false
+      stale_days:
+        description: '超期天数（默认 14）'
+        type: number
+        default: 14
+      test_email:
+        description: '测试邮箱（填写后仅发送到该邮箱，不发给实际作者）'
+        type: string
+        default: ''
+      admin_report_to:
+        description: '管理员汇总报告发送邮箱（覆盖私仓配置）'
+        type: string
+        default: ''
 
 permissions:
   contents: write
@@ -37,10 +53,13 @@ jobs:
           token: ${{ secrets.PRIVATE_REPO_PAT }}
           path: .private
 
-      - name: Inject internal developers list
+      - name: Inject private config files
         run: |
           mkdir -p config
           cp .private/internal_developers.txt config/internal_developers.txt
+          cp .private/gitcode_2_mail.txt config/gitcode_2_mail.txt
+          cp .private/smtp_config.ini config/smtp_config.ini
+          cp .private/admin_email.txt config/admin_email.txt
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -91,5 +110,28 @@ jobs:
           git add data/
           git diff --staged --quiet && echo "No changes" || (
             git commit -m "chore: 自动更新数据 $(date -u '+%Y-%m-%d')"
+            git push
+          )
+
+      - name: Notify stale MR authors
+        if: github.event.inputs.run_stale_notify == 'true' || github.event_name == 'schedule'
+        run: |
+          ARGS="--stale-days ${{ github.event.inputs.stale_days || 14 }}"
+          if [ -n "${{ github.event.inputs.test_email }}" ]; then
+            ARGS="$ARGS --test ${{ github.event.inputs.test_email }}"
+          fi
+          if [ -n "${{ github.event.inputs.admin_report_to }}" ]; then
+            ARGS="$ARGS --report-to ${{ github.event.inputs.admin_report_to }}"
+          fi
+          python stale_mr_notify.py $ARGS
+
+      - name: Commit notified MR tracking
+        if: github.event.inputs.run_stale_notify == 'true' || github.event_name == 'schedule'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/stale_mr_notified.json
+          git diff --staged --quiet && echo "No tracking changes" || (
+            git commit -m "chore: 更新超期 MR 通知记录 $(date -u '+%Y-%m-%d')"
             git push
           )
