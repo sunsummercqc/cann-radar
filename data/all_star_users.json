@@ -6204,6 +6204,59 @@
     ]
   },
   {
+    "user_name": "pengxiao",
+    "nick_name": "Peng Xiao",
+    "user_id": 4561812,
+    "avatar": "https://cdn-img.gitcode.com/cc/be/c447c287be2227db1aa08371957960d1d51d139cee829ba92e3f31ac5a400742.jpg",
+    "starred_repos": [
+      "cann/hixl",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "chenhongyang",
+    "nick_name": "chenhy",
+    "user_id": 6689504,
+    "avatar": "",
+    "starred_repos": [
+      "cann/hixl",
+      "Ascend/torchair"
+    ]
+  },
+  {
+    "user_name": "cyycaoyang",
+    "nick_name": "caoyang",
+    "user_id": 155506,
+    "avatar": "https://cdn-img.gitcode.com/db/be/dbbeb0ff1458234a17a222e9c937ea301acc1a25da15e79ab7c658a971bb36d0.png",
+    "starred_repos": [
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "liugw",
+    "nick_name": "liugw",
+    "user_id": 257093,
+    "avatar": "https://cdn-img.gitcode.com/ff/fd/98fff0707d97b3b74c2af998db0e74040a78962cd7209bb2f627829842c21cd2.png?time=1739514566279",
+    "starred_repos": [
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "zhanghq",
+    "nick_name": "我没有拖拖拖延症",
+    "user_id": 169223,
+    "avatar": null,
+    "starred_repos": [
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "user36330",
     "nick_name": "user36330",
     "user_id": 6934875,
@@ -11205,6 +11258,15 @@
     ]
   },
   {
+    "user_name": "aozhoupengyuyan",
+    "nick_name": "西雅图彭于晏",
+    "user_id": 1374330,
+    "avatar": "https://cdn-img.gitcode.com/df/ec/9d9f99ecf00259c0fadb246151abeb2b03c5455ca940c9733a759302d401100c.jpg",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "zzyy_zzyy",
     "nick_name": "zzyy_zzyy",
     "user_id": 11796308,
@@ -13435,15 +13497,6 @@
     ]
   },
   {
-    "user_name": "pengxiao",
-    "nick_name": "Peng Xiao",
-    "user_id": 4561812,
-    "avatar": "https://cdn-img.gitcode.com/cc/be/c447c287be2227db1aa08371957960d1d51d139cee829ba92e3f31ac5a400742.jpg",
-    "starred_repos": [
-      "Ascend/torchair"
-    ]
-  },
-  {
     "user_name": "gcw_OUevnAsg",
     "nick_name": "gcw_OUevnAsg",
     "user_id": 11448923,
@@ -14429,15 +14482,6 @@
     "nick_name": "liaoqingqing",
     "user_id": 5587096,
     "avatar": null,
-    "starred_repos": [
-      "Ascend/torchair"
-    ]
-  },
-  {
-    "user_name": "chenhongyang",
-    "nick_name": "chenhy",
-    "user_id": 6689504,
-    "avatar": "",
     "starred_repos": [
       "Ascend/torchair"
     ]

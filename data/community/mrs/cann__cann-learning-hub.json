@@ -1,25 +1,96 @@
 [
   {
-    "iid": 245,
+    "iid": 249,
     "state": "opened",
-    "title": "静态tensor cv融合算子章节添加执行性能对比分析",
-    "created_at": "2026-06-29",
-    "updated_at": "2026-06-29",
+    "title": "update: 更新文件 03_operator_develop.ipynb",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
+    "author": "zutao",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/249",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed"
+    ]
+  },
+  {
+    "iid": 248,
+    "state": "opened",
+    "title": "feat(tutorials): Add PyPTO development tutorial series",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "gcw_QGrqFtj5",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/248",
+    "labels": [
+      "ci-pipeline-passed",
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 247,
+    "state": "opened",
+    "title": "docs(ge): 新增第二章进阶开发与第三章高阶应用教程",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "qq_45842700",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/247",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 246,
+    "state": "opened",
+    "title": "新增pyasc第一章课程",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "li-yuanjie-da",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/246",
+    "labels": [
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 245,
+    "state": "merged",
+    "title": "静态tensor cv融合算子章节添加执行性能对比分析",
+    "created_at": "2026-06-29",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
     "author": "ApeiriaNode_Booker",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/245"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/245",
+    "labels": [
+      "lgtm",
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "approved"
+    ]
   },
   {
     "iid": 244,
-    "state": "opened",
+    "state": "merged",
     "title": "fix: 删除msopgen过时注释，02.02答案改用__vector__限定符",
     "created_at": "2026-06-29",
-    "updated_at": "2026-06-29",
-    "merged_at": "",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/244"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/244",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 243,
@@ -30,7 +101,11 @@
     "merged_at": "",
     "closed_at": "2026-06-29",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/243"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/243",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 242,
@@ -41,18 +116,28 @@
     "merged_at": "2026-06-29",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/242"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/242",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 241,
     "state": "opened",
     "title": "Add TileLang course",
     "created_at": "2026-06-29",
-    "updated_at": "2026-06-29",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "bingmeiyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/241"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/241",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 240,
@@ -63,7 +148,12 @@
     "merged_at": "2026-06-29",
     "closed_at": "",
     "author": "Albertq",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/240"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/240",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 239,
@@ -74,18 +164,26 @@
     "merged_at": "",
     "closed_at": "2026-06-29",
     "author": "Albertq",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/239"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/239",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 238,
     "state": "opened",
     "title": "Add TorchAir basic course",
     "created_at": "2026-06-28",
-    "updated_at": "2026-06-29",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "Sunyp01",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/238"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/238",
+    "labels": [
+      "ci-pipeline-passed",
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 237,
@@ -96,7 +194,8 @@
     "merged_at": "",
     "closed_at": "2026-06-28",
     "author": "Sunyp01",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/237"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/237",
+    "labels": []
   },
   {
     "iid": 236,
@@ -107,7 +206,10 @@
     "merged_at": "",
     "closed_at": "",
     "author": "gcw_mrGUbCv4",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/236"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/236",
+    "labels": [
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 235,
@@ -118,7 +220,13 @@
     "merged_at": "2026-06-29",
     "closed_at": "",
     "author": "yiyudekouqin",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/235"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/235",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 234,
@@ -129,7 +237,14 @@
     "merged_at": "2026-06-29",
     "closed_at": "",
     "author": "ASFSAFDASF",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/234"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/234",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 233,
@@ -140,7 +255,11 @@
     "merged_at": "",
     "closed_at": "2026-06-27",
     "author": "user36330",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/233"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/233",
+    "labels": [
+      "cann-cla/no",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 232,
@@ -151,7 +270,11 @@
     "merged_at": "",
     "closed_at": "2026-06-27",
     "author": "user36330",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/232"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/232",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 231,
@@ -162,7 +285,11 @@
     "merged_at": "",
     "closed_at": "2026-06-27",
     "author": "user36330",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/231"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/231",
+    "labels": [
+      "cann-cla/no",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 230,
@@ -173,7 +300,10 @@
     "merged_at": "",
     "closed_at": "",
     "author": "KenChow",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/230"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/230",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 229,
@@ -184,7 +314,11 @@
     "merged_at": "",
     "closed_at": "2026-06-27",
     "author": "user36330",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/229"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/229",
+    "labels": [
+      "cann-cla/no",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 228,
@@ -195,7 +329,11 @@
     "merged_at": "",
     "closed_at": "2026-06-27",
     "author": "user36330",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/228"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/228",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 227,
@@ -206,7 +344,8 @@
     "merged_at": "",
     "closed_at": "2026-06-27",
     "author": "user36330",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/227"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/227",
+    "labels": []
   },
   {
     "iid": 226,
@@ -217,7 +356,8 @@
     "merged_at": "",
     "closed_at": "2026-06-27",
     "author": "user36330",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/226"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/226",
+    "labels": []
   },
   {
     "iid": 225,
@@ -228,7 +368,14 @@
     "merged_at": "2026-06-26",
     "closed_at": "",
     "author": "desperateW",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/225"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/225",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 224,
@@ -239,7 +386,14 @@
     "merged_at": "2026-06-26",
     "closed_at": "",
     "author": "desperateW",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/224"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/224",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "stat/needs-squash",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 223,
@@ -250,7 +404,11 @@
     "merged_at": "",
     "closed_at": "2026-06-26",
     "author": "desperateW",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/223"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/223",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 222,
@@ -261,7 +419,11 @@
     "merged_at": "",
     "closed_at": "2026-06-26",
     "author": "desperateW",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/222"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/222",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 221,
@@ -272,7 +434,13 @@
     "merged_at": "2026-06-26",
     "closed_at": "",
     "author": "desperateW",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/221"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/221",
+    "labels": [
+      "ci-pipeline-passed",
+      "approved",
+      "cann-cla/yes",
+      "lgtm"
+    ]
   },
   {
     "iid": 220,
@@ -283,7 +451,8 @@
     "merged_at": "",
     "closed_at": "2026-06-26",
     "author": "desperateW",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/220"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/220",
+    "labels": []
   },
   {
     "iid": 219,
@@ -294,7 +463,13 @@
     "merged_at": "2026-06-26",
     "closed_at": "",
     "author": "desperateW",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/219"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/219",
+    "labels": [
+      "ci-pipeline-passed",
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 218,
@@ -305,7 +480,12 @@
     "merged_at": "",
     "closed_at": "",
     "author": "wch0810",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/218"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/218",
+    "labels": [
+      "ci-pipeline-passed",
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 217,
@@ -316,7 +496,12 @@
     "merged_at": "",
     "closed_at": "2026-06-26",
     "author": "wch0810",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/217"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/217",
+    "labels": [
+      "ci-pipeline-passed",
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 216,
@@ -327,7 +512,13 @@
     "merged_at": "2026-06-26",
     "closed_at": "",
     "author": "KenChow",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/216"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/216",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 215,
@@ -338,18 +529,23 @@
     "merged_at": "",
     "closed_at": "2026-06-26",
     "author": "KenChow",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/215"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/215",
+    "labels": []
   },
   {
     "iid": 214,
     "state": "opened",
     "title": "《CANN 基础知识课程》的修改意见",
     "created_at": "2026-06-26",
-    "updated_at": "2026-06-26",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "Hacker_DL",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/214"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/214",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 213,
@@ -360,7 +556,12 @@
     "merged_at": "",
     "closed_at": "2026-06-26",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/213"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/213",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "ci-pipeline-passed"
+    ]
   },
   {
     "iid": 212,
@@ -371,7 +572,11 @@
     "merged_at": "",
     "closed_at": "2026-06-26",
     "author": "Hacker_DL",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/212"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/212",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 211,
@@ -382,7 +587,12 @@
     "merged_at": "",
     "closed_at": "",
     "author": "user36330",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/211"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/211",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "ci-pipeline-passed"
+    ]
   },
   {
     "iid": 210,
@@ -393,7 +603,11 @@
     "merged_at": "",
     "closed_at": "",
     "author": "KenChow",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/210"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/210",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 209,
@@ -404,7 +618,12 @@
     "merged_at": "2026-06-27",
     "closed_at": "",
     "author": "weixin_52961121",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/209"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/209",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 208,
@@ -415,7 +634,14 @@
     "merged_at": "2026-06-29",
     "closed_at": "",
     "author": "Alpha123_",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/208"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/208",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 207,
@@ -426,18 +652,25 @@
     "merged_at": "",
     "closed_at": "",
     "author": "louyuxuan",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/207"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/207",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 206,
     "state": "opened",
     "title": "Add data structure for HPC tutorial",
     "created_at": "2026-06-25",
-    "updated_at": "2026-06-25",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "zh1125",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/206"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/206",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 205,
@@ -448,7 +681,11 @@
     "merged_at": "",
     "closed_at": "2026-06-25",
     "author": "weixin_52961121",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/205"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/205",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 204,
@@ -459,7 +696,12 @@
     "merged_at": "2026-06-26",
     "closed_at": "",
     "author": "lfz2812",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/204"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/204",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 203,
@@ -470,7 +712,11 @@
     "merged_at": "",
     "closed_at": "2026-06-25",
     "author": "weixin_52961121",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/203"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/203",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 202,
@@ -481,7 +727,13 @@
     "merged_at": "2026-06-27",
     "closed_at": "",
     "author": "qq_51545127",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/202"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/202",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 201,
@@ -492,7 +744,8 @@
     "merged_at": "",
     "closed_at": "2026-06-25",
     "author": "user36330",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/201"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/201",
+    "labels": []
   },
   {
     "iid": 200,
@@ -503,7 +756,12 @@
     "merged_at": "2026-06-25",
     "closed_at": "",
     "author": "m0_61099165",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/200"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/200",
+    "labels": [
+      "cann-cla/yes",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 199,
@@ -514,7 +772,13 @@
     "merged_at": "2026-06-25",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/199"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/199",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 198,
@@ -525,7 +789,11 @@
     "merged_at": "",
     "closed_at": "2026-06-25",
     "author": "wch0810",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/198"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/198",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed"
+    ]
   },
   {
     "iid": 197,
@@ -536,7 +804,11 @@
     "merged_at": "",
     "closed_at": "",
     "author": "weixin_73885050",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/197"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/197",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed"
+    ]
   },
   {
     "iid": 196,
@@ -547,7 +819,11 @@
     "merged_at": "",
     "closed_at": "2026-06-25",
     "author": "Lee_Petit_Prince",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/196"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/196",
+    "labels": [
+      "ci-pipeline-passed",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 195,
@@ -558,7 +834,13 @@
     "merged_at": "2026-06-25",
     "closed_at": "",
     "author": "gcw_WTfSfUy7",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/195"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/195",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 194,
@@ -569,7 +851,13 @@
     "merged_at": "2026-06-25",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/194"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/194",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 193,
@@ -580,18 +868,27 @@
     "merged_at": "",
     "closed_at": "2026-06-25",
     "author": "m0_61099165",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/193"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/193",
+    "labels": [
+      "ci-pipeline-passed",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 192,
-    "state": "opened",
-    "title": "PyAsc算子开发系列课程大纲和初稿",
+    "state": "merged",
+    "title": "PyAsc算子开发系列课程目录",
     "created_at": "2026-06-25",
-    "updated_at": "2026-06-26",
-    "merged_at": "",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "hyolee",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/192"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/192",
+    "labels": [
+      "cann-cla/yes",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 191,
@@ -602,7 +899,10 @@
     "merged_at": "",
     "closed_at": "",
     "author": "louyuxuan",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/191"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/191",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 190,
@@ -613,7 +913,12 @@
     "merged_at": "2026-06-27",
     "closed_at": "",
     "author": "Approach1999",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/190"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/190",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 189,
@@ -624,7 +929,12 @@
     "merged_at": "2026-06-27",
     "closed_at": "",
     "author": "laoelaos",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/189"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/189",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 188,
@@ -635,7 +945,11 @@
     "merged_at": "",
     "closed_at": "",
     "author": "zhunaipan",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/188"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/188",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed"
+    ]
   },
   {
     "iid": 187,
@@ -646,7 +960,12 @@
     "merged_at": "2026-06-27",
     "closed_at": "",
     "author": "Approach1999",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/187"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/187",
+    "labels": [
+      "approved",
+      "cann-cla/yes",
+      "lgtm"
+    ]
   },
   {
     "iid": 186,
@@ -657,7 +976,11 @@
     "merged_at": "",
     "closed_at": "",
     "author": "user36330",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/186"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/186",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 185,
@@ -668,7 +991,10 @@
     "merged_at": "",
     "closed_at": "2026-06-24",
     "author": "user36330",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/185"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/185",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 184,
@@ -679,7 +1005,14 @@
     "merged_at": "2026-06-25",
     "closed_at": "",
     "author": "bxinran",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/184"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/184",
+    "labels": [
+      "lgtm",
+      "approved",
+      "stat/needs-squash",
+      "ci-pipeline-passed",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 183,
@@ -690,7 +1023,10 @@
     "merged_at": "",
     "closed_at": "2026-06-24",
     "author": "bxinran",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/183"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/183",
+    "labels": [
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 182,
@@ -701,7 +1037,12 @@
     "merged_at": "2026-06-25",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/182"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/182",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 181,
@@ -712,7 +1053,10 @@
     "merged_at": "",
     "closed_at": "2026-06-24",
     "author": "bxinran",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/181"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/181",
+    "labels": [
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 180,
@@ -723,7 +1067,13 @@
     "merged_at": "2026-06-25",
     "closed_at": "",
     "author": "qxyaba0",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/180"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/180",
+    "labels": [
+      "approved",
+      "lgtm",
+      "ci-pipeline-passed",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 179,
@@ -734,7 +1084,11 @@
     "merged_at": "",
     "closed_at": "2026-06-24",
     "author": "user36330",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/179"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/179",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 178,
@@ -745,7 +1099,11 @@
     "merged_at": "",
     "closed_at": "2026-06-25",
     "author": "zh1125",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/178"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/178",
+    "labels": [
+      "cann-cla/no",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 177,
@@ -756,7 +1114,12 @@
     "merged_at": "2026-06-24",
     "closed_at": "",
     "author": "LINxu233",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/177"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/177",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 176,
@@ -767,7 +1130,11 @@
     "merged_at": "",
     "closed_at": "",
     "author": "Achilles_d",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/176"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/176",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 175,
@@ -778,7 +1145,13 @@
     "merged_at": "2026-06-24",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/175"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/175",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 174,
@@ -789,7 +1162,11 @@
     "merged_at": "",
     "closed_at": "2026-06-24",
     "author": "zh1125",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/174"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/174",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 173,
@@ -800,7 +1177,10 @@
     "merged_at": "",
     "closed_at": "2026-06-24",
     "author": "Approach1999",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/173"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/173",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 172,
@@ -811,7 +1191,13 @@
     "merged_at": "2026-06-24",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/172"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/172",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 171,
@@ -822,18 +1208,26 @@
     "merged_at": "",
     "closed_at": "2026-06-24",
     "author": "Feixinzhx",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/171"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/171",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 170,
     "state": "opened",
     "title": "新增 SFT + Performance Optimization + GRPO RL 教程",
     "created_at": "2026-06-23",
-    "updated_at": "2026-06-29",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/170"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/170",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 169,
@@ -844,7 +1238,11 @@
     "merged_at": "",
     "closed_at": "2026-06-24",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/169"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/169",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 168,
@@ -855,7 +1253,11 @@
     "merged_at": "",
     "closed_at": "2026-06-23",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/168"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/168",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 167,
@@ -866,7 +1268,14 @@
     "merged_at": "2026-06-23",
     "closed_at": "",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/167"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/167",
+    "labels": [
+      "stat/needs-squash",
+      "ci-pipeline-passed",
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 166,
@@ -877,7 +1286,11 @@
     "merged_at": "",
     "closed_at": "2026-06-23",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/166"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/166",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 165,
@@ -888,7 +1301,14 @@
     "merged_at": "2026-06-23",
     "closed_at": "",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/165"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/165",
+    "labels": [
+      "ci-pipeline-passed",
+      "lgtm",
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "approved"
+    ]
   },
   {
     "iid": 164,
@@ -899,7 +1319,12 @@
     "merged_at": "",
     "closed_at": "2026-06-22",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/164"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/164",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "ci-pipeline-failed"
+    ]
   },
   {
     "iid": 163,
@@ -910,18 +1335,27 @@
     "merged_at": "",
     "closed_at": "2026-06-22",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/163"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/163",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 162,
     "state": "opened",
     "title": "新增 aclGraph 入图编译与运行",
     "created_at": "2026-06-22",
-    "updated_at": "2026-06-29",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "yrz1027",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/162"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/162",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "ci-pipeline-passed"
+    ]
   },
   {
     "iid": 161,
@@ -932,7 +1366,12 @@
     "merged_at": "",
     "closed_at": "2026-06-22",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/161"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/161",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "ci-pipeline-failed"
+    ]
   },
   {
     "iid": 160,
@@ -943,7 +1382,13 @@
     "merged_at": "",
     "closed_at": "2026-06-22",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/160"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/160",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 159,
@@ -954,7 +1399,12 @@
     "merged_at": "",
     "closed_at": "2026-06-18",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/159"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/159",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "ci-pipeline-failed"
+    ]
   },
   {
     "iid": 158,
@@ -965,7 +1415,11 @@
     "merged_at": "",
     "closed_at": "2026-06-23",
     "author": "KenChow",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/158"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/158",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 157,
@@ -976,7 +1430,12 @@
     "merged_at": "2026-06-17",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/157"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/157",
+    "labels": [
+      "approved",
+      "cann-cla/yes",
+      "lgtm"
+    ]
   },
   {
     "iid": 156,
@@ -987,18 +1446,26 @@
     "merged_at": "2026-06-24",
     "closed_at": "",
     "author": "liuyufan0725",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/156"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/156",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 155,
     "state": "opened",
     "title": "基于Tensor API的矩阵算子开发（中级）",
     "created_at": "2026-06-15",
-    "updated_at": "2026-06-27",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "hyolee",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/155"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/155",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 154,
@@ -1009,7 +1476,13 @@
     "merged_at": "2026-06-15",
     "closed_at": "",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/154"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/154",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 153,
@@ -1020,7 +1493,13 @@
     "merged_at": "2026-06-17",
     "closed_at": "",
     "author": "liuchuangdev",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/153"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/153",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 152,
@@ -1031,7 +1510,13 @@
     "merged_at": "2026-06-15",
     "closed_at": "",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/152"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/152",
+    "labels": [
+      "approved",
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "lgtm"
+    ]
   },
   {
     "iid": 151,
@@ -1042,7 +1527,13 @@
     "merged_at": "2026-06-15",
     "closed_at": "",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/151"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/151",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "stat/needs-squash",
+      "lgtm"
+    ]
   },
   {
     "iid": 150,
@@ -1053,7 +1544,10 @@
     "merged_at": "",
     "closed_at": "",
     "author": "jiangling12",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/150"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/150",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 149,
@@ -1064,7 +1558,11 @@
     "merged_at": "",
     "closed_at": "2026-06-15",
     "author": "jiangling12",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/149"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/149",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 148,
@@ -1075,7 +1573,11 @@
     "merged_at": "",
     "closed_at": "2026-06-15",
     "author": "jiangling12",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/148"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/148",
+    "labels": [
+      "cann-cla/no",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 147,
@@ -1086,7 +1588,10 @@
     "merged_at": "",
     "closed_at": "2026-06-15",
     "author": "jiangling12",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/147"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/147",
+    "labels": [
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 146,
@@ -1097,7 +1602,10 @@
     "merged_at": "",
     "closed_at": "2026-06-15",
     "author": "jiangling12",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/146"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/146",
+    "labels": [
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 145,
@@ -1108,7 +1616,10 @@
     "merged_at": "",
     "closed_at": "2026-06-15",
     "author": "jiangling12",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/145"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/145",
+    "labels": [
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 144,
@@ -1119,7 +1630,10 @@
     "merged_at": "",
     "closed_at": "2026-06-15",
     "author": "jiangling12",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/144"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/144",
+    "labels": [
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 143,
@@ -1130,7 +1644,13 @@
     "merged_at": "2026-06-25",
     "closed_at": "",
     "author": "ApeiriaNode_Booker",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/143"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/143",
+    "labels": [
+      "cann-cla/yes",
+      "lgtm",
+      "approved",
+      "ci-pipeline-passed"
+    ]
   },
   {
     "iid": 142,
@@ -1141,7 +1661,13 @@
     "merged_at": "2026-06-24",
     "closed_at": "",
     "author": "liuyang_806",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/142"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/142",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 141,
@@ -1152,7 +1678,13 @@
     "merged_at": "2026-06-29",
     "closed_at": "",
     "author": "ChenZhoujie",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/141"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/141",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "ci-pipeline-passed",
+      "lgtm"
+    ]
   },
   {
     "iid": 140,
@@ -1163,7 +1695,14 @@
     "merged_at": "2026-06-24",
     "closed_at": "",
     "author": "LINxu233",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/140"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/140",
+    "labels": [
+      "ci-pipeline-failed",
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 139,
@@ -1174,7 +1713,12 @@
     "merged_at": "2026-06-15",
     "closed_at": "",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/139"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/139",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 138,
@@ -1185,7 +1729,13 @@
     "merged_at": "2026-06-12",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/138"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/138",
+    "labels": [
+      "lgtm",
+      "approved",
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 137,
@@ -1196,18 +1746,27 @@
     "merged_at": "2026-06-12",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/137"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/137",
+    "labels": [
+      "lgtm",
+      "approved",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 136,
     "state": "opened",
     "title": "AscendC 编程范式概述课程",
     "created_at": "2026-06-12",
-    "updated_at": "2026-06-28",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "YANXI_ZHAO",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/136"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/136",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed"
+    ]
   },
   {
     "iid": 135,
@@ -1218,7 +1777,13 @@
     "merged_at": "2026-06-12",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/135"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/135",
+    "labels": [
+      "approved",
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "lgtm"
+    ]
   },
   {
     "iid": 134,
@@ -1229,7 +1794,14 @@
     "merged_at": "2026-06-23",
     "closed_at": "",
     "author": "wangzitao_leo",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/134"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/134",
+    "labels": [
+      "lgtm",
+      "stat/needs-squash",
+      "ci-pipeline-failed",
+      "cann-cla/yes",
+      "approved"
+    ]
   },
   {
     "iid": 133,
@@ -1240,7 +1812,13 @@
     "merged_at": "2026-06-23",
     "closed_at": "",
     "author": "jiangxiuhan1",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/133"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/133",
+    "labels": [
+      "lgtm",
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "approved"
+    ]
   },
   {
     "iid": 132,
@@ -1251,7 +1829,8 @@
     "merged_at": "",
     "closed_at": "2026-06-12",
     "author": "jiangxiuhan1",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/132"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/132",
+    "labels": []
   },
   {
     "iid": 131,
@@ -1262,7 +1841,12 @@
     "merged_at": "2026-06-11",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/131"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/131",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 130,
@@ -1273,7 +1857,13 @@
     "merged_at": "2026-06-11",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/130"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/130",
+    "labels": [
+      "stat/needs-squash",
+      "approved",
+      "lgtm",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 129,
@@ -1284,7 +1874,12 @@
     "merged_at": "2026-06-18",
     "closed_at": "",
     "author": "louyuxuan",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/129"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/129",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 128,
@@ -1295,7 +1890,12 @@
     "merged_at": "2026-06-11",
     "closed_at": "",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/128"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/128",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 127,
@@ -1306,7 +1906,11 @@
     "merged_at": "",
     "closed_at": "2026-06-12",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/127"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/127",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 126,
@@ -1317,7 +1921,10 @@
     "merged_at": "",
     "closed_at": "2026-06-13",
     "author": "ChenZhoujie",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/126"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/126",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 125,
@@ -1328,7 +1935,12 @@
     "merged_at": "2026-06-11",
     "closed_at": "",
     "author": "liuyang_806",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/125"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/125",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 124,
@@ -1339,7 +1951,11 @@
     "merged_at": "",
     "closed_at": "",
     "author": "chenyu10",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/124"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/124",
+    "labels": [
+      "approved",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 123,
@@ -1350,7 +1966,11 @@
     "merged_at": "",
     "closed_at": "",
     "author": "liuguoyue",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/123"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/123",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 122,
@@ -1361,7 +1981,11 @@
     "merged_at": "",
     "closed_at": "",
     "author": "Feixinzhx",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/122"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/122",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 121,
@@ -1372,7 +1996,12 @@
     "merged_at": "2026-06-09",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/121"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/121",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 120,
@@ -1383,7 +2012,10 @@
     "merged_at": "",
     "closed_at": "2026-06-12",
     "author": "wangzitao_leo",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/120"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/120",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 119,
@@ -1394,7 +2026,13 @@
     "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "Feixinzhx",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/119"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/119",
+    "labels": [
+      "lgtm",
+      "cann-cla/yes",
+      "approved",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 118,
@@ -1405,7 +2043,11 @@
     "merged_at": "",
     "closed_at": "2026-06-06",
     "author": "Feixinzhx",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/118"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/118",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 117,
@@ -1416,7 +2058,11 @@
     "merged_at": "",
     "closed_at": "2026-06-06",
     "author": "Feixinzhx",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/117"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/117",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 116,
@@ -1427,7 +2073,11 @@
     "merged_at": "",
     "closed_at": "2026-06-06",
     "author": "Feixinzhx",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/116"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/116",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 115,
@@ -1438,7 +2088,12 @@
     "merged_at": "2026-06-05",
     "closed_at": "",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/115"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/115",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 114,
@@ -1449,7 +2104,13 @@
     "merged_at": "2026-06-12",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/114"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/114",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 113,
@@ -1460,7 +2121,11 @@
     "merged_at": "",
     "closed_at": "2026-06-12",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/113"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/113",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 112,
@@ -1471,7 +2136,13 @@
     "merged_at": "2026-06-05",
     "closed_at": "",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/112"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/112",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 111,
@@ -1482,7 +2153,13 @@
     "merged_at": "2026-06-26",
     "closed_at": "",
     "author": "pangfd",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/111"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/111",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 110,
@@ -1493,7 +2170,13 @@
     "merged_at": "2026-06-04",
     "closed_at": "",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/110"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/110",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 109,
@@ -1504,7 +2187,11 @@
     "merged_at": "",
     "closed_at": "2026-06-22",
     "author": "Mexyy",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/109"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/109",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 108,
@@ -1515,7 +2202,10 @@
     "merged_at": "",
     "closed_at": "2026-06-04",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/108"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/108",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 107,
@@ -1526,7 +2216,12 @@
     "merged_at": "2026-06-04",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/107"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/107",
+    "labels": [
+      "approved",
+      "cann-cla/yes",
+      "lgtm"
+    ]
   },
   {
     "iid": 106,
@@ -1537,18 +2232,28 @@
     "merged_at": "",
     "closed_at": "2026-06-04",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/106"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/106",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 105,
-    "state": "opened",
+    "state": "merged",
     "title": "tpipe课件",
     "created_at": "2026-06-04",
-    "updated_at": "2026-06-29",
-    "merged_at": "",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "huxj153",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/105"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/105",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 104,
@@ -1559,7 +2264,11 @@
     "merged_at": "",
     "closed_at": "",
     "author": "gcw_WTfSfUy7",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/104"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/104",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 103,
@@ -1570,7 +2279,13 @@
     "merged_at": "2026-06-04",
     "closed_at": "",
     "author": "YANXI_ZHAO",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/103"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/103",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes",
+      "ci-pipeline-failed"
+    ]
   },
   {
     "iid": 102,
@@ -1581,7 +2296,10 @@
     "merged_at": "",
     "closed_at": "2026-06-28",
     "author": "Jett_Woo",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/102"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/102",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 101,
@@ -1592,7 +2310,11 @@
     "merged_at": "",
     "closed_at": "2026-06-15",
     "author": "jiangling12",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/101"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/101",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 100,
@@ -1603,7 +2325,12 @@
     "merged_at": "2026-05-29",
     "closed_at": "",
     "author": "A-Liuhao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/100"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/100",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 99,
@@ -1614,7 +2341,13 @@
     "merged_at": "2026-05-29",
     "closed_at": "",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/99"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/99",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "stat/needs-squash",
+      "lgtm"
+    ]
   },
   {
     "iid": 98,
@@ -1625,7 +2358,12 @@
     "merged_at": "2026-06-04",
     "closed_at": "",
     "author": "chentianyu19",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/98"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/98",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 97,
@@ -1636,7 +2374,8 @@
     "merged_at": "",
     "closed_at": "2026-05-29",
     "author": "chentianyu19",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/97"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/97",
+    "labels": []
   },
   {
     "iid": 96,
@@ -1647,7 +2386,12 @@
     "merged_at": "2026-05-27",
     "closed_at": "",
     "author": "A-Liuhao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/96"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/96",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 95,
@@ -1658,7 +2402,11 @@
     "merged_at": "",
     "closed_at": "2026-06-23",
     "author": "jiangxiuhan1",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/95"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/95",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 94,
@@ -1669,7 +2417,10 @@
     "merged_at": "",
     "closed_at": "",
     "author": "lvmengge",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/94"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/94",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 93,
@@ -1680,7 +2431,12 @@
     "merged_at": "2026-05-27",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/93"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/93",
+    "labels": [
+      "approved",
+      "cann-cla/yes",
+      "lgtm"
+    ]
   },
   {
     "iid": 92,
@@ -1691,7 +2447,11 @@
     "merged_at": "",
     "closed_at": "",
     "author": "biabu111",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/92"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/92",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 91,
@@ -1702,7 +2462,10 @@
     "merged_at": "",
     "closed_at": "",
     "author": "kevin_huang1234",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/91"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/91",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 90,
@@ -1713,7 +2476,10 @@
     "merged_at": "",
     "closed_at": "",
     "author": "tan_xin",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/90"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/90",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 89,
@@ -1724,7 +2490,14 @@
     "merged_at": "2026-06-25",
     "closed_at": "",
     "author": "treefei",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/89"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/89",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "approved",
+      "lgtm",
+      "ci-pipeline-passed"
+    ]
   },
   {
     "iid": 88,
@@ -1735,7 +2508,11 @@
     "merged_at": "",
     "closed_at": "2026-06-15",
     "author": "liuchuangdev",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/88"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/88",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 87,
@@ -1746,7 +2523,10 @@
     "merged_at": "",
     "closed_at": "",
     "author": "ji-jun1",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/87"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/87",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 86,
@@ -1757,7 +2537,13 @@
     "merged_at": "2026-06-04",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/86"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/86",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 85,
@@ -1768,7 +2554,13 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/85"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/85",
+    "labels": [
+      "stat/needs-squash",
+      "approved",
+      "lgtm",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 84,
@@ -1779,7 +2571,13 @@
     "merged_at": "2026-06-01",
     "closed_at": "",
     "author": "jinyijian",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/84"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/84",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 83,
@@ -1790,7 +2588,11 @@
     "merged_at": "",
     "closed_at": "2026-06-23",
     "author": "liuchuangdev",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/83"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/83",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 82,
@@ -1801,7 +2603,13 @@
     "merged_at": "2026-05-19",
     "closed_at": "",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/82"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/82",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 81,
@@ -1812,7 +2620,10 @@
     "merged_at": "",
     "closed_at": "",
     "author": "chentianyu19",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/81"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/81",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 80,
@@ -1823,7 +2634,11 @@
     "merged_at": "",
     "closed_at": "2026-05-27",
     "author": "jiangxiuhan1",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/80"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/80",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 79,
@@ -1834,7 +2649,11 @@
     "merged_at": "",
     "closed_at": "2026-05-20",
     "author": "jinyijian",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/79"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/79",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 78,
@@ -1845,7 +2664,12 @@
     "merged_at": "2026-05-19",
     "closed_at": "",
     "author": "Feixinzhx",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/78"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/78",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 77,
@@ -1856,7 +2680,12 @@
     "merged_at": "",
     "closed_at": "2026-05-19",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/77"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/77",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "approved"
+    ]
   },
   {
     "iid": 76,
@@ -1867,7 +2696,12 @@
     "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "Feixinzhx",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/76"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/76",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 75,
@@ -1878,7 +2712,13 @@
     "merged_at": "2026-05-15",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/75"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/75",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 74,
@@ -1889,7 +2729,13 @@
     "merged_at": "2026-05-14",
     "closed_at": "",
     "author": "YANXI_ZHAO",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/74"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/74",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 73,
@@ -1900,7 +2746,14 @@
     "merged_at": "2026-05-28",
     "closed_at": "",
     "author": "qq_38449078",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/73"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/73",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "stat/needs-squash",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 72,
@@ -1911,7 +2764,12 @@
     "merged_at": "2026-05-19",
     "closed_at": "",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/72"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/72",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 71,
@@ -1922,7 +2780,13 @@
     "merged_at": "2026-05-19",
     "closed_at": "",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/71"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/71",
+    "labels": [
+      "lgtm",
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "approved"
+    ]
   },
   {
     "iid": 70,
@@ -1933,7 +2797,10 @@
     "merged_at": "",
     "closed_at": "",
     "author": "zl_hw",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/70"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/70",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 69,
@@ -1944,7 +2811,13 @@
     "merged_at": "2026-05-16",
     "closed_at": "",
     "author": "pescn",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/69"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/69",
+    "labels": [
+      "approved",
+      "lgtm",
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 68,
@@ -1955,7 +2828,10 @@
     "merged_at": "",
     "closed_at": "2026-05-12",
     "author": "pescn",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/68"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/68",
+    "labels": [
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 67,
@@ -1966,7 +2842,12 @@
     "merged_at": "2026-05-08",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/67"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/67",
+    "labels": [
+      "approved",
+      "cann-cla/yes",
+      "lgtm"
+    ]
   },
   {
     "iid": 66,
@@ -1977,7 +2858,13 @@
     "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/66"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/66",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 65,
@@ -1988,7 +2875,14 @@
     "merged_at": "2026-05-15",
     "closed_at": "",
     "author": "w00951525",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/65"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/65",
+    "labels": [
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm",
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 64,
@@ -1999,7 +2893,10 @@
     "merged_at": "",
     "closed_at": "2026-05-18",
     "author": "WangShuying5",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/64"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/64",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 63,
@@ -2010,7 +2907,13 @@
     "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "A-Liuhao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/63"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/63",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 62,
@@ -2021,7 +2924,11 @@
     "merged_at": "",
     "closed_at": "",
     "author": "cui_jiahao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/62"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/62",
+    "labels": [
+      "ci-pipeline-passed",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 61,
@@ -2032,7 +2939,11 @@
     "merged_at": "",
     "closed_at": "2026-05-07",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/61"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/61",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 60,
@@ -2043,7 +2954,13 @@
     "merged_at": "2026-04-29",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/60"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/60",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 59,
@@ -2054,7 +2971,12 @@
     "merged_at": "",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/59"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/59",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 58,
@@ -2065,7 +2987,10 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/58"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/58",
+    "labels": [
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 57,
@@ -2076,7 +3001,10 @@
     "merged_at": "",
     "closed_at": "",
     "author": "djahshx",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/57"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/57",
+    "labels": [
+      "cann-cla/no"
+    ]
   },
   {
     "iid": 56,
@@ -2087,7 +3015,13 @@
     "merged_at": "2026-04-29",
     "closed_at": "",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/56"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/56",
+    "labels": [
+      "lgtm",
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "approved"
+    ]
   },
   {
     "iid": 55,
@@ -2098,7 +3032,12 @@
     "merged_at": "2026-04-25",
     "closed_at": "",
     "author": "TianXL",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/55"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/55",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 54,
@@ -2109,7 +3048,12 @@
     "merged_at": "2026-04-23",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/54"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/54",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 53,
@@ -2120,7 +3064,11 @@
     "merged_at": "",
     "closed_at": "2026-06-17",
     "author": "zhoumin_",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/53"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/53",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 52,
@@ -2131,7 +3079,13 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/52"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/52",
+    "labels": [
+      "lgtm",
+      "approved",
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 51,
@@ -2142,7 +3096,12 @@
     "merged_at": "2026-04-18",
     "closed_at": "",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/51"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/51",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 50,
@@ -2153,7 +3112,13 @@
     "merged_at": "2026-04-25",
     "closed_at": "",
     "author": "RiddleTan",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/50"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/50",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 49,
@@ -2164,7 +3129,13 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "yijie19",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/49"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/49",
+    "labels": [
+      "ci-pipeline-failed",
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 48,
@@ -2175,7 +3146,12 @@
     "merged_at": "2026-04-17",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/48"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/48",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 47,
@@ -2186,7 +3162,13 @@
     "merged_at": "",
     "closed_at": "",
     "author": "RiddleTan",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/47"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/47",
+    "labels": [
+      "approved",
+      "cann-cla/no",
+      "stat/needs-squash",
+      "lgtm"
+    ]
   },
   {
     "iid": 46,
@@ -2197,7 +3179,13 @@
     "merged_at": "",
     "closed_at": "",
     "author": "RiddleTan",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/46"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/46",
+    "labels": [
+      "approved",
+      "stat/needs-squash",
+      "cann-cla/no",
+      "lgtm"
+    ]
   },
   {
     "iid": 45,
@@ -2208,7 +3196,13 @@
     "merged_at": "",
     "closed_at": "",
     "author": "RiddleTan",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/45"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/45",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/no",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 44,
@@ -2219,7 +3213,12 @@
     "merged_at": "2026-04-15",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/44"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/44",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 43,
@@ -2230,7 +3229,12 @@
     "merged_at": "2026-04-15",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/43"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/43",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 42,
@@ -2241,7 +3245,10 @@
     "merged_at": "",
     "closed_at": "2026-04-15",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/42"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/42",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 41,
@@ -2252,7 +3259,10 @@
     "merged_at": "",
     "closed_at": "2026-05-18",
     "author": "sunlesheng",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/41"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/41",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 40,
@@ -2263,7 +3273,12 @@
     "merged_at": "2026-04-15",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/40"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/40",
+    "labels": [
+      "lgtm",
+      "approved",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 39,
@@ -2274,7 +3289,12 @@
     "merged_at": "2026-04-15",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/39"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/39",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 38,
@@ -2285,7 +3305,12 @@
     "merged_at": "2026-04-13",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/38"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/38",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 37,
@@ -2296,7 +3321,12 @@
     "merged_at": "2026-04-13",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/37"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/37",
+    "labels": [
+      "lgtm",
+      "cann-cla/yes",
+      "approved"
+    ]
   },
   {
     "iid": 36,
@@ -2307,7 +3337,13 @@
     "merged_at": "2026-04-13",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/36"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/36",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 35,
@@ -2318,7 +3354,12 @@
     "merged_at": "2026-04-09",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/35"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/35",
+    "labels": [
+      "cann-cla/yes",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 34,
@@ -2329,7 +3370,13 @@
     "merged_at": "2026-04-09",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/34"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/34",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "stat/needs-squash",
+      "lgtm"
+    ]
   },
   {
     "iid": 33,
@@ -2340,7 +3387,12 @@
     "merged_at": "2026-04-08",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/33"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/33",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 32,
@@ -2351,7 +3403,12 @@
     "merged_at": "2026-04-08",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/32"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/32",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 31,
@@ -2362,7 +3419,12 @@
     "merged_at": "2026-04-08",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/31"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/31",
+    "labels": [
+      "lgtm",
+      "cann-cla/yes",
+      "approved"
+    ]
   },
   {
     "iid": 30,
@@ -2373,7 +3435,12 @@
     "merged_at": "2026-04-07",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/30"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/30",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 29,
@@ -2384,7 +3451,11 @@
     "merged_at": "",
     "closed_at": "2026-04-07",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/29"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/29",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
   },
   {
     "iid": 28,
@@ -2395,7 +3466,13 @@
     "merged_at": "2026-04-07",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/28"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/28",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 27,
@@ -2406,7 +3483,13 @@
     "merged_at": "2026-04-01",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/27"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/27",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 26,
@@ -2417,7 +3500,12 @@
     "merged_at": "2026-04-01",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/26"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/26",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 25,
@@ -2428,7 +3516,12 @@
     "merged_at": "2026-03-31",
     "closed_at": "",
     "author": "chenyx_2012",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/25"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/25",
+    "labels": [
+      "cann-cla/yes",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 24,
@@ -2439,7 +3532,13 @@
     "merged_at": "2026-03-31",
     "closed_at": "",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/24"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/24",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 23,
@@ -2450,7 +3549,12 @@
     "merged_at": "2026-03-31",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/23"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/23",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 22,
@@ -2461,7 +3565,13 @@
     "merged_at": "2026-03-26",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/22"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/22",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 21,
@@ -2472,7 +3582,12 @@
     "merged_at": "2026-03-25",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/21"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/21",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 20,
@@ -2483,7 +3598,10 @@
     "merged_at": "",
     "closed_at": "2026-03-25",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/20"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/20",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 19,
@@ -2494,7 +3612,12 @@
     "merged_at": "2026-03-25",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/19"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/19",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 18,
@@ -2505,7 +3628,12 @@
     "merged_at": "2026-03-19",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/18"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/18",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 17,
@@ -2516,7 +3644,13 @@
     "merged_at": "2026-03-23",
     "closed_at": "",
     "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/17"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/17",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 16,
@@ -2527,7 +3661,12 @@
     "merged_at": "2026-03-18",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/16"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/16",
+    "labels": [
+      "approved",
+      "cann-cla/yes",
+      "lgtm"
+    ]
   },
   {
     "iid": 15,
@@ -2538,7 +3677,12 @@
     "merged_at": "2026-03-18",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/15"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/15",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 14,
@@ -2549,7 +3693,12 @@
     "merged_at": "2026-03-18",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/14"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/14",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 13,
@@ -2560,7 +3709,12 @@
     "merged_at": "2026-03-19",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/13"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/13",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 12,
@@ -2571,7 +3725,13 @@
     "merged_at": "2026-03-18",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/12"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/12",
+    "labels": [
+      "lgtm",
+      "approved",
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 11,
@@ -2582,7 +3742,12 @@
     "merged_at": "2026-03-12",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/11"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/11",
+    "labels": [
+      "lgtm",
+      "cann-cla/yes",
+      "approved"
+    ]
   },
   {
     "iid": 10,
@@ -2593,7 +3758,10 @@
     "merged_at": "",
     "closed_at": "2026-03-19",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/10"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/10",
+    "labels": [
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 9,
@@ -2604,7 +3772,12 @@
     "merged_at": "2026-03-13",
     "closed_at": "",
     "author": "mlewis",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/9"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/9",
+    "labels": [
+      "approved",
+      "cann-cla/yes",
+      "lgtm"
+    ]
   },
   {
     "iid": 8,
@@ -2615,7 +3788,12 @@
     "merged_at": "2026-03-09",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/8"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/8",
+    "labels": [
+      "lgtm",
+      "cann-cla/yes",
+      "approved"
+    ]
   },
   {
     "iid": 7,
@@ -2626,7 +3804,12 @@
     "merged_at": "2026-03-06",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/7"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/7",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 6,
@@ -2637,7 +3820,12 @@
     "merged_at": "2026-03-05",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/6"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/6",
+    "labels": [
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
   },
   {
     "iid": 5,
@@ -2648,7 +3836,12 @@
     "merged_at": "2026-03-05",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/5"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/5",
+    "labels": [
+      "lgtm",
+      "cann-cla/yes",
+      "approved"
+    ]
   },
   {
     "iid": 4,
@@ -2659,7 +3852,12 @@
     "merged_at": "2026-03-05",
     "closed_at": "",
     "author": "waimaidaole",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/4"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/4",
+    "labels": [
+      "cann-cla/yes",
+      "lgtm",
+      "approved"
+    ]
   },
   {
     "iid": 3,
@@ -2670,7 +3868,12 @@
     "merged_at": "2026-03-05",
     "closed_at": "",
     "author": "moxiaoyou",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/3"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/3",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes"
+    ]
   },
   {
     "iid": 2,
@@ -2681,7 +3884,12 @@
     "merged_at": "2026-03-05",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/2"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/2",
+    "labels": [
+      "approved",
+      "cann-cla/yes",
+      "lgtm"
+    ]
   },
   {
     "iid": 1,
@@ -2692,6 +3900,12 @@
     "merged_at": "2026-03-05",
     "closed_at": "",
     "author": "fuyangchenghu",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/1"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/1",
+    "labels": [
+      "stat/needs-squash",
+      "approved",
+      "lgtm",
+      "cann-cla/yes"
+    ]
   }
 ]

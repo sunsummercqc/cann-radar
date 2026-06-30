@@ -23,9 +23,9 @@
   },
   {
     "iid": 477,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-27",
-    "closed_at": "",
+    "closed_at": "2026-06-30",
     "author": "zhaozhixuan",
     "title": "[Feature-Request|需求反馈]: rts引擎支持在op上打上实现方式的属性",
     "labels": [],
@@ -139,7 +139,7 @@
     "author": "gothizzz",
     "title": "[Bug-Report|缺陷反馈]: x86 默认开启 ASAN 导致 UT 编译阶段 gen_esb 崩溃，--asan=false 因脚本缓存陈旧不生效",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/466"
   },
   {

@@ -1,13 +1,46 @@
 [
   {
-    "iid": 403,
+    "iid": 407,
     "state": "opened",
-    "created_at": "2026-06-29",
+    "created_at": "2026-06-30",
     "closed_at": "",
+    "author": "songmingyang",
+    "title": "[Roadmap] HIXL 2026 H2 roadmap",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/407"
+  },
+  {
+    "iid": 405,
+    "state": "opened",
+    "created_at": "2026-06-30",
+    "closed_at": "",
+    "author": "super_chao_x",
+    "title": "[Question|问题咨询]: HIXL是否支持升级兼容性？",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/405"
+  },
+  {
+    "iid": 404,
+    "state": "closed",
+    "created_at": "2026-06-30",
+    "closed_at": "2026-06-30",
+    "author": "huchunmei_123",
+    "title": "[Question|问题咨询]: pull_cache接口测试，batch_index：1；size：1*1024*1024，a2精度校验失败，a3 ok",
+    "labels": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/404"
+  },
+  {
+    "iid": 403,
+    "state": "closed",
+    "created_at": "2026-06-29",
+    "closed_at": "2026-06-30",
     "author": "wang-chunyang",
     "title": "[Question|问题咨询]: A3，报告 The parameter memHandle is invalid、Failed to deregister mem、hcclRet -> 1 问题",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/hixl/issues/403"
   },
   {
@@ -100,9 +133,9 @@
   },
   {
     "iid": 394,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-24",
-    "closed_at": "",
+    "closed_at": "2026-06-30",
     "author": "gcw_FYN1wICt",
     "title": "[Question|问题咨询]: A5 HOST ROCE异构验证Mooncake池化，求指导如何配置",
     "labels": [],
@@ -111,9 +144,9 @@
   },
   {
     "iid": 393,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-24",
-    "closed_at": "",
+    "closed_at": "2026-06-30",
     "author": "gcw_FYN1wICt",
     "title": "[Question|问题咨询]: A5机器查ROCE IP",
     "labels": [],
@@ -144,9 +177,9 @@
   },
   {
     "iid": 390,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-23",
-    "closed_at": "",
+    "closed_at": "2026-06-30",
     "author": "xumengxuan",
     "title": "[RFC]：HIXL支持打包发布deb/rpm包",
     "labels": [],
@@ -408,9 +441,9 @@
   },
   {
     "iid": 365,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-11",
-    "closed_at": "",
+    "closed_at": "2026-06-30",
     "author": "willzhuyx",
     "title": "[Bug-Report|缺陷反馈]: A5 Server通过1825网卡通过RoCE进行通讯，Mooncake transfer engine启动失败",
     "labels": [],
@@ -447,7 +480,7 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: 异步建链，增加线程数后，效果不符合预期",
     "labels": [],
-    "user_notes_count": 8,
+    "user_notes_count": 9,
     "web_url": "https://gitcode.com/cann/hixl/issues/362"
   },
   {
@@ -551,9 +584,9 @@
   },
   {
     "iid": 352,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-05",
-    "closed_at": "",
+    "closed_at": "2026-06-30",
     "author": "SincoTeng",
     "title": "[Bug-Report|缺陷反馈] 多进程hstu训练场景，每个进程同时初始化client与server，client连接其他进程的server，比较高概率出现连接超时，无法正常连接通信",
     "labels": [],
@@ -1750,9 +1783,9 @@
   },
   {
     "iid": 196,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-16",
-    "closed_at": "",
+    "closed_at": "2026-06-30",
     "author": "A-Liuhao",
     "title": "【💡需求征集】：2026 H1",
     "labels": [],
@@ -2927,13 +2960,13 @@
   },
   {
     "iid": 88,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-01-21",
-    "closed_at": "",
+    "closed_at": "2026-06-30",
     "author": "zhaozhihui",
     "title": "[Roadmap] hixl roadmap 2026 H1",
     "labels": [],
-    "user_notes_count": 7,
+    "user_notes_count": 11,
     "web_url": "https://gitcode.com/cann/hixl/issues/88"
   },
   {
