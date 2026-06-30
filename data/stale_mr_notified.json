@@ -1,0 +1,53 @@
+{
+  "last_run": "2026-06-30T16:42:54",
+  "notified": {
+    "cann__ge!3497": {
+      "notified_at": "2026-06-30T16:42:30",
+      "count": 1
+    },
+    "cann__ge!3220": {
+      "notified_at": "2026-06-30T16:42:30",
+      "count": 1
+    },
+    "cann__ge!3177": {
+      "notified_at": "2026-06-30T16:42:32",
+      "count": 1
+    },
+    "cann__ge!3079": {
+      "notified_at": "2026-06-30T16:42:32",
+      "count": 1
+    },
+    "cann__ge!3535": {
+      "notified_at": "2026-06-30T16:42:34",
+      "count": 1
+    },
+    "cann__ge!3501": {
+      "notified_at": "2026-06-30T16:42:37",
+      "count": 1
+    },
+    "cann__ge!3483": {
+      "notified_at": "2026-06-30T16:42:39",
+      "count": 1
+    },
+    "cann__ge!3462": {
+      "notified_at": "2026-06-30T16:42:41",
+      "count": 1
+    },
+    "cann__ge!3460": {
+      "notified_at": "2026-06-30T16:42:43",
+      "count": 1
+    },
+    "cann__ge!3434": {
+      "notified_at": "2026-06-30T16:42:45",
+      "count": 1
+    },
+    "cann__ge!3366": {
+      "notified_at": "2026-06-30T16:42:47",
+      "count": 1
+    },
+    "cann__ge!3325": {
+      "notified_at": "2026-06-30T16:42:49",
+      "count": 1
+    }
+  }
+}
