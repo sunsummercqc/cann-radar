@@ -114,7 +114,7 @@ jobs:
           )
 
       - name: Notify stale MR authors
-        if: github.event.inputs.run_stale_notify == 'true'
+        if: github.event.inputs.run_stale_notify == 'true' || github.event_name == 'schedule'
         run: |
           ARGS="--stale-days ${{ github.event.inputs.stale_days || 14 }}"
           if [ -n "${{ github.event.inputs.test_email }}" ]; then
@@ -126,7 +126,7 @@ jobs:
           python stale_mr_notify.py $ARGS
 
       - name: Commit notified MR tracking
-        if: github.event.inputs.run_stale_notify == 'true'
+        if: github.event.inputs.run_stale_notify == 'true' || github.event_name == 'schedule'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
