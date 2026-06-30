@@ -3,9 +3,9 @@
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "avg_days": 8.6,
-      "closed": 124,
-      "opened": 11
+      "avg_days": 8.4,
+      "closed": 126,
+      "opened": 10
     },
     {
       "name": "torchtitan-npu",
@@ -24,9 +24,9 @@
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "avg_days": 12.9,
-      "closed": 342,
-      "opened": 14
+      "avg_days": 13.2,
+      "closed": 347,
+      "opened": 12
     },
     {
       "name": "torchair",

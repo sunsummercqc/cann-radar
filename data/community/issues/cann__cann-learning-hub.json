@@ -1,5 +1,16 @@
 [
   {
+    "iid": 90,
+    "state": "opened",
+    "created_at": "2026-06-30",
+    "closed_at": "",
+    "author": "CANN-",
+    "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【7.2】",
+    "labels": [],
+    "user_notes_count": 3,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/90"
+  },
+  {
     "iid": 89,
     "state": "opened",
     "created_at": "2026-06-30",
@@ -62,7 +73,7 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.29】",
     "labels": [],
-    "user_notes_count": 22,
+    "user_notes_count": 23,
     "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/84"
   },
   {

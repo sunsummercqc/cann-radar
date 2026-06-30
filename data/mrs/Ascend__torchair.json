@@ -1,48 +1,110 @@
 [
   {
-    "iid": 3291,
-    "state": "opened",
+    "iid": 3294,
+    "state": "merged",
+    "title": "Update ge+sk positioning case, fix missing aclgraph+sk static compilation option",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "Achilles_d",
+    "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3294",
+    "labels": [
+      "ascend-cla/yes",
+      "approved",
+      "lgtm",
+      "docs-ci-pipeline-success",
+      "ci-pipeline-passed"
+    ]
+  },
+  {
+    "iid": 3293,
+    "state": "merged",
+    "title": "Update ge+sk positioning case, fix missing aclgraph+sk static compilation option",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "Achilles_d",
+    "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3293",
+    "labels": [
+      "ascend-cla/yes",
+      "approved",
+      "lgtm",
+      "docs-ci-pipeline-success",
+      "ci-pipeline-passed"
+    ]
+  },
+  {
+    "iid": 3292,
+    "state": "merged",
     "title": "modify npugraph_ex sk examples",
     "created_at": "2026-06-30",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "hujiawen_kaven",
+    "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3292",
+    "labels": [
+      "ascend-cla/yes",
+      "ci-pipeline-passed",
+      "docs-ci-pipeline-success",
+      "approved",
+      "lgtm"
+    ]
+  },
+  {
+    "iid": 3291,
+    "state": "merged",
+    "title": "modify npugraph_ex sk examples",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "hujiawen_kaven",
     "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3291",
     "labels": [
+      "ascend-cla/yes",
+      "ci-pipeline-passed",
       "docs-ci-pipeline-success",
-      "ascend-cla/yes"
+      "approved",
+      "lgtm"
     ]
   },
   {
     "iid": 3290,
-    "state": "opened",
+    "state": "merged",
     "title": "拦截不同轴reduce的合并&拦截CPU上的concat",
     "created_at": "2026-06-30",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "medivh-x",
     "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3290",
     "labels": [
       "stat/needs-squash",
       "ascend-cla/yes",
-      "docs-ci-pipeline-success"
+      "docs-ci-pipeline-success",
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm"
     ]
   },
   {
     "iid": 3289,
-    "state": "opened",
+    "state": "merged",
     "title": "[feature]support converter torch.ops.aten.view.dtype",
     "created_at": "2026-06-30",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "chenweiheng",
     "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3289",
     "labels": [
       "docs-ci-pipeline-success",
       "ci-pipeline-passed",
+      "approved",
+      "lgtm",
       "ascend-cla/yes"
     ]
   },
@@ -171,7 +233,7 @@
   {
     "iid": 3281,
     "state": "opened",
-    "title": "[WIP]mmallreduce change A5 default comm engine to aicpu",
+    "title": "mmallreduce change A5 default comm engine to aicpu",
     "created_at": "2026-06-29",
     "updated_at": "2026-06-30",
     "merged_at": "",
@@ -341,17 +403,19 @@
   },
   {
     "iid": 3271,
-    "state": "opened",
+    "state": "merged",
     "title": "fix:修复npu_all_gather_base_mm接口图模式不支持comm_mode参数",
     "created_at": "2026-06-27",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "WangShuying5",
     "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3271",
     "labels": [
       "ascend-cla/yes",
       "stat/needs-squash",
+      "approved",
+      "lgtm",
       "ci-pipeline-passed",
       "docs-ci-pipeline-success"
     ]
@@ -435,8 +499,9 @@
     "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3266",
     "labels": [
       "ascend-cla/yes",
-      "ci-pipeline-failed",
-      "docs-ci-pipeline-success"
+      "docs-ci-pipeline-success",
+      "ci-pipeline-passed",
+      "approved"
     ]
   },
   {
@@ -587,9 +652,9 @@
   {
     "iid": 3256,
     "state": "closed",
-    "title": "fix:convert_npu_all_gather_base_mm和convert_npu_mm_reduce_scatter_base添加comm_mode参数",
+    "title": "fix:convert_npu_all_gather_base_mmcomm_mode参数",
     "created_at": "2026-06-25",
-    "updated_at": "2026-06-27",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "2026-06-27",
     "author": "WangShuying5",
@@ -851,17 +916,18 @@
   },
   {
     "iid": 3241,
-    "state": "opened",
+    "state": "merged",
     "title": "add softmax and layernorm r-axis handler",
     "created_at": "2026-06-22",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "yurongkun",
     "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3241",
     "labels": [
       "ascend-cla/yes",
       "stat/needs-squash",
+      "lgtm",
       "docs-ci-pipeline-success",
       "ci-pipeline-passed",
       "approved"

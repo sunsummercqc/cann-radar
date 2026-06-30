@@ -1,18 +1,138 @@
 [
   {
-    "iid": 701,
+    "iid": 708,
     "state": "opened",
-    "title": "bugfix: ensure batch mode ends on failure",
+    "title": "[refactor]: add region_size and desc_len to ConvertHostAddr logs",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "lining23666",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/708",
+    "labels": [
+      "SC-SUCC",
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "stat/needs-squash",
+      "BUILD-SUCC",
+      "lgtm"
+    ]
+  },
+  {
+    "iid": 707,
+    "state": "opened",
+    "title": "[feat]: support configurable max active channels",
     "created_at": "2026-06-30",
     "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "zhaozhihui",
-    "web_url": "https://gitcode.com/cann/hixl/merge_requests/701",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/707",
+    "labels": []
+  },
+  {
+    "iid": 706,
+    "state": "merged",
+    "title": "[bugfix]修改benchmarks用例中roce内存注册方式的判断逻辑，优化pyUT用例中的偶发错误，UT屏蔽目录新增.agents",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "lugang11",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/706",
     "labels": [
       "cann-cla/yes",
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved"
+    ]
+  },
+  {
+    "iid": 705,
+    "state": "opened",
+    "title": "[refactor]: optimize batch transfer and host addr convert logs",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "lining23666",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/705",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "ci-pipeline-passed",
       "api-check-pass",
-      "ci-pipeline-failed"
+      "lgtm"
+    ]
+  },
+  {
+    "iid": 704,
+    "state": "merged",
+    "title": "[feat]: support configurable max active channels",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "zhaozhihui",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/704",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "api-check-pass",
+      "lgtm",
+      "approved"
+    ]
+  },
+  {
+    "iid": 703,
+    "state": "merged",
+    "title": "[bugfix]: fix uninstall error",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "AlexRen998916",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/703",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved"
+    ]
+  },
+  {
+    "iid": 702,
+    "state": "merged",
+    "title": "[bugfix]: ensure batch mode ends on failure",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "zhaozhihui",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/702",
+    "labels": [
+      "cann-cla/yes",
+      "lgtm",
+      "approved",
+      "ci-pipeline-passed"
+    ]
+  },
+  {
+    "iid": 701,
+    "state": "merged",
+    "title": "[bugfix]: ensure batch mode ends on failure",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "zhaozhihui",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/701",
+    "labels": [
+      "lgtm",
+      "ci-pipeline-passed",
+      "api-check-pass",
+      "approved",
+      "cann-cla/yes"
     ]
   },
   {
@@ -31,17 +151,19 @@
   },
   {
     "iid": 699,
-    "state": "opened",
+    "state": "merged",
     "title": "fix: correct broken documentation links in SKILL files",
     "created_at": "2026-06-29",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "icer3",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/699",
     "labels": [
       "api-check-pass",
       "ci-pipeline-passed",
+      "approved",
+      "lgtm",
       "cann-cla/yes",
       "stat/needs-squash"
     ]
@@ -149,31 +271,37 @@
   },
   {
     "iid": 692,
-    "state": "opened",
+    "state": "merged",
     "title": "[bugfix]: fix uninstall error",
     "created_at": "2026-06-27",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "AlexRen998916",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/692",
     "labels": [
-      "cann-cla/yes"
+      "ci-pipeline-passed",
+      "api-check-pass",
+      "cann-cla/yes",
+      "lgtm",
+      "approved"
     ]
   },
   {
     "iid": 691,
-    "state": "opened",
-    "title": "[WIP]修改 SendCreateChannelResp 顺序，先发送再 CreateChannel",
+    "state": "merged",
+    "title": "[feat]: server端生成channel_index并新增channelName字段",
     "created_at": "2026-06-27",
-    "updated_at": "2026-06-27",
-    "merged_at": "",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "M__Cheng",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/691",
     "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash"
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved",
+      "cann-cla/yes"
     ]
   },
   {
@@ -412,18 +540,21 @@
   },
   {
     "iid": 676,
-    "state": "opened",
+    "state": "merged",
     "title": "[feat]: server端生成channel_index并新增channelName字段",
     "created_at": "2026-06-25",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "M__Cheng",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/676",
     "labels": [
       "cann-cla/yes",
       "stat/needs-squash",
-      "ci-pipeline-running"
+      "api-check-pass",
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm"
     ]
   },
   {
@@ -1625,17 +1756,20 @@
   },
   {
     "iid": 607,
-    "state": "opened",
+    "state": "merged",
     "title": "[bugfix]: fix smoke test bug",
     "created_at": "2026-06-09",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "AlexRen998916",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/607",
     "labels": [
       "cann-cla/yes",
-      "ci-pipeline-running"
+      "api-check-pass",
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved"
     ]
   },
   {
@@ -8887,8 +9021,8 @@
     "author": "songxiujing",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/190",
     "labels": [
-      "ci-pipeline-failed",
       "api-check-pass",
+      "ci-pipeline-passed",
       "cann-cla/no"
     ]
   },

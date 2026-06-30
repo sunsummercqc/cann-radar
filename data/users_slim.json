@@ -1,5 +1,18 @@
 [
   {
+    "user_name": "rsm0624",
+    "nick_name": "rsm0624",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 5,
+    "developer_source": "external"
+  },
+  {
     "user_name": "ASFSAFDASF",
     "nick_name": "ASFSAFDASF",
     "starred_repos": [
@@ -4449,6 +4462,7 @@
       "cann/ge",
       "cann/hixl",
       "cann/graph-autofusion",
+      "cann/torchtitan-npu",
       "Ascend/torchair"
     ],
     "user_type": "contributor",
@@ -7968,6 +7982,18 @@
     "developer_source": "internal"
   },
   {
+    "user_name": "RangerP",
+    "nick_name": "panyiwei",
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0,
+    "developer_source": "external"
+  },
+  {
     "user_name": "pengxiao",
     "nick_name": "Peng Xiao",
     "starred_repos": [
@@ -8094,18 +8120,6 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 1,
-    "developer_source": "external"
-  },
-  {
-    "user_name": "rsm0624",
-    "nick_name": "rsm0624",
-    "starred_repos": [
-      "cann/hixl"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 5,
     "developer_source": "external"
   },
   {
@@ -11864,18 +11878,6 @@
     "original_repo_count": 0,
     "total_contributions": 0,
     "developer_source": "internal"
-  },
-  {
-    "user_name": "RangerP",
-    "nick_name": "RangerP",
-    "starred_repos": [
-      "cann/hixl"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0,
-    "developer_source": "external"
   },
   {
     "user_name": "qq_40377235",

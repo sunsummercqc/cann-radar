@@ -1,5 +1,20 @@
 [
   {
+    "iid": 522,
+    "state": "opened",
+    "title": "unsample_3d",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "lqq12345677",
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/522",
+    "labels": [
+      "cann-cla/no",
+      "stat/needs-squash"
+    ]
+  },
+  {
     "iid": 521,
     "state": "opened",
     "title": "别测了没bug团队修改了设计文档",
@@ -11,23 +26,25 @@
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/521",
     "labels": [
       "stat/needs-squash",
-      "cann-cla/yes"
+      "cann-cla/yes",
+      "ci-pipeline-passed"
     ]
   },
   {
     "iid": 520,
-    "state": "opened",
+    "state": "merged",
     "title": "[26Final-basic]team-披荆斩棘-update: 提交GeluV2与TensorEqual算子实现",
     "created_at": "2026-06-30",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "cxj01",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/520",
     "labels": [
       "approved",
       "ci-pipeline-passed",
-      "cann-cla/yes"
+      "cann-cla/yes",
+      "lgtm"
     ]
   },
   {
@@ -41,7 +58,7 @@
     "author": "zutao",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/519",
     "labels": [
-      "ci-pipeline-running",
+      "ci-pipeline-passed",
       "cann-cla/yes",
       "stat/needs-squash"
     ]
@@ -94,15 +111,16 @@
   },
   {
     "iid": 515,
-    "state": "opened",
+    "state": "merged",
     "title": "[26Final-basic]team-jcbzqjr-update: 提交GeluV2与TensorEqual算子实现",
     "created_at": "2026-06-29",
-    "updated_at": "2026-06-29",
-    "merged_at": "",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "jiay0u",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/515",
     "labels": [
+      "lgtm",
       "ci-pipeline-passed",
       "approved",
       "cann-cla/yes"
@@ -124,15 +142,16 @@
   },
   {
     "iid": 513,
-    "state": "opened",
+    "state": "merged",
     "title": "[26Final-basic][Tangefly]Add GeluV2 & TensorEqual Operator",
     "created_at": "2026-06-29",
-    "updated_at": "2026-06-29",
-    "merged_at": "",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "linuxkiller",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/513",
     "labels": [
+      "lgtm",
       "ci-pipeline-passed",
       "approved",
       "stat/needs-squash",
@@ -155,16 +174,17 @@
   },
   {
     "iid": 511,
-    "state": "opened",
+    "state": "merged",
     "title": "宇宙不怎么闪烁 冠军赛代码",
     "created_at": "2026-06-29",
-    "updated_at": "2026-06-29",
-    "merged_at": "",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "weixin_43900405",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/511",
     "labels": [
       "cann-cla/yes",
+      "lgtm",
       "ci-pipeline-passed",
       "approved"
     ]
@@ -188,15 +208,16 @@
   },
   {
     "iid": 509,
-    "state": "opened",
+    "state": "merged",
     "title": "Add Tai Er Suan Cai Yu operator submissions",
     "created_at": "2026-06-29",
-    "updated_at": "2026-06-29",
-    "merged_at": "",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "yuntaoyulong",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/509",
     "labels": [
+      "lgtm",
       "cann-cla/yes",
       "approved",
       "ci-pipeline-passed"
@@ -261,7 +282,8 @@
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/505",
     "labels": [
       "ci-pipeline-passed",
-      "cann-cla/yes"
+      "cann-cla/yes",
+      "approved"
     ]
   },
   {
@@ -283,11 +305,11 @@
   },
   {
     "iid": 503,
-    "state": "opened",
+    "state": "merged",
     "title": "【社区任务】Gcd算子设计文档",
     "created_at": "2026-06-25",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "lunhao2023",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/503",
@@ -295,7 +317,8 @@
       "cann-cla/yes",
       "stat/needs-squash",
       "approved",
-      "ci-pipeline-passed"
+      "ci-pipeline-passed",
+      "lgtm"
     ]
   },
   {
@@ -303,7 +326,7 @@
     "state": "opened",
     "title": "update: 更新文件 README.md",
     "created_at": "2026-06-25",
-    "updated_at": "2026-06-29",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "lqq12345677",
@@ -829,7 +852,7 @@
     "state": "opened",
     "title": "feat: add ScatterAdd operator design document for task 03-17",
     "created_at": "2026-06-12",
-    "updated_at": "2026-06-25",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "FDP6526",
@@ -1221,11 +1244,11 @@
   },
   {
     "iid": 446,
-    "state": "opened",
+    "state": "merged",
     "title": "【社区任务】Im2col算子设计文档",
     "created_at": "2026-06-09",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "gcw_7Kyyz1cg",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/446",
@@ -1233,6 +1256,7 @@
       "cann-cla/yes",
       "stat/needs-squash",
       "approved",
+      "lgtm",
       "ci-pipeline-passed"
     ]
   },
@@ -1716,18 +1740,19 @@
   },
   {
     "iid": 416,
-    "state": "opened",
+    "state": "merged",
     "title": "[社区任务]SPMV算子设计文档",
     "created_at": "2026-06-08",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "qq_44161734",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/416",
     "labels": [
       "ci-pipeline-passed",
       "cann-cla/yes",
-      "approved"
+      "approved",
+      "lgtm"
     ]
   },
   {
@@ -3207,15 +3232,15 @@
     "state": "opened",
     "title": "update: 更新文件 README.md",
     "created_at": "2026-06-05",
-    "updated_at": "2026-06-25",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "lqq12345677",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/326",
     "labels": [
       "cann-cla/no",
-      "ci-pipeline-passed",
-      "stat/needs-squash"
+      "stat/needs-squash",
+      "ci-pipeline-passed"
     ]
   },
   {
@@ -4209,18 +4234,19 @@
   },
   {
     "iid": 265,
-    "state": "opened",
+    "state": "merged",
     "title": "【社区任务】TrsmBatched算子设计文档",
     "created_at": "2026-06-02",
-    "updated_at": "2026-06-04",
-    "merged_at": "",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "jingdemeng",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/265",
     "labels": [
-      "ci-pipeline-passed",
       "cann-cla/yes",
-      "approved"
+      "approved",
+      "lgtm",
+      "ci-pipeline-running"
     ]
   },
   {
@@ -4258,20 +4284,20 @@
   },
   {
     "iid": 262,
-    "state": "opened",
+    "state": "merged",
     "title": "【社区任务】Gcd算子设计文档",
     "created_at": "2026-06-02",
-    "updated_at": "2026-06-04",
-    "merged_at": "",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "weixin_44073835",
     "web_url": "https://gitcode.com/cann/cann-ops-competitions/merge_requests/262",
     "labels": [
       "approved",
       "lgtm",
-      "ci-pipeline-passed",
       "cann-cla/yes",
-      "stat/needs-squash"
+      "stat/needs-squash",
+      "ci-pipeline-passed"
     ]
   },
   {

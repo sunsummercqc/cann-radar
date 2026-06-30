@@ -1,5 +1,16 @@
 [
   {
+    "id": 10258074,
+    "namespace": "gcw_WTfSfUy7/torchtitan-npu",
+    "name": "torchtitan-npu",
+    "web_url": "https://gitcode.com/gcw_WTfSfUy7/torchtitan-npu",
+    "http_url_to_repo": "https://gitcode.com/gcw_WTfSfUy7/torchtitan-npu.git",
+    "created_at": "2026-06-30T20:16:38.870+08:00",
+    "creator_username": "gcw_WTfSfUy7",
+    "creator_nick_name": "wangmm",
+    "forked_from": "cann/torchtitan-npu"
+  },
+  {
     "id": 10248749,
     "namespace": "zzyy_zzyy/torchtitan-npu",
     "name": "torchtitan-npu",

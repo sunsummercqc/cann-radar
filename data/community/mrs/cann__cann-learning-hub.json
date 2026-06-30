@@ -1,32 +1,177 @@
 [
   {
-    "iid": 249,
+    "iid": 258,
     "state": "opened",
-    "title": "update: 更新文件 03_operator_develop.ipynb",
+    "title": "关于《第1章 Ascend C算子开发入门基础》的修改意见",
     "created_at": "2026-06-30",
     "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
-    "author": "zutao",
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/249",
+    "author": "Hacker_DL",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/258",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 257,
+    "state": "merged",
+    "title": "chore: 删除多余的test子目录README.md文件",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "waimaidaole",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/257",
+    "labels": [
+      "cann-cla/yes",
+      "lgtm",
+      "approved"
+    ]
+  },
+  {
+    "iid": 256,
+    "state": "opened",
+    "title": "update chapter info",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "Sunyp01",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/256",
     "labels": [
       "cann-cla/yes",
       "ci-pipeline-passed"
     ]
   },
   {
-    "iid": 248,
-    "state": "opened",
-    "title": "feat(tutorials): Add PyPTO development tutorial series",
+    "iid": 255,
+    "state": "merged",
+    "title": "change to cann9.0",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "waimaidaole",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/255",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
+  },
+  {
+    "iid": 254,
+    "state": "closed",
+    "title": "格式修改",
     "created_at": "2026-06-30",
     "updated_at": "2026-06-30",
     "merged_at": "",
+    "closed_at": "2026-06-30",
+    "author": "Sunyp01",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/254",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
+  },
+  {
+    "iid": 253,
+    "state": "merged",
+    "title": "update: 更新文件 README.md",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "zutao",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/253",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
+    ]
+  },
+  {
+    "iid": 252,
+    "state": "opened",
+    "title": "fix: 修复HCCL点对点通信算子文档中的拼写和格式错误",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "wch0810",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/252",
+    "labels": [
+      "ci-pipeline-passed",
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 251,
+    "state": "merged",
+    "title": "update: 更新文件 03_operator_develop.ipynb",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "zutao",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/251",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "lgtm",
+      "approved"
+    ]
+  },
+  {
+    "iid": 250,
+    "state": "opened",
+    "title": "update HIT term_project",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "liuyufan0725",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/250",
+    "labels": [
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 249,
+    "state": "merged",
+    "title": "update: 更新文件 03_operator_develop.ipynb",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "zutao",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/249",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm"
+    ]
+  },
+  {
+    "iid": 248,
+    "state": "merged",
+    "title": "feat(tutorials): Add PyPTO development tutorial series",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "gcw_QGrqFtj5",
     "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/248",
     "labels": [
       "ci-pipeline-passed",
-      "cann-cla/yes"
+      "cann-cla/yes",
+      "approved",
+      "lgtm"
     ]
   },
   {
@@ -171,17 +316,19 @@
   },
   {
     "iid": 238,
-    "state": "opened",
+    "state": "merged",
     "title": "Add TorchAir basic course",
     "created_at": "2026-06-28",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "Sunyp01",
     "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/238",
     "labels": [
       "ci-pipeline-passed",
       "cann-cla/yes",
+      "approved",
+      "lgtm",
       "stat/needs-squash"
     ]
   },
@@ -1226,7 +1373,8 @@
     "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/170",
     "labels": [
       "stat/needs-squash",
-      "cann-cla/no"
+      "cann-cla/no",
+      "approved"
     ]
   },
   {
@@ -1765,7 +1913,7 @@
     "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/136",
     "labels": [
       "cann-cla/yes",
-      "ci-pipeline-passed"
+      "stat/needs-squash"
     ]
   },
   {

@@ -1,16 +1,46 @@
 [
   {
+    "iid": 386,
+    "state": "opened",
+    "title": "fix: deepseek_v4 自定义 RMSNorm 导致 npu_rms_norm 替换不生效",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zzyy_zzyy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/386",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-failed"
+    ]
+  },
+  {
+    "iid": 385,
+    "state": "closed",
+    "title": "fix: deepseek_v4 RMSNorm npu_rms_norm silent failure",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "2026-06-30",
+    "author": "weixin_69877254",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/385",
+    "labels": [
+      "cann-cla/yes"
+    ]
+  },
+  {
     "iid": 384,
     "state": "opened",
     "title": "[fix] Align DSV3 MoE layout for NPU",
     "created_at": "2026-06-27",
-    "updated_at": "2026-06-29",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "hitwdy",
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/384",
     "labels": [
       "ci-pipeline-failed",
+      "stat/needs-squash",
       "cann-cla/yes"
     ]
   },
@@ -66,17 +96,18 @@
   },
   {
     "iid": 380,
-    "state": "opened",
-    "title": "[fix]: 新增dsv3单机等效8机性能裁剪模型配置，并开启EP负载均衡",
+    "state": "closed",
+    "title": "[fix]: 新增dsv3单机等效8机性能裁剪模型配置并规范化模型配置命名",
     "created_at": "2026-06-26",
     "updated_at": "2026-06-30",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-06-30",
     "author": "roadnotstop",
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/380",
     "labels": [
       "stat/needs-squash",
-      "cann-cla/yes"
+      "cann-cla/yes",
+      "ci-pipeline-failed"
     ]
   },
   {
@@ -230,7 +261,7 @@
   {
     "iid": 370,
     "state": "opened",
-    "title": "[refactor] 删除文件 torchtitan_npu/patches/torch_npu/_inductor/lowering.py",
+    "title": "[refactor] 删除 npu_bypass_triton_codegen 特性相关的全部实现",
     "created_at": "2026-06-23",
     "updated_at": "2026-06-30",
     "merged_at": "",
@@ -239,8 +270,7 @@
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/370",
     "labels": [
       "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-failed"
+      "stat/needs-squash"
     ]
   },
   {
@@ -342,7 +372,7 @@
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/364",
     "labels": [
       "cann-cla/yes",
-      "ci-pipeline-passed"
+      "ci-pipeline-failed"
     ]
   },
   {
@@ -365,17 +395,19 @@
   },
   {
     "iid": 362,
-    "state": "opened",
+    "state": "merged",
     "title": "[feat] Support MXFP8 training with torchao",
     "created_at": "2026-06-17",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "zhuofanshen",
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/362",
     "labels": [
       "cann-cla/yes",
       "stat/needs-squash",
+      "approved",
+      "lgtm",
       "ci-pipeline-passed"
     ]
   },

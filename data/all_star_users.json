@@ -1,5 +1,15 @@
 [
   {
+    "user_name": "rsm0624",
+    "nick_name": "rsm0624",
+    "user_id": 11787703,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl"
+    ]
+  },
+  {
     "user_name": "ASFSAFDASF",
     "nick_name": "ASFSAFDASF",
     "user_id": 11790727,
@@ -3422,6 +3432,7 @@
       "cann/ge",
       "cann/hixl",
       "cann/graph-autofusion",
+      "cann/torchtitan-npu",
       "Ascend/torchair"
     ]
   },
@@ -6204,6 +6215,15 @@
     ]
   },
   {
+    "user_name": "RangerP",
+    "nick_name": "panyiwei",
+    "user_id": 2211410,
+    "avatar": "https://cdn-img.gitcode.com/da/fb/d3afb8c643925fdb5198d1d1f33c258c6cd1b19f23f42e0da54ce58807c582fa.png",
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
     "user_name": "pengxiao",
     "nick_name": "Peng Xiao",
     "user_id": 4561812,
@@ -6298,15 +6318,6 @@
     "nick_name": "qq_40005102",
     "user_id": 6324924,
     "avatar": "https://cdn-img.gitcode.com/fe/fb/65fe7530fbef6e50213d1b26e38561a78e69c9f81f8fb99c0f1cf8ce226752ae.png",
-    "starred_repos": [
-      "cann/hixl"
-    ]
-  },
-  {
-    "user_name": "rsm0624",
-    "nick_name": "rsm0624",
-    "user_id": 11787703,
-    "avatar": null,
     "starred_repos": [
       "cann/hixl"
     ]
@@ -9160,15 +9171,6 @@
       "cann/hixl",
       "cann/torchtitan-npu",
       "Ascend/torchair"
-    ]
-  },
-  {
-    "user_name": "RangerP",
-    "nick_name": "RangerP",
-    "user_id": 2211410,
-    "avatar": "https://cdn-img.gitcode.com/da/fb/d3afb8c643925fdb5198d1d1f33c258c6cd1b19f23f42e0da54ce58807c582fa.png",
-    "starred_repos": [
-      "cann/hixl"
     ]
   },
   {

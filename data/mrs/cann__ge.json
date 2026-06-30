@@ -1,5 +1,55 @@
 [
   {
+    "iid": 3796,
+    "state": "opened",
+    "title": "【PR】: sync develop to master 20260630",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "wangxiaotian995",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3796",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "enhancement",
+      "ci-pipeline-failed"
+    ]
+  },
+  {
+    "iid": 3795,
+    "state": "opened",
+    "title": "fix: 修正内置包注册并更新 fusion pass 示例文档",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "du-hua1024",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3795",
+    "labels": [
+      "enhancement",
+      "cann-cla/yes",
+      "lgtm",
+      "ci-pipeline-passed"
+    ]
+  },
+  {
+    "iid": 3794,
+    "state": "opened",
+    "title": "【PR】: 简要描述",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "du-hua1024",
+    "web_url": "https://gitcode.com/cann/ge/merge_requests/3794",
+    "labels": [
+      "cann-cla/yes",
+      "enhancement",
+      "stat/needs-squash"
+    ]
+  },
+  {
     "iid": 3793,
     "state": "opened",
     "title": "【PR】: 简要描述 兼容bf16的转换算子调换",
@@ -82,17 +132,18 @@
   },
   {
     "iid": 3788,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】: fix: 修复融合pass编译失败",
     "created_at": "2026-06-30",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "hugo111",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3788",
     "labels": [
       "enhancement",
       "cann-cla/yes",
+      "approved",
       "lgtm",
       "ci-pipeline-passed"
     ]
@@ -118,7 +169,7 @@
   {
     "iid": 3786,
     "state": "opened",
-    "title": "【PR】: 修复example的bug问题",
+    "title": "【PR】: fix: 修正1_fuse_matmul_add_pass样例README版本依赖",
     "created_at": "2026-06-30",
     "updated_at": "2026-06-30",
     "merged_at": "",
@@ -128,6 +179,8 @@
     "labels": [
       "cann-cla/yes",
       "enhancement",
+      "lgtm",
+      "ci-pipeline-passed",
       "stat/needs-squash"
     ]
   },
@@ -313,18 +366,19 @@
   },
   {
     "iid": 3775,
-    "state": "opened",
+    "state": "merged",
     "title": "refactor: 静态检查修改",
     "created_at": "2026-06-29",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "lining23666",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3775",
     "labels": [
-      "ci-pipeline-failed",
+      "ci-pipeline-passed",
+      "lgtm",
       "cann-cla/yes",
-      "stat/needs-squash"
+      "approved"
     ]
   },
   {
@@ -380,14 +434,15 @@
     "state": "opened",
     "title": "feat:omc场景自定义算子入图",
     "created_at": "2026-06-29",
-    "updated_at": "2026-06-29",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "Chang-an-HW",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3771",
     "labels": [
       "cann-cla/yes",
-      "enhancement"
+      "enhancement",
+      "ci-pipeline-failed"
     ]
   },
   {
@@ -429,7 +484,7 @@
     "state": "opened",
     "title": "【PR】: 打点rt2",
     "created_at": "2026-06-29",
-    "updated_at": "2026-06-29",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "tang-haojie",
@@ -704,11 +759,11 @@
   },
   {
     "iid": 3751,
-    "state": "opened",
+    "state": "merged",
     "title": "[binary]【PR】: 自动融合atc离线编译缺陷修改，交叉编译支持",
     "created_at": "2026-06-27",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "chengyutao3",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3751",
@@ -717,6 +772,7 @@
       "enhancement",
       "cann-cla/yes",
       "stat/needs-squash",
+      "approved",
       "lgtm"
     ]
   },
@@ -725,7 +781,7 @@
     "state": "opened",
     "title": "Refactor: RT2 Kernel Launch Interface Replacement",
     "created_at": "2026-06-27",
-    "updated_at": "2026-06-27",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "liyanrong_9",
@@ -879,7 +935,7 @@
     "state": "opened",
     "title": "【PR】: 简要描述",
     "created_at": "2026-06-26",
-    "updated_at": "2026-06-27",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "jikai-tyler",
@@ -1251,10 +1307,10 @@
     "author": "sunsummercqc",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3720",
     "labels": [
-      "ci-pipeline-passed",
       "enhancement",
       "cann-cla/yes",
-      "lgtm"
+      "lgtm",
+      "ci-pipeline-failed"
     ]
   },
   {
@@ -1405,11 +1461,11 @@
   },
   {
     "iid": 3711,
-    "state": "opened",
+    "state": "merged",
     "title": "【PR】: 替换runtime/*.h",
     "created_at": "2026-06-25",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "wx1127857",
     "web_url": "https://gitcode.com/cann/ge/merge_requests/3711",
@@ -1417,7 +1473,8 @@
       "enhancement",
       "cann-cla/yes",
       "lgtm",
-      "ci-pipeline-passed"
+      "ci-pipeline-passed",
+      "approved"
     ]
   },
   {
@@ -2876,7 +2933,8 @@
     "labels": [
       "enhancement",
       "cann-cla/yes",
-      "ci-pipeline-failed"
+      "ci-pipeline-failed",
+      "stat/needs-squash"
     ]
   },
   {

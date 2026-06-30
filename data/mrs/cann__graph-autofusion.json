@@ -1,31 +1,90 @@
 [
   {
-    "iid": 1140,
+    "iid": 1143,
     "state": "opened",
-    "title": "fix: set current group var relations before PGO search",
+    "title": "【PR】: sync develop to master 20260630",
     "created_at": "2026-06-30",
     "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
+    "author": "wangxiaotian995",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1143",
+    "labels": [
+      "cann-cla/yes",
+      "enhancement",
+      "stat/needs-squash",
+      "ci-pipeline-failed"
+    ]
+  },
+  {
+    "iid": 1142,
+    "state": "merged",
+    "title": "【fix】: fix op unfusible reason when exceed max scope num",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "Achilles_d",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1142",
+    "labels": [
+      "cann-cla/yes",
+      "enhancement",
+      "approved",
+      "lgtm",
+      "ci-pipeline-passed"
+    ]
+  },
+  {
+    "iid": 1141,
+    "state": "merged",
+    "title": "【fix】: fix op unfusible reason when exceed max scope num",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
+    "author": "Achilles_d",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1141",
+    "labels": [
+      "enhancement",
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "api-check-pass",
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm"
+    ]
+  },
+  {
+    "iid": 1140,
+    "state": "merged",
+    "title": "fix: 解决Inductor TopN跨Group var relations未传递的问题",
+    "created_at": "2026-06-30",
+    "updated_at": "2026-06-30",
+    "merged_at": "2026-06-30",
+    "closed_at": "",
     "author": "zhang_shengjie",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1140",
     "labels": [
-      "cann-cla/yes"
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved"
     ]
   },
   {
     "iid": 1139,
-    "state": "opened",
+    "state": "merged",
     "title": "fix: support bf16 tensor memory size in PGO",
     "created_at": "2026-06-30",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "zhang_shengjie",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1139",
     "labels": [
       "ci-pipeline-passed",
       "lgtm",
+      "approved",
       "cann-cla/yes"
     ]
   },
@@ -58,7 +117,8 @@
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1137",
     "labels": [
       "cann-cla/yes",
-      "enhancement"
+      "enhancement",
+      "ci-pipeline-failed"
     ]
   },
   {
@@ -91,9 +151,9 @@
     "author": "liyuewei",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1135",
     "labels": [
-      "ci-pipeline-failed",
       "cann-cla/yes",
-      "enhancement"
+      "enhancement",
+      "ci-pipeline-failed"
     ]
   },
   {
@@ -143,9 +203,10 @@
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1132",
     "labels": [
       "stat/needs-squash",
+      "api-check-pass",
+      "ci-pipeline-passed",
       "cann-cla/yes",
-      "enhancement",
-      "api-check-pass"
+      "enhancement"
     ]
   },
   {
@@ -848,10 +909,10 @@
     "author": "xingzhixiong",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1087",
     "labels": [
-      "ci-pipeline-failed",
       "cann-cla/yes",
       "enhancement",
-      "stat/needs-squash"
+      "stat/needs-squash",
+      "ci-pipeline-passed"
     ]
   },
   {
@@ -1258,11 +1319,11 @@
   },
   {
     "iid": 1061,
-    "state": "opened",
+    "state": "merged",
     "title": "fix: 修复 Broadcast 冗余删除误判(#146)",
     "created_at": "2026-06-25",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "wei_shi",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1061",
@@ -1270,6 +1331,7 @@
       "cann-cla/yes",
       "stat/needs-squash",
       "ci-pipeline-passed",
+      "approved",
       "lgtm"
     ]
   },
@@ -1741,17 +1803,18 @@
   },
   {
     "iid": 1031,
-    "state": "opened",
+    "state": "merged",
     "title": "【feat】: Transpose放开Gather模板",
     "created_at": "2026-06-24",
     "updated_at": "2026-06-30",
-    "merged_at": "",
+    "merged_at": "2026-06-30",
     "closed_at": "",
     "author": "liyuewei",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1031",
     "labels": [
       "enhancement",
       "cann-cla/yes",
+      "approved",
       "lgtm",
       "ci-pipeline-passed"
     ]
@@ -4502,7 +4565,8 @@
     "labels": [
       "enhancement",
       "cann-cla/yes",
-      "ci-pipeline-failed"
+      "ci-pipeline-failed",
+      "api-check-pass"
     ]
   },
   {
@@ -11930,12 +11994,12 @@
   },
   {
     "iid": 406,
-    "state": "opened",
+    "state": "closed",
     "title": "【feat】: Transpose融合优化",
     "created_at": "2026-05-19",
-    "updated_at": "2026-05-28",
+    "updated_at": "2026-06-30",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-06-30",
     "author": "liyuewei",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/406",
     "labels": [
@@ -12127,7 +12191,7 @@
     "state": "opened",
     "title": "【PR】: 简要描述",
     "created_at": "2026-05-18",
-    "updated_at": "2026-06-25",
+    "updated_at": "2026-06-30",
     "merged_at": "",
     "closed_at": "",
     "author": "gcw_WTfSfUy7",
