@@ -4,29 +4,22 @@
     "state": "opened",
     "title": "[fix] Align DSV3 MoE layout for NPU",
     "created_at": "2026-06-27",
-    "updated_at": "2026-06-27",
-    "merged_at": "",
-    "closed_at": "",
-    "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/384",
-    "labels": [
-      "cann-cla/yes"
-    ]
-  },
-  {
-    "iid": 383,
-    "state": "opened",
-    "title": "[fix] (deepseek-v4): make rope inverse compile-traceable (drop is_conj guard)",
-    "created_at": "2026-06-27",
     "updated_at": "2026-06-29",
     "merged_at": "",
     "closed_at": "",
+    "author": "hitwdy",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/384"
+  },
+  {
+    "iid": 383,
+    "state": "merged",
+    "title": "[fix] (deepseek-v4): make rope inverse compile-traceable (drop is_conj guard)",
+    "created_at": "2026-06-27",
+    "updated_at": "2026-06-29",
+    "merged_at": "2026-06-29",
+    "closed_at": "",
     "author": "wy_test",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/383",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-running"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/383"
   },
   {
     "iid": 382,
@@ -37,13 +30,7 @@
     "merged_at": "2026-06-27",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/382",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/382"
   },
   {
     "iid": 381,
@@ -54,12 +41,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/381",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/381"
   },
   {
     "iid": 380,
@@ -70,12 +52,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "roadnotstop",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/380",
-    "labels": [
-      "ci-pipeline-failed",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/380"
   },
   {
     "iid": 379,
@@ -86,13 +63,7 @@
     "merged_at": "2026-06-26",
     "closed_at": "",
     "author": "MissingPompeii",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/379",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/379"
   },
   {
     "iid": 378,
@@ -103,28 +74,18 @@
     "merged_at": "2026-06-26",
     "closed_at": "",
     "author": "roadnotstop",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/378",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/378"
   },
   {
     "iid": 377,
     "state": "opened",
     "title": "修复torchtitan_npu\\tools\\weight_utils.py中fuse_expert函数可能会出现的将w13误判为w1导致生成垃圾key的问题",
     "created_at": "2026-06-25",
-    "updated_at": "2026-06-26",
+    "updated_at": "2026-06-29",
     "merged_at": "",
     "closed_at": "",
     "author": "weixin_69877254",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/377",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/377"
   },
   {
     "iid": 376,
@@ -135,14 +96,7 @@
     "merged_at": "2026-06-27",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/376",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "approved",
-      "lgtm",
-      "ci-pipeline-running"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/376"
   },
   {
     "iid": 375,
@@ -153,10 +107,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/375",
-    "labels": [
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/375"
   },
   {
     "iid": 374,
@@ -167,13 +118,7 @@
     "merged_at": "2026-06-24",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/374",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/374"
   },
   {
     "iid": 373,
@@ -184,13 +129,7 @@
     "merged_at": "2026-06-25",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/373",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/373"
   },
   {
     "iid": 372,
@@ -201,10 +140,7 @@
     "merged_at": "",
     "closed_at": "2026-06-24",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/372",
-    "labels": [
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/372"
   },
   {
     "iid": 371,
@@ -215,30 +151,18 @@
     "merged_at": "2026-06-23",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/371",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/371"
   },
   {
     "iid": 370,
     "state": "opened",
     "title": "[refactor] 删除文件 torchtitan_npu/patches/torch_npu/_inductor/lowering.py",
     "created_at": "2026-06-23",
-    "updated_at": "2026-06-25",
+    "updated_at": "2026-06-29",
     "merged_at": "",
     "closed_at": "",
     "author": "roadnotstop",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/370",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/370"
   },
   {
     "iid": 369,
@@ -249,13 +173,7 @@
     "merged_at": "2026-06-27",
     "closed_at": "",
     "author": "rui-zhang",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/369",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/369"
   },
   {
     "iid": 368,
@@ -266,14 +184,7 @@
     "merged_at": "2026-06-24",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/368",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/368"
   },
   {
     "iid": 367,
@@ -284,14 +195,7 @@
     "merged_at": "2026-06-26",
     "closed_at": "",
     "author": "wy_test",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/367",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/367"
   },
   {
     "iid": 366,
@@ -302,13 +206,7 @@
     "merged_at": "2026-06-23",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/366",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/366"
   },
   {
     "iid": 365,
@@ -319,28 +217,18 @@
     "merged_at": "2026-06-22",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/365",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/365"
   },
   {
     "iid": 364,
     "state": "opened",
     "title": "feat(qwen3): add TND attention support for per-document causal attention",
     "created_at": "2026-06-18",
-    "updated_at": "2026-06-27",
+    "updated_at": "2026-06-29",
     "merged_at": "",
     "closed_at": "",
     "author": "HWTCherry",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/364",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/364"
   },
   {
     "iid": 363,
@@ -351,14 +239,7 @@
     "merged_at": "2026-06-23",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/363",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/363"
   },
   {
     "iid": 362,
@@ -369,12 +250,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "zhuofanshen",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/362",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/362"
   },
   {
     "iid": 361,
@@ -385,13 +261,7 @@
     "merged_at": "2026-06-17",
     "closed_at": "",
     "author": "zhaowei1936",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/361",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/361"
   },
   {
     "iid": 360,
@@ -402,13 +272,7 @@
     "merged_at": "2026-06-16",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/360",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/360"
   },
   {
     "iid": 359,
@@ -419,13 +283,7 @@
     "merged_at": "2026-06-16",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/359",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/359"
   },
   {
     "iid": 358,
@@ -436,14 +294,7 @@
     "merged_at": "2026-06-16",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/358",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "approved",
-      "ci-pipeline-passed",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/358"
   },
   {
     "iid": 357,
@@ -454,13 +305,7 @@
     "merged_at": "2026-06-16",
     "closed_at": "",
     "author": "zhaowei1936",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/357",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/357"
   },
   {
     "iid": 356,
@@ -471,10 +316,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "wy_test",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/356",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/356"
   },
   {
     "iid": 355,
@@ -485,13 +327,7 @@
     "merged_at": "2026-06-22",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/355",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/355"
   },
   {
     "iid": 354,
@@ -502,13 +338,7 @@
     "merged_at": "2026-06-23",
     "closed_at": "",
     "author": "panchao-gitcode",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/354",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/354"
   },
   {
     "iid": 353,
@@ -519,13 +349,7 @@
     "merged_at": "2026-06-15",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/353",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/353"
   },
   {
     "iid": 352,
@@ -536,14 +360,7 @@
     "merged_at": "2026-06-15",
     "closed_at": "",
     "author": "wy_test",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/352",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/352"
   },
   {
     "iid": 351,
@@ -554,10 +371,7 @@
     "merged_at": "",
     "closed_at": "2026-06-12",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/351",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/351"
   },
   {
     "iid": 350,
@@ -568,14 +382,7 @@
     "merged_at": "2026-06-15",
     "closed_at": "",
     "author": "zhuofanshen",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/350",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/350"
   },
   {
     "iid": 349,
@@ -586,13 +393,7 @@
     "merged_at": "2026-06-13",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/349",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/349"
   },
   {
     "iid": 348,
@@ -603,13 +404,7 @@
     "merged_at": "2026-06-13",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/348",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/348"
   },
   {
     "iid": 347,
@@ -620,14 +415,7 @@
     "merged_at": "2026-06-15",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/347",
-    "labels": [
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/347"
   },
   {
     "iid": 346,
@@ -638,13 +426,7 @@
     "merged_at": "2026-06-12",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/346",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/346"
   },
   {
     "iid": 345,
@@ -655,14 +437,7 @@
     "merged_at": "2026-06-12",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/345",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/345"
   },
   {
     "iid": 344,
@@ -673,13 +448,7 @@
     "merged_at": "2026-06-13",
     "closed_at": "",
     "author": "zhaowei1936",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/344",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/344"
   },
   {
     "iid": 343,
@@ -690,11 +459,7 @@
     "merged_at": "",
     "closed_at": "2026-06-12",
     "author": "zhuofanshen",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/343",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/343"
   },
   {
     "iid": 342,
@@ -705,14 +470,7 @@
     "merged_at": "2026-06-15",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/342",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/342"
   },
   {
     "iid": 341,
@@ -723,14 +481,7 @@
     "merged_at": "2026-06-13",
     "closed_at": "",
     "author": "xubin787",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/341",
-    "labels": [
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/341"
   },
   {
     "iid": 340,
@@ -741,13 +492,7 @@
     "merged_at": "2026-06-12",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/340",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/340"
   },
   {
     "iid": 339,
@@ -758,11 +503,7 @@
     "merged_at": "",
     "closed_at": "2026-06-24",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/339",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/339"
   },
   {
     "iid": 338,
@@ -773,13 +514,7 @@
     "merged_at": "2026-06-11",
     "closed_at": "",
     "author": "zhaowei1936",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/338",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/338"
   },
   {
     "iid": 337,
@@ -790,11 +525,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/337",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/337"
   },
   {
     "iid": 336,
@@ -805,14 +536,7 @@
     "merged_at": "2026-06-11",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/336",
-    "labels": [
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/336"
   },
   {
     "iid": 335,
@@ -823,14 +547,7 @@
     "merged_at": "2026-06-11",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/335",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/335"
   },
   {
     "iid": 334,
@@ -841,13 +558,7 @@
     "merged_at": "2026-06-11",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/334",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/334"
   },
   {
     "iid": 333,
@@ -858,14 +569,7 @@
     "merged_at": "2026-06-11",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/333",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/333"
   },
   {
     "iid": 332,
@@ -876,13 +580,7 @@
     "merged_at": "2026-06-12",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/332",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/332"
   },
   {
     "iid": 331,
@@ -893,13 +591,7 @@
     "merged_at": "2026-06-12",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/331",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/331"
   },
   {
     "iid": 330,
@@ -910,12 +602,7 @@
     "merged_at": "",
     "closed_at": "2026-06-10",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/330",
-    "labels": [
-      "ci-pipeline-failed",
-      "cann-cla/no",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/330"
   },
   {
     "iid": 329,
@@ -926,13 +613,7 @@
     "merged_at": "2026-06-10",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/329",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/329"
   },
   {
     "iid": 328,
@@ -943,13 +624,7 @@
     "merged_at": "2026-06-10",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/328",
-    "labels": [
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/328"
   },
   {
     "iid": 327,
@@ -960,10 +635,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "depeng1994",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/327",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/327"
   },
   {
     "iid": 326,
@@ -974,13 +646,7 @@
     "merged_at": "2026-06-09",
     "closed_at": "",
     "author": "depeng1994",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/326",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/326"
   },
   {
     "iid": 325,
@@ -991,13 +657,7 @@
     "merged_at": "2026-06-09",
     "closed_at": "",
     "author": "depeng1994",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/325",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/325"
   },
   {
     "iid": 324,
@@ -1008,13 +668,7 @@
     "merged_at": "2026-06-11",
     "closed_at": "",
     "author": "rui-zhang",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/324",
-    "labels": [
-      "lgtm",
-      "approved",
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/324"
   },
   {
     "iid": 323,
@@ -1025,13 +679,7 @@
     "merged_at": "2026-06-09",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/323",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/323"
   },
   {
     "iid": 322,
@@ -1042,14 +690,7 @@
     "merged_at": "2026-06-10",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/322",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/322"
   },
   {
     "iid": 321,
@@ -1060,14 +701,7 @@
     "merged_at": "2026-06-22",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/321",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/321"
   },
   {
     "iid": 320,
@@ -1078,14 +712,7 @@
     "merged_at": "2026-06-11",
     "closed_at": "",
     "author": "wy_test",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/320",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/320"
   },
   {
     "iid": 319,
@@ -1096,13 +723,7 @@
     "merged_at": "2026-06-09",
     "closed_at": "",
     "author": "zhaowei1936",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/319",
-    "labels": [
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/319"
   },
   {
     "iid": 318,
@@ -1113,13 +734,7 @@
     "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/318",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/318"
   },
   {
     "iid": 317,
@@ -1130,13 +745,7 @@
     "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/317",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/317"
   },
   {
     "iid": 316,
@@ -1147,13 +756,7 @@
     "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/316",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/316"
   },
   {
     "iid": 315,
@@ -1164,14 +767,7 @@
     "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "wy_test",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/315",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/315"
   },
   {
     "iid": 314,
@@ -1182,13 +778,7 @@
     "merged_at": "2026-06-08",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/314",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/314"
   },
   {
     "iid": 313,
@@ -1199,13 +789,7 @@
     "merged_at": "2026-06-06",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/313",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/313"
   },
   {
     "iid": 312,
@@ -1216,13 +800,7 @@
     "merged_at": "2026-06-06",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/312",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/312"
   },
   {
     "iid": 311,
@@ -1233,14 +811,7 @@
     "merged_at": "2026-06-11",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/311",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/311"
   },
   {
     "iid": 310,
@@ -1251,14 +822,7 @@
     "merged_at": "2026-06-11",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/310",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/310"
   },
   {
     "iid": 309,
@@ -1269,13 +833,7 @@
     "merged_at": "2026-06-05",
     "closed_at": "",
     "author": "zhaowei1936",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/309",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/309"
   },
   {
     "iid": 308,
@@ -1286,13 +844,7 @@
     "merged_at": "2026-06-05",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/308",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "cann-cla/yes",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/308"
   },
   {
     "iid": 307,
@@ -1303,14 +855,7 @@
     "merged_at": "2026-06-04",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/307",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/307"
   },
   {
     "iid": 306,
@@ -1321,13 +866,7 @@
     "merged_at": "2026-06-04",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/306",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/306"
   },
   {
     "iid": 305,
@@ -1338,13 +877,7 @@
     "merged_at": "2026-06-03",
     "closed_at": "",
     "author": "MissingPompeii",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/305",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/305"
   },
   {
     "iid": 304,
@@ -1355,13 +888,7 @@
     "merged_at": "2026-06-03",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/304",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/304"
   },
   {
     "iid": 303,
@@ -1372,14 +899,7 @@
     "merged_at": "2026-06-04",
     "closed_at": "",
     "author": "wy_test",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/303",
-    "labels": [
-      "stat/needs-squash",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/303"
   },
   {
     "iid": 302,
@@ -1390,10 +910,7 @@
     "merged_at": "",
     "closed_at": "2026-06-03",
     "author": "wy_test",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/302",
-    "labels": [
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/302"
   },
   {
     "iid": 301,
@@ -1404,14 +921,7 @@
     "merged_at": "2026-06-03",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/301",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/301"
   },
   {
     "iid": 300,
@@ -1422,14 +932,7 @@
     "merged_at": "2026-06-03",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/300",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/300"
   },
   {
     "iid": 299,
@@ -1440,14 +943,7 @@
     "merged_at": "2026-06-22",
     "closed_at": "",
     "author": "zzyyjj012",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/299",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/299"
   },
   {
     "iid": 298,
@@ -1458,13 +954,7 @@
     "merged_at": "2026-06-05",
     "closed_at": "",
     "author": "YueGuoDora",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/298",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/298"
   },
   {
     "iid": 297,
@@ -1475,12 +965,7 @@
     "merged_at": "",
     "closed_at": "2026-06-02",
     "author": "YueGuoDora",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/297",
-    "labels": [
-      "ci-pipeline-failed",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/297"
   },
   {
     "iid": 296,
@@ -1491,8 +976,7 @@
     "merged_at": "",
     "closed_at": "2026-06-02",
     "author": "YueGuoDora",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/296",
-    "labels": []
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/296"
   },
   {
     "iid": 295,
@@ -1503,13 +987,7 @@
     "merged_at": "2026-06-02",
     "closed_at": "",
     "author": "zhangjianshe",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/295",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/295"
   },
   {
     "iid": 294,
@@ -1520,13 +998,7 @@
     "merged_at": "2026-06-02",
     "closed_at": "",
     "author": "zhangjianshe",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/294",
-    "labels": [
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/294"
   },
   {
     "iid": 293,
@@ -1537,13 +1009,7 @@
     "merged_at": "2026-06-02",
     "closed_at": "",
     "author": "zangdao",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/293",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/293"
   },
   {
     "iid": 292,
@@ -1554,13 +1020,7 @@
     "merged_at": "2026-06-02",
     "closed_at": "",
     "author": "zangdao",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/292",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/292"
   },
   {
     "iid": 291,
@@ -1571,11 +1031,7 @@
     "merged_at": "",
     "closed_at": "2026-06-02",
     "author": "YueGuoDora",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/291",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/291"
   },
   {
     "iid": 290,
@@ -1586,14 +1042,7 @@
     "merged_at": "2026-06-01",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/290",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/290"
   },
   {
     "iid": 289,
@@ -1604,13 +1053,7 @@
     "merged_at": "2026-06-01",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/289",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/289"
   },
   {
     "iid": 288,
@@ -1621,14 +1064,7 @@
     "merged_at": "2026-06-01",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/288",
-    "labels": [
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/288"
   },
   {
     "iid": 287,
@@ -1639,10 +1075,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "panchao-gitcode",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/287",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/287"
   },
   {
     "iid": 286,
@@ -1653,14 +1086,7 @@
     "merged_at": "2026-06-04",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/286",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/286"
   },
   {
     "iid": 285,
@@ -1671,14 +1097,7 @@
     "merged_at": "2026-06-03",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/285",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/285"
   },
   {
     "iid": 284,
@@ -1689,13 +1108,7 @@
     "merged_at": "2026-06-01",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/284",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/284"
   },
   {
     "iid": 283,
@@ -1706,14 +1119,7 @@
     "merged_at": "2026-05-30",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/283",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/283"
   },
   {
     "iid": 282,
@@ -1724,13 +1130,7 @@
     "merged_at": "2026-05-30",
     "closed_at": "",
     "author": "MissingPompeii",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/282",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/282"
   },
   {
     "iid": 281,
@@ -1741,13 +1141,7 @@
     "merged_at": "2026-05-30",
     "closed_at": "",
     "author": "zhaiyukun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/281",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/281"
   },
   {
     "iid": 280,
@@ -1758,14 +1152,7 @@
     "merged_at": "2026-05-30",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/280",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/280"
   },
   {
     "iid": 279,
@@ -1776,13 +1163,7 @@
     "merged_at": "2026-05-29",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/279",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/279"
   },
   {
     "iid": 278,
@@ -1793,14 +1174,7 @@
     "merged_at": "2026-06-01",
     "closed_at": "",
     "author": "m0_67923034",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/278",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/278"
   },
   {
     "iid": 277,
@@ -1811,13 +1185,7 @@
     "merged_at": "2026-06-05",
     "closed_at": "",
     "author": "rui-zhang",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/277",
-    "labels": [
-      "approved",
-      "ci-pipeline-passed",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/277"
   },
   {
     "iid": 276,
@@ -1828,13 +1196,7 @@
     "merged_at": "2026-05-28",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/276",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/276"
   },
   {
     "iid": 275,
@@ -1845,14 +1207,7 @@
     "merged_at": "2026-06-09",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/275",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/275"
   },
   {
     "iid": 274,
@@ -1863,14 +1218,7 @@
     "merged_at": "2026-05-28",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/274",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/274"
   },
   {
     "iid": 273,
@@ -1881,14 +1229,7 @@
     "merged_at": "2026-05-28",
     "closed_at": "",
     "author": "panchao-gitcode",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/273",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/273"
   },
   {
     "iid": 272,
@@ -1899,10 +1240,7 @@
     "merged_at": "",
     "closed_at": "2026-05-29",
     "author": "MissingPompeii",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/272",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/272"
   },
   {
     "iid": 271,
@@ -1913,10 +1251,7 @@
     "merged_at": "",
     "closed_at": "2026-05-28",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/271",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/271"
   },
   {
     "iid": 270,
@@ -1927,10 +1262,7 @@
     "merged_at": "",
     "closed_at": "2026-06-01",
     "author": "YueGuoDora",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/270",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/270"
   },
   {
     "iid": 269,
@@ -1941,14 +1273,7 @@
     "merged_at": "2026-06-03",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/269",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/269"
   },
   {
     "iid": 268,
@@ -1959,11 +1284,7 @@
     "merged_at": "",
     "closed_at": "2026-05-28",
     "author": "YueGuoDora",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/268",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/268"
   },
   {
     "iid": 267,
@@ -1974,10 +1295,7 @@
     "merged_at": "",
     "closed_at": "2026-05-28",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/267",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/267"
   },
   {
     "iid": 266,
@@ -1988,10 +1306,7 @@
     "merged_at": "",
     "closed_at": "2026-05-28",
     "author": "YueGuoDora",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/266",
-    "labels": [
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/266"
   },
   {
     "iid": 265,
@@ -2002,13 +1317,7 @@
     "merged_at": "2026-05-27",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/265",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/265"
   },
   {
     "iid": 264,
@@ -2019,8 +1328,7 @@
     "merged_at": "",
     "closed_at": "2026-05-28",
     "author": "YueGuoDora",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/264",
-    "labels": []
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/264"
   },
   {
     "iid": 263,
@@ -2031,14 +1339,7 @@
     "merged_at": "2026-05-29",
     "closed_at": "",
     "author": "zhangjianshe",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/263",
-    "labels": [
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/263"
   },
   {
     "iid": 262,
@@ -2049,14 +1350,7 @@
     "merged_at": "2026-05-29",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/262",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/262"
   },
   {
     "iid": 261,
@@ -2067,14 +1361,7 @@
     "merged_at": "2026-05-29",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/261",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/261"
   },
   {
     "iid": 260,
@@ -2085,13 +1372,7 @@
     "merged_at": "2026-05-29",
     "closed_at": "",
     "author": "zhangjianshe",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/260",
-    "labels": [
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/260"
   },
   {
     "iid": 259,
@@ -2102,14 +1383,7 @@
     "merged_at": "2026-05-27",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/259",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/259"
   },
   {
     "iid": 258,
@@ -2120,30 +1394,18 @@
     "merged_at": "2026-06-01",
     "closed_at": "",
     "author": "zzyyjj012",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/258",
-    "labels": [
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/258"
   },
   {
     "iid": 257,
-    "state": "opened",
+    "state": "merged",
     "title": "[feat] support dsv4 flash sft",
     "created_at": "2026-05-27",
     "updated_at": "2026-06-29",
-    "merged_at": "",
+    "merged_at": "2026-06-29",
     "closed_at": "",
     "author": "zzyyjj012",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/257",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/257"
   },
   {
     "iid": 256,
@@ -2154,13 +1416,7 @@
     "merged_at": "2026-05-27",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/256",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/256"
   },
   {
     "iid": 255,
@@ -2171,14 +1427,7 @@
     "merged_at": "2026-05-28",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/255",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/255"
   },
   {
     "iid": 254,
@@ -2189,13 +1438,7 @@
     "merged_at": "2026-05-28",
     "closed_at": "",
     "author": "zhaowei1936",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/254",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/254"
   },
   {
     "iid": 253,
@@ -2206,13 +1449,7 @@
     "merged_at": "2026-05-26",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/253",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/253"
   },
   {
     "iid": 252,
@@ -2223,13 +1460,7 @@
     "merged_at": "2026-05-26",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/252",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/252"
   },
   {
     "iid": 251,
@@ -2240,14 +1471,7 @@
     "merged_at": "2026-05-27",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/251",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/251"
   },
   {
     "iid": 250,
@@ -2258,14 +1482,7 @@
     "merged_at": "2026-05-27",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/250",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/250"
   },
   {
     "iid": 249,
@@ -2276,13 +1493,7 @@
     "merged_at": "2026-05-28",
     "closed_at": "",
     "author": "zhaiyukun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/249",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/249"
   },
   {
     "iid": 248,
@@ -2293,14 +1504,7 @@
     "merged_at": "2026-05-26",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/248",
-    "labels": [
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/248"
   },
   {
     "iid": 247,
@@ -2311,13 +1515,7 @@
     "merged_at": "2026-05-26",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/247",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/247"
   },
   {
     "iid": 246,
@@ -2328,14 +1526,7 @@
     "merged_at": "2026-05-26",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/246",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/246"
   },
   {
     "iid": 245,
@@ -2346,28 +1537,18 @@
     "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "Silent_M_",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/245",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/245"
   },
   {
     "iid": 244,
     "state": "opened",
     "title": "[feat] support tensor checkpoint",
     "created_at": "2026-05-25",
-    "updated_at": "2026-06-27",
+    "updated_at": "2026-06-29",
     "merged_at": "",
     "closed_at": "",
     "author": "zhaiyukun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/244",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/244"
   },
   {
     "iid": 243,
@@ -2378,14 +1559,7 @@
     "merged_at": "2026-05-23",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/243",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/243"
   },
   {
     "iid": 242,
@@ -2396,12 +1570,7 @@
     "merged_at": "",
     "closed_at": "2026-05-26",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/242",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/242"
   },
   {
     "iid": 241,
@@ -2412,13 +1581,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "MissingPompeii",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/241",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/241"
   },
   {
     "iid": 240,
@@ -2429,13 +1592,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "MissingPompeii",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/240",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/240"
   },
   {
     "iid": 239,
@@ -2446,14 +1603,7 @@
     "merged_at": "2026-05-26",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/239",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/239"
   },
   {
     "iid": 238,
@@ -2464,14 +1614,7 @@
     "merged_at": "2026-05-27",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/238",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "lgtm",
-      "ci-pipeline-passed",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/238"
   },
   {
     "iid": 237,
@@ -2482,13 +1625,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/237",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/237"
   },
   {
     "iid": 236,
@@ -2499,14 +1636,7 @@
     "merged_at": "2026-05-28",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/236",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/236"
   },
   {
     "iid": 235,
@@ -2517,14 +1647,7 @@
     "merged_at": "2026-05-29",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/235",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/235"
   },
   {
     "iid": 234,
@@ -2535,14 +1658,7 @@
     "merged_at": "2026-06-02",
     "closed_at": "",
     "author": "tcund89",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/234",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/234"
   },
   {
     "iid": 233,
@@ -2553,14 +1669,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/233",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/233"
   },
   {
     "iid": 232,
@@ -2571,13 +1680,7 @@
     "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/232",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/232"
   },
   {
     "iid": 231,
@@ -2588,14 +1691,7 @@
     "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/231",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/231"
   },
   {
     "iid": 230,
@@ -2606,14 +1702,7 @@
     "merged_at": "2026-05-28",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/230",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/230"
   },
   {
     "iid": 229,
@@ -2624,13 +1713,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "zhaowei1936",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/229",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/229"
   },
   {
     "iid": 228,
@@ -2641,13 +1724,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/228",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/228"
   },
   {
     "iid": 227,
@@ -2658,11 +1735,7 @@
     "merged_at": "",
     "closed_at": "2026-05-26",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/227",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/227"
   },
   {
     "iid": 226,
@@ -2673,13 +1746,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "MissingPompeii",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/226",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/226"
   },
   {
     "iid": 225,
@@ -2690,11 +1757,7 @@
     "merged_at": "",
     "closed_at": "2026-05-26",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/225",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/225"
   },
   {
     "iid": 224,
@@ -2705,14 +1768,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/224",
-    "labels": [
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/224"
   },
   {
     "iid": 223,
@@ -2723,11 +1779,7 @@
     "merged_at": "",
     "closed_at": "2026-05-21",
     "author": "zhaowei1936",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/223",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/223"
   },
   {
     "iid": 222,
@@ -2738,8 +1790,7 @@
     "merged_at": "",
     "closed_at": "2026-05-21",
     "author": "depeng1994",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/222",
-    "labels": []
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/222"
   },
   {
     "iid": 221,
@@ -2750,13 +1801,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/221",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/221"
   },
   {
     "iid": 220,
@@ -2767,13 +1812,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "MissingPompeii",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/220",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/220"
   },
   {
     "iid": 219,
@@ -2784,13 +1823,7 @@
     "merged_at": "2026-05-28",
     "closed_at": "",
     "author": "MissingPompeii",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/219",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "cann-cla/yes",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/219"
   },
   {
     "iid": 218,
@@ -2801,14 +1834,7 @@
     "merged_at": "2026-06-03",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/218",
-    "labels": [
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/218"
   },
   {
     "iid": 217,
@@ -2819,13 +1845,7 @@
     "merged_at": "2026-05-21",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/217",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/217"
   },
   {
     "iid": 216,
@@ -2836,13 +1856,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/216",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "ci-pipeline-passed",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/216"
   },
   {
     "iid": 215,
@@ -2853,14 +1867,7 @@
     "merged_at": "2026-05-20",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/215",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/215"
   },
   {
     "iid": 213,
@@ -2871,13 +1878,7 @@
     "merged_at": "2026-05-22",
     "closed_at": "",
     "author": "zhaiyukun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/213",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/213"
   },
   {
     "iid": 212,
@@ -2888,14 +1889,7 @@
     "merged_at": "2026-05-20",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/212",
-    "labels": [
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/212"
   },
   {
     "iid": 211,
@@ -2906,14 +1900,7 @@
     "merged_at": "2026-05-28",
     "closed_at": "",
     "author": "panchao-gitcode",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/211",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/211"
   },
   {
     "iid": 210,
@@ -2924,13 +1911,7 @@
     "merged_at": "2026-05-19",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/210",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/210"
   },
   {
     "iid": 209,
@@ -2941,13 +1922,7 @@
     "merged_at": "2026-05-20",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/209",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/209"
   },
   {
     "iid": 208,
@@ -2958,13 +1933,7 @@
     "merged_at": "2026-05-20",
     "closed_at": "",
     "author": "zcklllyao",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/208",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/208"
   },
   {
     "iid": 207,
@@ -2975,13 +1944,7 @@
     "merged_at": "2026-05-20",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/207",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/207"
   },
   {
     "iid": 206,
@@ -2992,13 +1955,7 @@
     "merged_at": "2026-05-19",
     "closed_at": "",
     "author": "zhaowei1936",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/206",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/206"
   },
   {
     "iid": 205,
@@ -3009,14 +1966,7 @@
     "merged_at": "2026-05-27",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/205",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/205"
   },
   {
     "iid": 204,
@@ -3027,11 +1977,7 @@
     "merged_at": "",
     "closed_at": "2026-05-20",
     "author": "zhangjianshe",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/204",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/204"
   },
   {
     "iid": 203,
@@ -3042,14 +1988,7 @@
     "merged_at": "2026-05-19",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/203",
-    "labels": [
-      "ci-pipeline-passed",
-      "stat/needs-squash",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/203"
   },
   {
     "iid": 202,
@@ -3060,12 +1999,7 @@
     "merged_at": "",
     "closed_at": "2026-05-18",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/202",
-    "labels": [
-      "cann-cla/no",
-      "stat/needs-squash",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/202"
   },
   {
     "iid": 201,
@@ -3076,14 +2010,7 @@
     "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/201",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/201"
   },
   {
     "iid": 200,
@@ -3094,12 +2021,7 @@
     "merged_at": "",
     "closed_at": "2026-05-16",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/200",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/200"
   },
   {
     "iid": 199,
@@ -3110,10 +2032,7 @@
     "merged_at": "",
     "closed_at": "2026-05-16",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/199",
-    "labels": [
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/199"
   },
   {
     "iid": 198,
@@ -3124,13 +2043,7 @@
     "merged_at": "2026-05-18",
     "closed_at": "",
     "author": "zmjjkyj",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/198",
-    "labels": [
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/198"
   },
   {
     "iid": 197,
@@ -3141,14 +2054,7 @@
     "merged_at": "2026-05-19",
     "closed_at": "",
     "author": "zzyyjj012",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/197",
-    "labels": [
-      "lgtm",
-      "approved",
-      "ci-pipeline-passed",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/197"
   },
   {
     "iid": 196,
@@ -3159,12 +2065,7 @@
     "merged_at": "",
     "closed_at": "2026-06-17",
     "author": "rui-zhang",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/196",
-    "labels": [
-      "ci-pipeline-failed",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/196"
   },
   {
     "iid": 195,
@@ -3175,14 +2076,7 @@
     "merged_at": "2026-05-20",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/195",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/195"
   },
   {
     "iid": 194,
@@ -3193,14 +2087,7 @@
     "merged_at": "2026-05-25",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/194",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "approved",
-      "ci-pipeline-passed",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/194"
   },
   {
     "iid": 193,
@@ -3211,11 +2098,7 @@
     "merged_at": "",
     "closed_at": "2026-05-20",
     "author": "wangyunxiang1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/193",
-    "labels": [
-      "cann-cla/no",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/193"
   },
   {
     "iid": 192,
@@ -3226,13 +2109,7 @@
     "merged_at": "2026-05-13",
     "closed_at": "",
     "author": "dty_30041779",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/192",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/192"
   },
   {
     "iid": 191,
@@ -3243,14 +2120,7 @@
     "merged_at": "2026-05-14",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/191",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/191"
   },
   {
     "iid": 190,
@@ -3261,13 +2131,7 @@
     "merged_at": "2026-05-16",
     "closed_at": "",
     "author": "zhaowei1936",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/190",
-    "labels": [
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/190"
   },
   {
     "iid": 189,
@@ -3278,13 +2142,7 @@
     "merged_at": "2026-05-13",
     "closed_at": "",
     "author": "yanxiang123456",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/189",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/189"
   },
   {
     "iid": 188,
@@ -3295,14 +2153,7 @@
     "merged_at": "2026-05-16",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/188",
-    "labels": [
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/188"
   },
   {
     "iid": 187,
@@ -3313,10 +2164,7 @@
     "merged_at": "",
     "closed_at": "2026-05-12",
     "author": "yanxiang123456",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/187",
-    "labels": [
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/187"
   },
   {
     "iid": 186,
@@ -3327,11 +2175,7 @@
     "merged_at": "",
     "closed_at": "2026-05-29",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/186",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/186"
   },
   {
     "iid": 185,
@@ -3342,14 +2186,7 @@
     "merged_at": "2026-05-12",
     "closed_at": "",
     "author": "zzyyjj012",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/185",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/185"
   },
   {
     "iid": 184,
@@ -3360,12 +2197,7 @@
     "merged_at": "",
     "closed_at": "2026-05-19",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/184",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/184"
   },
   {
     "iid": 183,
@@ -3376,11 +2208,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "zhaiyukun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/183",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/183"
   },
   {
     "iid": 182,
@@ -3391,12 +2219,7 @@
     "merged_at": "",
     "closed_at": "2026-05-21",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/182",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-failed",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/182"
   },
   {
     "iid": 181,
@@ -3407,13 +2230,7 @@
     "merged_at": "2026-05-09",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/181",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/181"
   },
   {
     "iid": 180,
@@ -3424,14 +2241,7 @@
     "merged_at": "2026-05-11",
     "closed_at": "",
     "author": "zzyyjj012",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/180",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/180"
   },
   {
     "iid": 179,
@@ -3442,14 +2252,7 @@
     "merged_at": "2026-05-09",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/179",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/179"
   },
   {
     "iid": 178,
@@ -3460,13 +2263,7 @@
     "merged_at": "2026-05-09",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/178",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/178"
   },
   {
     "iid": 177,
@@ -3477,14 +2274,7 @@
     "merged_at": "2026-05-09",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/177",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/177"
   },
   {
     "iid": 176,
@@ -3495,14 +2285,7 @@
     "merged_at": "2026-05-09",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/176",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/176"
   },
   {
     "iid": 175,
@@ -3513,14 +2296,7 @@
     "merged_at": "2026-05-11",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/175",
-    "labels": [
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/175"
   },
   {
     "iid": 174,
@@ -3531,13 +2307,7 @@
     "merged_at": "2026-05-09",
     "closed_at": "",
     "author": "MissingPompeii",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/174",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/174"
   },
   {
     "iid": 173,
@@ -3548,13 +2318,7 @@
     "merged_at": "2026-05-09",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/173",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/173"
   },
   {
     "iid": 172,
@@ -3565,14 +2329,7 @@
     "merged_at": "2026-05-11",
     "closed_at": "",
     "author": "zzyyjj012",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/172",
-    "labels": [
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/172"
   },
   {
     "iid": 171,
@@ -3583,13 +2340,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/171",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/171"
   },
   {
     "iid": 170,
@@ -3600,14 +2351,7 @@
     "merged_at": "2026-05-09",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/170",
-    "labels": [
-      "approved",
-      "cann-cla/yes",
-      "lgtm",
-      "ci-pipeline-passed",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/170"
   },
   {
     "iid": 169,
@@ -3618,13 +2362,7 @@
     "merged_at": "2026-05-07",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/169",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/169"
   },
   {
     "iid": 168,
@@ -3635,12 +2373,7 @@
     "merged_at": "",
     "closed_at": "2026-05-19",
     "author": "zzyyjj012",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/168",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/no",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/168"
   },
   {
     "iid": 167,
@@ -3651,14 +2384,7 @@
     "merged_at": "2026-05-09",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/167",
-    "labels": [
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/167"
   },
   {
     "iid": 166,
@@ -3669,14 +2395,7 @@
     "merged_at": "2026-05-06",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/166",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/166"
   },
   {
     "iid": 165,
@@ -3687,14 +2406,7 @@
     "merged_at": "2026-05-19",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/165",
-    "labels": [
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/165"
   },
   {
     "iid": 164,
@@ -3705,14 +2417,7 @@
     "merged_at": "2026-04-30",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/164",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/164"
   },
   {
     "iid": 163,
@@ -3723,13 +2428,7 @@
     "merged_at": "2026-04-30",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/163",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "ci-pipeline-passed",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/163"
   },
   {
     "iid": 162,
@@ -3740,10 +2439,7 @@
     "merged_at": "",
     "closed_at": "2026-04-30",
     "author": "zzyyjj012",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/162",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/162"
   },
   {
     "iid": 161,
@@ -3754,10 +2450,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "zouqian",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/161",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/161"
   },
   {
     "iid": 160,
@@ -3768,13 +2461,7 @@
     "merged_at": "2026-04-30",
     "closed_at": "",
     "author": "weixin_47893573",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/160",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/160"
   },
   {
     "iid": 159,
@@ -3785,13 +2472,7 @@
     "merged_at": "2026-04-30",
     "closed_at": "",
     "author": "yongan0609",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/159",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/159"
   },
   {
     "iid": 158,
@@ -3802,13 +2483,7 @@
     "merged_at": "2026-04-29",
     "closed_at": "",
     "author": "aoyoukeji",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/158",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/158"
   },
   {
     "iid": 157,
@@ -3819,10 +2494,7 @@
     "merged_at": "",
     "closed_at": "2026-04-27",
     "author": "aoyoukeji",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/157",
-    "labels": [
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/157"
   },
   {
     "iid": 156,
@@ -3833,10 +2505,7 @@
     "merged_at": "",
     "closed_at": "2026-04-27",
     "author": "aoyoukeji",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/156",
-    "labels": [
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/156"
   },
   {
     "iid": 155,
@@ -3847,11 +2516,7 @@
     "merged_at": "",
     "closed_at": "2026-04-27",
     "author": "yongan0609",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/155",
-    "labels": [
-      "cann-cla/no",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/155"
   },
   {
     "iid": 154,
@@ -3862,14 +2527,7 @@
     "merged_at": "2026-04-28",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/154",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/154"
   },
   {
     "iid": 153,
@@ -3880,10 +2538,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "zouqian",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/153",
-    "labels": [
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/153"
   },
   {
     "iid": 152,
@@ -3894,14 +2549,7 @@
     "merged_at": "2026-04-30",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/152",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "stat/needs-squash",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/152"
   },
   {
     "iid": 151,
@@ -3912,10 +2560,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "zouqian",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/151",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/151"
   },
   {
     "iid": 150,
@@ -3926,14 +2571,7 @@
     "merged_at": "2026-04-25",
     "closed_at": "",
     "author": "liuyuanchen1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/150",
-    "labels": [
-      "approved",
-      "lgtm",
-      "ci-confirmed",
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/150"
   },
   {
     "iid": 149,
@@ -3944,10 +2582,7 @@
     "merged_at": "",
     "closed_at": "2026-04-25",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/149",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/149"
   },
   {
     "iid": 148,
@@ -3958,12 +2593,7 @@
     "merged_at": "",
     "closed_at": "2026-05-19",
     "author": "zzyyjj012",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/148",
-    "labels": [
-      "ci-pipeline-failed",
-      "stat/needs-squash",
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/148"
   },
   {
     "iid": 147,
@@ -3974,13 +2604,7 @@
     "merged_at": "2026-04-30",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/147",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/147"
   },
   {
     "iid": 146,
@@ -3991,10 +2615,7 @@
     "merged_at": "",
     "closed_at": "2026-05-14",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/146",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/146"
   },
   {
     "iid": 145,
@@ -4005,11 +2626,7 @@
     "merged_at": "",
     "closed_at": "2026-04-25",
     "author": "zouqian",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/145",
-    "labels": [
-      "cann-cla/no",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/145"
   },
   {
     "iid": 144,
@@ -4020,13 +2637,7 @@
     "merged_at": "2026-05-15",
     "closed_at": "",
     "author": "zhaiyukun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/144",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/144"
   },
   {
     "iid": 143,
@@ -4037,13 +2648,7 @@
     "merged_at": "2026-04-24",
     "closed_at": "",
     "author": "depeng1994",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/143",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/143"
   },
   {
     "iid": 142,
@@ -4054,13 +2659,7 @@
     "merged_at": "2026-04-24",
     "closed_at": "",
     "author": "depeng1994",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/142",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/142"
   },
   {
     "iid": 141,
@@ -4071,11 +2670,7 @@
     "merged_at": "",
     "closed_at": "2026-06-08",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/141",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/141"
   },
   {
     "iid": 140,
@@ -4086,14 +2681,7 @@
     "merged_at": "2026-05-09",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/140",
-    "labels": [
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/140"
   },
   {
     "iid": 139,
@@ -4104,11 +2692,7 @@
     "merged_at": "",
     "closed_at": "2026-04-24",
     "author": "zouqian",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/139",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/139"
   },
   {
     "iid": 138,
@@ -4119,14 +2703,7 @@
     "merged_at": "2026-06-09",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/138",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/138"
   },
   {
     "iid": 137,
@@ -4137,14 +2714,7 @@
     "merged_at": "2026-04-16",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/137",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/137"
   },
   {
     "iid": 136,
@@ -4155,10 +2725,7 @@
     "merged_at": "",
     "closed_at": "2026-04-25",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/136",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/136"
   },
   {
     "iid": 135,
@@ -4169,14 +2736,7 @@
     "merged_at": "2026-04-16",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/135",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/135"
   },
   {
     "iid": 134,
@@ -4187,13 +2747,7 @@
     "merged_at": "2026-04-16",
     "closed_at": "",
     "author": "depeng1994",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/134",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/134"
   },
   {
     "iid": 133,
@@ -4204,13 +2758,7 @@
     "merged_at": "2026-04-16",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/133",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/133"
   },
   {
     "iid": 132,
@@ -4221,13 +2769,7 @@
     "merged_at": "2026-04-16",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/132",
-    "labels": [
-      "approved",
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/132"
   },
   {
     "iid": 131,
@@ -4238,14 +2780,7 @@
     "merged_at": "2026-04-16",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/131",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/131"
   },
   {
     "iid": 130,
@@ -4256,13 +2791,7 @@
     "merged_at": "2026-04-14",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/130",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/130"
   },
   {
     "iid": 129,
@@ -4273,14 +2802,7 @@
     "merged_at": "2026-04-14",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/129",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/129"
   },
   {
     "iid": 128,
@@ -4291,14 +2813,7 @@
     "merged_at": "2026-04-14",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/128",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/128"
   },
   {
     "iid": 127,
@@ -4309,14 +2824,7 @@
     "merged_at": "2026-04-14",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/127",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/127"
   },
   {
     "iid": 126,
@@ -4327,13 +2835,7 @@
     "merged_at": "2026-04-30",
     "closed_at": "",
     "author": "zhaiyukun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/126",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/126"
   },
   {
     "iid": 125,
@@ -4344,14 +2846,7 @@
     "merged_at": "2026-04-13",
     "closed_at": "",
     "author": "caojingyi",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/125",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/125"
   },
   {
     "iid": 124,
@@ -4362,13 +2857,7 @@
     "merged_at": "2026-04-13",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/124",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/124"
   },
   {
     "iid": 123,
@@ -4379,14 +2868,7 @@
     "merged_at": "2026-04-13",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/123",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/123"
   },
   {
     "iid": 122,
@@ -4397,8 +2879,7 @@
     "merged_at": "",
     "closed_at": "2026-04-10",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/122",
-    "labels": []
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/122"
   },
   {
     "iid": 121,
@@ -4409,14 +2890,7 @@
     "merged_at": "2026-04-09",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/121",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/121"
   },
   {
     "iid": 120,
@@ -4427,14 +2901,7 @@
     "merged_at": "2026-04-09",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/120",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/120"
   },
   {
     "iid": 119,
@@ -4445,13 +2912,7 @@
     "merged_at": "2026-04-09",
     "closed_at": "",
     "author": "caojingyi",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/119",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/119"
   },
   {
     "iid": 118,
@@ -4462,14 +2923,7 @@
     "merged_at": "2026-04-13",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/118",
-    "labels": [
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/118"
   },
   {
     "iid": 117,
@@ -4480,11 +2934,7 @@
     "merged_at": "",
     "closed_at": "2026-05-12",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/117",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/117"
   },
   {
     "iid": 116,
@@ -4495,14 +2945,7 @@
     "merged_at": "2026-04-13",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/116",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/116"
   },
   {
     "iid": 115,
@@ -4513,14 +2956,7 @@
     "merged_at": "2026-04-14",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/115",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/115"
   },
   {
     "iid": 114,
@@ -4531,14 +2967,7 @@
     "merged_at": "2026-04-10",
     "closed_at": "",
     "author": "zhangjianshe",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/114",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/114"
   },
   {
     "iid": 113,
@@ -4549,14 +2978,7 @@
     "merged_at": "2026-04-08",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/113",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/113"
   },
   {
     "iid": 112,
@@ -4567,14 +2989,7 @@
     "merged_at": "2026-04-07",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/112",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "stat/needs-squash",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/112"
   },
   {
     "iid": 111,
@@ -4585,14 +3000,7 @@
     "merged_at": "2026-04-07",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/111",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/111"
   },
   {
     "iid": 110,
@@ -4603,14 +3011,7 @@
     "merged_at": "2026-04-07",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/110",
-    "labels": [
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/110"
   },
   {
     "iid": 109,
@@ -4621,14 +3022,7 @@
     "merged_at": "2026-04-09",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/109",
-    "labels": [
-      "ci-pipeline-passed",
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/109"
   },
   {
     "iid": 108,
@@ -4639,14 +3033,7 @@
     "merged_at": "2026-04-07",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/108",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/108"
   },
   {
     "iid": 107,
@@ -4657,11 +3044,7 @@
     "merged_at": "",
     "closed_at": "2026-05-12",
     "author": "zhangjianshe",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/107",
-    "labels": [
-      "ci-pipeline-failed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/107"
   },
   {
     "iid": 106,
@@ -4672,13 +3055,7 @@
     "merged_at": "2026-04-03",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/106",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/106"
   },
   {
     "iid": 105,
@@ -4689,14 +3066,7 @@
     "merged_at": "2026-04-03",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/105",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/105"
   },
   {
     "iid": 104,
@@ -4707,14 +3077,7 @@
     "merged_at": "2026-04-03",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/104",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/104"
   },
   {
     "iid": 103,
@@ -4725,14 +3088,7 @@
     "merged_at": "2026-04-03",
     "closed_at": "",
     "author": "zzyyjj012",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/103",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/103"
   },
   {
     "iid": 102,
@@ -4743,12 +3099,7 @@
     "merged_at": "",
     "closed_at": "2026-04-03",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/102",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/102"
   },
   {
     "iid": 101,
@@ -4759,10 +3110,7 @@
     "merged_at": "",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/101",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/101"
   },
   {
     "iid": 100,
@@ -4773,12 +3121,7 @@
     "merged_at": "",
     "closed_at": "2026-04-16",
     "author": "zhangjianshe",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/100",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/100"
   },
   {
     "iid": 99,
@@ -4789,14 +3132,7 @@
     "merged_at": "2026-04-02",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/99",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/99"
   },
   {
     "iid": 98,
@@ -4807,11 +3143,7 @@
     "merged_at": "",
     "closed_at": "2026-04-02",
     "author": "zhangjianshe",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/98",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/98"
   },
   {
     "iid": 97,
@@ -4822,14 +3154,7 @@
     "merged_at": "2026-04-01",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/97",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "stat/needs-squash",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/97"
   },
   {
     "iid": 96,
@@ -4840,14 +3165,7 @@
     "merged_at": "2026-04-09",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/96",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/96"
   },
   {
     "iid": 95,
@@ -4858,14 +3176,7 @@
     "merged_at": "2026-04-01",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/95",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/95"
   },
   {
     "iid": 94,
@@ -4876,14 +3187,7 @@
     "merged_at": "2026-03-30",
     "closed_at": "",
     "author": "caojingyi",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/94",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/94"
   },
   {
     "iid": 93,
@@ -4894,14 +3198,7 @@
     "merged_at": "2026-04-02",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/93",
-    "labels": [
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/93"
   },
   {
     "iid": 92,
@@ -4912,13 +3209,7 @@
     "merged_at": "2026-03-30",
     "closed_at": "",
     "author": "qianbi1999",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/92",
-    "labels": [
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/92"
   },
   {
     "iid": 91,
@@ -4929,11 +3220,7 @@
     "merged_at": "",
     "closed_at": "2026-04-27",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/91",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/91"
   },
   {
     "iid": 90,
@@ -4944,13 +3231,7 @@
     "merged_at": "2026-04-13",
     "closed_at": "",
     "author": "zhaiyukun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/90",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/90"
   },
   {
     "iid": 89,
@@ -4961,14 +3242,7 @@
     "merged_at": "2026-04-02",
     "closed_at": "",
     "author": "panchao-gitcode",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/89",
-    "labels": [
-      "lgtm",
-      "approved",
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/89"
   },
   {
     "iid": 88,
@@ -4979,13 +3253,7 @@
     "merged_at": "2026-03-26",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/88",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/88"
   },
   {
     "iid": 87,
@@ -4996,12 +3264,7 @@
     "merged_at": "",
     "closed_at": "2026-05-12",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/87",
-    "labels": [
-      "ci-pipeline-failed",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/87"
   },
   {
     "iid": 86,
@@ -5012,14 +3275,7 @@
     "merged_at": "2026-04-01",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/86",
-    "labels": [
-      "ci-pipeline-passed",
-      "stat/needs-squash",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/86"
   },
   {
     "iid": 85,
@@ -5030,14 +3286,7 @@
     "merged_at": "2026-03-26",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/85",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/85"
   },
   {
     "iid": 84,
@@ -5048,14 +3297,7 @@
     "merged_at": "2026-03-27",
     "closed_at": "",
     "author": "qianbi1999",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/84",
-    "labels": [
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/84"
   },
   {
     "iid": 83,
@@ -5066,13 +3308,7 @@
     "merged_at": "2026-03-27",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/83",
-    "labels": [
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/83"
   },
   {
     "iid": 82,
@@ -5083,10 +3319,7 @@
     "merged_at": "",
     "closed_at": "2026-06-17",
     "author": "zhanghz1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/82",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/82"
   },
   {
     "iid": 81,
@@ -5097,14 +3330,7 @@
     "merged_at": "2026-04-03",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/81",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/81"
   },
   {
     "iid": 80,
@@ -5115,14 +3341,7 @@
     "merged_at": "2026-03-26",
     "closed_at": "",
     "author": "MissingPompeii",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/80",
-    "labels": [
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/80"
   },
   {
     "iid": 79,
@@ -5133,11 +3352,7 @@
     "merged_at": "",
     "closed_at": "2026-05-12",
     "author": "caojingyi",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/79",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/79"
   },
   {
     "iid": 78,
@@ -5148,14 +3363,7 @@
     "merged_at": "2026-03-27",
     "closed_at": "",
     "author": "caojingyi",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/78",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/78"
   },
   {
     "iid": 77,
@@ -5166,14 +3374,7 @@
     "merged_at": "2026-03-26",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/77",
-    "labels": [
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/77"
   },
   {
     "iid": 76,
@@ -5184,10 +3385,7 @@
     "merged_at": "",
     "closed_at": "2026-03-21",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/76",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/76"
   },
   {
     "iid": 75,
@@ -5198,14 +3396,7 @@
     "merged_at": "2026-04-02",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/75",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/75"
   },
   {
     "iid": 74,
@@ -5216,13 +3407,7 @@
     "merged_at": "2026-03-20",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/74",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/74"
   },
   {
     "iid": 73,
@@ -5233,14 +3418,7 @@
     "merged_at": "2026-04-01",
     "closed_at": "",
     "author": "zzyyjj012",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/73",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/73"
   },
   {
     "iid": 72,
@@ -5251,14 +3429,7 @@
     "merged_at": "2026-03-25",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/72",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/72"
   },
   {
     "iid": 71,
@@ -5269,12 +3440,7 @@
     "merged_at": "",
     "closed_at": "2026-03-23",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/71",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/71"
   },
   {
     "iid": 70,
@@ -5285,12 +3451,7 @@
     "merged_at": "",
     "closed_at": "2026-04-02",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/70",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/70"
   },
   {
     "iid": 69,
@@ -5301,14 +3462,7 @@
     "merged_at": "2026-03-23",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/69",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/69"
   },
   {
     "iid": 68,
@@ -5319,14 +3473,7 @@
     "merged_at": "2026-03-20",
     "closed_at": "",
     "author": "HJ92",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/68",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/68"
   },
   {
     "iid": 67,
@@ -5337,12 +3484,7 @@
     "merged_at": "",
     "closed_at": "2026-05-12",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/67",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/67"
   },
   {
     "iid": 66,
@@ -5353,13 +3495,7 @@
     "merged_at": "2026-03-26",
     "closed_at": "",
     "author": "caojingyi",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/66",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/66"
   },
   {
     "iid": 65,
@@ -5370,14 +3506,7 @@
     "merged_at": "2026-04-01",
     "closed_at": "",
     "author": "zhangjianshe",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/65",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/65"
   },
   {
     "iid": 64,
@@ -5388,14 +3517,7 @@
     "merged_at": "2026-04-01",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/64",
-    "labels": [
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/64"
   },
   {
     "iid": 63,
@@ -5406,14 +3528,7 @@
     "merged_at": "2026-03-16",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/63",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/63"
   },
   {
     "iid": 62,
@@ -5424,13 +3539,7 @@
     "merged_at": "2026-03-18",
     "closed_at": "",
     "author": "zhaiyukun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/62",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/62"
   },
   {
     "iid": 61,
@@ -5441,11 +3550,7 @@
     "merged_at": "",
     "closed_at": "2026-03-12",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/61",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/61"
   },
   {
     "iid": 60,
@@ -5456,13 +3561,7 @@
     "merged_at": "2026-03-31",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/60",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/60"
   },
   {
     "iid": 59,
@@ -5473,13 +3572,7 @@
     "merged_at": "2026-03-11",
     "closed_at": "",
     "author": "weijie11",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/59",
-    "labels": [
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/59"
   },
   {
     "iid": 58,
@@ -5490,14 +3583,7 @@
     "merged_at": "2026-03-11",
     "closed_at": "",
     "author": "zhanghz1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/58",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/58"
   },
   {
     "iid": 57,
@@ -5508,13 +3594,7 @@
     "merged_at": "2026-03-11",
     "closed_at": "",
     "author": "zhanghz1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/57",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/57"
   },
   {
     "iid": 56,
@@ -5525,14 +3605,7 @@
     "merged_at": "2026-03-11",
     "closed_at": "",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/56",
-    "labels": [
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/56"
   },
   {
     "iid": 55,
@@ -5543,14 +3616,7 @@
     "merged_at": "2026-03-11",
     "closed_at": "",
     "author": "caojingyi",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/55",
-    "labels": [
-      "ci-pipeline-passed",
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/55"
   },
   {
     "iid": 54,
@@ -5561,11 +3627,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/54",
-    "labels": [
-      "cann-cla/no",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/54"
   },
   {
     "iid": 53,
@@ -5576,13 +3638,7 @@
     "merged_at": "2026-03-05",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/53",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/53"
   },
   {
     "iid": 52,
@@ -5593,14 +3649,7 @@
     "merged_at": "2026-03-14",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/52",
-    "labels": [
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/52"
   },
   {
     "iid": 51,
@@ -5611,14 +3660,7 @@
     "merged_at": "2026-03-13",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/51",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "approved",
-      "lgtm",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/51"
   },
   {
     "iid": 50,
@@ -5629,10 +3671,7 @@
     "merged_at": "",
     "closed_at": "2026-03-03",
     "author": "qq_41667743",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/50",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/50"
   },
   {
     "iid": 49,
@@ -5643,10 +3682,7 @@
     "merged_at": "",
     "closed_at": "2026-03-05",
     "author": "weijie11",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/49",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/49"
   },
   {
     "iid": 48,
@@ -5657,14 +3693,7 @@
     "merged_at": "2026-03-02",
     "closed_at": "",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/48",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/48"
   },
   {
     "iid": 47,
@@ -5675,14 +3704,7 @@
     "merged_at": "2026-03-03",
     "closed_at": "",
     "author": "caojingyi",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/47",
-    "labels": [
-      "cann-cla/yes",
-      "lgtm",
-      "approved",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/47"
   },
   {
     "iid": 46,
@@ -5693,14 +3715,7 @@
     "merged_at": "2026-03-04",
     "closed_at": "",
     "author": "qianbi1999",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/46",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/46"
   },
   {
     "iid": 45,
@@ -5711,12 +3726,7 @@
     "merged_at": "",
     "closed_at": "2026-02-28",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/45",
-    "labels": [
-      "stat/needs-squash",
-      "ci-pipeline-failed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/45"
   },
   {
     "iid": 44,
@@ -5727,10 +3737,7 @@
     "merged_at": "",
     "closed_at": "2026-02-27",
     "author": "CjianForBetter",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/44",
-    "labels": [
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/44"
   },
   {
     "iid": 43,
@@ -5741,14 +3748,7 @@
     "merged_at": "2026-02-27",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/43",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/43"
   },
   {
     "iid": 42,
@@ -5759,13 +3759,7 @@
     "merged_at": "2026-02-28",
     "closed_at": "",
     "author": "zhanghz1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/42",
-    "labels": [
-      "lgtm",
-      "approved",
-      "cann-cla/yes",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/42"
   },
   {
     "iid": 41,
@@ -5776,14 +3770,7 @@
     "merged_at": "2026-03-02",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/41",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "approved",
-      "ci-pipeline-passed",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/41"
   },
   {
     "iid": 40,
@@ -5794,13 +3781,7 @@
     "merged_at": "2026-02-27",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/40",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/40"
   },
   {
     "iid": 39,
@@ -5811,13 +3792,7 @@
     "merged_at": "2026-02-28",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/39",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/39"
   },
   {
     "iid": 38,
@@ -5828,13 +3803,7 @@
     "merged_at": "2026-02-28",
     "closed_at": "",
     "author": "hitwdy",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/38",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/38"
   },
   {
     "iid": 37,
@@ -5845,14 +3814,7 @@
     "merged_at": "2026-02-25",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/37",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/37"
   },
   {
     "iid": 36,
@@ -5863,14 +3825,7 @@
     "merged_at": "2026-02-26",
     "closed_at": "",
     "author": "caojingyi",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/36",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "approved",
-      "ci-pipeline-passed",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/36"
   },
   {
     "iid": 35,
@@ -5881,13 +3836,7 @@
     "merged_at": "2026-02-25",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/35",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/35"
   },
   {
     "iid": 34,
@@ -5898,14 +3847,7 @@
     "merged_at": "2026-02-27",
     "closed_at": "",
     "author": "xubin787",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/34",
-    "labels": [
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/34"
   },
   {
     "iid": 33,
@@ -5916,14 +3858,7 @@
     "merged_at": "2026-02-26",
     "closed_at": "",
     "author": "qianbi1999",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/33",
-    "labels": [
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/33"
   },
   {
     "iid": 32,
@@ -5934,13 +3869,7 @@
     "merged_at": "2026-02-12",
     "closed_at": "",
     "author": "qianbi1999",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/32",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/32"
   },
   {
     "iid": 31,
@@ -5951,14 +3880,7 @@
     "merged_at": "2026-02-24",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/31",
-    "labels": [
-      "lgtm",
-      "approved",
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/31"
   },
   {
     "iid": 30,
@@ -5969,13 +3891,7 @@
     "merged_at": "2026-02-11",
     "closed_at": "",
     "author": "zhanghz1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/30",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/30"
   },
   {
     "iid": 29,
@@ -5986,11 +3902,7 @@
     "merged_at": "",
     "closed_at": "2026-03-05",
     "author": "zhanghz1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/29",
-    "labels": [
-      "ci-pipeline-failed",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/29"
   },
   {
     "iid": 28,
@@ -6001,14 +3913,7 @@
     "merged_at": "2026-03-12",
     "closed_at": "",
     "author": "xubin787",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/28",
-    "labels": [
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm",
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/28"
   },
   {
     "iid": 27,
@@ -6019,13 +3924,7 @@
     "merged_at": "2026-02-04",
     "closed_at": "",
     "author": "zhanghz1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/27",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/27"
   },
   {
     "iid": 26,
@@ -6036,14 +3935,7 @@
     "merged_at": "2026-02-24",
     "closed_at": "",
     "author": "xubin787",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/26",
-    "labels": [
-      "lgtm",
-      "approved",
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/26"
   },
   {
     "iid": 25,
@@ -6054,10 +3946,7 @@
     "merged_at": "",
     "closed_at": "2026-04-28",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/25",
-    "labels": [
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/25"
   },
   {
     "iid": 24,
@@ -6068,13 +3957,7 @@
     "merged_at": "2026-02-04",
     "closed_at": "",
     "author": "qianbi1999",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/24",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/24"
   },
   {
     "iid": 23,
@@ -6085,14 +3968,7 @@
     "merged_at": "2026-02-28",
     "closed_at": "",
     "author": "xubin787",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/23",
-    "labels": [
-      "lgtm",
-      "ci-pipeline-passed",
-      "approved",
-      "cann-cla/yes",
-      "stat/needs-squash"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/23"
   },
   {
     "iid": 22,
@@ -6103,14 +3979,7 @@
     "merged_at": "2026-02-03",
     "closed_at": "",
     "author": "zhanghz1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/22",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/22"
   },
   {
     "iid": 21,
@@ -6121,11 +3990,7 @@
     "merged_at": "",
     "closed_at": "2026-04-29",
     "author": "zhangwei1177",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/21",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/21"
   },
   {
     "iid": 20,
@@ -6136,12 +4001,7 @@
     "merged_at": "",
     "closed_at": "2026-02-03",
     "author": "xubin787",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/20",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/20"
   },
   {
     "iid": 19,
@@ -6152,13 +4012,7 @@
     "merged_at": "2026-02-11",
     "closed_at": "",
     "author": "lrwei0709",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/19",
-    "labels": [
-      "cann-cla/yes",
-      "lgtm",
-      "approved",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/19"
   },
   {
     "iid": 18,
@@ -6169,14 +4023,7 @@
     "merged_at": "2026-01-29",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/18",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/18"
   },
   {
     "iid": 17,
@@ -6187,13 +4034,7 @@
     "merged_at": "2026-01-29",
     "closed_at": "",
     "author": "mystri",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/17",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/17"
   },
   {
     "iid": 16,
@@ -6204,13 +4045,7 @@
     "merged_at": "2026-01-29",
     "closed_at": "",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/16",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/16"
   },
   {
     "iid": 15,
@@ -6221,12 +4056,7 @@
     "merged_at": "",
     "closed_at": "2026-01-29",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/15",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/15"
   },
   {
     "iid": 14,
@@ -6237,13 +4067,7 @@
     "merged_at": "2026-01-29",
     "closed_at": "",
     "author": "zhanghz1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/14",
-    "labels": [
-      "cann-cla/yes",
-      "approved",
-      "ci-pipeline-passed",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/14"
   },
   {
     "iid": 13,
@@ -6254,13 +4078,7 @@
     "merged_at": "2026-01-28",
     "closed_at": "",
     "author": "depeng1994",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/13",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/13"
   },
   {
     "iid": 12,
@@ -6271,12 +4089,7 @@
     "merged_at": "",
     "closed_at": "2026-01-28",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/12",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/12"
   },
   {
     "iid": 11,
@@ -6287,13 +4100,7 @@
     "merged_at": "2026-01-27",
     "closed_at": "",
     "author": "depeng1994",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/11",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/11"
   },
   {
     "iid": 10,
@@ -6304,13 +4111,7 @@
     "merged_at": "2026-01-28",
     "closed_at": "",
     "author": "zhanghz1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/10",
-    "labels": [
-      "ci-pipeline-passed",
-      "cann-cla/yes",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/10"
   },
   {
     "iid": 9,
@@ -6321,14 +4122,7 @@
     "merged_at": "2026-01-27",
     "closed_at": "",
     "author": "xubin787",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/9",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/9"
   },
   {
     "iid": 8,
@@ -6339,14 +4133,7 @@
     "merged_at": "2026-01-30",
     "closed_at": "",
     "author": "caojingyi",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/8",
-    "labels": [
-      "stat/needs-squash",
-      "cann-cla/yes",
-      "ci-pipeline-passed",
-      "lgtm",
-      "approved"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/8"
   },
   {
     "iid": 7,
@@ -6357,14 +4144,7 @@
     "merged_at": "2026-01-30",
     "closed_at": "",
     "author": "gcw_LlDFlrhE",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/7",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "approved",
-      "ci-pipeline-passed",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/7"
   },
   {
     "iid": 6,
@@ -6375,14 +4155,7 @@
     "merged_at": "2026-01-27",
     "closed_at": "",
     "author": "zhanghz1",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/6",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/6"
   },
   {
     "iid": 5,
@@ -6393,12 +4166,7 @@
     "merged_at": "",
     "closed_at": "2026-04-27",
     "author": "xuyujun",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/5",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/5"
   },
   {
     "iid": 4,
@@ -6409,14 +4177,7 @@
     "merged_at": "2026-01-27",
     "closed_at": "",
     "author": "xubin787",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/4",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "ci-pipeline-passed",
-      "approved",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/4"
   },
   {
     "iid": 3,
@@ -6427,14 +4188,7 @@
     "merged_at": "2026-01-26",
     "closed_at": "",
     "author": "xubin787",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/3",
-    "labels": [
-      "cann-cla/yes",
-      "stat/needs-squash",
-      "approved",
-      "ci-pipeline-passed",
-      "lgtm"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/3"
   },
   {
     "iid": 2,
@@ -6445,10 +4199,7 @@
     "merged_at": "",
     "closed_at": "2026-01-24",
     "author": "xubin787",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/2",
-    "labels": [
-      "cann-cla/no"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/2"
   },
   {
     "iid": 1,
@@ -6459,10 +4210,6 @@
     "merged_at": "",
     "closed_at": "2026-05-19",
     "author": "cui_jiahao",
-    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/1",
-    "labels": [
-      "cann-cla/yes",
-      "ci-pipeline-failed"
-    ]
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/1"
   }
 ]
