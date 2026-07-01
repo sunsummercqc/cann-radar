@@ -443,7 +443,8 @@ def _send_personal_emails(internal_with_email, target_label, smtp_cfg, notified_
                     _mark_notified(notified_data, mrs)
                 except Exception as e:
                     failed += 1
-                    print(f"  ✗ {author} <{email}>: {e}")
+                    mr_ids = ", ".join(f"#{m['iid']}" for m in mrs)
+                    print(f"  ✗ {author} <{email}>: {e}  MR: {mr_ids}")
             else:
                 print(f"  ⊘ {author} <{email}>: {len(mrs)} 个 MR [测试模式，跳过]")
         else:
@@ -456,7 +457,8 @@ def _send_personal_emails(internal_with_email, target_label, smtp_cfg, notified_
                 print(f"  ✓ {author} <{email}>: {len(mrs)} 个 MR{stage_note}{cc_str}")
             except Exception as e:
                 failed += 1
-                print(f"  ✗ {author} <{email}>: {e}")
+                mr_ids = ", ".join(f"#{m['iid']}" for m in mrs)
+                print(f"  ✗ {author} <{email}>: {e}  MR: {mr_ids}")
 
     return sent, failed
 
@@ -560,6 +562,16 @@ def main():
     print(f"    内部+无邮箱: {len(internal_no_email)} 人（{sum(len(v) for v in internal_no_email.values())} 个 MR）")
     print(f"    外部开发者: {len(external_authors)} 人（{sum(len(v) for v in external_authors.values())} 个 MR）")
 
+    if not admin_email:
+        if internal_no_email or external_authors:
+            print(f"\n  ⚠ 管理员邮箱未配置，以下用户无法收到通知：")
+            for a in sorted(internal_no_email.keys()):
+                ids = ", ".join(f"#{m['iid']}" for m in internal_no_email[a])
+                print(f"    内部无邮箱: {a} ({ids})")
+            for a in sorted(external_authors.keys()):
+                ids = ", ".join(f"#{m['iid']}" for m in external_authors[a])
+                print(f"    外部开发者: {a} ({ids})")
+
     smtp_cfg = None
     if not args.dry_run:
         smtp_cfg = load_smtp_config()
@@ -589,6 +601,9 @@ def main():
             print(f"  → 将发送到 {admin_email} [dry-run，未发送]")
             print(f"    内部无邮箱: {len(internal_no_email)} 人")
             print(f"    外部开发者: {len(external_authors)} 人")
+        elif not admin_email and (internal_no_email or external_authors):
+            print(f"\n=== 管理员汇总报告 ===")
+            print(f"  → 管理员邮箱未配置，跳过发送 [dry-run]")
     elif admin_email and (internal_no_email or external_authors):
         print(f"\n=== 发送管理员汇总报告 → {admin_email} ===")
         admin_html = build_admin_report_html(
@@ -601,6 +616,13 @@ def main():
                 admin_html,
             )
             print(f"  ✓ 管理员汇总报告已发送")
+            notified_data["admin_report_last_sent"] = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+            notified_data["admin_report_summary"] = {
+                "internal_no_email": len(internal_no_email),
+                "external": len(external_authors),
+                "total_mrs": sum(len(v) for v in internal_no_email.values()) + sum(len(v) for v in external_authors.values()),
+            }
+            notified_changed = True
         except Exception as e:
             print(f"  ✗ 管理员汇总报告发送失败: {e}")
 
