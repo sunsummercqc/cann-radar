@@ -1,17 +1,65 @@
 [
   {
-    "iid": 386,
+    "iid": 389,
     "state": "opened",
+    "title": "fix: 修复NPU fused_matmul_reduce_scatter忽略reduce_op参数的问题",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "blueberryan",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/389",
+    "labels": [
+      "cann-cla/no"
+    ]
+  },
+  {
+    "iid": 388,
+    "state": "opened",
+    "title": "[refactor]: 模型配置进行整改，规范了模型配置命名",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "roadnotstop",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/388",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "ci-pipeline-passed"
+    ]
+  },
+  {
+    "iid": 387,
+    "state": "opened",
+    "title": "[test] (deepseek-v4): add TP+compile smoke test, shrink smoke config",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zhangwei1177",
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/387",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash",
+      "ci-pipeline-failed"
+    ]
+  },
+  {
+    "iid": 386,
+    "state": "merged",
     "title": "fix: deepseek_v4 自定义 RMSNorm 导致 npu_rms_norm 替换不生效",
     "created_at": "2026-06-30",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "zzyy_zzyy",
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/386",
     "labels": [
       "cann-cla/yes",
-      "ci-pipeline-failed"
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm"
     ]
   },
   {
@@ -33,7 +81,7 @@
     "state": "opened",
     "title": "[fix] Align DSV3 MoE layout for NPU",
     "created_at": "2026-06-27",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "hitwdy",
@@ -80,17 +128,19 @@
   },
   {
     "iid": 381,
-    "state": "opened",
+    "state": "merged",
     "title": "[feat] add offline profiling data parse script",
     "created_at": "2026-06-26",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "hitwdy",
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/381",
     "labels": [
       "stat/needs-squash",
       "cann-cla/yes",
+      "approved",
+      "lgtm",
       "ci-pipeline-passed"
     ]
   },
@@ -146,18 +196,20 @@
   },
   {
     "iid": 377,
-    "state": "opened",
-    "title": "修复torchtitan_npu\\tools\\weight_utils.py中fuse_expert函数可能会出现的将w13误判为w1导致生成垃圾key的问题",
+    "state": "merged",
+    "title": "[fix] 修复torchtitan_npu\\tools\\weight_utils.py中fuse_expert函数可能会出现的将w13误判为w1导致生成垃圾key的问题",
     "created_at": "2026-06-25",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "weixin_69877254",
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/377",
     "labels": [
       "cann-cla/yes",
       "stat/needs-squash",
-      "ci-pipeline-passed"
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm"
     ]
   },
   {
@@ -260,17 +312,20 @@
   },
   {
     "iid": 370,
-    "state": "opened",
+    "state": "merged",
     "title": "[refactor] 删除 npu_bypass_triton_codegen 特性相关的全部实现",
     "created_at": "2026-06-23",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "roadnotstop",
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/370",
     "labels": [
       "cann-cla/yes",
-      "stat/needs-squash"
+      "stat/needs-squash",
+      "approved",
+      "lgtm",
+      "ci-pipeline-passed"
     ]
   },
   {
@@ -362,17 +417,19 @@
   },
   {
     "iid": 364,
-    "state": "opened",
+    "state": "merged",
     "title": "feat(qwen3): add TND attention support for per-document causal attention",
     "created_at": "2026-06-18",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "HWTCherry",
     "web_url": "https://gitcode.com/cann/torchtitan-npu/merge_requests/364",
     "labels": [
       "cann-cla/yes",
-      "ci-pipeline-failed"
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm"
     ]
   },
   {
@@ -502,7 +559,7 @@
     "state": "opened",
     "title": "[fix] (deepseek-v4): unwrap DTensor in CP collectives for TP+CP",
     "created_at": "2026-06-15",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "wy_test",
@@ -3408,9 +3465,9 @@
   {
     "iid": 183,
     "state": "opened",
-    "title": "[refactor] Enable mla absorb mode with ModelCustomConfig",
+    "title": "[WIP] Enable mla absorb mode with ModelCustomConfig",
     "created_at": "2026-05-11",
-    "updated_at": "2026-06-15",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "zhaiyukun",

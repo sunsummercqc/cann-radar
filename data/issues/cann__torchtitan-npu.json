@@ -1,5 +1,27 @@
 [
   {
+    "iid": 69,
+    "state": "opened",
+    "created_at": "2026-07-01",
+    "closed_at": "",
+    "author": "ningzhixiong",
+    "title": "[Bug-Report|缺陷反馈]: deepseek-v4-flash未开启mtp，保存出的hf权重，最后一个切片文件(mtp权重文件)直接损坏无法读取",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/69"
+  },
+  {
+    "iid": 68,
+    "state": "opened",
+    "created_at": "2026-07-01",
+    "closed_at": "",
+    "author": "zhong_lin",
+    "title": "[Roadmap] torchtitan-npu 2026年Q3 roadmap",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/68"
+  },
+  {
     "iid": 67,
     "state": "opened",
     "created_at": "2026-06-29",
@@ -40,7 +62,7 @@
     "author": "ningzhixiong",
     "title": "[Bug-Report|缺陷反馈]: deepseek-v4-flash，4层减层版本，mtp关闭，开启TP后训练报错",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/torchtitan-npu/issues/64"
   },
   {
@@ -683,9 +705,9 @@
   },
   {
     "iid": 5,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-09",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "mystri",
     "title": "[Roadmap] torchtitan-npu Q2 2026 roadmap",
     "labels": [],

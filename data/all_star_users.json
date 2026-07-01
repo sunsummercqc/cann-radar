@@ -1,5 +1,48 @@
 [
   {
+    "user_name": "sandee",
+    "nick_name": "sandee",
+    "user_id": 2304477,
+    "avatar": "https://cdn-img.gitcode.com/cc/aa/c384caa09fc8938c3134424e7fe40a3f80a9c2434140b1f1ece70c9e56e3a896.jpg",
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
+    "user_name": "user-test-01",
+    "nick_name": "user-test-01",
+    "user_id": 10829383,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "2401_86136928",
+    "nick_name": "Halaxy",
+    "user_id": 3023253,
+    "avatar": "https://cdn-img.gitcode.com/fc/dc/f10c514d44143c35b03ceb747c7d0509d729ba7948880127492fc780804b0c72.png",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "sunsummercqc",
+    "nick_name": "sunsummercqc",
+    "user_id": 534077,
+    "avatar": "https://cdn-img.gitcode.com/bd/db/b1ddb24ba1d1d6b25365633872651cb7e0c97df480acea5392026d0b46927559.jpg",
+    "starred_repos": [
+      "cann/ge",
+      "Ascend/torchair"
+    ]
+  },
+  {
     "user_name": "rsm0624",
     "nick_name": "rsm0624",
     "user_id": 11787703,
@@ -6215,6 +6258,15 @@
     ]
   },
   {
+    "user_name": "gcw_w5BPnxkC",
+    "nick_name": "wgm",
+    "user_id": 11304368,
+    "avatar": "",
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
     "user_name": "RangerP",
     "nick_name": "panyiwei",
     "user_id": 2211410,
@@ -11260,6 +11312,15 @@
     ]
   },
   {
+    "user_name": "birddim",
+    "nick_name": "birddim",
+    "user_id": 2655649,
+    "avatar": "https://cdn-img.gitcode.com/ef/db/2e8fd11bb7dd68970f767523f9f5d10be48264028c59ff0bf93ddbc8743be01e.png?time=1763362711874",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "aozhoupengyuyan",
     "nick_name": "西雅图彭于晏",
     "user_id": 1374330,
@@ -13350,15 +13411,6 @@
     "nick_name": "lfz2812",
     "user_id": 6910930,
     "avatar": null,
-    "starred_repos": [
-      "Ascend/torchair"
-    ]
-  },
-  {
-    "user_name": "sunsummercqc",
-    "nick_name": "sunsummercqc",
-    "user_id": 534077,
-    "avatar": "https://cdn-img.gitcode.com/bd/db/b1ddb24ba1d1d6b25365633872651cb7e0c97df480acea5392026d0b46927559.jpg",
     "starred_repos": [
       "Ascend/torchair"
     ]
@@ -16056,7 +16108,7 @@
   },
   {
     "user_name": "steppecat",
-    "nick_name": "steppecat",
+    "nick_name": "liangyu62",
     "user_id": 6940913,
     "avatar": "https://cdn-img.gitcode.com/bc/ab/b240029033c99921ab3876a5a748a8e1a126b6dd05d270a74d9445d77dd2aa61.jpg",
     "starred_repos": [

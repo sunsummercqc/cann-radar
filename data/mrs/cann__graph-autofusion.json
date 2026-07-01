@@ -1,19 +1,178 @@
 [
   {
+    "iid": 1154,
+    "state": "opened",
+    "title": "feat: add v35 IndirectLoad codegen smoke",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-02",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "xiebangrui2025",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1154",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-failed"
+    ]
+  },
+  {
+    "iid": 1153,
+    "state": "opened",
+    "title": "fix: 修复TopN PGO候选block_dim残留",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zhang_shengjie",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1153",
+    "labels": [
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 1152,
+    "state": "opened",
+    "title": "【PR】: autofuse support extendocnv2d",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "weixin_45675704",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1152",
+    "labels": [
+      "enhancement",
+      "cann-cla/no"
+    ]
+  },
+  {
+    "iid": 1151,
+    "state": "opened",
+    "title": "feat: support DT_BOOL true bool type in v2/v35 ASCIR",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zqmin",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1151",
+    "labels": [
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 1150,
+    "state": "opened",
+    "title": "【PR】: 简要描述",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "liyuewei",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1150",
+    "labels": [
+      "enhancement",
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 1149,
+    "state": "opened",
+    "title": "【PR】: [autofuse] change sub dir name of copied metadef headers.",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "xingzhixiong",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1149",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-failed",
+      "enhancement",
+      "stat/needs-squash"
+    ]
+  },
+  {
+    "iid": 1147,
+    "state": "closed",
+    "title": "【PR】: test",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "2026-07-01",
+    "author": "liyuewei",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1147",
+    "labels": [
+      "cann-cla/yes",
+      "enhancement"
+    ]
+  },
+  {
+    "iid": 1146,
+    "state": "merged",
+    "title": "【fix】: 修复schedule浅拷贝导致图重名问题",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
+    "closed_at": "",
+    "author": "WangYanMale",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1146",
+    "labels": [
+      "approved",
+      "ci-pipeline-passed",
+      "lgtm",
+      "enhancement",
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 1145,
+    "state": "opened",
+    "title": "【PR】: 【fix】:[autofuse]cv融合规避算子更新的Tensor_API相关模板，强制走BasicAPI模板",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "yangzw653",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1145",
+    "labels": [
+      "cann-cla/yes",
+      "enhancement",
+      "SC-SUCC",
+      "BUILD-SUCC",
+      "ci-pipeline-passed"
+    ]
+  },
+  {
+    "iid": 1144,
+    "state": "merged",
+    "title": "【fix】: fix transpose template bug",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
+    "closed_at": "",
+    "author": "liyuewei",
+    "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1144",
+    "labels": [
+      "cann-cla/yes",
+      "enhancement",
+      "approved",
+      "ci-pipeline-passed",
+      "lgtm"
+    ]
+  },
+  {
     "iid": 1143,
     "state": "opened",
     "title": "【PR】: sync develop to master 20260630",
     "created_at": "2026-06-30",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "wangxiaotian995",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1143",
     "labels": [
+      "ci-pipeline-failed",
       "cann-cla/yes",
       "enhancement",
-      "stat/needs-squash",
-      "ci-pipeline-failed"
+      "stat/needs-squash"
     ]
   },
   {
@@ -110,7 +269,7 @@
     "state": "opened",
     "title": "【PR】: 简要描述",
     "created_at": "2026-06-30",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "xingzhixiong",
@@ -145,7 +304,7 @@
     "state": "opened",
     "title": "【fix】: ApiParam恢复string表示",
     "created_at": "2026-06-30",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "liyuewei",
@@ -153,7 +312,7 @@
     "labels": [
       "cann-cla/yes",
       "enhancement",
-      "ci-pipeline-failed"
+      "ci-pipeline-passed"
     ]
   },
   {
@@ -161,7 +320,7 @@
     "state": "opened",
     "title": "【PR】: 简要描述",
     "created_at": "2026-06-30",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "xuyafei",
@@ -903,7 +1062,7 @@
     "state": "opened",
     "title": "【PR】: [feat] [autofuse] optimization of gaf open headers.",
     "created_at": "2026-06-26",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "xingzhixiong",
@@ -1308,7 +1467,7 @@
     "state": "closed",
     "title": "fix: 修复非cube动态融合结果impl_graphs翻倍",
     "created_at": "2026-06-25",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "2026-06-29",
     "author": "zhang_shengjie",
@@ -1550,12 +1709,12 @@
   },
   {
     "iid": 1047,
-    "state": "opened",
+    "state": "closed",
     "title": "【PR】: 回退",
     "created_at": "2026-06-25",
-    "updated_at": "2026-06-25",
+    "updated_at": "2026-07-01",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "j18351891940",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/1047",
     "labels": [
@@ -2525,12 +2684,12 @@
   },
   {
     "iid": 987,
-    "state": "opened",
+    "state": "closed",
     "title": "【PR】: autofuse support extendconv2d",
     "created_at": "2026-06-22",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "weixin_45675704",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/987",
     "labels": [
@@ -11836,7 +11995,7 @@
     "state": "opened",
     "title": "【PR】: 简要描述",
     "created_at": "2026-05-19",
-    "updated_at": "2026-06-26",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "ling-DT",
@@ -11844,7 +12003,8 @@
     "labels": [
       "enhancement",
       "cann-cla/no",
-      "ci-pipeline-failed"
+      "ci-pipeline-failed",
+      "stat/needs-squash"
     ]
   },
   {
@@ -14049,16 +14209,16 @@
     "state": "closed",
     "title": "ci test",
     "created_at": "2026-04-23",
-    "updated_at": "2026-06-26",
+    "updated_at": "2026-07-01",
     "merged_at": "",
-    "closed_at": "2026-06-26",
+    "closed_at": "2026-07-01",
     "author": "songxiujing",
     "web_url": "https://gitcode.com/cann/graph-autofusion/merge_requests/292",
     "labels": [
       "cann-cla/no",
       "enhancement",
-      "api-check-pass",
-      "ci-pipeline-passed"
+      "ci-pipeline-passed",
+      "api-check-pass"
     ]
   },
   {

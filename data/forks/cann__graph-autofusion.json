@@ -1,5 +1,27 @@
 [
   {
+    "id": 10264687,
+    "namespace": "yiming0671/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/yiming0671/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/yiming0671/graph-autofusion.git",
+    "created_at": "2026-07-01T15:37:09.057+08:00",
+    "creator_username": "yiming0671",
+    "creator_nick_name": "yiming",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
+    "id": 10262538,
+    "namespace": "ZhaoBaiwei/graph-autofusion",
+    "name": "graph-autofusion",
+    "web_url": "https://gitcode.com/ZhaoBaiwei/graph-autofusion",
+    "http_url_to_repo": "https://gitcode.com/ZhaoBaiwei/graph-autofusion.git",
+    "created_at": "2026-07-01T10:57:09.221+08:00",
+    "creator_username": "ZhaoBaiwei",
+    "creator_nick_name": "ZhaoBaiwei",
+    "forked_from": "cann/graph-autofusion"
+  },
+  {
     "id": 10253208,
     "namespace": "liyuewei/4_graph-autofusion",
     "name": "4_graph-autofusion",

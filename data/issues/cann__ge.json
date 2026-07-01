@@ -1,5 +1,16 @@
 [
   {
+    "iid": 480,
+    "state": "opened",
+    "created_at": "2026-07-01",
+    "closed_at": "",
+    "author": "hugo111",
+    "title": "GE Development Roadmap (2026 Q3)",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/ge/issues/480"
+  },
+  {
     "iid": 479,
     "state": "opened",
     "created_at": "2026-06-29",
@@ -12,9 +23,9 @@
   },
   {
     "iid": 478,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-27",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "flyswa",
     "title": "[Documentation|文档反馈]: zh/README.md中的链接失效",
     "labels": [],
@@ -386,13 +397,13 @@
   },
   {
     "iid": 439,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-10",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "gcw_cNancIvg",
     "title": "[Question|问题咨询]: AscendC 自动向量化后计算出错，求 CCE 向量化触发条件及局部禁用方法",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/439"
   },
   {
@@ -991,9 +1002,9 @@
   },
   {
     "iid": 381,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-14",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "Mexyy",
     "title": "[Feature-Request|需求反馈]: 【外部开发者】在流分配日志里添加graph name打印",
     "labels": [],
@@ -3477,9 +3488,9 @@
   },
   {
     "iid": 135,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-02-05",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "shengnan666",
     "title": "GE Development Roadmap (2026 H1)",
     "labels": [],

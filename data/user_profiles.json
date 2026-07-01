@@ -10455,7 +10455,7 @@
     "original_repo_count": 0,
     "total_repo_count": 10,
     "total_contributions": 3675,
-    "user_type": "developer"
+    "user_type": "contributor"
   },
   {
     "user_name": "jiancao",
@@ -29120,7 +29120,7 @@
     "original_repo_count": 0,
     "total_repo_count": 5,
     "total_contributions": 151,
-    "user_type": "developer"
+    "user_type": "contributor"
   },
   {
     "user_name": "lzx0001",
@@ -33781,6 +33781,82 @@
     "original_repo_count": 3,
     "total_repo_count": 35,
     "total_contributions": 3110,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "gcw_w5BPnxkC",
+    "nick_name": "wgm",
+    "user_id": 11304368,
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 2,
+    "total_contributions": 48,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "2401_86136928",
+    "nick_name": "Halaxy",
+    "user_id": 3023253,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 17,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "user-test-01",
+    "nick_name": "user-test-01",
+    "user_id": 10829383,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 0,
+    "user_type": "star_enthusiast"
+  },
+  {
+    "user_name": "birddim",
+    "nick_name": "birddim",
+    "user_id": 2655649,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 4,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "sandee",
+    "nick_name": "sandee",
+    "user_id": 2304477,
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "fans_count": 0,
+    "follow_count": 0,
+    "original_repo_count": 0,
+    "total_repo_count": 6,
+    "total_contributions": 237,
     "user_type": "developer"
   }
 ]

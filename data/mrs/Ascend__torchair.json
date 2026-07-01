@@ -1,5 +1,69 @@
 [
   {
+    "iid": 3298,
+    "state": "opened",
+    "title": "fix profiling",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "shiyuyanHW",
+    "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3298",
+    "labels": [
+      "ascend-cla/yes",
+      "docs-ci-pipeline-success",
+      "ci-pipeline-passed"
+    ]
+  },
+  {
+    "iid": 3297,
+    "state": "opened",
+    "title": "add a axis for decompose",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "yurongkun",
+    "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3297",
+    "labels": [
+      "ascend-cla/yes",
+      "docs-ci-pipeline-success",
+      "ci-pipeline-passed"
+    ]
+  },
+  {
+    "iid": 3296,
+    "state": "closed",
+    "title": "fix profiling",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "2026-07-01",
+    "author": "shiyuyanHW",
+    "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3296",
+    "labels": [
+      "ascend-cla/yes",
+      "stat/needs-squash",
+      "docs-ci-pipeline-success"
+    ]
+  },
+  {
+    "iid": 3295,
+    "state": "opened",
+    "title": "compat(v2.13): wrap named-tensor overload lookups with getattr fallback",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "c_34",
+    "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3295",
+    "labels": [
+      "ascend-cla/yes",
+      "docs-ci-pipeline-success",
+      "ci-pipeline-passed"
+    ]
+  },
+  {
     "iid": 3294,
     "state": "merged",
     "title": "Update ge+sk positioning case, fix missing aclgraph+sk static compilation option",
@@ -126,18 +190,20 @@
   },
   {
     "iid": 3287,
-    "state": "opened",
+    "state": "merged",
     "title": "[Feature] optimize host_compile",
     "created_at": "2026-06-30",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "XDaoHong",
     "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3287",
     "labels": [
       "ascend-cla/yes",
+      "approved",
+      "lgtm",
       "docs-ci-pipeline-success",
-      "stat/needs-squash"
+      "ci-pipeline-passed"
     ]
   },
   {
@@ -235,7 +301,7 @@
     "state": "opened",
     "title": "mmallreduce change A5 default comm engine to aicpu",
     "created_at": "2026-06-29",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "Kiana1216",
@@ -269,7 +335,7 @@
     "state": "opened",
     "title": "moe_gating_top_k支持hash模式",
     "created_at": "2026-06-29",
-    "updated_at": "2026-06-29",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "ZhouChuping",
@@ -318,15 +384,15 @@
     "state": "opened",
     "title": "MoeInitRoutingV3 新增支持quantmode为16、17",
     "created_at": "2026-06-28",
-    "updated_at": "2026-06-28",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "wuxiyuan",
     "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3276",
     "labels": [
-      "ascend-cla/yes",
       "docs-ci-pipeline-success",
-      "ci-pipeline-passed"
+      "ci-pipeline-passed",
+      "ascend-cla/yes"
     ]
   },
   {
@@ -459,14 +525,15 @@
     "state": "opened",
     "title": "[fix][ops]MatmulReduceScatterV2算子默认通信引擎变更",
     "created_at": "2026-06-26",
-    "updated_at": "2026-06-26",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "chenjiale56",
     "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3268",
     "labels": [
       "ascend-cla/yes",
-      "docs-ci-pipeline-success"
+      "docs-ci-pipeline-success",
+      "ci-pipeline-passed"
     ]
   },
   {
@@ -489,16 +556,17 @@
   },
   {
     "iid": 3266,
-    "state": "opened",
+    "state": "merged",
     "title": "[fix][ops]MatmulReduceScatter算子支持comm_mode",
     "created_at": "2026-06-26",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "chenjiale56",
     "web_url": "https://gitcode.com/Ascend/torchair/merge_requests/3266",
     "labels": [
       "ascend-cla/yes",
+      "lgtm",
       "docs-ci-pipeline-success",
       "ci-pipeline-passed",
       "approved"
@@ -509,7 +577,7 @@
     "state": "opened",
     "title": "feat: integrate custom op callback into fx2ge_converter and npu_fx_compiler",
     "created_at": "2026-06-26",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "yuht9",
@@ -603,7 +671,7 @@
     "state": "opened",
     "title": "fix: gate matmul lowering registration",
     "created_at": "2026-06-25",
-    "updated_at": "2026-06-29",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "ling-DT",
@@ -1207,7 +1275,7 @@
     "state": "opened",
     "title": "bugfix for store offset and cpu cat",
     "created_at": "2026-06-16",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "medivh-x",
@@ -6120,7 +6188,7 @@
     "state": "opened",
     "title": "修改静态编译日志提醒",
     "created_at": "2026-04-21",
-    "updated_at": "2026-06-25",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "mihudan",
@@ -47965,7 +48033,7 @@
     "state": "opened",
     "title": "try",
     "created_at": "2024-01-26",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "yskhhh",

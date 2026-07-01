@@ -1,15 +1,164 @@
 [
   {
-    "iid": 708,
+    "iid": 717,
     "state": "opened",
+    "title": "fix bug",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "xumengxuan",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/717",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-failed",
+      "api-check-pass"
+    ]
+  },
+  {
+    "iid": 716,
+    "state": "opened",
+    "title": "[refactor]: CS建链日志 protocol 打印英文名称",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "youyx",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/716",
+    "labels": [
+      "cann-cla/yes",
+      "api-check-pass",
+      "ci-pipeline-passed"
+    ]
+  },
+  {
+    "iid": 715,
+    "state": "opened",
+    "title": "[refactor]: unify client locks to single mutex for serial execution",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zhaozhihui",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/715",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-running",
+      "api-check-pass"
+    ]
+  },
+  {
+    "iid": 714,
+    "state": "merged",
+    "title": "[feat]自动建链模式下按需创建链路",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
+    "closed_at": "",
+    "author": "xumengxuan",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/714",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved"
+    ]
+  },
+  {
+    "iid": 713,
+    "state": "opened",
+    "title": "[refactor]: extract SoC detection to hixl_utils and auto-select HixlEngine for A5",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zhujingjing",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/713",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "api-check-pass"
+    ]
+  },
+  {
+    "iid": 712,
+    "state": "merged",
+    "title": "[bugfix]restore caller context after HIXL context creation",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
+    "closed_at": "",
+    "author": "jiazhaoyang",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/712",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved"
+    ]
+  },
+  {
+    "iid": 711,
+    "state": "merged",
+    "title": "feat: support configurable max active channels",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
+    "closed_at": "",
+    "author": "zhaozhihui",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/711",
+    "labels": [
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved"
+    ]
+  },
+  {
+    "iid": 710,
+    "state": "opened",
+    "title": "[WIP]hixl支持host uboe",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "gongsiquan",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/710",
+    "labels": [
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 709,
+    "state": "merged",
+    "title": "[bugfix]修复在hixl_engine初始化时丢失用户context的问题",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
+    "closed_at": "",
+    "author": "jiazhaoyang",
+    "web_url": "https://gitcode.com/cann/hixl/merge_requests/709",
+    "labels": [
+      "api-check-pass",
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved",
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 708,
+    "state": "merged",
     "title": "[refactor]: add region_size and desc_len to ConvertHostAddr logs",
     "created_at": "2026-06-30",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "lining23666",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/708",
     "labels": [
+      "approved",
       "SC-SUCC",
       "cann-cla/yes",
       "ci-pipeline-passed",
@@ -49,16 +198,17 @@
   },
   {
     "iid": 705,
-    "state": "opened",
+    "state": "merged",
     "title": "[refactor]: optimize batch transfer and host addr convert logs",
     "created_at": "2026-06-30",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "lining23666",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/705",
     "labels": [
       "cann-cla/yes",
+      "approved",
       "stat/needs-squash",
       "ci-pipeline-passed",
       "api-check-pass",
@@ -237,18 +387,19 @@
   },
   {
     "iid": 694,
-    "state": "opened",
+    "state": "merged",
     "title": "[bugfix]：解决path.cfg不正交的问题",
     "created_at": "2026-06-29",
-    "updated_at": "2026-06-29",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "xumengxuan",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/694",
     "labels": [
       "cann-cla/yes",
-      "api-check-pass",
-      "ci-pipeline-passed"
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved"
     ]
   },
   {
@@ -825,12 +976,12 @@
   },
   {
     "iid": 660,
-    "state": "opened",
+    "state": "closed",
     "title": "[test] 修改日志打印级别",
     "created_at": "2026-06-22",
-    "updated_at": "2026-06-22",
+    "updated_at": "2026-07-01",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "M__Cheng",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/660",
     "labels": [
@@ -1985,12 +2136,12 @@
   },
   {
     "iid": 594,
-    "state": "opened",
+    "state": "closed",
     "title": "[test] 临时加一些日志信息",
     "created_at": "2026-06-06",
-    "updated_at": "2026-06-06",
+    "updated_at": "2026-07-01",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "M__Cheng",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/594",
     "labels": [
@@ -2181,12 +2332,12 @@
   },
   {
     "iid": 583,
-    "state": "opened",
+    "state": "closed",
     "title": "CI TEST UBUNTU24",
     "created_at": "2026-06-04",
-    "updated_at": "2026-06-04",
+    "updated_at": "2026-07-01",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "wangyunxiang1",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/583",
     "labels": [
@@ -2374,9 +2525,9 @@
   {
     "iid": 572,
     "state": "opened",
-    "title": "[bugfix]: fix error raising bug",
+    "title": "[WIP]: fix error raising bug",
     "created_at": "2026-06-03",
-    "updated_at": "2026-06-03",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "AlexRen998916",
@@ -2762,12 +2913,12 @@
   },
   {
     "iid": 549,
-    "state": "opened",
+    "state": "closed",
     "title": "[WIP][feat]: support hixl python api “initialize”",
     "created_at": "2026-05-30",
-    "updated_at": "2026-06-01",
+    "updated_at": "2026-07-01",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "A-Liuhao",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/549",
     "labels": [
@@ -3047,12 +3198,12 @@
   },
   {
     "iid": 532,
-    "state": "opened",
+    "state": "closed",
     "title": "update: 更新文件 benchmark_config.cpp",
     "created_at": "2026-05-26",
-    "updated_at": "2026-06-04",
+    "updated_at": "2026-07-01",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "zhangfands",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/532",
     "labels": [
@@ -9015,14 +9166,14 @@
     "state": "opened",
     "title": "ci test",
     "created_at": "2026-02-11",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "songxiujing",
     "web_url": "https://gitcode.com/cann/hixl/merge_requests/190",
     "labels": [
-      "api-check-pass",
       "ci-pipeline-passed",
+      "api-check-pass",
       "cann-cla/no"
     ]
   },

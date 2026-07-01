@@ -1,13 +1,35 @@
 [
   {
-    "iid": 410,
+    "iid": 412,
     "state": "opened",
-    "created_at": "2026-06-30",
+    "created_at": "2026-07-01",
     "closed_at": "",
+    "author": "gongsiquan",
+    "title": "[RFC]: HIXL支持host侧uboe",
+    "labels": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/hixl/issues/412"
+  },
+  {
+    "iid": 411,
+    "state": "closed",
+    "created_at": "2026-07-01",
+    "closed_at": "2026-07-01",
+    "author": "M__Cheng",
+    "title": "[Bug-Report|缺陷反馈]: Mooncake RDMA Transport NDR注册内存失败",
+    "labels": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/hixl/issues/411"
+  },
+  {
+    "iid": 410,
+    "state": "closed",
+    "created_at": "2026-06-30",
+    "closed_at": "2026-07-01",
     "author": "RangerP",
     "title": "[Question|问题咨询]: A5 dsv5 跨机PD分离 1P1D部署，跑长序列并发场景下KV传输失败",
     "labels": [],
-    "user_notes_count": 2,
+    "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/hixl/issues/410"
   },
   {
@@ -18,7 +40,7 @@
     "author": "JBchan",
     "title": "[Question|问题咨询]: A5 dsv4 PD分离kvcache传输失败",
     "labels": [],
-    "user_notes_count": 1,
+    "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/hixl/issues/409"
   },
   {
@@ -45,9 +67,9 @@
   },
   {
     "iid": 405,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-30",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: HIXL是否支持升级兼容性？",
     "labels": [],
@@ -144,13 +166,13 @@
   },
   {
     "iid": 396,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-25",
-    "closed_at": "",
+    "closed_at": "2026-07-01",
     "author": "bbsh112",
     "title": "[Question|问题咨询]:  A5 Server UBOE+D2RH  链路模型推理服务KV传输性能问题",
     "labels": [],
-    "user_notes_count": 5,
+    "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/hixl/issues/396"
   },
   {

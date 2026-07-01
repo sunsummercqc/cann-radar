@@ -1,5 +1,125 @@
 [
   {
+    "iid": 266,
+    "state": "opened",
+    "title": "Change matmul aclnn to <<<>>>",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "chentianyu19",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/266",
+    "labels": [
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 265,
+    "state": "opened",
+    "title": "c api中级课程",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "pangfd",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/265",
+    "labels": [
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 264,
+    "state": "closed",
+    "title": "c api中级课程",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "2026-07-01",
+    "author": "pangfd",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/264",
+    "labels": []
+  },
+  {
+    "iid": 263,
+    "state": "opened",
+    "title": "新增课程反馈Issue模板",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "waimaidaole",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/263",
+    "labels": [
+      "cann-cla/yes"
+    ]
+  },
+  {
+    "iid": 262,
+    "state": "merged",
+    "title": "update: 对齐master分支的在线体验链接(CANN9.0)、官方文档链接(850)、文档措辞及qwen3图模式课件",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
+    "closed_at": "",
+    "author": "waimaidaole",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/262",
+    "labels": [
+      "approved",
+      "cann-cla/yes",
+      "lgtm"
+    ]
+  },
+  {
+    "iid": 261,
+    "state": "merged",
+    "title": "pyasc入门课程介绍编程模型和基础语法",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
+    "closed_at": "",
+    "author": "hyolee",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/261",
+    "labels": [
+      "stat/needs-squash",
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "lgtm",
+      "approved"
+    ]
+  },
+  {
+    "iid": 260,
+    "state": "opened",
+    "title": "添加aclnn算子工程化开发课程",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zhanglong99",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/260",
+    "labels": [
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
+  },
+  {
+    "iid": 259,
+    "state": "merged",
+    "title": "update:  test_branch_course_experience_guide.md",
+    "created_at": "2026-07-01",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
+    "closed_at": "",
+    "author": "waimaidaole",
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/259",
+    "labels": [
+      "approved",
+      "lgtm",
+      "cann-cla/yes",
+      "stat/needs-squash"
+    ]
+  },
+  {
     "iid": 258,
     "state": "opened",
     "title": "关于《第1章 Ascend C算子开发入门基础》的修改意见",
@@ -32,15 +152,17 @@
   },
   {
     "iid": 256,
-    "state": "opened",
+    "state": "merged",
     "title": "update chapter info",
     "created_at": "2026-06-30",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "Sunyp01",
     "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/256",
     "labels": [
+      "approved",
+      "lgtm",
       "cann-cla/yes",
       "ci-pipeline-passed"
     ]
@@ -191,15 +313,18 @@
   },
   {
     "iid": 246,
-    "state": "opened",
+    "state": "merged",
     "title": "新增pyasc第一章课程",
     "created_at": "2026-06-30",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "li-yuanjie-da",
     "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/246",
     "labels": [
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm",
       "cann-cla/yes"
     ]
   },
@@ -274,7 +399,7 @@
     "state": "opened",
     "title": "Add TileLang course",
     "created_at": "2026-06-29",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "bingmeiyou",
@@ -795,27 +920,30 @@
     "state": "opened",
     "title": "SIMT 资料检视意见修改",
     "created_at": "2026-06-25",
-    "updated_at": "2026-06-25",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "louyuxuan",
     "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/207",
     "labels": [
-      "cann-cla/yes"
+      "cann-cla/yes",
+      "approved"
     ]
   },
   {
     "iid": 206,
-    "state": "opened",
+    "state": "merged",
     "title": "Add data structure for HPC tutorial",
     "created_at": "2026-06-25",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "zh1125",
     "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/206",
     "labels": [
       "cann-cla/yes",
+      "approved",
+      "lgtm",
       "stat/needs-squash"
     ]
   },
@@ -1363,18 +1491,19 @@
   },
   {
     "iid": 170,
-    "state": "opened",
+    "state": "merged",
     "title": "新增 SFT + Performance Optimization + GRPO RL 教程",
     "created_at": "2026-06-23",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "mystri",
     "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/170",
     "labels": [
-      "stat/needs-squash",
-      "cann-cla/no",
-      "approved"
+      "cann-cla/yes",
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm"
     ]
   },
   {
@@ -1606,7 +1735,7 @@
     "state": "opened",
     "title": "基于Tensor API的矩阵算子开发（中级）",
     "created_at": "2026-06-15",
-    "updated_at": "2026-06-30",
+    "updated_at": "2026-07-01",
     "merged_at": "",
     "closed_at": "",
     "author": "hyolee",
@@ -1903,16 +2032,19 @@
   },
   {
     "iid": 136,
-    "state": "opened",
+    "state": "merged",
     "title": "AscendC 编程范式概述课程",
     "created_at": "2026-06-12",
-    "updated_at": "2026-06-30",
-    "merged_at": "",
+    "updated_at": "2026-07-01",
+    "merged_at": "2026-07-01",
     "closed_at": "",
     "author": "YANXI_ZHAO",
     "web_url": "https://gitcode.com/cann/cann-learning-hub/merge_requests/136",
     "labels": [
       "cann-cla/yes",
+      "ci-pipeline-passed",
+      "approved",
+      "lgtm",
       "stat/needs-squash"
     ]
   },
