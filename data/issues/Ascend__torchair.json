@@ -1,5 +1,20 @@
 [
   {
+    "iid": 559,
+    "state": "closed",
+    "created_at": "2026-07-02",
+    "closed_at": "2026-07-02",
+    "author": "zjun0",
+    "title": "[Doc]: 跳转内容不存在且没有跳转链接",
+    "labels": [],
+    "assignees": [
+      "PiyZZ"
+    ],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/559",
+    "working_days_open": 1
+  },
+  {
     "iid": 558,
     "state": "opened",
     "created_at": "2026-07-01",
@@ -7,8 +22,10 @@
     "author": "RyanChang2026",
     "title": "[Feature]:  支持 Dev Container 开发环境",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/558"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/558",
+    "working_days_open": 2
   },
   {
     "iid": 557,
@@ -18,8 +35,12 @@
     "author": "Guanam2020",
     "title": "[RFC]: torch.compile支持条件算子",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/557"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/557",
+    "working_days_open": 2
   },
   {
     "iid": 556,
@@ -29,8 +50,10 @@
     "author": "wuxiyuan",
     "title": "[Feature]: MoeInitRoutingV3新增quantmode支持16、17",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/556"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/556",
+    "working_days_open": 2
   },
   {
     "iid": 555,
@@ -40,8 +63,10 @@
     "author": "panchao-gitcode",
     "title": "[Bug]: inductor_npu_ext支持动态shape时报错",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/555"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/555",
+    "working_days_open": 2
   },
   {
     "iid": 554,
@@ -51,8 +76,12 @@
     "author": "fengye0903",
     "title": "[Bug]: 盘古训练对接inductor+af触发重编译后报错PrintMethodNotImplementedError FloorDiv",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/554"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/554",
+    "working_days_open": 4
   },
   {
     "iid": 553,
@@ -62,8 +91,12 @@
     "author": "fengye0903",
     "title": "[Bug]: 盘古训练对接inductor+af，发现addmm算子错误融合导致性能劣化",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/553"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/553",
+    "working_days_open": 4
   },
   {
     "iid": 552,
@@ -73,8 +106,12 @@
     "author": "fengye0903",
     "title": "[Bug]: 盘古训练对接inductor+af报错Template node passed to CppScheduler.codegen_template must be a SchedulerNode that wraps a CppTemplateBuffer",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/552"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/552",
+    "working_days_open": 4
   },
   {
     "iid": 551,
@@ -84,8 +121,12 @@
     "author": "fengye0903",
     "title": "[Bug]: 盘古训练对接inductor+af报错select_slice",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/551"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/551",
+    "working_days_open": 4
   },
   {
     "iid": 550,
@@ -95,8 +136,12 @@
     "author": "cpy_123456",
     "title": "[Feature]: MoeInitRoutingV3 支持 FP8 PerGroup 量化",
     "labels": [],
+    "assignees": [
+      "cpy_123456"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/550"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/550",
+    "working_days_open": 4
   },
   {
     "iid": 549,
@@ -106,8 +151,10 @@
     "author": "wzf_1411",
     "title": "[Bug]: 1981A3冒烟的deepseek aclgraph用例在更新torch_npu包后，profiling的静态算子未生成，导致用例校验失败",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/549"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/549",
+    "working_days_open": 5
   },
   {
     "iid": 548,
@@ -117,8 +164,12 @@
     "author": "yuanshuai000",
     "title": "[Bug]: quant_matmul mxA8W4-fp32打包fp4时没有正确拦截k<=64",
     "labels": [],
+    "assignees": [
+      "yuanshuai000"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/548"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/548",
+    "working_days_open": 6
   },
   {
     "iid": 547,
@@ -128,8 +179,12 @@
     "author": "daifu1234567",
     "title": "[Bug]: ",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/547"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/547",
+    "working_days_open": 7
   },
   {
     "iid": 546,
@@ -139,8 +194,12 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: npugraph_ex多流+控核失效",
     "labels": [],
+    "assignees": [
+      "mihudan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/546"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/546",
+    "working_days_open": 7
   },
   {
     "iid": 545,
@@ -150,8 +209,10 @@
     "author": "gcw_Ec20be8I",
     "title": "[Bug]: ACLGraph多流样例报错",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/545"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/545",
+    "working_days_open": 7
   },
   {
     "iid": 544,
@@ -161,8 +222,10 @@
     "author": "wangchenfeng6",
     "title": "[Usage]: mega_moe算子weight nz场景aclgraph入图报错，咨询适配点",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/544"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/544",
+    "working_days_open": 7
   },
   {
     "iid": 543,
@@ -172,8 +235,12 @@
     "author": "panchao-gitcode",
     "title": "[Bug]: 使能inductor-npu-ext后，采集的profiling没有shape信息",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/543"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/543",
+    "working_days_open": 8
   },
   {
     "iid": 542,
@@ -183,8 +250,12 @@
     "author": "zutao",
     "title": "[Bug]: Qwen3-0.6B 使能npugraph_ex后算子执行完存在长时间空闲时间",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/542"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/542",
+    "working_days_open": 8
   },
   {
     "iid": 541,
@@ -194,8 +265,10 @@
     "author": "Tflowers-0129",
     "title": "[Bug]: ",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/541"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/541",
+    "working_days_open": 8
   },
   {
     "iid": 540,
@@ -205,8 +278,12 @@
     "author": "shiyuyanHW",
     "title": "[Feature]: 精度检查工具完善",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/540"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/540",
+    "working_days_open": 9
   },
   {
     "iid": 539,
@@ -216,8 +293,10 @@
     "author": "ASCEND222",
     "title": "[Feature]: DynamicMxQuant support max_low_bound",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/539"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/539",
+    "working_days_open": 9
   },
   {
     "iid": 538,
@@ -227,8 +306,12 @@
     "author": "yanzi2021",
     "title": "[Bug]: 自定义算子GE报错GE graph NetOutput shapes is : [[]]",
     "labels": [],
+    "assignees": [
+      "glf2016"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/538"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/538",
+    "working_days_open": 9
   },
   {
     "iid": 537,
@@ -238,8 +321,12 @@
     "author": "nichorians",
     "title": "[Feature]: GE模式下支持mxfp8推理",
     "labels": [],
+    "assignees": [
+      "chenweiheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/537"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/537",
+    "working_days_open": 10
   },
   {
     "iid": 536,
@@ -249,8 +336,12 @@
     "author": "xiongyifu",
     "title": "[Bug]: 日志问题",
     "labels": [],
+    "assignees": [
+      "xiongyifu"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/536"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/536",
+    "working_days_open": 11
   },
   {
     "iid": 535,
@@ -260,8 +351,12 @@
     "author": "TimeVShow",
     "title": "[Bug]: 使用TorchAir图编译优化后，torch.roll算子出现精度异常",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/535"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/535",
+    "working_days_open": 11
   },
   {
     "iid": 534,
@@ -271,8 +366,12 @@
     "author": "ASCEND222",
     "title": "[Usage]: grouped_dynamic_block_quant support dst_type_max",
     "labels": [],
+    "assignees": [
+      "ASCEND222"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/534"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/534",
+    "working_days_open": 11
   },
   {
     "iid": 533,
@@ -282,8 +381,12 @@
     "author": "ltllt1",
     "title": "[Doc]: npugraph所有基础功能只给了调用方法，缺乏完整可执行的用例",
     "labels": [],
+    "assignees": [
+      "weizhaoyang"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/533"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/533",
+    "working_days_open": 12
   },
   {
     "iid": 532,
@@ -293,8 +396,12 @@
     "author": "ltllt1",
     "title": "[Doc]: 模型编译缓存文档无执行后预期结果，示例代码运行无日志打印",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/532"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/532",
+    "working_days_open": 12
   },
   {
     "iid": 531,
@@ -304,8 +411,12 @@
     "author": "ltllt1",
     "title": "[Doc]: 高阶特性-模型编译缓存-使用方法用例太复杂，且需开发者手动操作",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/531"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/531",
+    "working_days_open": 14
   },
   {
     "iid": 530,
@@ -315,8 +426,10 @@
     "author": "kpxing",
     "title": "[Bug]: torch.compile npugraph_ex后端SuperKernel不生效",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/530"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/530",
+    "working_days_open": 14
   },
   {
     "iid": 529,
@@ -328,8 +441,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/529"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/529",
+    "working_days_open": 14
   },
   {
     "iid": 528,
@@ -339,8 +456,10 @@
     "author": "zutao",
     "title": "[Bug]: qwen3-0.6B 使能npugraph_ex推理失败",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/528"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/528",
+    "working_days_open": 14
   },
   {
     "iid": 527,
@@ -350,8 +469,10 @@
     "author": "hhh118",
     "title": "[Feature]: 支持自定义算子在 torch.compile 图模式下的自动注册与 InferShape 推导",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/527"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/527",
+    "working_days_open": 14
   },
   {
     "iid": 526,
@@ -361,8 +482,10 @@
     "author": "hhh118",
     "title": "[Feature]: 支持动态Shape场景下图模式自动重编译性能优化",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/526"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/526",
+    "working_days_open": 14
   },
   {
     "iid": 525,
@@ -372,8 +495,13 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: aclgraph，atb算子多次刷新host tensor执行，和单算子执行的值对比没通过",
     "labels": [],
+    "assignees": [
+      "glf2016",
+      "chenweiheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/525"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/525",
+    "working_days_open": 15
   },
   {
     "iid": 524,
@@ -383,8 +511,12 @@
     "author": "Huang-Peng",
     "title": "moe_init_routing GE图编译侧支持FP8量化和INT4动态量化",
     "labels": [],
+    "assignees": [
+      "Huang-Peng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/524"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/524",
+    "working_days_open": 15
   },
   {
     "iid": 523,
@@ -394,8 +526,10 @@
     "author": "WSs_321",
     "title": "docs: 本地构建编译依赖不明确",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/523"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/523",
+    "working_days_open": 15
   },
   {
     "iid": 522,
@@ -405,8 +539,12 @@
     "author": "yin-peng",
     "title": "[Usage]: 在op-plugin层通过判断某个参数来走不同的aclnn接口，torchair层怎么走不同算子的infershap？",
     "labels": [],
+    "assignees": [
+      "glf2016"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/522"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/522",
+    "working_days_open": 15
   },
   {
     "iid": 521,
@@ -416,8 +554,10 @@
     "author": "lqqqqq0125",
     "title": "[Bug]: 动态调用到npu_moe_eplb_update_expert时报错",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/521"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/521",
+    "working_days_open": 16
   },
   {
     "iid": 520,
@@ -427,8 +567,12 @@
     "author": "chenjiale56",
     "title": "[Usage]: 图模式接口与单算子接口参数不一致",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/520"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/520",
+    "working_days_open": 16
   },
   {
     "iid": 519,
@@ -438,8 +582,12 @@
     "author": "qq_42133073",
     "title": "[Usage]: inplace自定义算子入图失败",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/519"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/519",
+    "working_days_open": 16
   },
   {
     "iid": 518,
@@ -449,8 +597,10 @@
     "author": "guoxu7",
     "title": "[Feature]: 新增RmsNormBackwardQuant算子入图接口",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/518"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/518",
+    "working_days_open": 16
   },
   {
     "iid": 517,
@@ -460,8 +610,10 @@
     "author": "hyhhh14",
     "title": "[Bug]: torch_npu.npu_mhc_pre算子跑torch.compile eager模式后入裸aclgraph时，并行跑用例出现报错和卡死现象",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/517"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/517",
+    "working_days_open": 18
   },
   {
     "iid": 516,
@@ -471,8 +623,10 @@
     "author": "gugub",
     "title": "[Doc]: npugraph_ex快速上手中aclgraph原理参考位置描述不准确",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/516"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/516",
+    "working_days_open": 18
   },
   {
     "iid": 515,
@@ -482,8 +636,13 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: npugraph_ex动态shape使能静态kernel报错“Not expected to checkpoint freeable graph”",
     "labels": [],
+    "assignees": [
+      "wang-pierre-jiacheng",
+      "glf2016"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/515"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/515",
+    "working_days_open": 19
   },
   {
     "iid": 514,
@@ -493,8 +652,12 @@
     "author": "www_atomgit",
     "title": "[Bug]: npu.py:concat() 是否会存在bfloat16 到float32的转换问题",
     "labels": [],
+    "assignees": [
+      "medivh-x"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/514"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/514",
+    "working_days_open": 20
   },
   {
     "iid": 513,
@@ -504,8 +667,12 @@
     "author": "pengxiao",
     "title": "[Doc]: “集合通信入图”章节的md表格语法错误，导致显示出现异常。",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/513"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/513",
+    "working_days_open": 20
   },
   {
     "iid": 512,
@@ -515,8 +682,12 @@
     "author": "tujun6",
     "title": "[Usage]: 算子新增attr后，算子侧获取属性值为空",
     "labels": [],
+    "assignees": [
+      "tujun6"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/512"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/512",
+    "working_days_open": 20
   },
   {
     "iid": 511,
@@ -526,8 +697,10 @@
     "author": "qq_49552963",
     "title": "test issue",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/511"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/511",
+    "working_days_open": 20
   },
   {
     "iid": 510,
@@ -537,8 +710,12 @@
     "author": "Hu1L1",
     "title": "feat(graph): QuantBatchMatmulV3 WeightNz 图优化 — Transpose 后移 Pass",
     "labels": [],
+    "assignees": [
+      "Hu1L1"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/510"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/510",
+    "working_days_open": 21
   },
   {
     "iid": 509,
@@ -548,8 +725,10 @@
     "author": "Hu1L1",
     "title": "feat(graph): QuantBatchMatmulV3 WeightNz 图优化 — Transpose 后移 Pass",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/509"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/509",
+    "working_days_open": 21
   },
   {
     "iid": 508,
@@ -559,8 +738,10 @@
     "author": "fwx_110",
     "title": "[Bug]: A5的2A+x环境跑了一个pytorch的alltoallv的aclgraph图模式的0tensor用例报错",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/508"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/508",
+    "working_days_open": 21
   },
   {
     "iid": 507,
@@ -570,8 +751,12 @@
     "author": "wangqinyi817",
     "title": "[Bug]: npugraph_ex模式动态shape场景，单个控核scope单层嵌套单个多流scope场景，执行卡死",
     "labels": [],
+    "assignees": [
+      "mihudan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/507"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/507",
+    "working_days_open": 21
   },
   {
     "iid": 506,
@@ -581,8 +766,12 @@
     "author": "u010470851",
     "title": "[Bug]: ImportError: cannot import name 'hint_int' from 'torch.fx.experimental.symbolic_shapes'",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/506"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/506",
+    "working_days_open": 22
   },
   {
     "iid": 505,
@@ -592,8 +781,13 @@
     "author": "qq_43844249",
     "title": "[Bug]: 循环创建graph model执行不同用例的图模式，部分用例会出现失败，单跑失败的用例是成功的",
     "labels": [],
+    "assignees": [
+      "mihudan",
+      "Guanam2020"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/505"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/505",
+    "working_days_open": 22
   },
   {
     "iid": 504,
@@ -603,8 +797,12 @@
     "author": "yayahello",
     "title": "[Usage]: aclGraph static kernel 在线编译失败",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/504"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/504",
+    "working_days_open": 22
   },
   {
     "iid": 503,
@@ -614,8 +812,12 @@
     "author": "hitwdy",
     "title": "[Bug]: aten._assert_scalar 算子走torch.compile未注册到  lowering  白名单导致报错",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/503"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/503",
+    "working_days_open": 22
   },
   {
     "iid": 502,
@@ -625,8 +827,12 @@
     "author": "u010986451",
     "title": "[Usage]: 我们在qwen3迁移到npu的过程中，想开启aclgraph，结果始终开不起来",
     "labels": [],
+    "assignees": [
+      "fu-hao-huawei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/502"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/502",
+    "working_days_open": 22
   },
   {
     "iid": 501,
@@ -636,8 +842,12 @@
     "author": "LinyuanLi0046",
     "title": "[Bug]: A5 环境 acl graph中使用with torch.npu.npugraph_ex.scope.limit_core_num 控核不生效",
     "labels": [],
+    "assignees": [
+      "chenweiheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/501"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/501",
+    "working_days_open": 22
   },
   {
     "iid": 500,
@@ -647,8 +857,12 @@
     "author": "wangqinyi817",
     "title": "[Bug]: 异常场景_tensor_detail传入True的枚举值1，报错信息不符合预期",
     "labels": [],
+    "assignees": [
+      "mihudan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/500"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/500",
+    "working_days_open": 22
   },
   {
     "iid": 499,
@@ -658,8 +872,12 @@
     "author": "ysidjskda",
     "title": "[Bug]: 怎么查明match_times和effect_times差异原因，为什么某些融合算子不生效",
     "labels": [],
+    "assignees": [
+      "mihudan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/499"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/499",
+    "working_days_open": 22
   },
   {
     "iid": 498,
@@ -669,8 +887,12 @@
     "author": "Kiana1216",
     "title": "[Feature]: codecheck失败的链接跳转不清晰",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/498"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/498",
+    "working_days_open": 23
   },
   {
     "iid": 497,
@@ -680,8 +902,12 @@
     "author": "wuziyu",
     "title": "[Feature]: [Feature]: AlltoAllvQuantGroupedMatmul&QuantGroupedMatmulAlltoAllv&AlltoAllvGroupedMatmul&GroupedMatmulAlltoAllv算子需要增加comm_mode参数",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/497"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/497",
+    "working_days_open": 23
   },
   {
     "iid": 496,
@@ -693,8 +919,10 @@
     "labels": [
       "bug"
     ],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/496"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/496",
+    "working_days_open": 23
   },
   {
     "iid": 495,
@@ -704,8 +932,12 @@
     "author": "nichorians",
     "title": "[Feature]: view()的view_dtype的converter支持",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/495"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/495",
+    "working_days_open": 24
   },
   {
     "iid": 494,
@@ -715,8 +947,12 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: torch_npu.npu_kv_rmsnorm_rope_cache_v2算子，原地输入在前面被view的情况下，2.7.1里这个算子不能reinplace，2.9.0里被reinplace了，是2.9.0有什么变更吗",
     "labels": [],
+    "assignees": [
+      "pwc10490"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/494"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/494",
+    "working_days_open": 24
   },
   {
     "iid": 493,
@@ -726,8 +962,12 @@
     "author": "alistair_pan",
     "title": "[Bug]: 上库跑pipeline无法通过pre-commit，指向库上公共文件有格式错误",
     "labels": [],
+    "assignees": [
+      "glf2016"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/493"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/493",
+    "working_days_open": 25
   },
   {
     "iid": 492,
@@ -737,8 +977,12 @@
     "author": "zihan0007",
     "title": "[Bug]: 上库ci docs-ci-pipeline-running无法结束",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/492"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/492",
+    "working_days_open": 26
   },
   {
     "iid": 491,
@@ -748,8 +992,12 @@
     "author": "ltllt1",
     "title": "[Doc]: 图模式的入门案例中，可打印出eager模式和图模式的耗时对比，直观展示加速效果",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/491"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/491",
+    "working_days_open": 27
   },
   {
     "iid": 490,
@@ -759,8 +1007,10 @@
     "author": "wangqinyi817",
     "title": "[Bug]: npugraph_ex继承用例报错[ERROR] name 'event_add' is not defined",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/490"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/490",
+    "working_days_open": 27
   },
   {
     "iid": 489,
@@ -770,8 +1020,12 @@
     "author": "ltllt1",
     "title": "[Doc]: https://gitcode.com/Ascend/pytorch/issues/1663",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/489"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/489",
+    "working_days_open": 27
   },
   {
     "iid": 488,
@@ -781,8 +1035,13 @@
     "author": "qq_43844249",
     "title": "[Bug]: 算子执行静态图调用但是却走入了单算子通路",
     "labels": [],
+    "assignees": [
+      "yuanjun_li",
+      "gleaming-spark"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/488"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/488",
+    "working_days_open": 27
   },
   {
     "iid": 487,
@@ -792,8 +1051,12 @@
     "author": "shi-rui",
     "title": "[Bug]: 配置acl graph模式，使用msprof采集profiling发现相同的算子出现了两次，感觉是图似乎被执行了两次。这是符合预期的吗",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/487"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/487",
+    "working_days_open": 27
   },
   {
     "iid": 486,
@@ -803,8 +1066,12 @@
     "author": "HelloWord-LuXin",
     "title": "[Feature]: 本地编torch_npu包未编译torchair相关内容",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/486"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/486",
+    "working_days_open": 28
   },
   {
     "iid": 485,
@@ -814,8 +1081,10 @@
     "author": "lyz0328",
     "title": "[Doc]: 代码缩进导致用户问题",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/485"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/485",
+    "working_days_open": 29
   },
   {
     "iid": 484,
@@ -825,8 +1094,12 @@
     "author": "eco_zsj",
     "title": "[Bug]: a5 2a+x环境 reducescatter算子，静态图模式，aiv展开模式，控核配置65核时，用例执行会卡住，预期设备64核，配置65核，预期应该会被拦截",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/484"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/484",
+    "working_days_open": 30
   },
   {
     "iid": 483,
@@ -836,8 +1109,12 @@
     "author": "wuxiyuan",
     "title": "[Bug]: MoeReRouting在FP4场景下会出现输出结果一半为0的问题",
     "labels": [],
+    "assignees": [
+      "wuxiyuan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/483"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/483",
+    "working_days_open": 31
   },
   {
     "iid": 482,
@@ -849,8 +1126,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "hulida"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/482"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/482",
+    "working_days_open": 32
   },
   {
     "iid": 481,
@@ -860,8 +1141,12 @@
     "author": "jgx12",
     "title": "[Bug]: batchmatmul走图通路在2.10的torch_npu会走入matmul导致被拦截",
     "labels": [],
+    "assignees": [
+      "hulida"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/481"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/481",
+    "working_days_open": 32
   },
   {
     "iid": 480,
@@ -871,8 +1156,10 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: npugraph_ex通过post_grad_custom_pre_pass和post_grad_custom_post_pass自定义pass设置多流失效",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/480"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/480",
+    "working_days_open": 32
   },
   {
     "iid": 479,
@@ -882,8 +1169,12 @@
     "author": "stellaxx11",
     "title": "[Usage]: static_shape_kernel长时间编译不出结果",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/479"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/479",
+    "working_days_open": 33
   },
   {
     "iid": 478,
@@ -893,8 +1184,12 @@
     "author": "yuanshuai000",
     "title": "[Feature]: quant_batch_matmul支持k方向8对齐",
     "labels": [],
+    "assignees": [
+      "yuanshuai000"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/478"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/478",
+    "working_days_open": 33
   },
   {
     "iid": 475,
@@ -904,8 +1199,10 @@
     "author": "stellaxx11",
     "title": "[Bug]: reduce-overhead模式下，PD分离部署图运行卡死，去掉多流就可正常运行",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/475"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/475",
+    "working_days_open": 34
   },
   {
     "iid": 474,
@@ -915,8 +1212,12 @@
     "author": "yijiliang",
     "title": "[Bug]: gmm算子跑图模式传入的转置信息失效，变为不转置",
     "labels": [],
+    "assignees": [
+      "mihudan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/474"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/474",
+    "working_days_open": 34
   },
   {
     "iid": 473,
@@ -926,8 +1227,10 @@
     "author": "OblivionZHU",
     "title": "[Feature]: 拓展配置算子超时时间接口支持入图",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/473"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/473",
+    "working_days_open": 35
   },
   {
     "iid": 472,
@@ -937,8 +1240,10 @@
     "author": "Wangyanzhao_13",
     "title": "[Bug]: 整网 longcat-flash, ge_graph下疑似内存踩踏， 执行加法之后 = 极小值",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/472"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/472",
+    "working_days_open": 35
   },
   {
     "iid": 471,
@@ -948,8 +1253,12 @@
     "author": "coconut_tree",
     "title": "[Usage]: npu_print 内部的实现方式是什么？",
     "labels": [],
+    "assignees": [
+      "mihudan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/471"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/471",
+    "working_days_open": 37
   },
   {
     "iid": 470,
@@ -959,8 +1268,10 @@
     "author": "NimbleKun",
     "title": "[Feature]:  转torchair不支持 torch.linalg.inv",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/470"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/470",
+    "working_days_open": 40
   },
   {
     "iid": 469,
@@ -970,8 +1281,12 @@
     "author": "zhengyaoff12",
     "title": "[Bug]: A5环境nz格式tensor在reduce-overhead模式下会自动转成nd格式",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/469"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/469",
+    "working_days_open": 40
   },
   {
     "iid": 468,
@@ -981,8 +1296,12 @@
     "author": "goodgood11223",
     "title": "[Bug]: 使用2.7.1torch_npu包，执行报错ypeError: unsupported operand type(s) for |: 'types.GenericAlias' and 'NoneType'",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/468"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/468",
+    "working_days_open": 40
   },
   {
     "iid": 467,
@@ -992,8 +1311,12 @@
     "author": "gcw_Q6Mt7CFQ",
     "title": "[Doc]: 【文档捉虫-正确性问题】连接地址错误",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/467"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/467",
+    "working_days_open": 42
   },
   {
     "iid": 466,
@@ -1003,8 +1326,12 @@
     "author": "liuzhuya",
     "title": "[Bug]: 使用aggressive_opt_strategies报错",
     "labels": [],
+    "assignees": [
+      "mihudan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/466"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/466",
+    "working_days_open": 42
   },
   {
     "iid": 465,
@@ -1014,8 +1341,10 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: npugraph_ex模式，单次调用save_npugraph_tensor接口，设置self参数为tensorlist参数和save_name参数报错",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/465"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/465",
+    "working_days_open": 42
   },
   {
     "iid": 464,
@@ -1025,8 +1354,13 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: npugraph_ex，通过post_grad_custom_pre_pass和post_grad_custom_post_pass，设置流场景报错",
     "labels": [],
+    "assignees": [
+      "fu-hao-huawei",
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/464"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/464",
+    "working_days_open": 44
   },
   {
     "iid": 463,
@@ -1036,8 +1370,12 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: torchair日志打印了许多Registered converter相关的日志",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/463"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/463",
+    "working_days_open": 45
   },
   {
     "iid": 462,
@@ -1047,8 +1385,12 @@
     "author": "Kiana1216",
     "title": "[Bug]: 输入tensor带转置时，且tensor有维度值为1的情况下（如[1,32,32]），转置前后会被添加reshape操作",
     "labels": [],
+    "assignees": [
+      "mihudan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/462"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/462",
+    "working_days_open": 45
   },
   {
     "iid": 461,
@@ -1058,8 +1400,12 @@
     "author": "ZhongsJie",
     "title": "[Usage]: 社区版CANN+A2是否支持inductor-npu-ext？",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/461"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/461",
+    "working_days_open": 45
   },
   {
     "iid": 460,
@@ -1069,8 +1415,12 @@
     "author": "MissingPompeii",
     "title": "[Bug]: 当aten.detach被加入aten_lowering名单、但没有加入decompositions_whitelist，原始张量仍然携带着反向传播属性从而导致精度问题",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/460"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/460",
+    "working_days_open": 46
   },
   {
     "iid": 459,
@@ -1080,8 +1430,12 @@
     "author": "Lvkevin7380",
     "title": "[Doc]: 【文档捉虫-正确性问题】npugraph_ex集合通信入图章节中包含max-autotune的内容，需要删除",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/459"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/459",
+    "working_days_open": 46
   },
   {
     "iid": 458,
@@ -1091,8 +1445,12 @@
     "author": "chenzhiyuan0913",
     "title": "[Usage]: GE图使用动态shape分档后，性能下降了，发现是出现断图，以及很多MEMCPY_ASYNC算子",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/458"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/458",
+    "working_days_open": 46
   },
   {
     "iid": 457,
@@ -1102,8 +1460,12 @@
     "author": "chansinging",
     "title": "[Bug]: 升级torch版本，需要torchair  适配修改",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/457"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/457",
+    "working_days_open": 46
   },
   {
     "iid": 456,
@@ -1113,8 +1475,13 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: npugraph_ex起两个线程，1个线程执行静态kernel，1个线程执行torch_npu.npu._aclnn_reselect_static_kernel，报错",
     "labels": [],
+    "assignees": [
+      "xuzhenhua2025",
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/456"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/456",
+    "working_days_open": 46
   },
   {
     "iid": 454,
@@ -1124,8 +1491,13 @@
     "author": "liyuhao21",
     "title": "[Doc]: 【文档捉虫-规范问题和低级错误】",
     "labels": [],
+    "assignees": [
+      "Sunyp01",
+      "liyuhao21"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/454"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/454",
+    "working_days_open": 46
   },
   {
     "iid": 453,
@@ -1135,8 +1507,12 @@
     "author": "szhexin",
     "title": "[Feature]: 对原生接口新增参数",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/453"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/453",
+    "working_days_open": 46
   },
   {
     "iid": 451,
@@ -1146,8 +1522,13 @@
     "author": "baidu_41609401",
     "title": "[Usage]:对yolov5进行推理时，报错AssertionError: Guard check failed: 5/0: tensor '___from_numpy(x)' dispatch key set mismatch. expected DispatchKeySet(CPU, BackendSelect, ADInplaceOrView), actual DispatchKeySet",
     "labels": [],
+    "assignees": [
+      "rich9527",
+      "gleaming-spark"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/451"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/451",
+    "working_days_open": 47
   },
   {
     "iid": 450,
@@ -1157,8 +1538,12 @@
     "author": "huahuamiaomiao",
     "title": "[Doc]:  post_grad_custom_pass.md中的描述格式有问题，请修改",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/450"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/450",
+    "working_days_open": 47
   },
   {
     "iid": 449,
@@ -1168,8 +1553,12 @@
     "author": "tujun6",
     "title": "[Bug]: 静态图编译coredump",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/449"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/449",
+    "working_days_open": 47
   },
   {
     "iid": 448,
@@ -1179,8 +1568,12 @@
     "author": "yongchao666",
     "title": "[Bug]: 整网图模式用例pt2.1升级PT2.7以后出现weightquantbatchmatmulv2算子报错，dump图发现传入这个算子的时候shape已经不对",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/448"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/448",
+    "working_days_open": 47
   },
   {
     "iid": 447,
@@ -1190,8 +1583,12 @@
     "author": "kevinjia",
     "title": "[Bug]: npu_add_rms_norm_quant在torch.compile时出现IR未注册报错",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/447"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/447",
+    "working_days_open": 48
   },
   {
     "iid": 446,
@@ -1201,8 +1598,12 @@
     "author": "Evan112233",
     "title": "[Bug]: 310 torchair 入图的问题，当compile了两张图后，加载会有显存报错",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/446"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/446",
+    "working_days_open": 48
   },
   {
     "iid": 445,
@@ -1212,8 +1613,12 @@
     "author": "juxingtaikongyihao",
     "title": "[Doc]: 【社区任务-定向文档捉虫】",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/445"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/445",
+    "working_days_open": 48
   },
   {
     "iid": 444,
@@ -1223,8 +1628,12 @@
     "author": "MionLAN",
     "title": "[Bug]: 新环境按照要求安装7.3.0的torch npu，执行报错，报pkg_resources不存在",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/444"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/444",
+    "working_days_open": 48
   },
   {
     "iid": 443,
@@ -1234,8 +1643,12 @@
     "author": "xinshuo",
     "title": "[Doc]: 【社区任务-文档定向捉虫】cann-recipes-infer / models / deepseek-r1超链接地址错误",
     "labels": [],
+    "assignees": [
+      "xinshuo"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/443"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/443",
+    "working_days_open": 49
   },
   {
     "iid": 442,
@@ -1245,8 +1658,12 @@
     "author": "zhangquanxin",
     "title": "[Bug]: torchair convert中tensor的format格式信息怎么获取",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/442"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/442",
+    "working_days_open": 50
   },
   {
     "iid": 441,
@@ -1256,8 +1673,12 @@
     "author": "zihan0007",
     "title": "[Bug]: CI流水线 ST有报错，分析和修改无关",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/441"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/441",
+    "working_days_open": 50
   },
   {
     "iid": 440,
@@ -1267,8 +1688,12 @@
     "author": "wangqinyi817",
     "title": "[Bug]: 继承用例执行报错“Failed to auto-generated converter for aten.sigmoid.default to AscendIR”",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/440"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/440",
+    "working_days_open": 50
   },
   {
     "iid": 439,
@@ -1278,8 +1703,12 @@
     "author": "dingdairong",
     "title": "[Doc]: 用data算子的输入输出进行定精度问题的时候，如何把dump的文件喂给单算子复现问题，缺少资料描述，请增加章节说明",
     "labels": [],
+    "assignees": [
+      "xuzhenhua2025"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/439"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/439",
+    "working_days_open": 50
   },
   {
     "iid": 438,
@@ -1289,8 +1718,12 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: aclgraph+多流精度异常",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/438"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/438",
+    "working_days_open": 51
   },
   {
     "iid": 437,
@@ -1300,8 +1733,12 @@
     "author": "socrahow1",
     "title": "[Bug]: gelu没法入aclgraph图",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/437"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/437",
+    "working_days_open": 51
   },
   {
     "iid": 436,
@@ -1311,8 +1748,12 @@
     "author": "fengqiuyue",
     "title": "[Bug]: aclgraph 静态编译无法自动安装编译出来的run包",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 12,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/436"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/436",
+    "working_days_open": 51
   },
   {
     "iid": 435,
@@ -1322,8 +1763,12 @@
     "author": "zhoulong50_hw",
     "title": "[Bug]: reflection_pad2d_backward跑不起来",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/435"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/435",
+    "working_days_open": 52
   },
   {
     "iid": 434,
@@ -1333,8 +1778,12 @@
     "author": "m0_57943685",
     "title": "[Bug]: 启用\"cudagraph_mode\":\"FULL_DECODE_ONLY\"时遇到了算子报错，operator name is muls_add_kernel",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/434"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/434",
+    "working_days_open": 52
   },
   {
     "iid": 433,
@@ -1344,8 +1793,12 @@
     "author": "m0_58016603",
     "title": "[Bug]: torch.compile可以正常推理，调用dynamo_export生成air文件之后，原本模型的输入数量为7个，加载air文件进行推理的时候输入数量变为了3个，导致报错",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/433"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/433",
+    "working_days_open": 52
   },
   {
     "iid": 432,
@@ -1355,8 +1808,12 @@
     "author": "huahuamiaomiao",
     "title": "[Bug]: 继承用例，torch_npu版本26.1.0-20260415-07执行成功，26.1.0-20260416-07执行失败，报错显示有断图导致执行失败",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/432"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/432",
+    "working_days_open": 53
   },
   {
     "iid": 431,
@@ -1366,8 +1823,12 @@
     "author": "goodgood11223",
     "title": "[Bug]: 使用26.1.0-20260416-07的torch_npu包执行，报错TypeError: unsupported operand type(s) for |: 'type' and 'NoneType'",
     "labels": [],
+    "assignees": [
+      "chenweiheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/431"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/431",
+    "working_days_open": 53
   },
   {
     "iid": 430,
@@ -1377,8 +1838,12 @@
     "author": "zhangquanxin",
     "title": "[Bug]: 自定义算子走图模式可选输入在图上没有占位",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/430"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/430",
+    "working_days_open": 54
   },
   {
     "iid": 429,
@@ -1388,8 +1853,12 @@
     "author": "gcw_W4lZIdpv",
     "title": "[Doc]: 标题：【社区任务】定向文档捉虫：CONTRIBUTING.md文档中格式问题",
     "labels": [],
+    "assignees": [
+      "gcw_W4lZIdpv"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/429"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/429",
+    "working_days_open": 54
   },
   {
     "iid": 428,
@@ -1399,8 +1868,12 @@
     "author": "zchenbm97",
     "title": "[Bug]: DinoV3模型开启npugraph_ex推理失败",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/428"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/428",
+    "working_days_open": 54
   },
   {
     "iid": 427,
@@ -1410,8 +1883,12 @@
     "author": "weixin_42123873",
     "title": "[Feature]: torchair.compile(model)  会把model对象编译成一个什么文件？",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/427"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/427",
+    "working_days_open": 54
   },
   {
     "iid": 426,
@@ -1421,8 +1898,12 @@
     "author": "wangqinyi817",
     "title": "[Bug]: 动态图包含动态GroupedMatmul场景，torchair日志有EROR",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/426"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/426",
+    "working_days_open": 55
   },
   {
     "iid": 425,
@@ -1432,8 +1913,12 @@
     "author": "dingdairong",
     "title": "[Feature]: torchair-ge图指定dump fx的格式的时，可以指定py，pbtxt格式。能否支持配置all，一次编译，dump两种格式。",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/425"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/425",
+    "working_days_open": 56
   },
   {
     "iid": 424,
@@ -1443,8 +1928,13 @@
     "author": "qq_49735440",
     "title": "[Bug]: 算子本身是aclnn算子，但是静态kernel没有生效",
     "labels": [],
+    "assignees": [
+      "rich9527",
+      "chenweiheng"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/424"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/424",
+    "working_days_open": 56
   },
   {
     "iid": 423,
@@ -1454,8 +1944,12 @@
     "author": "zihan0007",
     "title": "[Bug]: enable_lite_export能力没有生效",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/423"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/423",
+    "working_days_open": 56
   },
   {
     "iid": 422,
@@ -1465,8 +1959,10 @@
     "author": "PiyZZ",
     "title": "[Doc]: 昇腾官网上的图模式使用指南最新已经到7.3.0，当前还是7.2.0,建议修改路径",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/422"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/422",
+    "working_days_open": 56
   },
   {
     "iid": 420,
@@ -1476,8 +1972,12 @@
     "author": "eternityk",
     "title": "[Usage]: pytorch v2.7.1分支对应torchair哪个分支",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/420"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/420",
+    "working_days_open": 57
   },
   {
     "iid": 419,
@@ -1487,8 +1987,12 @@
     "author": "wangqinyi817",
     "title": "aclgraph动态图，配置config.debug.aclgraph.clone_input=True，设置多流，同一个fx图，变更shape执行多次场景，torchair日志tagged_event_wait校验不到了",
     "labels": [],
+    "assignees": [
+      "mihudan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/419"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/419",
+    "working_days_open": 57
   },
   {
     "iid": 418,
@@ -1498,8 +2002,12 @@
     "author": "rich9527",
     "title": "[Feature]: debug增加对输入输出Tensor 地址的打印",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/418"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/418",
+    "working_days_open": 58
   },
   {
     "iid": 417,
@@ -1509,8 +2017,13 @@
     "author": "zhixiong_sun",
     "title": "[Bug]: acl_graph模式下，开启多流模型精度不对",
     "labels": [],
+    "assignees": [
+      "tangjie66",
+      "yurongkun"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/417"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/417",
+    "working_days_open": 59
   },
   {
     "iid": 416,
@@ -1520,8 +2033,13 @@
     "author": "weixin_59837223",
     "title": "[Usage]: 如何Dump aclgraph模式下整图，以及算子输入输出，npugraph_ex的options配置代码不知到加在哪里",
     "labels": [],
+    "assignees": [
+      "tangjie66",
+      "yurongkun"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/416"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/416",
+    "working_days_open": 59
   },
   {
     "iid": 415,
@@ -1531,8 +2049,12 @@
     "author": "woodenman",
     "title": "[Bug]: ",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/415"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/415",
+    "working_days_open": 60
   },
   {
     "iid": 414,
@@ -1542,8 +2064,12 @@
     "author": "dingdairong",
     "title": "[Feature]: third_party/secure_c的submodule链接已经不再维护了，请更新至新的链接",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/414"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/414",
+    "working_days_open": 60
   },
   {
     "iid": 413,
@@ -1553,8 +2079,13 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: aclgraph执行报错“When data_ptr is null, allocator must be provided”",
     "labels": [],
+    "assignees": [
+      "tangjie66",
+      "gcw_w18ytwbi"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/413"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/413",
+    "working_days_open": 60
   },
   {
     "iid": 412,
@@ -1564,8 +2095,12 @@
     "author": "zhuyiming3",
     "title": "[Bug]: 集合通信单算子动态图精度问题",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/412"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/412",
+    "working_days_open": 61
   },
   {
     "iid": 411,
@@ -1575,8 +2110,13 @@
     "author": "Le_666",
     "title": "[Bug]: dumpdata发现传递给算子的输入值有nan，导致最终结果全nan",
     "labels": [],
+    "assignees": [
+      "glf2016",
+      "gleaming-spark"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/411"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/411",
+    "working_days_open": 61
   },
   {
     "iid": 409,
@@ -1586,8 +2126,12 @@
     "author": "ZhouChuping",
     "title": "[Usage]: aclnnMoeGatingTopKSoftmax当前M9网络+泛化用例图模式验证，dump图失败",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/409"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/409",
+    "working_days_open": 62
   },
   {
     "iid": 408,
@@ -1597,8 +2141,12 @@
     "author": "zhaosusu",
     "title": "[Usage]: A5上如何执行layer_norm的图模式",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/408"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/408",
+    "working_days_open": 62
   },
   {
     "iid": 407,
@@ -1608,8 +2156,12 @@
     "author": "muzhiyu6",
     "title": "[Bug]: allgather 算子入图,不支持uint16/32/64",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/407"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/407",
+    "working_days_open": 62
   },
   {
     "iid": 406,
@@ -1619,8 +2171,12 @@
     "author": "LiNuohang",
     "title": "[Bug]: torch.compile对比eager多了clone的调用，并导致精度问题。",
     "labels": [],
+    "assignees": [
+      "xuzhenhua2025"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/406"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/406",
+    "working_days_open": 63
   },
   {
     "iid": 405,
@@ -1630,8 +2186,12 @@
     "author": "yao_yao_ling_xian",
     "title": "[Bug]: reducescatter int float sum不支持问题",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/405"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/405",
+    "working_days_open": 63
   },
   {
     "iid": 404,
@@ -1641,8 +2201,12 @@
     "author": "fuyunde",
     "title": "[Bug]: 调用sendrecv算子，使能ge图模式（hcom），数据量为0时错误，send算子往下调用但recv未调用",
     "labels": [],
+    "assignees": [
+      "dddxhh"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/404"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/404",
+    "working_days_open": 63
   },
   {
     "iid": 403,
@@ -1652,8 +2216,12 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: aclgraph使能静态kernel报错AclopStartDumpArgs execute failed",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/403"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/403",
+    "working_days_open": 63
   },
   {
     "iid": 402,
@@ -1663,8 +2231,12 @@
     "author": "HuXikang",
     "title": "[Bug]: 调用broadcast算子，使能图模式，输入group_src参数报错",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/402"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/402",
+    "working_days_open": 63
   },
   {
     "iid": 401,
@@ -1674,8 +2246,12 @@
     "author": "liaoqingqing",
     "title": "[Bug]: 310P环境上使用多lora, torchair+ge入图报错All dims in original shape[-1,1,-1,-1] of frozen data should be greater than 0.",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/401"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/401",
+    "working_days_open": 64
   },
   {
     "iid": 400,
@@ -1685,8 +2261,13 @@
     "author": "depeng1994",
     "title": "[Doc]: aclgraph维测日志补充，在社区提供关键日志定位三板斧",
     "labels": [],
+    "assignees": [
+      "Guanam2020",
+      "gleaming-spark"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/400"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/400",
+    "working_days_open": 64
   },
   {
     "iid": 399,
@@ -1696,8 +2277,12 @@
     "author": "qsc97",
     "title": "[Bug]: torchtitan fdsp2 dsv3训练 aclgrah报错  Do not support TASK_QUEUE_ENABLE = 2",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/399"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/399",
+    "working_days_open": 64
   },
   {
     "iid": 398,
@@ -1707,8 +2292,12 @@
     "author": "lihao122123e",
     "title": "[Bug]: 整网模型使能static_kernel不生效",
     "labels": [],
+    "assignees": [
+      "chenweiheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/398"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/398",
+    "working_days_open": 64
   },
   {
     "iid": 397,
@@ -1718,8 +2307,12 @@
     "author": "huahuamiaomiao",
     "title": "[Bug]: fullgraph=False, backend=\"npugraph_ex\", 增加断图（print）后精度异常，torch_npu 26.0.0-20260325-19版本正常，26.0.0-20260326-07精度异常",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/397"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/397",
+    "working_days_open": 64
   },
   {
     "iid": 396,
@@ -1729,8 +2322,13 @@
     "author": "HuXikang",
     "title": "[Bug]: 使用npugraph_ex方式使能aclgraph能力，在调用all_to_all_single，输入可均分且不输入output_split_sizes和input_split_sizes参数的场景下，预期走alltoall算子，但实际走了alltoallv算子",
     "labels": [],
+    "assignees": [
+      "xuzhenhua2025",
+      "yuanjun_li"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/396"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/396",
+    "working_days_open": 65
   },
   {
     "iid": 395,
@@ -1740,8 +2338,12 @@
     "author": "weixin_50671961",
     "title": "[Bug]: 使用torchair.scope.npu_stream_switch接口，进行分流操作，会执行报错",
     "labels": [],
+    "assignees": [
+      "mihudan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/395"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/395",
+    "working_days_open": 65
   },
   {
     "iid": 394,
@@ -1751,8 +2353,12 @@
     "author": "fengqiuyue",
     "title": "[Usage]: 咨询aclgraph是否支持superkernel",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/394"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/394",
+    "working_days_open": 65
   },
   {
     "iid": 393,
@@ -1762,8 +2368,12 @@
     "author": "CUTEZHANG",
     "title": "[Bug]: all_to_all_single_npu调用报错",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/393"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/393",
+    "working_days_open": 65
   },
   {
     "iid": 392,
@@ -1773,8 +2383,12 @@
     "author": "yin-peng",
     "title": "[Usage]: 关于npu_xxxx.py其中的写法",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/392"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/392",
+    "working_days_open": 66
   },
   {
     "iid": 391,
@@ -1784,8 +2398,13 @@
     "author": "chenyu10",
     "title": "[Bug]: aclgraph add算子报错，eager、ge正常",
     "labels": [],
+    "assignees": [
+      "rich9527",
+      "yuanjun_li"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/391"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/391",
+    "working_days_open": 66
   },
   {
     "iid": 390,
@@ -1795,8 +2414,12 @@
     "author": "zlz_392499748",
     "title": "[Doc]: 1971 训练 社区转测 遇到一些 torch的报错 ",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/390"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/390",
+    "working_days_open": 67
   },
   {
     "iid": 389,
@@ -1806,8 +2429,12 @@
     "author": "AlbertYoung192",
     "title": "[Bug]: 非量化groupedmatmul算子单多多场景下正确传入的grouplist参数存在数据丢失现象",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/389"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/389",
+    "working_days_open": 67
   },
   {
     "iid": 388,
@@ -1817,8 +2444,12 @@
     "author": "RQL7",
     "title": "[Doc]: 文档中依赖不全，安装后执行有模块未安装包错，也没有找到require文件",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/388"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/388",
+    "working_days_open": 67
   },
   {
     "iid": 387,
@@ -1828,8 +2459,13 @@
     "author": "Evan112233",
     "title": "[Bug]: 310 torchair 入图 recompile",
     "labels": [],
+    "assignees": [
+      "tangjie66",
+      "dddxhh"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/387"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/387",
+    "working_days_open": 67
   },
   {
     "iid": 386,
@@ -1839,8 +2475,12 @@
     "author": "hanru-xu",
     "title": "[Doc]: 阅读完有两个问题咨询",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/386"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/386",
+    "working_days_open": 70
   },
   {
     "iid": 385,
@@ -1850,8 +2490,12 @@
     "author": "qianhongli",
     "title": "[Bug]: alltoall静态图模式，配置数据量为0，有除零报错",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/385"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/385",
+    "working_days_open": 70
   },
   {
     "iid": 384,
@@ -1861,8 +2505,12 @@
     "author": "huangyuxiaaaaa",
     "title": "[Feature]: 新增和修复算子torchair适配",
     "labels": [],
+    "assignees": [
+      "huangyuxiaaaaa"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/384"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/384",
+    "working_days_open": 70
   },
   {
     "iid": 383,
@@ -1872,8 +2520,12 @@
     "author": "richelieuqian",
     "title": "[Bug]: 在310环境上, torchair+ge入图报错All dims in original shape[-1] of frozen data should be greater than 0",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/383"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/383",
+    "working_days_open": 71
   },
   {
     "iid": 382,
@@ -1883,8 +2535,12 @@
     "author": "Jiaqin",
     "title": "[Usage]: 在aclgraph中使用set_op_timeout_ms接口",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/382"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/382",
+    "working_days_open": 72
   },
   {
     "iid": 381,
@@ -1894,8 +2550,12 @@
     "author": "socrahow1",
     "title": "[Bug]: 使用torchair、aclgraph进行推理加速，编译时卡住，没有报错。",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/381"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/381",
+    "working_days_open": 72
   },
   {
     "iid": 380,
@@ -1905,8 +2565,12 @@
     "author": "wangzhe123456789",
     "title": "[Bug]: ",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/380"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/380",
+    "working_days_open": 73
   },
   {
     "iid": 379,
@@ -1916,8 +2580,12 @@
     "author": "huangyuxiaaaaa",
     "title": "[Feature]: 新增LogSigmoid算子Torch图",
     "labels": [],
+    "assignees": [
+      "huangyuxiaaaaa"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/379"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/379",
+    "working_days_open": 73
   },
   {
     "iid": 378,
@@ -1927,8 +2595,12 @@
     "author": "yeeyanghsia",
     "title": "[Feature]: 新增LogSigmoidGrad算子Torch图",
     "labels": [],
+    "assignees": [
+      "yeeyanghsia"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/378"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/378",
+    "working_days_open": 74
   },
   {
     "iid": 377,
@@ -1938,8 +2610,12 @@
     "author": "urbub",
     "title": "[Bug]:  torchair.scope.limit_core_num，AIV核数无效",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/377"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/377",
+    "working_days_open": 75
   },
   {
     "iid": 376,
@@ -1949,8 +2625,12 @@
     "author": "gcw_pfzw85mp",
     "title": "[Doc]: 没有cann 9.0.0 的版本配套说明",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/376"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/376",
+    "working_days_open": 75
   },
   {
     "iid": 375,
@@ -1960,8 +2640,12 @@
     "author": "liu-zihao35",
     "title": "[Bug]: scatter_pa_kv_cache 算子入图时对k_cache、v_cache 做了 TensorMove，或导致性能问题",
     "labels": [],
+    "assignees": [
+      "ganon0327"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/375"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/375",
+    "working_days_open": 75
   },
   {
     "iid": 374,
@@ -1971,8 +2655,12 @@
     "author": "liu-zihao35",
     "title": "[Installation]: 安装执行git submodule update --init --recursive失败",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/374"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/374",
+    "working_days_open": 75
   },
   {
     "iid": 373,
@@ -1982,8 +2670,12 @@
     "author": "Le_666",
     "title": "[Usage]: The dtype in num[6] net output of Ascend output: [DT_HIFLOAT8] is not equal to FX graph NetOutput: [DT_UINT8].",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/373"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/373",
+    "working_days_open": 76
   },
   {
     "iid": 372,
@@ -1993,8 +2685,12 @@
     "author": "yongchao123",
     "title": "[Bug]: torch图模式用例出现torch._dynamo.exc.TorchRuntimeError: Dynamo failed to run FX node with fake tensors: call_function <built-in function add>(*(FakeTensor(..., device='npu:2', size=(s0, s1, 5120), dty",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/372"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/372",
+    "working_days_open": 77
   },
   {
     "iid": 371,
@@ -2004,8 +2700,12 @@
     "author": "m0_58016603",
     "title": "[Usage]: torchair dump图报错",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/371"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/371",
+    "working_days_open": 77
   },
   {
     "iid": 370,
@@ -2015,8 +2715,12 @@
     "author": "hanru-xu",
     "title": "[Bug]: 非BUG，问题咨询",
     "labels": [],
+    "assignees": [
+      "wangqiang160"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/370"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/370",
+    "working_days_open": 77
   },
   {
     "iid": 369,
@@ -2026,8 +2730,12 @@
     "author": "yuanshuai000",
     "title": "[Feature]: QBMM-MxA8W4-weight_nz supports compact weight",
     "labels": [],
+    "assignees": [
+      "yuanshuai000"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/369"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/369",
+    "working_days_open": 77
   },
   {
     "iid": 368,
@@ -2037,8 +2745,12 @@
     "author": "xiejiahao2333",
     "title": "[Bug]: Qwen3魔改模型编图报错",
     "labels": [],
+    "assignees": [
+      "glf2016"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/368"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/368",
+    "working_days_open": 77
   },
   {
     "iid": 367,
@@ -2048,8 +2760,12 @@
     "author": "goodgood11223",
     "title": "[Bug]: npugraph_ex模式调用with torch.npu.npugraph_ex.scope.limit_core_num(12, 24)，执行报错 [ERROR] AttributeError: module 'torch_npu.npu.npugraph_ex' has no attribute 'scope'",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/367"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/367",
+    "working_days_open": 77
   },
   {
     "iid": 366,
@@ -2059,8 +2775,12 @@
     "author": "luckdog111",
     "title": "[Bug]: 大shape使用aclgraph入图报错the model stream unbind failed，小shape正常。",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/366"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/366",
+    "working_days_open": 78
   },
   {
     "iid": 365,
@@ -2070,8 +2790,12 @@
     "author": "sisyphus11",
     "title": "[Bug]: 大模型导出om过程中出现了cmo算子，导致模型无法单stream导出，需要定位cmo算子引入的原因",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/365"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/365",
+    "working_days_open": 79
   },
   {
     "iid": 364,
@@ -2081,8 +2805,12 @@
     "author": "clwsy1",
     "title": "[Usage]:hifloat8进入torch层后会被转换为torch.uint5",
     "labels": [],
+    "assignees": [
+      "glf2016"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/364"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/364",
+    "working_days_open": 80
   },
   {
     "iid": 363,
@@ -2092,8 +2820,12 @@
     "author": "woodenman",
     "title": "[Doc]: torchair Dynamo导图功能约束说明不明确",
     "labels": [],
+    "assignees": [
+      "ganon0327"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/363"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/363",
+    "working_days_open": 80
   },
   {
     "iid": 362,
@@ -2103,8 +2835,12 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: npugraph_ex报错“Unsupported case with non constant value [{sym}] in sym_list [{syms}].”",
     "labels": [],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/362"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/362",
+    "working_days_open": 80
   },
   {
     "iid": 361,
@@ -2114,8 +2850,13 @@
     "author": "yangzeheng",
     "title": "[Usage]: <<<>>>调用算子出现H2D拷贝错误",
     "labels": [],
+    "assignees": [
+      "mihudan",
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/361"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/361",
+    "working_days_open": 81
   },
   {
     "iid": 360,
@@ -2125,8 +2866,13 @@
     "author": "qq_40981258",
     "title": "[Bug]: 异常报错 main process disappeared",
     "labels": [],
+    "assignees": [
+      "wangqiang160",
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/360"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/360",
+    "working_days_open": 81
   },
   {
     "iid": 359,
@@ -2136,8 +2882,13 @@
     "author": "MeiWenxuan",
     "title": "[Usage]: 同样的调用流程，为什么有的算子跑不进图模式",
     "labels": [],
+    "assignees": [
+      "mihudan",
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/359"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/359",
+    "working_days_open": 81
   },
   {
     "iid": 358,
@@ -2147,8 +2898,12 @@
     "author": "yangzeheng",
     "title": "[Usage]: <<<>>>直调算子工程以aclgraph方式调用报错",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/358"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/358",
+    "working_days_open": 82
   },
   {
     "iid": 357,
@@ -2158,8 +2913,12 @@
     "author": "libohao6",
     "title": "[Usage]: 请问当算子原型中有可选输出时，是不是不能使用auto_generated_ge_raw_ops.py自动生成converter代码",
     "labels": [],
+    "assignees": [
+      "ganon0327"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/357"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/357",
+    "working_days_open": 82
   },
   {
     "iid": 356,
@@ -2169,8 +2928,12 @@
     "author": "fwx_110",
     "title": "[Bug]: 更新最新torch_npu包后需要用户自行安装packaging模块，这个模块需要用户去保证吗",
     "labels": [],
+    "assignees": [
+      "ganon0327"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/356"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/356",
+    "working_days_open": 82
   },
   {
     "iid": 355,
@@ -2180,8 +2943,12 @@
     "author": "pan_yao",
     "title": "[Feature]: torchair支持uint16和uint32类型",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/355"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/355",
+    "working_days_open": 82
   },
   {
     "iid": 354,
@@ -2191,8 +2958,12 @@
     "author": "socrahow1",
     "title": "[Bug]: torch.nn.Conv2D编译报错",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/354"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/354",
+    "working_days_open": 83
   },
   {
     "iid": 353,
@@ -2202,8 +2973,12 @@
     "author": "socrahow1",
     "title": "[Bug]: torch.nn.functional.pad算子编译报错",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/353"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/353",
+    "working_days_open": 83
   },
   {
     "iid": 352,
@@ -2213,8 +2988,12 @@
     "author": "clwsy1",
     "title": "[Usage]: torchair图中添加了cast，导致输入类型发生改变",
     "labels": [],
+    "assignees": [
+      "glf2016"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/352"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/352",
+    "working_days_open": 83
   },
   {
     "iid": 351,
@@ -2224,8 +3003,12 @@
     "author": "xiongyifu",
     "title": "[Feature]: RuntimeError: Unsupported torch type 44 by ge",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/351"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/351",
+    "working_days_open": 84
   },
   {
     "iid": 350,
@@ -2235,8 +3018,12 @@
     "author": "wuzhengzhen",
     "title": "[Bug]: RuntimeError: Unsupported ge type 28 by torch Traceback (most recent call last):   File \"/usr/local/python3.9/lib/python3.9/site-packages/torch_npu/dynamo/torchair/_utils/error_code.py\", line 4",
     "labels": [],
+    "assignees": [
+      "zhukkk"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/350"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/350",
+    "working_days_open": 84
   },
   {
     "iid": 349,
@@ -2246,8 +3033,12 @@
     "author": "chenyia",
     "title": "[Bug]: torchair图模式，脚本构造三个无执行序依赖的HcomAllToAllV算子，发现两卡算子拓扑序不一致，出现精度问题",
     "labels": [],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/349"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/349",
+    "working_days_open": 85
   },
   {
     "iid": 348,
@@ -2257,8 +3048,12 @@
     "author": "wuzhengzhen",
     "title": "While executing %ascendc_add : [num_users=1] = call_function[target=torch.ops.ascendc_ops.ascendc_add.default](args = (%arg0_1, %arg1_1), kwargs = {})",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/348"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/348",
+    "working_days_open": 85
   },
   {
     "iid": 347,
@@ -2268,8 +3063,12 @@
     "author": "woodenman",
     "title": "[Bug]: 主线程指定多卡加载模型时，开启cache_compile后，第二张卡加载报错",
     "labels": [],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/347"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/347",
+    "working_days_open": 85
   },
   {
     "iid": 346,
@@ -2279,8 +3078,12 @@
     "author": "SelamatPagi61",
     "title": "[Bug]: 报错 RuntimeError: Assert graph_data_->input_placements.size() == inputs.size() failed",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/346"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/346",
+    "working_days_open": 86
   },
   {
     "iid": 345,
@@ -2290,8 +3093,13 @@
     "author": "kkasds",
     "title": "[Bug]: 出现图模式报错，单算子没问题",
     "labels": [],
+    "assignees": [
+      "Sunyp01",
+      "yurongkun"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/345"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/345",
+    "working_days_open": 86
   },
   {
     "iid": 344,
@@ -2301,8 +3109,12 @@
     "author": "woodenman",
     "title": "[Bug]: cosyvoice2 torchair编图报错",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/344"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/344",
+    "working_days_open": 87
   },
   {
     "iid": 343,
@@ -2312,8 +3124,12 @@
     "author": "pan_yao",
     "title": "[Bug]: RuntimeError: Unsupported torch type torch.uint32 by ge   RuntimeError: Unsupported torch type torch.uint16 by ge",
     "labels": [],
+    "assignees": [
+      "luanchaowei"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/343"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/343",
+    "working_days_open": 88
   },
   {
     "iid": 342,
@@ -2323,8 +3139,12 @@
     "author": "xuxiongjie",
     "title": "[Feature]: GMM MxA8W4 与QBMM MxA8W4支持3维scale",
     "labels": [],
+    "assignees": [
+      "xuxiongjie"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/342"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/342",
+    "working_days_open": 88
   },
   {
     "iid": 341,
@@ -2334,8 +3154,12 @@
     "author": "zlz_392499748",
     "title": "[Doc]: 310P 推理性能劣化",
     "labels": [],
+    "assignees": [
+      "luanchaowei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/341"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/341",
+    "working_days_open": 88
   },
   {
     "iid": 340,
@@ -2345,8 +3169,12 @@
     "author": "winwei12345",
     "title": "[Bug]: reduce-overhead入图时，算子def中如果某个Tensor既是输入又是输出，输出时不会写数据到该Tensor",
     "labels": [],
+    "assignees": [
+      "pwc10490"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/340"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/340",
+    "working_days_open": 89
   },
   {
     "iid": 339,
@@ -2358,8 +3186,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "luanchaowei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/339"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/339",
+    "working_days_open": 89
   },
   {
     "iid": 338,
@@ -2369,8 +3201,12 @@
     "author": "yuanshuai000",
     "title": "[Feature]: 图模式 grouped matmul支持紧凑排布fp4的nz权重",
     "labels": [],
+    "assignees": [
+      "yuanshuai000"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/338"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/338",
+    "working_days_open": 89
   },
   {
     "iid": 337,
@@ -2380,8 +3216,12 @@
     "author": "AlbertYoung192",
     "title": "[Bug]: GroupedMatmul算子单多多场景正确传入grouplist参数但识别为null",
     "labels": [],
+    "assignees": [
+      "pwc10490"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/337"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/337",
+    "working_days_open": 89
   },
   {
     "iid": 336,
@@ -2391,8 +3231,12 @@
     "author": "weixin_42123873",
     "title": "[Doc]: torchair_cache缓存 性能反而劣化",
     "labels": [],
+    "assignees": [
+      "pwc10490"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/336"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/336",
+    "working_days_open": 89
   },
   {
     "iid": 335,
@@ -2402,8 +3246,12 @@
     "author": "xubinglin",
     "title": "[Doc]: 缺少如何执行st的文档说明",
     "labels": [],
+    "assignees": [
+      "pwc10490"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/335"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/335",
+    "working_days_open": 89
   },
   {
     "iid": 334,
@@ -2413,8 +3261,12 @@
     "author": "hujiawen_kaven",
     "title": "[Doc]: cann版本配套说明中没有9.0.0版本",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/334"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/334",
+    "working_days_open": 90
   },
   {
     "iid": 333,
@@ -2424,8 +3276,12 @@
     "author": "zlz_392499748",
     "title": "[Doc]: 用例执行失败",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/333"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/333",
+    "working_days_open": 90
   },
   {
     "iid": 332,
@@ -2435,8 +3291,12 @@
     "author": "qq_43844249",
     "title": "[Bug]: 第一天代码合入后第二天的主线torch包中没有对应的实现",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/332"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/332",
+    "working_days_open": 91
   },
   {
     "iid": 331,
@@ -2446,8 +3306,12 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: aclgraph构造静态addrmsnorm+view+cast，算子在相同stream流，默认开启pattern_fusion_pass，没有融合成torch.ops.npu.npu_add_rms_norm_cast.default",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/331"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/331",
+    "working_days_open": 91
   },
   {
     "iid": 330,
@@ -2457,8 +3321,12 @@
     "author": "macech",
     "title": "[Usage]: 咨询：torchair convert将wheel中的自定义接口转换成图",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/330"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/330",
+    "working_days_open": 92
   },
   {
     "iid": 329,
@@ -2468,8 +3336,12 @@
     "author": "zihan0007",
     "title": "[Usage]: config.export.experimental.enable_lite_export = True功能未生效",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/329"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/329",
+    "working_days_open": 93
   },
   {
     "iid": 328,
@@ -2479,8 +3351,12 @@
     "author": "see55",
     "title": "[Feature]: 310P 支持 acl graph",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/328"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/328",
+    "working_days_open": 93
   },
   {
     "iid": 327,
@@ -2490,8 +3366,12 @@
     "author": "Le_666",
     "title": "[Usage]: torchair怎么使用自定义数据类型",
     "labels": [],
+    "assignees": [
+      "gcw_w18ytwbi"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/327"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/327",
+    "working_days_open": 94
   },
   {
     "iid": 326,
@@ -2501,8 +3381,12 @@
     "author": "yushutinghz",
     "title": "[Bug]: 使用pytorch调用hccl的reduce算子，图模式，使用uint64数据类型时报错Graph break under GenericContextWrappingVariable，使用int16/fp16/fp32时报错Error op name:reduce, reason: Attempted to call function marked as skipped",
     "labels": [],
+    "assignees": [
+      "gcw_w18ytwbi"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/326"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/326",
+    "working_days_open": 94
   },
   {
     "iid": 325,
@@ -2512,8 +3396,12 @@
     "author": "yushutinghz",
     "title": "[Feature]: pytorch调用hccl算子测试时发现uint64/uint32/uint16数据类型报错不支持Unsupported ge dtype 7/8/10/28",
     "labels": [],
+    "assignees": [
+      "gcw_w18ytwbi"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/325"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/325",
+    "working_days_open": 94
   },
   {
     "iid": 324,
@@ -2523,8 +3411,14 @@
     "author": "ZX056288",
     "title": "[Bug]: torchair Broadcast GE图模式和eager模式对于src的转换不一致导致入图失败",
     "labels": [],
+    "assignees": [
+      "hulida",
+      "dingdairong",
+      "dddxhh"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/324"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/324",
+    "working_days_open": 94
   },
   {
     "iid": 323,
@@ -2534,8 +3428,12 @@
     "author": "rich9527",
     "title": "[Doc]: aclgraph内存复用，如果用户输入占用内存较大可能会导致OOM，需要在资料中说明",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/323"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/323",
+    "working_days_open": 94
   },
   {
     "iid": 322,
@@ -2545,8 +3443,12 @@
     "author": "Tjh-UKN",
     "title": "[Feature]: torchair图采集支持提供Const节点映射关系",
     "labels": [],
+    "assignees": [
+      "pwc10490"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/322"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/322",
+    "working_days_open": 95
   },
   {
     "iid": 321,
@@ -2556,8 +3458,12 @@
     "author": "fu-hao-huawei",
     "title": "[Feature]: torch_npu原生多流api入图",
     "labels": [],
+    "assignees": [
+      "fu-hao-huawei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/321"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/321",
+    "working_days_open": 95
   },
   {
     "iid": 320,
@@ -2567,8 +3473,12 @@
     "author": "weixin_42123873",
     "title": "[Doc]: 哪个torch版本支持使用**self.one2many语法解包字典为关键字参数",
     "labels": [],
+    "assignees": [
+      "luanchaowei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/320"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/320",
+    "working_days_open": 96
   },
   {
     "iid": 319,
@@ -2578,8 +3488,12 @@
     "author": "gitcode_lijd",
     "title": "[Usage]: 静态图模式全核 半核作用域疑问",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/319"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/319",
+    "working_days_open": 96
   },
   {
     "iid": 318,
@@ -2589,8 +3503,12 @@
     "author": "kkasds",
     "title": "[Bug]:  aclgraph在server环境的0115分支出现算子报错",
     "labels": [],
+    "assignees": [
+      "xuzhenhua2025"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/318"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/318",
+    "working_days_open": 96
   },
   {
     "iid": 317,
@@ -2600,8 +3518,12 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: aclgraph使用多流接口报错torch._dynamo.exc.Unsupported: call_id with args (EventVariable(),)",
     "labels": [],
+    "assignees": [
+      "fu-hao-huawei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/317"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/317",
+    "working_days_open": 96
   },
   {
     "iid": 316,
@@ -2611,8 +3533,12 @@
     "author": "huangyuqian",
     "title": "[Usage]: 整网跑acl graph，不支持加日志打印",
     "labels": [],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/316"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/316",
+    "working_days_open": 96
   },
   {
     "iid": 315,
@@ -2624,8 +3550,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "zhanj"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/315"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/315",
+    "working_days_open": 96
   },
   {
     "iid": 314,
@@ -2635,8 +3565,12 @@
     "author": "zzyyh",
     "title": "[Bug]: touch报错",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/314"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/314",
+    "working_days_open": 96
   },
   {
     "iid": 313,
@@ -2646,8 +3580,13 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug]: aclgraph+cache_compile+eager+静态kernel，以前是cache_compile不生效，静态kernel生效，现在变成了cache_compile生效，静态kernel不生效了",
     "labels": [],
+    "assignees": [
+      "wang-pierre-jiacheng",
+      "ganon0327"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/313"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/313",
+    "working_days_open": 97
   },
   {
     "iid": 312,
@@ -2657,8 +3596,12 @@
     "author": "yring_8",
     "title": "[Usage]: ",
     "labels": [],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/312"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/312",
+    "working_days_open": 98
   },
   {
     "iid": 311,
@@ -2668,8 +3611,12 @@
     "author": "m0_69544124",
     "title": "[Bug]: 基于modelzoo模型CosyVoice模型做过一些优化，使用了torchair做了性能提升，部署服务化之后。只能支持单并发请求，不支持多并发请求",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/311"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/311",
+    "working_days_open": 98
   },
   {
     "iid": 310,
@@ -2679,8 +3626,12 @@
     "author": "weixin_73791815",
     "title": "[Bug]: vLLM_Ascend使用编译后的自定义算子, 给出报错:Cannot prepare for replay during capturing stage. during NPU graph capture. If you need this call to be captured, please file an issue.",
     "labels": [],
+    "assignees": [
+      "dddxhh"
+    ],
     "user_notes_count": 7,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/310"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/310",
+    "working_days_open": 99
   },
   {
     "iid": 309,
@@ -2690,8 +3641,12 @@
     "author": "Anonymous1",
     "title": "[Bug]: 不开super kernel，同一个通信域2个混合算子dtpye不一样, reduce算子bfp16类型，reduce算子int32类型场景，报错torch._dynamo.exc.Unsupported: Attempted to call function marked as skipped",
     "labels": [],
+    "assignees": [
+      "dddxhh"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/309"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/309",
+    "working_days_open": 99
   },
   {
     "iid": 308,
@@ -2701,8 +3656,12 @@
     "author": "rich9527",
     "title": "[Feature]: 自定义converter导入触发AttributeError时提供错误日志帮助定位",
     "labels": [],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/308"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/308",
+    "working_days_open": 100
   },
   {
     "iid": 307,
@@ -2712,8 +3671,10 @@
     "author": "ZX056288",
     "title": "[Feature]: GE Graph流程中增加对权重的处理",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/307"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/307",
+    "working_days_open": 100
   },
   {
     "iid": 306,
@@ -2723,8 +3684,12 @@
     "author": "yongchao123",
     "title": "[Bug]: torch图模式用例报错",
     "labels": [],
+    "assignees": [
+      "fu-hao-huawei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/306"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/306",
+    "working_days_open": 100
   },
   {
     "iid": 305,
@@ -2734,8 +3699,12 @@
     "author": "liftcube",
     "title": "[Bug]: 310P3上interpolate算子入图导致性能劣化",
     "labels": [],
+    "assignees": [
+      "ganon0327"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/305"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/305",
+    "working_days_open": 101
   },
   {
     "iid": 304,
@@ -2745,8 +3714,12 @@
     "author": "yin-peng",
     "title": "[Bug]: GroupedDynamicBlockQuant 输出参数类型y应为hifloat8，但转换后是uint8",
     "labels": [],
+    "assignees": [
+      "glf2016"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/304"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/304",
+    "working_days_open": 101
   },
   {
     "iid": 303,
@@ -2756,8 +3729,12 @@
     "author": "yin-peng",
     "title": "[Bug]: GroupedDynamicBlockQuant 入参传入失败",
     "labels": [],
+    "assignees": [
+      "glf2016"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/303"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/303",
+    "working_days_open": 101
   },
   {
     "iid": 302,
@@ -2767,8 +3744,12 @@
     "author": "ganon0327",
     "title": "[WIP]: aclgraph 自动函数化reinplace日志优化",
     "labels": [],
+    "assignees": [
+      "ganon0327"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/302"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/302",
+    "working_days_open": 101
   },
   {
     "iid": 301,
@@ -2778,8 +3759,12 @@
     "author": "linengyao",
     "title": "[Bug]: 入图tiling下沉fx构图错误",
     "labels": [],
+    "assignees": [
+      "linengyao"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/301"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/301",
+    "working_days_open": 102
   },
   {
     "iid": 300,
@@ -2789,8 +3774,12 @@
     "author": "chengding888",
     "title": "[Usage]: acl graph断图排查",
     "labels": [],
+    "assignees": [
+      "luboyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/300"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/300",
+    "working_days_open": 102
   },
   {
     "iid": 299,
@@ -2800,8 +3789,12 @@
     "author": "god_ling",
     "title": "[Bug]: 使能superkernel 报错After you call the torch.ops.air.scope_enter operator, there is no paired call to the torch.ops.air.scope_exit operator",
     "labels": [],
+    "assignees": [
+      "luboyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/299"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/299",
+    "working_days_open": 102
   },
   {
     "iid": 298,
@@ -2811,8 +3804,12 @@
     "author": "fengaov",
     "title": "[Bug]: 图模式下输出切片（Slice）操作会导致结果精度异常",
     "labels": [],
+    "assignees": [
+      "luboyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/298"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/298",
+    "working_days_open": 102
   },
   {
     "iid": 297,
@@ -2822,8 +3819,12 @@
     "author": "fengaov",
     "title": "[Bug]: 图模式与融合优化器不兼容问题",
     "labels": [],
+    "assignees": [
+      "luboyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/297"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/297",
+    "working_days_open": 102
   },
   {
     "iid": 296,
@@ -2833,8 +3834,12 @@
     "author": "liu_longlong11111",
     "title": "[Bug]: ge组件：从obp继承到david的aclgraph用例,在david上报错不支持aclrtCreateEventExWithFlag传入的flag，需上层检查一下入参是否合法",
     "labels": [],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/296"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/296",
+    "working_days_open": 103
   },
   {
     "iid": 295,
@@ -2844,8 +3849,12 @@
     "author": "zhaosusu",
     "title": "[Usage]: ge的torchair入口的 torchair入口，max-autotune模式，构造静态addrmsnorm+view+cast时用例编译报错",
     "labels": [],
+    "assignees": [
+      "zhukkk"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/295"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/295",
+    "working_days_open": 104
   },
   {
     "iid": 294,
@@ -2855,8 +3864,12 @@
     "author": "jwhuang17",
     "title": "[Bug]: 静态图模式算子级联场景，实际走了图模式和单算子混合下发，并且两个算子分别占用一半的卡数，测试的脚本就是构建的一个输入给两个算子",
     "labels": [],
+    "assignees": [
+      "zhukkk"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/294"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/294",
+    "working_days_open": 104
   },
   {
     "iid": 293,
@@ -2866,8 +3879,12 @@
     "author": "cc_beolus",
     "title": "[Doc]: README操作优化",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/293"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/293",
+    "working_days_open": 105
   },
   {
     "iid": 292,
@@ -2877,8 +3894,12 @@
     "author": "ChenCangtao",
     "title": "[Feature]: 静态kernel编译时长优化",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/292"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/292",
+    "working_days_open": 105
   },
   {
     "iid": 291,
@@ -2888,8 +3909,12 @@
     "author": "see55",
     "title": "[Feature]: 求 310P 上也能同样支持 acl graph",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/291"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/291",
+    "working_days_open": 105
   },
   {
     "iid": 290,
@@ -2899,8 +3924,12 @@
     "author": "Sunyp01",
     "title": "[Usage]: ge.deterministic的option是如何获取的，在哪里设置给GE",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/290"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/290",
+    "working_days_open": 105
   },
   {
     "iid": 289,
@@ -2910,8 +3939,12 @@
     "author": "hyhhh14",
     "title": "[Bug]: torch2.7.1以上版本，支持原生torch.float8_e8m0fnu，在torch2.7.1以下版本，之前用uint8代替，现在单算子和图模式出现了类型不一致的问题",
     "labels": [],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/289"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/289",
+    "working_days_open": 105
   },
   {
     "iid": 288,
@@ -2921,8 +3954,12 @@
     "author": "zzy-hw",
     "title": "[Bug]: triton算子接入npugraph_ex报错",
     "labels": [],
+    "assignees": [
+      "xuzhenhua2025"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/288"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/288",
+    "working_days_open": 106
   },
   {
     "iid": 287,
@@ -2932,8 +3969,12 @@
     "author": "BoBean",
     "title": "[Usage]: Torchair精度问题定位",
     "labels": [],
+    "assignees": [
+      "pwc10490"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/287"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/287",
+    "working_days_open": 106
   },
   {
     "iid": 286,
@@ -2943,8 +3984,12 @@
     "author": "ChenCangtao",
     "title": "[Bug]: 使用npugraph_ex后端编译运行deepseek，计算图中存在额外tensormove",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/286"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/286",
+    "working_days_open": 106
   },
   {
     "iid": 285,
@@ -2954,8 +3999,12 @@
     "author": "wangchenfeng6",
     "title": "[Usage]: 空核和非空核连跑，编图失败",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/285"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/285",
+    "working_days_open": 107
   },
   {
     "iid": 284,
@@ -2965,8 +4014,12 @@
     "author": "linglx",
     "title": "[Doc]: 页面里文档链接不对，链接里缺少en/cn路径",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/284"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/284",
+    "working_days_open": 107
   },
   {
     "iid": 283,
@@ -2976,8 +4029,12 @@
     "author": "weixin_43499740",
     "title": "[Bug]: 图模式运行AICPU算子，可选tensor不传或传入None时会报空指针的错",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/283"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/283",
+    "working_days_open": 107
   },
   {
     "iid": 282,
@@ -2987,8 +4044,12 @@
     "author": "jwhuang17",
     "title": "[Bug]: 使用torch2.7.1版本，执行用例时报错：torch._dynamo.exc.InternalTorchDynamoError: IndexError: list index out of range",
     "labels": [],
+    "assignees": [
+      "gcw_w18ytwbi"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/282"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/282",
+    "working_days_open": 108
   },
   {
     "iid": 281,
@@ -2998,8 +4059,12 @@
     "author": "yellowbee",
     "title": "[Bug]: torch入图顺序发生变化导致特定图融合无法匹配",
     "labels": [],
+    "assignees": [
+      "luanchaowei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/281"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/281",
+    "working_days_open": 109
   },
   {
     "iid": 280,
@@ -3009,8 +4074,12 @@
     "author": "Sunyp01",
     "title": "[Usage]:TorchAir社区 issue指南",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/280"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/280",
+    "working_days_open": 109
   },
   {
     "iid": 279,
@@ -3020,8 +4089,12 @@
     "author": "liftcube",
     "title": "[Bug]: 池化算子不能入图",
     "labels": [],
+    "assignees": [
+      "luanchaowei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/279"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/279",
+    "working_days_open": 109
   },
   {
     "iid": 277,
@@ -3031,8 +4104,12 @@
     "author": "yangxinglong",
     "title": "[Bug]: torchair编译BiRefNet模型精度有问题",
     "labels": [],
+    "assignees": [
+      "xuzhenhua2025"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/277"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/277",
+    "working_days_open": 110
   },
   {
     "iid": 276,
@@ -3042,8 +4119,12 @@
     "author": "chenjiale56",
     "title": "[Bug]: AclGraph模式下流同步报错",
     "labels": [],
+    "assignees": [
+      "xuzhenhua2025"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/276"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/276",
+    "working_days_open": 110
   },
   {
     "iid": 275,
@@ -3053,8 +4134,12 @@
     "author": "KenChow",
     "title": "[Usage]: 有没有更高效的自定义算子入图方法",
     "labels": [],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/275"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/275",
+    "working_days_open": 111
   },
   {
     "iid": 274,
@@ -3064,8 +4149,12 @@
     "author": "hzp_gitcode",
     "title": "[Bug]: 从torch层输入到hcomalltoallv的算子入参存在问题",
     "labels": [],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/274"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/274",
+    "working_days_open": 111
   },
   {
     "iid": 273,
@@ -3075,8 +4164,12 @@
     "author": "u013217006",
     "title": "[Feature]: 支持nn.functional.interpolate算子",
     "labels": [],
+    "assignees": [
+      "glf2016"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/273"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/273",
+    "working_days_open": 113
   },
   {
     "iid": 272,
@@ -3086,8 +4179,12 @@
     "author": "fengqiuyue",
     "title": "[Feature]: 原地更新算子如何适配才在跑图的时候优化掉TensorMove",
     "labels": [],
+    "assignees": [
+      "glf2016"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/272"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/272",
+    "working_days_open": 113
   },
   {
     "iid": 271,
@@ -3097,8 +4194,12 @@
     "author": "ClarkXie",
     "title": "[Usage]: 确认torchair通过 Session 配置了未支持的编译option的兼容性",
     "labels": [],
+    "assignees": [
+      "glf2016"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/271"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/271",
+    "working_days_open": 113
   },
   {
     "iid": 270,
@@ -3110,8 +4211,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "XDaoHong"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/270"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/270",
+    "working_days_open": 113
   },
   {
     "iid": 269,
@@ -3121,8 +4226,12 @@
     "author": "depeng1994",
     "title": "[Usage]: wiki中没有显式的npugraph-ex相关的资料",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/269"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/269",
+    "working_days_open": 114
   },
   {
     "iid": 268,
@@ -3132,8 +4241,10 @@
     "author": "fu-hao-huawei",
     "title": "[Doc]: TorchAir Roadmap 2026",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/268"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/268",
+    "working_days_open": 114
   },
   {
     "iid": 267,
@@ -3145,8 +4256,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/267"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/267",
+    "working_days_open": 114
   },
   {
     "iid": 266,
@@ -3158,8 +4273,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "dddxhh"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/266"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/266",
+    "working_days_open": 114
   },
   {
     "iid": 265,
@@ -3171,8 +4290,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "fu-hao-huawei"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/265"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/265",
+    "working_days_open": 114
   },
   {
     "iid": 264,
@@ -3184,8 +4307,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "fu-hao-huawei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/264"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/264",
+    "working_days_open": 114
   },
   {
     "iid": 261,
@@ -3197,8 +4324,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/261"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/261",
+    "working_days_open": 116
   },
   {
     "iid": 260,
@@ -3208,8 +4339,12 @@
     "author": "wangqiang160",
     "title": "[Feature]:基于memory planning的图优化（cat, split 类）",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/260"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/260",
+    "working_days_open": 116
   },
   {
     "iid": 259,
@@ -3221,8 +4356,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "luboyang"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/259"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/259",
+    "working_days_open": 117
   },
   {
     "iid": 258,
@@ -3234,8 +4373,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "luboyang"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/258"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/258",
+    "working_days_open": 117
   },
   {
     "iid": 257,
@@ -3247,8 +4390,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "glf2016"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/257"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/257",
+    "working_days_open": 117
   },
   {
     "iid": 256,
@@ -3258,8 +4405,12 @@
     "author": "m0_48677678",
     "title": "[Usage]: 如何开启图模式咨询",
     "labels": [],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/256"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/256",
+    "working_days_open": 118
   },
   {
     "iid": 255,
@@ -3269,8 +4420,12 @@
     "author": "fanglanyue0916",
     "title": "[Usage]: vllm 0.11 + CANN 8.5.0 开图模式，日志里打了capture+replay，但从profiling结果来看，并没有走图模式",
     "labels": [],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/255"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/255",
+    "working_days_open": 118
   },
   {
     "iid": 254,
@@ -3282,8 +4437,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/254"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/254",
+    "working_days_open": 118
   },
   {
     "iid": 252,
@@ -3293,8 +4452,12 @@
     "author": "Sunyp01",
     "title": "[Doc]: pr合入的标准",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/252"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/252",
+    "working_days_open": 119
   },
   {
     "iid": 251,
@@ -3304,8 +4467,12 @@
     "author": "shiyuyanHW",
     "title": "[Usage]: codegen 生成ge构图api时报错",
     "labels": [],
+    "assignees": [
+      "zhukkk"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/251"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/251",
+    "working_days_open": 119
   },
   {
     "iid": 250,
@@ -3315,8 +4482,12 @@
     "author": "JaneConan",
     "title": "[Usage]: README中的二维码扫描提示该账号异常",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/250"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/250",
+    "working_days_open": 119
   },
   {
     "iid": 249,
@@ -3328,8 +4499,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "pwc10490"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/249"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/249",
+    "working_days_open": 121
   },
   {
     "iid": 248,
@@ -3341,8 +4516,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/248"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/248",
+    "working_days_open": 121
   },
   {
     "iid": 247,
@@ -3354,8 +4533,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "chenweiheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/247"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/247",
+    "working_days_open": 122
   },
   {
     "iid": 246,
@@ -3365,8 +4548,12 @@
     "author": "fengqiuyue",
     "title": "[Feature]: 新增算子qkv_rms_norm_rope_cache，pta侧测试单算子和动态图精度没有问题，但是静态图精度有误",
     "labels": [],
+    "assignees": [
+      "pwc10490"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/246"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/246",
+    "working_days_open": 122
   },
   {
     "iid": 245,
@@ -3378,8 +4565,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/245"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/245",
+    "working_days_open": 123
   },
   {
     "iid": 244,
@@ -3391,8 +4582,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "xuzhenhua2025"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/244"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/244",
+    "working_days_open": 123
   },
   {
     "iid": 243,
@@ -3404,8 +4599,13 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "hulida",
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/243"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/243",
+    "working_days_open": 124
   },
   {
     "iid": 242,
@@ -3417,8 +4617,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/242"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/242",
+    "working_days_open": 125
   },
   {
     "iid": 241,
@@ -3430,8 +4634,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/241"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/241",
+    "working_days_open": 125
   },
   {
     "iid": 240,
@@ -3441,8 +4649,12 @@
     "author": "YUZIWEI",
     "title": "[Feature]: 开源HiFloat8 仿真算子 Pytorch接口 ",
     "labels": [],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/240"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/240",
+    "working_days_open": 125
   },
   {
     "iid": 239,
@@ -3452,8 +4664,12 @@
     "author": "chenzhiyuan0913",
     "title": "[Usage]: torch.npu.graph捕获的两张Aclgraph图能否在同一个stream内replay",
     "labels": [],
+    "assignees": [
+      "dddxhh"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/239"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/239",
+    "working_days_open": 126
   },
   {
     "iid": 238,
@@ -3465,8 +4681,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "luboyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/238"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/238",
+    "working_days_open": 128
   },
   {
     "iid": 237,
@@ -3478,8 +4698,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "mihudan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/237"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/237",
+    "working_days_open": 129
   },
   {
     "iid": 236,
@@ -3491,8 +4715,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/236"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/236",
+    "working_days_open": 129
   },
   {
     "iid": 235,
@@ -3504,8 +4732,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/235"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/235",
+    "working_days_open": 130
   },
   {
     "iid": 234,
@@ -3515,8 +4747,12 @@
     "author": "qq_36620946",
     "title": "[Usage]: 是否可以在Ascend 310B4芯片上用昇腾NPU运行Qwen2.5-VL-3B模型",
     "labels": [],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/234"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/234",
+    "working_days_open": 130
   },
   {
     "iid": 233,
@@ -3528,8 +4764,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/233"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/233",
+    "working_days_open": 130
   },
   {
     "iid": 232,
@@ -3541,8 +4781,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/232"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/232",
+    "working_days_open": 130
   },
   {
     "iid": 231,
@@ -3554,8 +4798,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/231"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/231",
+    "working_days_open": 131
   },
   {
     "iid": 230,
@@ -3567,8 +4815,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/230"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/230",
+    "working_days_open": 131
   },
   {
     "iid": 229,
@@ -3578,8 +4830,10 @@
     "author": "j00844998",
     "title": "[Usage]:图模式报错torch.ops.aten._assert_async.msg ge_converter is not implemented!",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/229"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/229",
+    "working_days_open": 132
   },
   {
     "iid": 228,
@@ -3591,8 +4845,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "zhukkk"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/228"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/228",
+    "working_days_open": 133
   },
   {
     "iid": 227,
@@ -3602,8 +4860,12 @@
     "author": "j00844998",
     "title": "[Usage]: 基于transformers使能torchair",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/227"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/227",
+    "working_days_open": 133
   },
   {
     "iid": 226,
@@ -3613,8 +4875,10 @@
     "author": "Enlion91",
     "title": "[Feature]: 提供GE编译的对应信息，支持torchair和om的逐层精度比对",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/226"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/226",
+    "working_days_open": 133
   },
   {
     "iid": 225,
@@ -3624,8 +4888,12 @@
     "author": "wuyewei",
     "title": "[Usage]: 新适配算子 pytorch 入图遇到报错：The dim size of Ascend GE graph NetOutput: [] is not equal to FX graph NetOutput: [1 1 2 2 2]",
     "labels": [],
+    "assignees": [
+      "zhukkk"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/225"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/225",
+    "working_days_open": 133
   },
   {
     "iid": 224,
@@ -3637,8 +4905,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "zhukkk"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/224"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/224",
+    "working_days_open": 133
   },
   {
     "iid": 223,
@@ -3650,8 +4922,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "pwc10490"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/223"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/223",
+    "working_days_open": 134
   },
   {
     "iid": 222,
@@ -3661,8 +4937,12 @@
     "author": "wm901115187",
     "title": "[Usage]: npugraph_ex",
     "labels": [],
+    "assignees": [
+      "pwc10490"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/222"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/222",
+    "working_days_open": 134
   },
   {
     "iid": 221,
@@ -3672,8 +4952,13 @@
     "author": "wangqiang160",
     "title": "[Feature]: aclgraph模式下头开销优化",
     "labels": [],
+    "assignees": [
+      "wangqiang160",
+      "yuanjun_li"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/221"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/221",
+    "working_days_open": 135
   },
   {
     "iid": 220,
@@ -3685,8 +4970,13 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "xuzhenhua2025",
+      "chenweiheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/220"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/220",
+    "working_days_open": 135
   },
   {
     "iid": 219,
@@ -3698,8 +4988,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "chenweiheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/219"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/219",
+    "working_days_open": 135
   },
   {
     "iid": 218,
@@ -3711,8 +5005,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/218"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/218",
+    "working_days_open": 135
   },
   {
     "iid": 217,
@@ -3724,8 +5022,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "luanchaowei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/217"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/217",
+    "working_days_open": 136
   },
   {
     "iid": 216,
@@ -3737,8 +5039,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "luanchaowei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/216"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/216",
+    "working_days_open": 136
   },
   {
     "iid": 215,
@@ -3750,8 +5056,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "xuzhenhua2025"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/215"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/215",
+    "working_days_open": 137
   },
   {
     "iid": 214,
@@ -3761,8 +5071,13 @@
     "author": "zihan0007",
     "title": "[Feature]: .Tensor用法没法使用",
     "labels": [],
+    "assignees": [
+      "xuzhenhua2025",
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/214"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/214",
+    "working_days_open": 137
   },
   {
     "iid": 213,
@@ -3774,8 +5089,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "hulida"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/213"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/213",
+    "working_days_open": 138
   },
   {
     "iid": 212,
@@ -3787,8 +5106,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 15,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/212"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/212",
+    "working_days_open": 139
   },
   {
     "iid": 211,
@@ -3800,8 +5123,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/211"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/211",
+    "working_days_open": 140
   },
   {
     "iid": 210,
@@ -3813,8 +5140,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/210"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/210",
+    "working_days_open": 140
   },
   {
     "iid": 209,
@@ -3826,8 +5157,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/209"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/209",
+    "working_days_open": 140
   },
   {
     "iid": 208,
@@ -3839,8 +5174,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "yuanjun_li"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/208"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/208",
+    "working_days_open": 140
   },
   {
     "iid": 207,
@@ -3852,8 +5191,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "fu-hao-huawei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/207"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/207",
+    "working_days_open": 141
   },
   {
     "iid": 206,
@@ -3865,8 +5208,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/206"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/206",
+    "working_days_open": 142
   },
   {
     "iid": 205,
@@ -3878,8 +5225,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "rich9527"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/205"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/205",
+    "working_days_open": 142
   },
   {
     "iid": 204,
@@ -3891,8 +5242,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "luboyang"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/204"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/204",
+    "working_days_open": 143
   },
   {
     "iid": 203,
@@ -3904,8 +5259,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "luboyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/203"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/203",
+    "working_days_open": 143
   },
   {
     "iid": 202,
@@ -3917,8 +5276,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/202"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/202",
+    "working_days_open": 144
   },
   {
     "iid": 201,
@@ -3930,8 +5293,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "mihudan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/201"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/201",
+    "working_days_open": 144
   },
   {
     "iid": 200,
@@ -3943,8 +5310,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/200"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/200",
+    "working_days_open": 145
   },
   {
     "iid": 199,
@@ -3956,8 +5327,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/199"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/199",
+    "working_days_open": 145
   },
   {
     "iid": 198,
@@ -3969,8 +5344,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/198"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/198",
+    "working_days_open": 145
   },
   {
     "iid": 197,
@@ -3982,8 +5361,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "chenweiheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/197"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/197",
+    "working_days_open": 146
   },
   {
     "iid": 196,
@@ -3995,8 +5378,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "chenweiheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/196"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/196",
+    "working_days_open": 146
   },
   {
     "iid": 195,
@@ -4008,8 +5395,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/195"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/195",
+    "working_days_open": 147
   },
   {
     "iid": 194,
@@ -4021,8 +5412,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "yurongkun"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/194"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/194",
+    "working_days_open": 147
   },
   {
     "iid": 193,
@@ -4034,8 +5429,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "gcw_w18ytwbi"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/193"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/193",
+    "working_days_open": 148
   },
   {
     "iid": 192,
@@ -4047,8 +5446,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "gcw_w18ytwbi"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/192"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/192",
+    "working_days_open": 148
   },
   {
     "iid": 191,
@@ -4060,8 +5463,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "zhukkk"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/191"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/191",
+    "working_days_open": 149
   },
   {
     "iid": 190,
@@ -4071,8 +5478,10 @@
     "author": "yyoean",
     "title": "[Feature]: mc2 dispatch_v2 and combine_v2 add an optional input \"performance_info\"",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/190"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/190",
+    "working_days_open": 149
   },
   {
     "iid": 188,
@@ -4084,8 +5493,10 @@
     "labels": [
       "bug"
     ],
+    "assignees": [],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/188"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/188",
+    "working_days_open": 150
   },
   {
     "iid": 187,
@@ -4097,8 +5508,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "gulalaland"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/187"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/187",
+    "working_days_open": 150
   },
   {
     "iid": 186,
@@ -4108,8 +5523,12 @@
     "author": "tangyulong6",
     "title": "[Doc]: 原地算子入图后引入了tensor move操作",
     "labels": [],
+    "assignees": [
+      "luanchaowei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/186"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/186",
+    "working_days_open": 150
   },
   {
     "iid": 185,
@@ -4119,8 +5538,12 @@
     "author": "whh_yyl_123",
     "title": "[Doc]: torch.distributed.all_gather 这种集合通信的操作，存在converter，请给出使用该算子并导出air的ut样例",
     "labels": [],
+    "assignees": [
+      "luanchaowei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/185"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/185",
+    "working_days_open": 150
   },
   {
     "iid": 184,
@@ -4132,8 +5555,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "pwc10490"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/184"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/184",
+    "working_days_open": 150
   },
   {
     "iid": 183,
@@ -4143,8 +5570,10 @@
     "author": "ganon0327",
     "title": "[Feature]: Torchair Max-Autotune图模式 支持从日志获取编译图的流分配信息",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/183"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/183",
+    "working_days_open": 151
   },
   {
     "iid": 182,
@@ -4156,8 +5585,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "dddxhh"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/182"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/182",
+    "working_days_open": 152
   },
   {
     "iid": 181,
@@ -4167,8 +5600,10 @@
     "author": "kongdongbing",
     "title": "[Doc]: typo in build.sh",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/181"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/181",
+    "working_days_open": 152
   },
   {
     "iid": 180,
@@ -4180,8 +5615,10 @@
     "labels": [
       "bug"
     ],
+    "assignees": [],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/180"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/180",
+    "working_days_open": 154
   },
   {
     "iid": 179,
@@ -4193,8 +5630,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/179"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/179",
+    "working_days_open": 154
   },
   {
     "iid": 178,
@@ -4206,8 +5647,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/178"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/178",
+    "working_days_open": 154
   },
   {
     "iid": 177,
@@ -4219,8 +5664,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "gleaming-spark"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/177"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/177",
+    "working_days_open": 154
   },
   {
     "iid": 176,
@@ -4230,8 +5679,12 @@
     "author": "TaroKK",
     "title": "[Feature]: generate_process_reqs_hidden_states的torchair耗时开销优化",
     "labels": [],
+    "assignees": [
+      "fu-hao-huawei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/176"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/176",
+    "working_days_open": 155
   },
   {
     "iid": 175,
@@ -4243,8 +5696,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "zhukkk"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/175"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/175",
+    "working_days_open": 155
   },
   {
     "iid": 174,
@@ -4254,8 +5711,12 @@
     "author": "pppipipipi",
     "title": "[Installation]:  Ops kernel [AIcoreEngine] is unsupported. Reason: [tbe-custom]:op type GroupedMatmulSwigluQuantV2 is not found in this op store.[tbe-custom]:op type GroupedMatmulSwigluQuantV2 is not ",
     "labels": [],
+    "assignees": [
+      "hulida"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/174"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/174",
+    "working_days_open": 155
   },
   {
     "iid": 173,
@@ -4267,8 +5728,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "xuzhenhua2025"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/173"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/173",
+    "working_days_open": 155
   },
   {
     "iid": 171,
@@ -4278,8 +5743,12 @@
     "author": "Sunyp01",
     "title": "[Doc]: master分支ReadMe信息更新",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/171"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/171",
+    "working_days_open": 156
   },
   {
     "iid": 170,
@@ -4291,8 +5760,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "wangqiang160"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/170"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/170",
+    "working_days_open": 157
   },
   {
     "iid": 169,
@@ -4302,8 +5775,10 @@
     "author": "medivh-x",
     "title": "[Feature]: Torchair支持自动函数化得到的FX图的编译与执行",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/169"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/169",
+    "working_days_open": 157
   },
   {
     "iid": 168,
@@ -4315,8 +5790,10 @@
     "labels": [
       "bug"
     ],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/168"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/168",
+    "working_days_open": 157
   },
   {
     "iid": 167,
@@ -4326,8 +5803,10 @@
     "author": "pppipipipi",
     "title": "[Usage]: 适配算子图融合pass，什么时候需要考虑reshape节点",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/167"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/167",
+    "working_days_open": 158
   },
   {
     "iid": 166,
@@ -4339,8 +5818,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/166"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/166",
+    "working_days_open": 160
   },
   {
     "iid": 165,
@@ -4350,8 +5833,12 @@
     "author": "x1314aq",
     "title": "[Usage]: torchair图编译后报了一个OOM错误，显示需要HBM 79GB，如何查看每个算子占用多少HBM内存",
     "labels": [],
+    "assignees": [
+      "Sunyp01"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/165"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/165",
+    "working_days_open": 160
   },
   {
     "iid": 164,
@@ -4363,8 +5850,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "wangqiang160"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/164"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/164",
+    "working_days_open": 160
   },
   {
     "iid": 163,
@@ -4376,8 +5867,10 @@
     "labels": [
       "bug"
     ],
+    "assignees": [],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/163"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/163",
+    "working_days_open": 160
   },
   {
     "iid": 162,
@@ -4387,8 +5880,10 @@
     "author": "m0_37870649",
     "title": "[Usage]: 请问torch 2.5.1以及以上版本，建议用哪一个？ 我这边一个模型在2.1.0上执行OK，然后在2.5.1和2.6.0上执行均报错",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/162"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/162",
+    "working_days_open": 160
   },
   {
     "iid": 161,
@@ -4398,8 +5893,13 @@
     "author": "wangqiang160",
     "title": "[Feature]: Torchair增强aclgraph场景的内存复用能力",
     "labels": [],
+    "assignees": [
+      "wang-pierre-jiacheng",
+      "wangqiang160"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/161"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/161",
+    "working_days_open": 161
   },
   {
     "iid": 160,
@@ -4409,8 +5909,12 @@
     "author": "chenyu10",
     "title": "[Bug]: 使用with limit_core_num控cast操作核数失效，moe其他算子核数控制正常，cast失效",
     "labels": [],
+    "assignees": [
+      "chenweiheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/160"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/160",
+    "working_days_open": 161
   },
   {
     "iid": 159,
@@ -4420,8 +5924,13 @@
     "author": "m0_37870649",
     "title": "[Usage]: 请问torchair能够对同一个模型多次执行编译嘛？",
     "labels": [],
+    "assignees": [
+      "wangqiang160",
+      "chenweiheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/159"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/159",
+    "working_days_open": 161
   },
   {
     "iid": 158,
@@ -4433,8 +5942,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "wangqiang160"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/158"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/158",
+    "working_days_open": 161
   },
   {
     "iid": 157,
@@ -4444,8 +5957,12 @@
     "author": "fu-hao-huawei",
     "title": "[Feature]: torchair-ge支持自动函数化（auto-functionalize）",
     "labels": [],
+    "assignees": [
+      "fu-hao-huawei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/157"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/157",
+    "working_days_open": 162
   },
   {
     "iid": 156,
@@ -4457,8 +5974,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/156"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/156",
+    "working_days_open": 162
   },
   {
     "iid": 155,
@@ -4470,8 +5991,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "luboyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/155"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/155",
+    "working_days_open": 162
   },
   {
     "iid": 154,
@@ -4481,8 +6006,12 @@
     "author": "Sunyp01",
     "title": "[Feature]: Torchair提供FX图多流表达与执行能力",
     "labels": [],
+    "assignees": [
+      "medivh-x"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/154"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/154",
+    "working_days_open": 162
   },
   {
     "iid": 153,
@@ -4494,8 +6023,13 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "wangqiang160",
+      "Sunyp01"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/153"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/153",
+    "working_days_open": 162
   },
   {
     "iid": 152,
@@ -4505,8 +6039,13 @@
     "author": "Sunyp01",
     "title": "[Feature]: torchair支持xpu_graph的cache",
     "labels": [],
+    "assignees": [
+      "xuzhenhua2025",
+      "wangqiang160"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/152"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/152",
+    "working_days_open": 162
   },
   {
     "iid": 151,
@@ -4516,8 +6055,12 @@
     "author": "Sunyp01",
     "title": "[Feature]: 当前torchair图模式并不支持index_put算子， 基础的算子目前不实现没法使用图模式。",
     "labels": [],
+    "assignees": [
+      "medivh-x"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/151"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/151",
+    "working_days_open": 162
   },
   {
     "iid": 150,
@@ -4527,8 +6070,12 @@
     "author": "Sunyp01",
     "title": "[Feature]: Torchair提供FX图编译结果的保存与加载能力",
     "labels": [],
+    "assignees": [
+      "medivh-x"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/150"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/150",
+    "working_days_open": 162
   },
   {
     "iid": 149,
@@ -4538,8 +6085,12 @@
     "author": "Sunyp01",
     "title": "[Feature]: Torchair完整DEBUG信息落盘",
     "labels": [],
+    "assignees": [
+      "medivh-x"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/149"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/149",
+    "working_days_open": 162
   },
   {
     "iid": 148,
@@ -4551,8 +6102,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "medivh-x"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/148"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/148",
+    "working_days_open": 162
   },
   {
     "iid": 147,
@@ -4562,8 +6117,13 @@
     "author": "Sunyp01",
     "title": "[Feature]: _npu_paged_attention支持tiling更新",
     "labels": [],
+    "assignees": [
+      "medivh-x",
+      "Sunyp01"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/147"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/147",
+    "working_days_open": 162
   },
   {
     "iid": 144,
@@ -4575,8 +6135,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/144"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/144",
+    "working_days_open": 164
   },
   {
     "iid": 143,
@@ -4588,8 +6152,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "wang-pierre-jiacheng"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/143"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/143",
+    "working_days_open": 164
   },
   {
     "iid": 142,
@@ -4599,8 +6167,12 @@
     "author": "zhukkk",
     "title": "[Feature]: torchair支持aclgraph debug dump",
     "labels": [],
+    "assignees": [
+      "zhukkk"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/142"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/142",
+    "working_days_open": 164
   },
   {
     "iid": 141,
@@ -4610,8 +6182,12 @@
     "author": "dddxhh",
     "title": "[Feature]: torchair aclgraph场景下，zeros_like的使用优化",
     "labels": [],
+    "assignees": [
+      "dddxhh"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/141"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/141",
+    "working_days_open": 165
   },
   {
     "iid": 140,
@@ -4621,8 +6197,10 @@
     "author": "wang-pierre-jiacheng",
     "title": "[Roadmap]: Torchair Roadmap 2025",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/140"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/140",
+    "working_days_open": 165
   },
   {
     "iid": 139,
@@ -4632,8 +6210,12 @@
     "author": "tangjie66",
     "title": "[Feature]: 提供对于fx图中部分算子（addrmsnorm和dynamicquant，addrmsnorm和cast）的融合替换能力，优化aclgraph下ds整网性能",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/139"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/139",
+    "working_days_open": 165
   },
   {
     "iid": 138,
@@ -4643,8 +6225,12 @@
     "author": "dingdairong",
     "title": "[Doc]: max-autotune模式下，走GE图编译，怎么判断编译之后的图是静态图/动态图，编译成静态图的条件是什么，dump图中的shape中的-1代表什么，缺少资料说明",
     "labels": [],
+    "assignees": [
+      "dingdairong"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/138"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/138",
+    "working_days_open": 165
   },
   {
     "iid": 137,
@@ -4656,8 +6242,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "wangqiang160"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/137"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/137",
+    "working_days_open": 165
   },
   {
     "iid": 136,
@@ -4669,8 +6259,12 @@
     "labels": [
       "bug"
     ],
+    "assignees": [
+      "fu-hao-huawei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/136"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/136",
+    "working_days_open": 167
   },
   {
     "iid": 84,
@@ -4680,8 +6274,12 @@
     "author": "wangqiang160",
     "title": "aclgraph 使能常见问题分析",
     "labels": [],
+    "assignees": [
+      "wangqiang160"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/84"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/84",
+    "working_days_open": 216
   },
   {
     "iid": 20,
@@ -4691,8 +6289,10 @@
     "author": "sunbaosong",
     "title": "推理优化每次deocde阶段cache_compile中的lookup动作",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/20"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/20",
+    "working_days_open": 295
   },
   {
     "iid": 134,
@@ -4702,8 +6302,10 @@
     "author": "sun_jie001",
     "title": "关于torchair疑问",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/134"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/134",
+    "working_days_open": 400
   },
   {
     "iid": 118,
@@ -4713,8 +6315,10 @@
     "author": "sun_jie001",
     "title": "拉取master编译有异常",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/118"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/118",
+    "working_days_open": 400
   },
   {
     "iid": 11,
@@ -4724,8 +6328,10 @@
     "author": "XingSongSun",
     "title": "模型训练时指定自定义融合规则配置文件，训练报错",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/11"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/11",
+    "working_days_open": 520
   },
   {
     "iid": 114,
@@ -4735,7 +6341,9 @@
     "author": "gfmyeung",
     "title": "编译后跑`python example.py` undefined_symbol",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/Ascend/torchair/issues/114"
+    "web_url": "https://gitcode.com/Ascend/torchair/issues/114",
+    "working_days_open": 583
   }
 ]

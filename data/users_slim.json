@@ -1,5 +1,59 @@
 [
   {
+    "user_name": "2403_89134876",
+    "nick_name": "陆叶702",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 3,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "2301_79689297",
+    "nick_name": "2301_79689297",
+    "starred_repos": [
+      "cann/ge",
+      "cann/graph-autofusion"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "weixin_42886776",
+    "nick_name": "豳州牧之",
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 132,
+    "developer_source": "external"
+  },
+  {
+    "user_name": "rsm1223",
+    "nick_name": "rsm1223",
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 176,
+    "developer_source": "external"
+  },
+  {
     "user_name": "sandee",
     "nick_name": "sandee",
     "starred_repos": [
@@ -8187,19 +8241,6 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 1,
-    "developer_source": "external"
-  },
-  {
-    "user_name": "rsm1223",
-    "nick_name": "rsm1223",
-    "starred_repos": [
-      "cann/hixl",
-      "cann/graph-autofusion"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 176,
     "developer_source": "external"
   },
   {
@@ -17427,6 +17468,18 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 198,
+    "developer_source": "internal"
+  },
+  {
+    "user_name": "WangShuying5",
+    "nick_name": "WangShuying",
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 496,
     "developer_source": "internal"
   },
   {

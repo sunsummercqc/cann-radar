@@ -7,8 +7,12 @@
     "author": "wqtshg_wt",
     "title": "AutoFuse Roadmap(2026 Q3)",
     "labels": [],
+    "assignees": [
+      "wqtshg_wt"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/156"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/156",
+    "working_days_open": 2
   },
   {
     "iid": 155,
@@ -18,8 +22,10 @@
     "author": "zhang_shengjie",
     "title": "【bug】Inductor TopN 多group PGO搜索阶段跨group变量依赖(var relations)未传递导致tiling_data异常",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/155"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/155",
+    "working_days_open": 3
   },
   {
     "iid": 154,
@@ -29,8 +35,12 @@
     "author": "zhang_shengjie",
     "title": "PGO 阶段 BF16 Tensor 内存大小计算失败",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/154"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/154",
+    "working_days_open": 3
   },
   {
     "iid": 153,
@@ -40,8 +50,12 @@
     "author": "liyuewei",
     "title": "[Requirement|需求建议]: 后端处理pass化，上提AscendLoopIR显示表达",
     "labels": [],
+    "assignees": [
+      "liyuewei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/153"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/153",
+    "working_days_open": 3
   },
   {
     "iid": 152,
@@ -51,8 +65,12 @@
     "author": "liyuewei",
     "title": "[Requirement|需求建议]: Transpose放开Gather模板，提供一种在UB内实现Transpose的方式。",
     "labels": [],
+    "assignees": [
+      "liyuewei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/152"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/152",
+    "working_days_open": 4
   },
   {
     "iid": 151,
@@ -62,8 +80,12 @@
     "author": "zqmin",
     "title": "修复path.cfg不正交影响deb/rpm包安装",
     "labels": [],
+    "assignees": [
+      "zqmin"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/151"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/151",
+    "working_days_open": 4
   },
   {
     "iid": 150,
@@ -73,8 +95,12 @@
     "author": "liyuewei",
     "title": "[Bug-Report|缺陷反馈]: 修复ScalarData流程异常。",
     "labels": [],
+    "assignees": [
+      "liyuewei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/150"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/150",
+    "working_days_open": 4
   },
   {
     "iid": 149,
@@ -84,8 +110,12 @@
     "author": "liyuewei",
     "title": "[Bug-Report|缺陷反馈]: ApiParam的dump图放在图名对应的路径下",
     "labels": [],
+    "assignees": [
+      "liyuewei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/149"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/149",
+    "working_days_open": 4
   },
   {
     "iid": 148,
@@ -95,8 +125,12 @@
     "author": "liyuewei",
     "title": "[Bug-Report|缺陷反馈]: AscBackend节点当前只统计Data节点作为输入",
     "labels": [],
+    "assignees": [
+      "liyuewei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/148"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/148",
+    "working_days_open": 4
   },
   {
     "iid": 147,
@@ -106,8 +140,12 @@
     "author": "zqmin",
     "title": "fix: 修复 ScalarData VFCall 变量名生成错误",
     "labels": [],
+    "assignees": [
+      "zqmin"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/147"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/147",
+    "working_days_open": 5
   },
   {
     "iid": 146,
@@ -117,8 +155,12 @@
     "author": "wei_shi",
     "title": "【Bug-Report】Broadcast 冗余删除误判导致 Reduce 前扩展节点被删除",
     "labels": [],
+    "assignees": [
+      "wei_shi"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/146"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/146",
+    "working_days_open": 6
   },
   {
     "iid": 145,
@@ -128,8 +170,12 @@
     "author": "wuzhengzhen",
     "title": "【feature】: 新增 api_regbase下A5的ndtri算子",
     "labels": [],
+    "assignees": [
+      "wuzhengzhen"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/145"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/145",
+    "working_days_open": 6
   },
   {
     "iid": 144,
@@ -139,8 +185,12 @@
     "author": "liyuewei",
     "title": "[Bug-Report|缺陷反馈]: 删除AscirRegister当前不使用的成员函数",
     "labels": [],
+    "assignees": [
+      "liyuewei"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/144"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/144",
+    "working_days_open": 6
   },
   {
     "iid": 143,
@@ -150,8 +200,12 @@
     "author": "gothizzz",
     "title": "[Bug-Report|缺陷反馈]: super_kernel CMake 硬编码 python3 -m build 与 venv 文档流程冲突，wheel 构建报 No module named build",
     "labels": [],
+    "assignees": [
+      "gothizzz"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/143"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/143",
+    "working_days_open": 6
   },
   {
     "iid": 141,
@@ -161,8 +215,12 @@
     "author": "gcw_V3YyYBt1",
     "title": "[Bug-Report|缺陷反馈]: 从pkg_inc/runtime/runtime目录下引用的rtGetSocSpec接口后面会日落，需要整改",
     "labels": [],
+    "assignees": [
+      "gcw_V3YyYBt1"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/141"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/141",
+    "working_days_open": 7
   },
   {
     "iid": 140,
@@ -172,8 +230,12 @@
     "author": "zhang_shengjie",
     "title": "fix: Reduce RA 未对齐尾部开销重复计算 VF Head Cost 及 tile reorder 缺少参数化阈值",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/140"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/140",
+    "working_days_open": 8
   },
   {
     "iid": 139,
@@ -183,8 +245,12 @@
     "author": "chenyukai",
     "title": "重构Reduce/RegReduce代码生成架构",
     "labels": [],
+    "assignees": [
+      "chenyukai"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/139"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/139",
+    "working_days_open": 8
   },
   {
     "iid": 138,
@@ -194,8 +260,12 @@
     "author": "zhangyi371",
     "title": "[Bug-Report|缺陷反馈]: reduce R轴判断不正确",
     "labels": [],
+    "assignees": [
+      "zhangyi371"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/138"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/138",
+    "working_days_open": 8
   },
   {
     "iid": 137,
@@ -205,8 +275,12 @@
     "author": "liyuewei",
     "title": "[Requirement|需求建议]: Transpose+Brc融合向量化轴对齐策略优化",
     "labels": [],
+    "assignees": [
+      "liyuewei"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/137"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/137",
+    "working_days_open": 8
   },
   {
     "iid": 136,
@@ -216,8 +290,12 @@
     "author": "gcw_WTfSfUy7",
     "title": "[Documentation|文档反馈]: 版权声明中单词拼写错误",
     "labels": [],
+    "assignees": [
+      "gcw_WTfSfUy7"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/136"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/136",
+    "working_days_open": 9
   },
   {
     "iid": 135,
@@ -227,8 +305,12 @@
     "author": "chenweiheng",
     "title": "[Requirement|需求建议]: 支持split、slice类与计算类算子的融合能力",
     "labels": [],
+    "assignees": [
+      "chenweiheng"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/135"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/135",
+    "working_days_open": 9
   },
   {
     "iid": 134,
@@ -238,8 +320,12 @@
     "author": "zhang_shengjie",
     "title": "[Bug-Report|缺陷反馈]: TopN PGO 搜索未稳定保留默认 tiling 解",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/134"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/134",
+    "working_days_open": 9
   },
   {
     "iid": 133,
@@ -249,8 +335,12 @@
     "author": "xchu42",
     "title": "[Requirement|需求建议]: 支持concat类与计算类算子的融合能力",
     "labels": [],
+    "assignees": [
+      "xchu42"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/133"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/133",
+    "working_days_open": 9
   },
   {
     "iid": 132,
@@ -260,8 +350,12 @@
     "author": "xingzhixiong",
     "title": "[Documentation|文档反馈]: Sample样例文档中的英文拼写有误，构建指导中的三方包存放文件夹名有误并且缺少需要使用的三方包",
     "labels": [],
+    "assignees": [
+      "xingzhixiong"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/132"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/132",
+    "working_days_open": 9
   },
   {
     "iid": 131,
@@ -271,8 +365,13 @@
     "author": "leeibo",
     "title": "[Documentation|文档反馈]: Autofuse graph_metadef 中错误日志和注释的拼写问题",
     "labels": [],
+    "assignees": [
+      "gcw_V3YyYBt1",
+      "leeibo"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/131"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/131",
+    "working_days_open": 9
   },
   {
     "iid": 130,
@@ -282,8 +381,12 @@
     "author": "WangYanMale",
     "title": "[Requirement|需求建议]: schedule处理过程可定位性提升",
     "labels": [],
+    "assignees": [
+      "WangYanMale"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/130"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/130",
+    "working_days_open": 11
   },
   {
     "iid": 129,
@@ -293,8 +396,12 @@
     "author": "liyuewei",
     "title": "[Bug-Report|缺陷反馈]: 自动融合中的VF融合函数使用__VEC_SCOPE__修饰符存在功能问题。",
     "labels": [],
+    "assignees": [
+      "liyuewei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/129"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/129",
+    "working_days_open": 11
   },
   {
     "iid": 128,
@@ -304,8 +411,12 @@
     "author": "liyuewei",
     "title": "[Requirement|需求建议]: transpose融合对齐策略优化",
     "labels": [],
+    "assignees": [
+      "liyuewei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/128"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/128",
+    "working_days_open": 11
   },
   {
     "iid": 127,
@@ -315,8 +426,12 @@
     "author": "chenyukai",
     "title": "v35的remaider接口存在精度问题",
     "labels": [],
+    "assignees": [
+      "chenyukai"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/127"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/127",
+    "working_days_open": 11
   },
   {
     "iid": 126,
@@ -326,8 +441,12 @@
     "author": "zhang_shengjie",
     "title": "perf: 静态 shape 场景下 tiling data 参数未从 kernel launch 中移除",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/126"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/126",
+    "working_days_open": 11
   },
   {
     "iid": 125,
@@ -337,8 +456,13 @@
     "author": "haipingmao",
     "title": "[Bug-Report|缺陷反馈]: autofuse/v35/ascendc/api_regbase/utils.h文件存在BUG，会导致编译失败",
     "labels": [],
+    "assignees": [
+      "haipingmao",
+      "gcw_WTfSfUy7"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/125"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/125",
+    "working_days_open": 11
   },
   {
     "iid": 124,
@@ -348,8 +472,12 @@
     "author": "gcw_WTfSfUy7",
     "title": "[Documentation|文档反馈]: aixs_z拼写错误",
     "labels": [],
+    "assignees": [
+      "gcw_WTfSfUy7"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/124"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/124",
+    "working_days_open": 12
   },
   {
     "iid": 123,
@@ -359,8 +487,12 @@
     "author": "chenyukai",
     "title": "V35 Store对齐策略在尾轴非连续场景下存在精度问题",
     "labels": [],
+    "assignees": [
+      "chenyukai"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/123"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/123",
+    "working_days_open": 12
   },
   {
     "iid": 122,
@@ -370,8 +502,12 @@
     "author": "WangYanMale",
     "title": "[Requirement|需求建议]: inductor + AF支持native_layer_norm/softmax算子",
     "labels": [],
+    "assignees": [
+      "WangYanMale"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/122"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/122",
+    "working_days_open": 12
   },
   {
     "iid": 121,
@@ -381,8 +517,12 @@
     "author": "xchu42",
     "title": "Inductor场景，融合节点IO个数超过190时执行失败",
     "labels": [],
+    "assignees": [
+      "xchu42"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/121"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/121",
+    "working_days_open": 12
   },
   {
     "iid": 120,
@@ -392,8 +532,12 @@
     "author": "gcw_WTfSfUy7",
     "title": "AutoFuse 共建任务清单（招募贡献者）",
     "labels": [],
+    "assignees": [
+      "gcw_WTfSfUy7"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/120"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/120",
+    "working_days_open": 12
   },
   {
     "iid": 119,
@@ -403,8 +547,12 @@
     "author": "chenweiheng",
     "title": "split不均等拆分成多个轴涉及到广播算子存在精度问题",
     "labels": [],
+    "assignees": [
+      "chenweiheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/119"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/119",
+    "working_days_open": 12
   },
   {
     "iid": 118,
@@ -414,8 +562,12 @@
     "author": "zhang_shengjie",
     "title": "fix: PGO TopN 候选过滤无效 GetTiling 结果及 tilingData 未使用参数编译错误",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/118"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/118",
+    "working_days_open": 13
   },
   {
     "iid": 117,
@@ -425,8 +577,12 @@
     "author": "JaydenChu",
     "title": "[Bug] GatherV2+BroadcastTo 融合场景下 indices 张量 shape 变量未收集导致编译失败",
     "labels": [],
+    "assignees": [
+      "JaydenChu"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/117"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/117",
+    "working_days_open": 13
   },
   {
     "iid": 114,
@@ -436,8 +592,12 @@
     "author": "haipingmao",
     "title": "[Requirement|需求建议]: 新增SignBit函数用于判断输入的符号位",
     "labels": [],
+    "assignees": [
+      "haipingmao"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/114"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/114",
+    "working_days_open": 13
   },
   {
     "iid": 113,
@@ -447,8 +607,12 @@
     "author": "gcw_WTfSfUy7",
     "title": "[Documentation|文档反馈]: 变量名拼写错误",
     "labels": [],
+    "assignees": [
+      "gcw_WTfSfUy7"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/113"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/113",
+    "working_days_open": 13
   },
   {
     "iid": 112,
@@ -458,8 +622,12 @@
     "author": "gcw_WTfSfUy7",
     "title": "[Documentation|文档反馈]:  \"时间辍\"应为\"时间戳\"",
     "labels": [],
+    "assignees": [
+      "gcw_WTfSfUy7"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/112"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/112",
+    "working_days_open": 13
   },
   {
     "iid": 111,
@@ -469,8 +637,12 @@
     "author": "gcw_WTfSfUy7",
     "title": "[Documentation|文档反馈]: examples中算子类型写错",
     "labels": [],
+    "assignees": [
+      "gcw_WTfSfUy7"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/111"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/111",
+    "working_days_open": 13
   },
   {
     "iid": 110,
@@ -480,8 +652,12 @@
     "author": "zhang_shengjie",
     "title": "fix: 静态化编译 vector 核数来源不一致",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/110"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/110",
+    "working_days_open": 14
   },
   {
     "iid": 109,
@@ -491,8 +667,12 @@
     "author": "Yanggong98",
     "title": "[Bug-Report|缺陷反馈]: binary_api_call.cpp中出现v_strides未初始化导致ActualSize core的问题",
     "labels": [],
+    "assignees": [
+      "Yanggong98"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/109"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/109",
+    "working_days_open": 14
   },
   {
     "iid": 108,
@@ -502,8 +682,12 @@
     "author": "zqmin",
     "title": "feat: 支持rpm和deb包构建",
     "labels": [],
+    "assignees": [
+      "zqmin"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/108"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/108",
+    "working_days_open": 14
   },
   {
     "iid": 107,
@@ -513,8 +697,12 @@
     "author": "xchu42",
     "title": "ReduceGraphCount 合并顺序错误导致节点丢失",
     "labels": [],
+    "assignees": [
+      "xchu42"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/107"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/107",
+    "working_days_open": 15
   },
   {
     "iid": 106,
@@ -524,8 +712,12 @@
     "author": "gothizzz",
     "title": "fix(init_env): CANN_VERSION 硬编码 9.0.0 与 master 镜像源最新 9.1.0 不一致,导致 404",
     "labels": [],
+    "assignees": [
+      "gothizzz"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/106"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/106",
+    "working_days_open": 15
   },
   {
     "iid": 105,
@@ -535,8 +727,12 @@
     "author": "WangYanMale",
     "title": "[Bug-Report|缺陷反馈]: reducer融合当R轴全载时，无效轴差异会导致前后端的判断结果不一致，产生编译报错",
     "labels": [],
+    "assignees": [
+      "WangYanMale"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/105"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/105",
+    "working_days_open": 15
   },
   {
     "iid": 104,
@@ -546,8 +742,12 @@
     "author": "JaydenChu",
     "title": "[Bug-Report|缺陷反馈]: autofuse_v35 GatherExtendShortVector ParamFullLoad 分支缺失 MTE2_V 同步导致 gather+sign 精度异常",
     "labels": [],
+    "assignees": [
+      "JaydenChu"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/104"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/104",
+    "working_days_open": 15
   },
   {
     "iid": 103,
@@ -557,8 +757,12 @@
     "author": "j18351891940",
     "title": "[Requirement|需求建议]: ",
     "labels": [],
+    "assignees": [
+      "j18351891940"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/103"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/103",
+    "working_days_open": 17
   },
   {
     "iid": 102,
@@ -568,8 +772,12 @@
     "author": "zhang_shengjie",
     "title": "inductor调用GetTopn接口存在ABI不兼容问题",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/102"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/102",
+    "working_days_open": 17
   },
   {
     "iid": 101,
@@ -579,8 +787,12 @@
     "author": "zhang_shengjie",
     "title": "ATT生成的TilingFunc中获取UB大小的函数可读性较差",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/101"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/101",
+    "working_days_open": 17
   },
   {
     "iid": 100,
@@ -590,8 +802,12 @@
     "author": "zhang_shengjie",
     "title": "inductor 基于接口的PGO接口存在浮点数溢出问题",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/100"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/100",
+    "working_days_open": 17
   },
   {
     "iid": 99,
@@ -601,8 +817,12 @@
     "author": "xchu42",
     "title": "schedule支持合并轴相同的group，防止group数量过多",
     "labels": [],
+    "assignees": [
+      "xchu42"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/99"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/99",
+    "working_days_open": 17
   },
   {
     "iid": 98,
@@ -612,8 +832,12 @@
     "author": "Yanggong98",
     "title": "[Requirement|需求建议]: codegen增加dump图",
     "labels": [],
+    "assignees": [
+      "Yanggong98"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/98"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/98",
+    "working_days_open": 17
   },
   {
     "iid": 97,
@@ -623,8 +847,12 @@
     "author": "WangYanMale",
     "title": "[Bug-Report|缺陷反馈]: norm类结构通过inductor + AF传下来之后，会有编译报错",
     "labels": [],
+    "assignees": [
+      "WangYanMale"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/97"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/97",
+    "working_days_open": 17
   },
   {
     "iid": 96,
@@ -634,8 +862,12 @@
     "author": "zqmin",
     "title": "[Bug-Report|缺陷反馈]: 修复本地编译缺失 gtest target 问题",
     "labels": [],
+    "assignees": [
+      "zqmin"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/96"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/96",
+    "working_days_open": 17
   },
   {
     "iid": 95,
@@ -645,8 +877,12 @@
     "author": "Jett_Woo",
     "title": "Documentation: 补充项目规范指导",
     "labels": [],
+    "assignees": [
+      "Jett_Woo"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/95"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/95",
+    "working_days_open": 17
   },
   {
     "iid": 94,
@@ -656,8 +892,12 @@
     "author": "xchu42",
     "title": "CastOptimizationPass: dtype size 上升时消除 Cast 在一些场景会引入性能劣化",
     "labels": [],
+    "assignees": [
+      "xchu42"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/94"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/94",
+    "working_days_open": 18
   },
   {
     "iid": 93,
@@ -667,8 +907,12 @@
     "author": "zhang_shengjie",
     "title": "fix: AutofuseTilingWithConfig 中 set_ub_size 缺少 -256 偏移",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/93"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/93",
+    "working_days_open": 19
   },
   {
     "iid": 92,
@@ -678,8 +922,12 @@
     "author": "WangYanMale",
     "title": "[Bug-Report|缺陷反馈]: A3的ArgMax算子在R轴较大执行时会出现ub不对齐报错",
     "labels": [],
+    "assignees": [
+      "WangYanMale"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/92"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/92",
+    "working_days_open": 19
   },
   {
     "iid": 91,
@@ -689,8 +937,12 @@
     "author": "yelongjian",
     "title": "[Requirement|需求建议]: autofuse_headers需要增加include路径",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/91"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/91",
+    "working_days_open": 19
   },
   {
     "iid": 90,
@@ -700,8 +952,12 @@
     "author": "Joey_guo",
     "title": "[Requirement|需求建议]: Ascend 950PR/DT, broadcast四轴场景性能劣化",
     "labels": [],
+    "assignees": [
+      "Joey_guo"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/90"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/90",
+    "working_days_open": 20
   },
   {
     "iid": 89,
@@ -711,8 +967,12 @@
     "author": "qqqZZZ_3",
     "title": "autofuse_frames_af.h 头文件缺少自包含，导致依赖包含顺序才能编译通过",
     "labels": [],
+    "assignees": [
+      "qqqZZZ_3"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/89"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/89",
+    "working_days_open": 20
   },
   {
     "iid": 88,
@@ -722,8 +982,12 @@
     "author": "xchu42",
     "title": "[bug] CastOptimizationPass 删除 reverse Cast 时未检查多消费者导致 dtype 不连续",
     "labels": [],
+    "assignees": [
+      "xchu42"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/88"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/88",
+    "working_days_open": 20
   },
   {
     "iid": 87,
@@ -733,8 +997,12 @@
     "author": "zhang_shengjie",
     "title": "fix: ATT 多 group reuse 场景下 Queue/Buffer 资源属性未参与等价判定",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/87"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/87",
+    "working_days_open": 20
   },
   {
     "iid": 86,
@@ -744,8 +1012,12 @@
     "author": "qqqZZZ_3",
     "title": "【fix】：修改头文件没有自包含问题",
     "labels": [],
+    "assignees": [
+      "qqqZZZ_3"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/86"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/86",
+    "working_days_open": 20
   },
   {
     "iid": 85,
@@ -755,8 +1027,12 @@
     "author": "gcw_WTfSfUy7",
     "title": "【🔥社区任务发布】：文档捉虫",
     "labels": [],
+    "assignees": [
+      "gcw_WTfSfUy7"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/85"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/85",
+    "working_days_open": 20
   },
   {
     "iid": 84,
@@ -766,8 +1042,12 @@
     "author": "gcw_V3YyYBt1",
     "title": "[Bug-Report|缺陷反馈]: power性能建模不准",
     "labels": [],
+    "assignees": [
+      "gcw_V3YyYBt1"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/84"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/84",
+    "working_days_open": 21
   },
   {
     "iid": 83,
@@ -777,8 +1057,12 @@
     "author": "zhang_shengjie",
     "title": "【Bug】axes reorder 动态输入 shape 被子轴 align 反传污染",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/83"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/83",
+    "working_days_open": 21
   },
   {
     "iid": 82,
@@ -788,8 +1072,12 @@
     "author": "zhang_shengjie",
     "title": "fix: ArgListManager 单例实例分裂导致 TestGlobalOccupy 测试在 aarch64 上失败",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/82"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/82",
+    "working_days_open": 21
   },
   {
     "iid": 81,
@@ -799,8 +1087,12 @@
     "author": "yelongjian",
     "title": "[Requirement|需求建议]: 新增autofuse_headers，用于依赖gaf仓的联合编译改造",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/81"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/81",
+    "working_days_open": 21
   },
   {
     "iid": 80,
@@ -810,8 +1102,12 @@
     "author": "JaydenChu",
     "title": "修复特定场景下dump图文件名超长问题",
     "labels": [],
+    "assignees": [
+      "JaydenChu"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/80"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/80",
+    "working_days_open": 22
   },
   {
     "iid": 79,
@@ -821,8 +1117,12 @@
     "author": "zqmin",
     "title": "feat: 新增AscIR适配",
     "labels": [],
+    "assignees": [
+      "zqmin"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/79"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/79",
+    "working_days_open": 22
   },
   {
     "iid": 78,
@@ -832,8 +1132,12 @@
     "author": "xchu42",
     "title": "【Bug】多轴slice-concat融合时出现精度错误",
     "labels": [],
+    "assignees": [
+      "xchu42"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/78"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/78",
+    "working_days_open": 22
   },
   {
     "iid": 77,
@@ -843,8 +1147,12 @@
     "author": "zhang_shengjie",
     "title": "【fix】删除AscirCompileAndLaunch接口",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/77"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/77",
+    "working_days_open": 22
   },
   {
     "iid": 76,
@@ -854,8 +1162,12 @@
     "author": "chenyukai",
     "title": "codegen生成ApiParam，用来生成dump图和辅助att建模",
     "labels": [],
+    "assignees": [
+      "chenyukai"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/76"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/76",
+    "working_days_open": 22
   },
   {
     "iid": 75,
@@ -865,8 +1177,12 @@
     "author": "zhang_shengjie",
     "title": "Reduce 参数构建逻辑重复且缺乏一致性校验",
     "labels": [],
+    "assignees": [
+      "zhang_shengjie"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/75"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/75",
+    "working_days_open": 22
   },
   {
     "iid": 74,
@@ -876,8 +1192,12 @@
     "author": "gcw_OBck1qwP",
     "title": "执行构建文档丢失",
     "labels": [],
+    "assignees": [
+      "s003576sgd"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/74"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/74",
+    "working_days_open": 22
   },
   {
     "iid": 73,
@@ -887,8 +1207,12 @@
     "author": "zqmin",
     "title": "fix: Inductor 编译产物缺少 graph_base 链接导致未定义符号",
     "labels": [],
+    "assignees": [
+      "zqmin"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/73"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/73",
+    "working_days_open": 22
   },
   {
     "iid": 72,
@@ -898,8 +1222,12 @@
     "author": "JaydenChu",
     "title": "[Bug-Report|缺陷反馈]: 后端输入图中存在悬空节点时会导致codegen阶段出现coredump问题",
     "labels": [],
+    "assignees": [
+      "JaydenChu"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/72"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/72",
+    "working_days_open": 23
   },
   {
     "iid": 71,
@@ -909,8 +1237,12 @@
     "author": "gcw_2hddZfvJ",
     "title": "[Documentation|文档反馈]: ub应该改为UB",
     "labels": [],
+    "assignees": [
+      "gcw_2hddZfvJ"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/71"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/71",
+    "working_days_open": 23
   },
   {
     "iid": 60,
@@ -920,8 +1252,12 @@
     "author": "gcw_WTfSfUy7",
     "title": "[Documentation|文档反馈]: docs/zh/quick_install.md中“云开发”按钮已经改名字了",
     "labels": [],
+    "assignees": [
+      "gcw_WTfSfUy7"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/60"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/60",
+    "working_days_open": 23
   },
   {
     "iid": 59,
@@ -931,8 +1267,12 @@
     "author": "Jett_Woo",
     "title": "feat: 新增 opencode Skill 管理机制与 5 个项目本地 Skills",
     "labels": [],
+    "assignees": [
+      "Jett_Woo"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/59"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/59",
+    "working_days_open": 24
   },
   {
     "iid": 58,
@@ -942,8 +1282,13 @@
     "author": "Jett_Woo",
     "title": "[Bug] SubStringReplace 空 from 参数导致无限循环",
     "labels": [],
+    "assignees": [
+      "Jett_Woo",
+      "wei_shi"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/58"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/58",
+    "working_days_open": 24
   },
   {
     "iid": 52,
@@ -953,8 +1298,12 @@
     "author": "xingzhixiong",
     "title": "[Bug-Report|缺陷反馈]: 按md文档执行编译构建以及llt过程遇到各类问题，调试多次才能跑通，易用性需要进一步提升",
     "labels": [],
+    "assignees": [
+      "xingzhixiong"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/52"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/52",
+    "working_days_open": 28
   },
   {
     "iid": 51,
@@ -964,8 +1313,13 @@
     "author": "dingdairong",
     "title": "[Requirement|需求建议]: 有两个elementwise的算子，希望能支持，IsInf, MaskedFill",
     "labels": [],
+    "assignees": [
+      "Jett_Woo",
+      "dingdairong"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/51"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/51",
+    "working_days_open": 32
   },
   {
     "iid": 50,
@@ -975,8 +1329,12 @@
     "author": "zqmin",
     "title": "[Question|问题咨询]: 使用A2的开发者空间环境，按照指导进行编译，编译失败，找不到头文件",
     "labels": [],
+    "assignees": [
+      "hujiawen_kaven"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/50"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/50",
+    "working_days_open": 38
   },
   {
     "iid": 49,
@@ -986,8 +1344,12 @@
     "author": "gcw_V3YyYBt1",
     "title": "[Question|问题咨询]: 使用A2的开发者空间环境，按照指导进行用例测试，执行完后，感觉没有融合",
     "labels": [],
+    "assignees": [
+      "wtf_newage"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/49"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/49",
+    "working_days_open": 40
   },
   {
     "iid": 48,
@@ -997,8 +1359,12 @@
     "author": "shengnan666",
     "title": "[Documentation|文档反馈]: docs/quick_install.md 对算子包依赖的描述错误",
     "labels": [],
+    "assignees": [
+      "wtf_newage"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/48"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/48",
+    "working_days_open": 43
   },
   {
     "iid": 47,
@@ -1008,8 +1374,12 @@
     "author": "shengnan666",
     "title": "[Documentation|文档反馈]: docs/quick_install.md 样例链接错误",
     "labels": [],
+    "assignees": [
+      "wtf_newage"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/47"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/47",
+    "working_days_open": 43
   },
   {
     "iid": 46,
@@ -1019,8 +1389,12 @@
     "author": "shengnan666",
     "title": "[Documentation|文档反馈]: docs/quick_install.md 的安装命令少了 .",
     "labels": [],
+    "assignees": [
+      "wtf_newage"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/46"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/46",
+    "working_days_open": 43
   },
   {
     "iid": 45,
@@ -1030,8 +1404,12 @@
     "author": "shengnan666",
     "title": "[Documentation|文档反馈]: autofuse/README.md 给出的构建链接错误",
     "labels": [],
+    "assignees": [
+      "wtf_newage"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/45"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/45",
+    "working_days_open": 43
   },
   {
     "iid": 44,
@@ -1041,8 +1419,12 @@
     "author": "wangxiaotian995",
     "title": "AutoFuse Roadmap(2026 H1)",
     "labels": [],
+    "assignees": [
+      "wangxiaotian995"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/44"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/44",
+    "working_days_open": 45
   },
   {
     "iid": 43,
@@ -1052,8 +1434,12 @@
     "author": "fott",
     "title": "[Question|问题咨询]: SuperKernel 任务构建阶段是否需要引入统一“字段初始化+一致性校验”策略？",
     "labels": [],
+    "assignees": [
+      "fott"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/43"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/43",
+    "working_days_open": 46
   },
   {
     "iid": 42,
@@ -1063,8 +1449,12 @@
     "author": "Illli_",
     "title": "[Bug-Report|缺陷反馈]:build.sh 的 --build-type 参数未传递到 CMake，导致构建类型始终回落到默认值",
     "labels": [],
+    "assignees": [
+      "Illli_"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/42"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/42",
+    "working_days_open": 46
   },
   {
     "iid": 41,
@@ -1074,8 +1464,13 @@
     "author": "July_feb",
     "title": "[Question|问题咨询]: 算子耗时劣化问题分析",
     "labels": [],
+    "assignees": [
+      "wtf_newage",
+      "July_feb"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/41"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/41",
+    "working_days_open": 51
   },
   {
     "iid": 40,
@@ -1085,8 +1480,12 @@
     "author": "wanglong9",
     "title": "[Bug-Report|缺陷反馈]:  ReleaseRecord 中不可达的死代码",
     "labels": [],
+    "assignees": [
+      "yrz1027"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/40"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/40",
+    "working_days_open": 52
   },
   {
     "iid": 38,
@@ -1096,8 +1495,10 @@
     "author": "gcw_pfzw85mp",
     "title": "[Bug-Report|缺陷反馈]: 样例1运行错误",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/38"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/38",
+    "working_days_open": 57
   },
   {
     "iid": 37,
@@ -1107,8 +1508,12 @@
     "author": "wanglong9",
     "title": "[Bug-Report|缺陷反馈]: HandleWaitNode 空指针解引用导致进程崩溃",
     "labels": [],
+    "assignees": [
+      "wanglong9"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/37"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/37",
+    "working_days_open": 57
   },
   {
     "iid": 36,
@@ -1118,8 +1523,12 @@
     "author": "wanglong9",
     "title": "[Bug-Report|缺陷反馈]: skHeaderInfoHost 内存泄漏（错误路径）",
     "labels": [],
+    "assignees": [
+      "xun_zhuge"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/36"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/36",
+    "working_days_open": 57
   },
   {
     "iid": 35,
@@ -1129,8 +1538,10 @@
     "author": "gcw_pfzw85mp",
     "title": "[Bug-Report|缺陷反馈]: webIDE编译环境检查不通过",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/35"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/35",
+    "working_days_open": 58
   },
   {
     "iid": 34,
@@ -1140,8 +1551,10 @@
     "author": "gcw_pfzw85mp",
     "title": "[Documentation|文档反馈]: 环境准备步骤中存在矛盾",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/34"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/34",
+    "working_days_open": 61
   },
   {
     "iid": 33,
@@ -1151,8 +1564,12 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 使用脚本检查编译环境，返回python版本<=3.11.4，但是在readme中显示python>=3.8.0即可，两者冲突",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/33"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/33",
+    "working_days_open": 62
   },
   {
     "iid": 32,
@@ -1162,8 +1579,10 @@
     "author": "gcw_pfzw85mp",
     "title": "[Bug-Report|缺陷反馈]: 样例1运行错误",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/32"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/32",
+    "working_days_open": 80
   },
   {
     "iid": 31,
@@ -1173,8 +1592,10 @@
     "author": "gcw_pfzw85mp",
     "title": "[Documentation|文档反馈]: 没有说明cann 9.0版本适配的pytorch torch-npu的版本",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/31"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/31",
+    "working_days_open": 90
   },
   {
     "iid": 30,
@@ -1184,8 +1605,10 @@
     "author": "gcw_pfzw85mp",
     "title": "[Documentation|文档反馈]: 构建指导中CANN ops包名称不准确",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/30"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/30",
+    "working_days_open": 90
   },
   {
     "iid": 29,
@@ -1195,8 +1618,10 @@
     "author": "gcw_pfzw85mp",
     "title": "[Requirement|需求建议]: 增加支持该仓的cann版本配套说明",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/29"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/29",
+    "working_days_open": 90
   },
   {
     "iid": 28,
@@ -1206,8 +1631,12 @@
     "author": "tmj1128",
     "title": "[Bug-Report|缺陷反馈]: 执行super_kernel_base、super_kernel_profiling sample时，显示ModuleNotFoundError: No module named 'pkg_resources'",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/28"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/28",
+    "working_days_open": 94
   },
   {
     "iid": 27,
@@ -1217,8 +1646,10 @@
     "author": "zjun0",
     "title": "[Documentation|文档反馈]: PyTorchAdapter是不是就不要体现了？",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/27"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/27",
+    "working_days_open": 94
   },
   {
     "iid": 26,
@@ -1228,8 +1659,12 @@
     "author": "zjun0",
     "title": "[Bug-Report|缺陷反馈]: UT/ST验证失败",
     "labels": [],
+    "assignees": [
+      "zjun0"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/26"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/26",
+    "working_days_open": 94
   },
   {
     "iid": 25,
@@ -1239,8 +1674,10 @@
     "author": "zjun0",
     "title": "[Documentation|文档反馈]: 链接地址没有实时刷新",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/25"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/25",
+    "working_days_open": 94
   },
   {
     "iid": 24,
@@ -1250,8 +1687,12 @@
     "author": "capt4in",
     "title": "[Requirement|需求建议]: docs/build.md只提供了手工安装方式，未提供docker镜像，不易用，建议参考ops-nn，拉取镜像后开箱即用",
     "labels": [],
+    "assignees": [
+      "capt4in"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/24"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/24",
+    "working_days_open": 101
   },
   {
     "iid": 23,
@@ -1261,8 +1702,12 @@
     "author": "weixin_39767879",
     "title": "[Bug-Report|缺陷反馈]: license扫描工具的模板文件中license的描述信息不规范，需要修改。",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/23"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/23",
+    "working_days_open": 101
   },
   {
     "iid": 22,
@@ -1272,8 +1717,10 @@
     "author": "liuhanwen8",
     "title": "[Documentation|文档反馈]: SuperKernel原理介绍资料，有两个小节的图片无法显示",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/22"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/22",
+    "working_days_open": 109
   },
   {
     "iid": 21,
@@ -1283,8 +1730,10 @@
     "author": "liuks",
     "title": "[Question|问题咨询]: profiling中有两个SuperKernel，MIX AIC跟MIX AIV，有什么区别吗？",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/21"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/21",
+    "working_days_open": 113
   },
   {
     "iid": 20,
@@ -1294,8 +1743,12 @@
     "author": "gcw_pfzw85mp",
     "title": "[Bug-Report|缺陷反馈]: torch_npu没有自带torchair",
     "labels": [],
+    "assignees": [
+      "gcw_pfzw85mp"
+    ],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/20"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/20",
+    "working_days_open": 114
   },
   {
     "iid": 19,
@@ -1305,8 +1758,12 @@
     "author": "gcw_pfzw85mp",
     "title": "[Documentation|文档反馈]: 文档未说明需要numpy1.x版本",
     "labels": [],
+    "assignees": [
+      "gcw_pfzw85mp"
+    ],
     "user_notes_count": 8,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/19"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/19",
+    "working_days_open": 114
   },
   {
     "iid": 18,
@@ -1316,8 +1773,12 @@
     "author": "gcw_pfzw85mp",
     "title": "[Documentation|文档反馈]: 安装pytorch/torch_npu建议没有说明cann8.5配套适用的版本",
     "labels": [],
+    "assignees": [
+      "gcw_pfzw85mp"
+    ],
     "user_notes_count": 7,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/18"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/18",
+    "working_days_open": 114
   },
   {
     "iid": 17,
@@ -1327,8 +1788,12 @@
     "author": "gcw_pfzw85mp",
     "title": "[Documentation|文档反馈]: 环境部署说明的python版本不一致",
     "labels": [],
+    "assignees": [
+      "gcw_pfzw85mp"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/17"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/17",
+    "working_days_open": 114
   },
   {
     "iid": 16,
@@ -1338,8 +1803,12 @@
     "author": "2301_78074311",
     "title": "[Bug-Report|缺陷反馈]: 运行样例一和样例二报错",
     "labels": [],
+    "assignees": [
+      "2301_78074311"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/16"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/16",
+    "working_days_open": 114
   },
   {
     "iid": 15,
@@ -1349,8 +1818,12 @@
     "author": "liuks",
     "title": "[Question|问题咨询]: 感觉目前的 SuperKernel 主要用于静态图场景下的算子融合与编译优化。请问它是否支持动态图？如果支持，是如何在运行时识别和生成 SuperKernel 的？还有就是融合越多性能越好吗，整网中会有多superkernel这种场景吗?",
     "labels": [],
+    "assignees": [
+      "liuks"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/15"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/15",
+    "working_days_open": 114
   },
   {
     "iid": 14,
@@ -1360,8 +1833,12 @@
     "author": "liuks",
     "title": "[Question|问题咨询]: 请问在编写kernel侧AscendC代码时，如何使能SuperKernel？有什么需要特别注意的地方？",
     "labels": [],
+    "assignees": [
+      "liuks"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/14"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/14",
+    "working_days_open": 114
   },
   {
     "iid": 13,
@@ -1371,8 +1848,12 @@
     "author": "lookat119",
     "title": "[Requirement|需求建议]: 怎么支持Tiling下沉的自定义算子？",
     "labels": [],
+    "assignees": [
+      "lookat119"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/13"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/13",
+    "working_days_open": 139
   },
   {
     "iid": 12,
@@ -1382,8 +1863,12 @@
     "author": "lookat119",
     "title": "[Question|问题咨询]: superkernel将算子合成一个大算子后，各个子算子的Tiling是如何关联与计算的？",
     "labels": [],
+    "assignees": [
+      "lookat119"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/12"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/12",
+    "working_days_open": 139
   },
   {
     "iid": 11,
@@ -1393,8 +1878,12 @@
     "author": "SHshenhao",
     "title": "[Requirement|需求建议]: GE图支持triton，以及supserkernel支持triton算子",
     "labels": [],
+    "assignees": [
+      "SHshenhao"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/11"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/11",
+    "working_days_open": 145
   },
   {
     "iid": 10,
@@ -1404,8 +1893,12 @@
     "author": "jgong5",
     "title": "[Question|问题咨询]: Where can I find `tbe.tikcpp.super_kernel*` packages?",
     "labels": [],
+    "assignees": [
+      "jgong5"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/10"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/10",
+    "working_days_open": 146
   },
   {
     "iid": 9,
@@ -1415,8 +1908,12 @@
     "author": "xdnjust",
     "title": "[Question|问题咨询]: superkernel是否支持aclgraph等图模式",
     "labels": [],
+    "assignees": [
+      "xdnjust"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/9"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/9",
+    "working_days_open": 154
   },
   {
     "iid": 8,
@@ -1426,8 +1923,12 @@
     "author": "zhanj",
     "title": "[Requirement|需求建议]: superkernel对接atenIR，为对接torchair-aclgraph图模式路线做准备",
     "labels": [],
+    "assignees": [
+      "zhanj"
+    ],
     "user_notes_count": 16,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/8"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/8",
+    "working_days_open": 155
   },
   {
     "iid": 7,
@@ -1437,8 +1938,13 @@
     "author": "tmj1128",
     "title": "[Question|问题咨询]: 按照readme执行安装三方依赖，执行后报错，显示op-compile-tool未安装",
     "labels": [],
+    "assignees": [
+      "zhanj",
+      "tmj1128"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/7"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/7",
+    "working_days_open": 156
   },
   {
     "iid": 6,
@@ -1448,8 +1954,12 @@
     "author": "zhanj",
     "title": "[Bug-Report|缺陷反馈]: superkernel 子目录下的README有一个构建whl包，最外层README有一个run包构建，冲突的",
     "labels": [],
+    "assignees": [
+      "zhanj"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/6"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/6",
+    "working_days_open": 159
   },
   {
     "iid": 5,
@@ -1459,8 +1969,12 @@
     "author": "zjun0",
     "title": "[Documentation|文档反馈]: 没有提供A2CANN ops包的下载包链接",
     "labels": [],
+    "assignees": [
+      "zjun0"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/5"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/5",
+    "working_days_open": 162
   },
   {
     "iid": 4,
@@ -1470,8 +1984,12 @@
     "author": "zhanj",
     "title": "[Requirement|需求建议]: 仅依赖AscendC&Runtime，将superkernel能力使用起来",
     "labels": [],
+    "assignees": [
+      "zhanj"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/4"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/4",
+    "working_days_open": 165
   },
   {
     "iid": 3,
@@ -1481,8 +1999,12 @@
     "author": "shengnan666",
     "title": "[Bug-Report|缺陷反馈]: 测试用例产生的临时文件没有按照规范放置",
     "labels": [],
+    "assignees": [
+      "XuebinYang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/3"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/3",
+    "working_days_open": 165
   },
   {
     "iid": 2,
@@ -1492,8 +2014,12 @@
     "author": "shengnan666",
     "title": "[Bug-Report|缺陷反馈]: SuperKernel 的 requirements-dev.txt 不是工具生成的，但是该文件的头上描述是工具生成的",
     "labels": [],
+    "assignees": [
+      "zhuhaoran5"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/2"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/2",
+    "working_days_open": 165
   },
   {
     "iid": 1,
@@ -1503,7 +2029,12 @@
     "author": "shengnan666",
     "title": "SuperKernel 与 AscendC 独立升级",
     "labels": [],
+    "assignees": [
+      "shengnan666",
+      "XuebinYang"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/1"
+    "web_url": "https://gitcode.com/cann/graph-autofusion/issues/1",
+    "working_days_open": 166
   }
 ]

@@ -1,5 +1,70 @@
 [
   {
+    "iid": 95,
+    "state": "opened",
+    "created_at": "2026-07-02",
+    "closed_at": "",
+    "author": "Justin-2019",
+    "title": "[Requirement|需求建议]: 增加完整的Bisheng编译器的原理、接口、使用说明相关的资料",
+    "labels": [],
+    "assignees": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/95",
+    "working_days_open": 1
+  },
+  {
+    "iid": 94,
+    "state": "opened",
+    "created_at": "2026-07-02",
+    "closed_at": "",
+    "author": "m0_61099165",
+    "title": "[Documentation|文档反馈]: 5.1节 ScaleA/B Shape设计原因未说明，建议补充硬件对齐背景",
+    "labels": [],
+    "assignees": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/94",
+    "working_days_open": 1
+  },
+  {
+    "iid": 93,
+    "state": "opened",
+    "created_at": "2026-07-02",
+    "closed_at": "",
+    "author": "lfz2812",
+    "title": "[CANN-Learning-Hub体验]：关于实习生CANN-Bot无法关联gitcode账号",
+    "labels": [],
+    "assignees": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/93",
+    "working_days_open": 1
+  },
+  {
+    "iid": 92,
+    "state": "opened",
+    "created_at": "2026-07-02",
+    "closed_at": "",
+    "author": "jiangshen",
+    "title": "[CANN-Learning-Hub体验]《什么是 CANN》的 notebook 中，3.6小节存在移除笔误导致的 Markdown 显示问题",
+    "labels": [],
+    "assignees": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/92",
+    "working_days_open": 1
+  },
+  {
+    "iid": 91,
+    "state": "opened",
+    "created_at": "2026-07-02",
+    "closed_at": "",
+    "author": "Hacker_DL",
+    "title": "[Bug-Report|缺陷反馈]: 《1.2 人工智能与算子基础》的2.2.6 轴中，存在文案描述与演示代码不匹配的情况",
+    "labels": [],
+    "assignees": [],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/91",
+    "working_days_open": 1
+  },
+  {
     "iid": 90,
     "state": "opened",
     "created_at": "2026-06-30",
@@ -7,8 +72,10 @@
     "author": "CANN-",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【7.2】",
     "labels": [],
-    "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/90"
+    "assignees": [],
+    "user_notes_count": 12,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/90",
+    "working_days_open": 3
   },
   {
     "iid": 89,
@@ -18,8 +85,10 @@
     "author": "gcw_QGrqFtj5",
     "title": "[Requirement|需求建议]: 新增 PyPTO 算子开发系列教程",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/89"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/89",
+    "working_days_open": 3
   },
   {
     "iid": 88,
@@ -29,8 +98,10 @@
     "author": "fhfile123",
     "title": "出现EVS错误，约有15位同学学生用NPU考试，但是出现EVS错误",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/88"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/88",
+    "working_days_open": 3
   },
   {
     "iid": 87,
@@ -40,8 +111,10 @@
     "author": "jackwangc",
     "title": "[Documentation|文档反馈]: 3.6 编程语言 Ascend C —— 自定义算子的开发利器 图例请刷新",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/87"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/87",
+    "working_days_open": 4
   },
   {
     "iid": 86,
@@ -51,8 +124,10 @@
     "author": "yangyang016",
     "title": "【matmul教程/test分支】matmul_operator_development 低错与易用性问题汇总",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/86"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/86",
+    "working_days_open": 4
   },
   {
     "iid": 85,
@@ -62,8 +137,10 @@
     "author": "weixin_48384182",
     "title": "[Question|问题咨询]: 【CANN训练营】PyTorch 模型迁移昇腾 CANN 平台实战经验分享",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/85"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/85",
+    "working_days_open": 5
   },
   {
     "iid": 84,
@@ -73,8 +150,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.29】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 24,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/84"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/84",
+    "working_days_open": 5
   },
   {
     "iid": 83,
@@ -84,8 +163,10 @@
     "author": "qq_51545127",
     "title": "[Documentation|文档反馈]: README.md 存在目录路径、数量、HTML标签、标点等文字描述错误",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/83"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/83",
+    "working_days_open": 6
   },
   {
     "iid": 82,
@@ -95,8 +176,12 @@
     "author": "zhangchenzi",
     "title": "[Documentation|文档反馈]: 01.02_first_matmul_sample_run.ipynb 的4.1.5 Host 侧主函数章节的代码样例中异常网址问题",
     "labels": [],
+    "assignees": [
+      "wangzitao_leo"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/82"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/82",
+    "working_days_open": 7
   },
   {
     "iid": 81,
@@ -106,8 +191,12 @@
     "author": "kaixiangruan",
     "title": "[Question|问题咨询]: 开发者学习路径 中 Qwen3-0.6B 推理（图模式） 提供的代码运行有误",
     "labels": [],
+    "assignees": [
+      "zutao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/81"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/81",
+    "working_days_open": 7
   },
   {
     "iid": 80,
@@ -117,8 +206,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.25】",
     "labels": [],
-    "user_notes_count": 24,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/80"
+    "assignees": [],
+    "user_notes_count": 25,
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/80",
+    "working_days_open": 7
   },
   {
     "iid": 79,
@@ -128,8 +219,10 @@
     "author": "Jon-Snow",
     "title": "【新手村任务】CANN开源社区参与经验",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/79"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/79",
+    "working_days_open": 8
   },
   {
     "iid": 78,
@@ -139,8 +232,10 @@
     "author": "zhujianwei",
     "title": "[Question|问题咨询]: 在线体验一直转圈进不去",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/78"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/78",
+    "working_days_open": 9
   },
   {
     "iid": 77,
@@ -150,8 +245,10 @@
     "author": "Abotes",
     "title": "[Question|问题咨询]: 为什么点击“在线体验”跳转后加载半天后显示“Notebook 实例启动失败或已销毁”",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/77"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/77",
+    "working_days_open": 9
   },
   {
     "iid": 76,
@@ -161,8 +258,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.22】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 25,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/76"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/76",
+    "working_days_open": 10
   },
   {
     "iid": 75,
@@ -172,8 +271,12 @@
     "author": "wangzitao_leo",
     "title": "[Requirement|需求建议]: 增加 A5平台 matmul量化方式以及量化算子实践的课程",
     "labels": [],
+    "assignees": [
+      "wangzitao_leo"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/75"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/75",
+    "working_days_open": 11
   },
   {
     "iid": 73,
@@ -183,8 +286,10 @@
     "author": "2501_94542411",
     "title": "[Bug-Report|缺陷反馈]: YOLOv8 集成自定义 CBAM 算子后，ATC 模型转换/推理阶段报错：Operator not supported or compilation failed",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/73"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/73",
+    "working_days_open": 13
   },
   {
     "iid": 72,
@@ -194,8 +299,10 @@
     "author": "hahaha837",
     "title": "[Question|问题咨询]: 310B1芯片的板卡能用来学习AscendC算子开发吗",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/72"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/72",
+    "working_days_open": 13
   },
   {
     "iid": 71,
@@ -205,8 +312,10 @@
     "author": "LCP7742",
     "title": "[Question|问题咨询]: 昇腾310B1在CANN8.5.0和9.0.0版本中使用毕昇编译器编译无效",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/71"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/71",
+    "working_days_open": 13
   },
   {
     "iid": 70,
@@ -216,8 +325,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.15】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 19,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/70"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/70",
+    "working_days_open": 14
   },
   {
     "iid": 69,
@@ -227,8 +338,10 @@
     "author": "LCP7742",
     "title": "模型类型查看",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/69"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/69",
+    "working_days_open": 15
   },
   {
     "iid": 68,
@@ -238,8 +351,12 @@
     "author": "liuyang_806",
     "title": "[Requirement|需求建议]: 增加基于 Ascend950 的 Matmul 类课程",
     "labels": [],
+    "assignees": [
+      "liuyang_806"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/68"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/68",
+    "working_days_open": 16
   },
   {
     "iid": 67,
@@ -249,8 +366,10 @@
     "author": "Ascend-CANN",
     "title": "【企业对话专场】观看直播参与直播答题互动赢定制T恤、毛毯！【6.11】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 23,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/67"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/67",
+    "working_days_open": 16
   },
   {
     "iid": 66,
@@ -260,8 +379,10 @@
     "author": "hitianjun",
     "title": "[Bug-Report|缺陷反馈]: CANN notebook 不支持 pytorch的profiler",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/66"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/66",
+    "working_days_open": 18
   },
   {
     "iid": 65,
@@ -271,8 +392,10 @@
     "author": "Abotes",
     "title": "[Question|问题咨询]: first_custom_operator中的这句话：“在整个调用过程中，需要申请Host核Device内存，在Host侧读入数据后，将数据拷贝到Device测”中的“申请Host核Device内存”",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/65"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/65",
+    "working_days_open": 18
   },
   {
     "iid": 64,
@@ -282,8 +405,10 @@
     "author": "hitianjun",
     "title": "CANN 8.5.0 Notebook：bisheng 编译器无法编译 .asc 算子",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/64"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/64",
+    "working_days_open": 18
   },
   {
     "iid": 63,
@@ -293,8 +418,10 @@
     "author": "hitianjun",
     "title": "# CANN 8.5.0 Notebook 环境：无法编译 Ascend C 自定义算子",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/63"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/63",
+    "working_days_open": 18
   },
   {
     "iid": 62,
@@ -304,8 +431,10 @@
     "author": "HHHzy0903",
     "title": "[Question|问题咨询]: 有没有Ascend 310B的学习资料",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/62"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/62",
+    "working_days_open": 19
   },
   {
     "iid": 61,
@@ -315,8 +444,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.8】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 19,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/61"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/61",
+    "working_days_open": 19
   },
   {
     "iid": 60,
@@ -326,8 +457,10 @@
     "author": "hid31551047",
     "title": "[Bug-Report|缺陷反馈]:样例代码推理精度异常",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/60"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/60",
+    "working_days_open": 20
   },
   {
     "iid": 59,
@@ -337,8 +470,10 @@
     "author": "cann_cm",
     "title": "首页readme的格式没对齐",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/59"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/59",
+    "working_days_open": 20
   },
   {
     "iid": 58,
@@ -348,8 +483,10 @@
     "author": "zhaoqwerty",
     "title": "【CANN训练营】缺少前置课程情况下如何自学 ATVOSS",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/58"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/58",
+    "working_days_open": 20
   },
   {
     "iid": 57,
@@ -359,8 +496,10 @@
     "author": "zhaohenhao",
     "title": "[Requirement|需求建议]: 【CANN训练营】PyPTO示例缺少Python版本约束与一键依赖配置方案",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/57"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/57",
+    "working_days_open": 20
   },
   {
     "iid": 56,
@@ -370,8 +509,10 @@
     "author": "hid55977309",
     "title": "【文档建议】【CANN训练营】新手建议：完善 soc_version 参数使用指引",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/56"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/56",
+    "working_days_open": 20
   },
   {
     "iid": 55,
@@ -381,8 +522,10 @@
     "author": "zhaohenhao",
     "title": "【文档建议】【CANN训练营】新手看不懂快速入门教程，引导教程太简略",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/55"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/55",
+    "working_days_open": 20
   },
   {
     "iid": 54,
@@ -392,8 +535,10 @@
     "author": "cann_cm",
     "title": "learning-hub的页面学习路径不清晰",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/54"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/54",
+    "working_days_open": 20
   },
   {
     "iid": 53,
@@ -403,8 +548,10 @@
     "author": "gcw_D8QQSRHN",
     "title": "[Documentation|文档反馈]: [文档] pytorch_online_inference_operator_optimize 样例 README 中两处链接失效",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/53"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/53",
+    "working_days_open": 21
   },
   {
     "iid": 52,
@@ -414,8 +561,10 @@
     "author": "gcw_D8QQSRHN",
     "title": "[Bug-Report|缺陷反馈]: [文档] README 博客索引中“Ascend C 矩阵乘接口选型指南”链接失效（目录名不匹配）",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/52"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/52",
+    "working_days_open": 21
   },
   {
     "iid": 51,
@@ -425,8 +574,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.4】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 18,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/51"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/51",
+    "working_days_open": 21
   },
   {
     "iid": 50,
@@ -436,8 +587,10 @@
     "author": "Chengrui_06",
     "title": "[Bug-Report|缺陷反馈]: hello world程序编译报错",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/50"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/50",
+    "working_days_open": 23
   },
   {
     "iid": 49,
@@ -447,8 +600,12 @@
     "author": "A-Liuhao",
     "title": "[Bug-Report|缺陷反馈]: HIXL课程A2场跨机场景benchmark数据有误，需要刷新",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/49"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/49",
+    "working_days_open": 24
   },
   {
     "iid": 48,
@@ -458,8 +615,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【6.1】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 15,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/48"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/48",
+    "working_days_open": 24
   },
   {
     "iid": 47,
@@ -469,8 +628,10 @@
     "author": "qq_44783643",
     "title": "CANNlab跳转失败",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/47"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/47",
+    "working_days_open": 25
   },
   {
     "iid": 46,
@@ -480,8 +641,10 @@
     "author": "Ascend-CANN",
     "title": "【开发者说】观看直播参与直播答题互动赢定制T恤、毛毯！【5.28】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 14,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/46"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/46",
+    "working_days_open": 26
   },
   {
     "iid": 45,
@@ -491,8 +654,10 @@
     "author": "handsomegujiawei",
     "title": "[Question|问题咨询]: 为什么我在gitcode拥有notebook点击ascnend学习却跳转失败",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/45"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/45",
+    "working_days_open": 27
   },
   {
     "iid": 44,
@@ -502,8 +667,10 @@
     "author": "Hacker_DL",
     "title": "[Bug-Report|缺陷反馈]: 无法从CANNLab直接进入cann-learning-hub（通过VS Code方式）",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/44"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/44",
+    "working_days_open": 29
   },
   {
     "iid": 43,
@@ -513,8 +680,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【5.25】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 16,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/43"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/43",
+    "working_days_open": 30
   },
   {
     "iid": 42,
@@ -524,8 +693,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【5.21】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 9,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/42"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/42",
+    "working_days_open": 31
   },
   {
     "iid": 41,
@@ -535,8 +706,10 @@
     "author": "Nmhckk",
     "title": "部分自定义算子教程 README 存在失效相对链接",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/41"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/41",
+    "working_days_open": 32
   },
   {
     "iid": 40,
@@ -546,8 +719,10 @@
     "author": "Nmhckk",
     "title": "[Documentation|文档反馈]: 部分教程 README 中的相对链接失效，影响自定义算子示例跳转",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/40"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/40",
+    "working_days_open": 32
   },
   {
     "iid": 39,
@@ -557,8 +732,10 @@
     "author": "xbjlu",
     "title": "[Bug-Report|缺陷反馈]: cann-learning-hub cv融合算子开发样例测试不通过",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/39"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/39",
+    "working_days_open": 32
   },
   {
     "iid": 38,
@@ -568,8 +745,10 @@
     "author": "xbjlu",
     "title": "[Question|问题咨询]: 建议CANNLab提供的webIDE默认已经jupyter环境准备，提升开发者体验",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/38"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/38",
+    "working_days_open": 33
   },
   {
     "iid": 37,
@@ -579,8 +758,10 @@
     "author": "xbjlu",
     "title": "[Question|问题咨询]: 通过CANNLab体验cann-learning-hub开源仓，环境不可用",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/37"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/37",
+    "working_days_open": 33
   },
   {
     "iid": 36,
@@ -590,8 +771,10 @@
     "author": "zutao",
     "title": "[Requirement|需求建议：torch-rechub 在线实验建设pip依赖补充",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/36"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/36",
+    "working_days_open": 34
   },
   {
     "iid": 35,
@@ -601,8 +784,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【5.18】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 15,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/35"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/35",
+    "working_days_open": 34
   },
   {
     "iid": 34,
@@ -612,8 +797,10 @@
     "author": "Ascend-CANN",
     "title": "【开发者说】观看直播参与直播答题互动赢定制T恤、毛毯！【5.14】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 15,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/34"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/34",
+    "working_days_open": 36
   },
   {
     "iid": 33,
@@ -623,8 +810,10 @@
     "author": "RiddleTan",
     "title": "[Requirement|需求建议]: 请提供一些HiF8特性相关的技术文章供学习参考",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/33"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/33",
+    "working_days_open": 39
   },
   {
     "iid": 32,
@@ -634,8 +823,10 @@
     "author": "gc_176007695009703",
     "title": "【CANN】问答",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/32"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/32",
+    "working_days_open": 40
   },
   {
     "iid": 31,
@@ -645,8 +836,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【5.11】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 19,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/31"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/31",
+    "working_days_open": 40
   },
   {
     "iid": 30,
@@ -656,8 +849,10 @@
     "author": "qq_40267565",
     "title": "[Documentation|文档反馈]:  注释逻辑",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/30"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/30",
+    "working_days_open": 41
   },
   {
     "iid": 29,
@@ -667,8 +862,10 @@
     "author": "qq_40267565",
     "title": "[Documentation|文档反馈]: 数字笔误",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/29"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/29",
+    "working_days_open": 41
   },
   {
     "iid": 28,
@@ -678,8 +875,10 @@
     "author": "weixin_45595594",
     "title": "[Question|问题咨询]: 【直播现场互动】1、D 2、D 3、C",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/28"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/28",
+    "working_days_open": 41
   },
   {
     "iid": 27,
@@ -689,8 +888,10 @@
     "author": "yu-xinjie62",
     "title": "[Bug-Report|缺陷反馈]: notebook实例启动失败或已销毁",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/27"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/27",
+    "working_days_open": 41
   },
   {
     "iid": 26,
@@ -700,8 +901,10 @@
     "author": "zhoutiezhu",
     "title": "广财开发者培训活动——课堂任务",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 65,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/26"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/26",
+    "working_days_open": 42
   },
   {
     "iid": 25,
@@ -711,8 +914,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【5.7】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 20,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/25"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/25",
+    "working_days_open": 42
   },
   {
     "iid": 24,
@@ -722,8 +927,10 @@
     "author": "maoyuanxing",
     "title": "[Bug-Report|缺陷反馈]: 请修改文档，支持910C的编译和运行",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/24"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/24",
+    "working_days_open": 44
   },
   {
     "iid": 23,
@@ -733,8 +940,10 @@
     "author": "lingjiajun",
     "title": "联盟\"湾码奔腾\"赋能培训 Day01——课前任务",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 51,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/23"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/23",
+    "working_days_open": 45
   },
   {
     "iid": 22,
@@ -744,8 +953,10 @@
     "author": "zhoutiezhu",
     "title": "香港科技大学（广州）特训营 Day2 ——课堂任务",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/22"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/22",
+    "working_days_open": 47
   },
   {
     "iid": 21,
@@ -755,8 +966,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【4.27】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 14,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/21"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/21",
+    "working_days_open": 47
   },
   {
     "iid": 20,
@@ -766,8 +979,10 @@
     "author": "Ascend-CANN",
     "title": "【企业对话专场】观看直播参与直播答题互动赢定制T恤、毛毯！【4.23】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 20,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/20"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/20",
+    "working_days_open": 49
   },
   {
     "iid": 19,
@@ -777,8 +992,10 @@
     "author": "zhoutiezhu",
     "title": "CANN知识快问快答",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/19"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/19",
+    "working_days_open": 50
   },
   {
     "iid": 18,
@@ -788,8 +1005,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【4.20】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 29,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/18"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/18",
+    "working_days_open": 52
   },
   {
     "iid": 17,
@@ -799,8 +1018,10 @@
     "author": "lingjiajun",
     "title": "香港科技大学（广州）特训营——课堂任务",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 11,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/17"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/17",
+    "working_days_open": 52
   },
   {
     "iid": 16,
@@ -810,8 +1031,10 @@
     "author": "mlewis",
     "title": "first_operator_api_call.ipynb运行到编译步骤报错： unused variable ‘resultCorrect’",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/16"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/16",
+    "working_days_open": 54
   },
   {
     "iid": 15,
@@ -821,8 +1044,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【4.16】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 20,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/15"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/15",
+    "working_days_open": 54
   },
   {
     "iid": 14,
@@ -832,8 +1057,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【4.13】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 30,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/14"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/14",
+    "working_days_open": 57
   },
   {
     "iid": 13,
@@ -843,8 +1070,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【4.9】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 15,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/13"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/13",
+    "working_days_open": 59
   },
   {
     "iid": 12,
@@ -854,8 +1083,10 @@
     "author": "lingjiajun",
     "title": "东莞AI圈子培训赋能活动——大湾区大学专场课堂任务",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 23,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/12"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/12",
+    "working_days_open": 60
   },
   {
     "iid": 11,
@@ -865,8 +1096,10 @@
     "author": "Albertq",
     "title": "[Bug-Report|缺陷反馈]: 01.01_chapter_intro.ipynb章节内容超链接跳转404",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/11"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/11",
+    "working_days_open": 62
   },
   {
     "iid": 10,
@@ -876,8 +1109,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【4.2】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 14,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/10"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/10",
+    "working_days_open": 65
   },
   {
     "iid": 9,
@@ -887,8 +1122,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【3.30】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 14,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/9"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/9",
+    "working_days_open": 66
   },
   {
     "iid": 8,
@@ -898,8 +1135,10 @@
     "author": "Ascend-CANN",
     "title": "【CANN快问快答】有奖Q&A！评论答题每周随机抽5位幸运儿送出社区定制礼！",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 273,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/8"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/8",
+    "working_days_open": 68
   },
   {
     "iid": 7,
@@ -909,8 +1148,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【3.26】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 18,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/7"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/7",
+    "working_days_open": 68
   },
   {
     "iid": 6,
@@ -920,8 +1161,10 @@
     "author": "Ascend-CANN",
     "title": "【码力全开特辑】观看直播参与直播答题互动赢定制T恤、毛毯！【3.23】",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 33,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/6"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/6",
+    "working_days_open": 71
   },
   {
     "iid": 5,
@@ -931,8 +1174,10 @@
     "author": "gxhgxh2475698",
     "title": "[Requirement|需求建议]: 建议增加 B 站 CANN 相关视频链接",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/5"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/5",
+    "working_days_open": 74
   },
   {
     "iid": 4,
@@ -942,8 +1187,10 @@
     "author": "Ascend-CANN",
     "title": "【CANN训练营】观看直播参与直播答题互动赢定制T恤、毛毯！",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 13,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/4"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/4",
+    "working_days_open": 76
   },
   {
     "iid": 3,
@@ -953,8 +1200,10 @@
     "author": "Ascend-CANN",
     "title": "【评论答题赢定制毛毯、T恤】AI算子开发快速入门指南直播互动规则详情",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 72,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/3"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/3",
+    "working_days_open": 78
   },
   {
     "iid": 2,
@@ -964,8 +1213,10 @@
     "author": "Feixinzhx",
     "title": "[Documentation|文档反馈]: 01.03 课后练习答案与文档矛盾",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/2"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/2",
+    "working_days_open": 82
   },
   {
     "iid": 1,
@@ -975,7 +1226,11 @@
     "author": "zjun0",
     "title": "[Bug-Report|缺陷反馈]: gitcode写错了",
     "labels": [],
+    "assignees": [
+      "fuyangchenghu"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/1"
+    "web_url": "https://gitcode.com/cann/cann-learning-hub/issues/1",
+    "working_days_open": 82
   }
 ]

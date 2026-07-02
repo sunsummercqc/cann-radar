@@ -1,5 +1,35 @@
 [
   {
+    "iid": 414,
+    "state": "closed",
+    "created_at": "2026-07-02",
+    "closed_at": "2026-07-02",
+    "author": "leijie-ww",
+    "title": "[Bug-Report|缺陷反馈]: A5-DT-Server + PD分离+分布式DP 启动qwen3.5-397b过程中报错",
+    "labels": [],
+    "assignees": [
+      "zhujingjing"
+    ],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/hixl/issues/414",
+    "working_days_open": 1
+  },
+  {
+    "iid": 413,
+    "state": "opened",
+    "created_at": "2026-07-02",
+    "closed_at": "",
+    "author": "liu_test",
+    "title": "[Question|问题咨询]: 910C，560T上，2机部署glm5.1-w4a8，1P1D，p和d各自拉起，在发送请求时报错Mooncake transfer failed, ret: -1",
+    "labels": [],
+    "assignees": [
+      "zhujingjing"
+    ],
+    "user_notes_count": 4,
+    "web_url": "https://gitcode.com/cann/hixl/issues/413",
+    "working_days_open": 1
+  },
+  {
     "iid": 412,
     "state": "opened",
     "created_at": "2026-07-01",
@@ -7,8 +37,12 @@
     "author": "gongsiquan",
     "title": "[RFC]: HIXL支持host侧uboe",
     "labels": [],
+    "assignees": [
+      "gongsiquan"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/412"
+    "web_url": "https://gitcode.com/cann/hixl/issues/412",
+    "working_days_open": 2
   },
   {
     "iid": 411,
@@ -18,8 +52,12 @@
     "author": "M__Cheng",
     "title": "[Bug-Report|缺陷反馈]: Mooncake RDMA Transport NDR注册内存失败",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/411"
+    "web_url": "https://gitcode.com/cann/hixl/issues/411",
+    "working_days_open": 2
   },
   {
     "iid": 410,
@@ -29,19 +67,27 @@
     "author": "RangerP",
     "title": "[Question|问题咨询]: A5 dsv5 跨机PD分离 1P1D部署，跑长序列并发场景下KV传输失败",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/cann/hixl/issues/410"
+    "web_url": "https://gitcode.com/cann/hixl/issues/410",
+    "working_days_open": 3
   },
   {
     "iid": 409,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-30",
-    "closed_at": "",
+    "closed_at": "2026-07-02",
     "author": "JBchan",
     "title": "[Question|问题咨询]: A5 dsv4 PD分离kvcache传输失败",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/409"
+    "web_url": "https://gitcode.com/cann/hixl/issues/409",
+    "working_days_open": 3
   },
   {
     "iid": 408,
@@ -51,8 +97,12 @@
     "author": "AlexRen998916",
     "title": "[RFC]: A5 server内H2rH支持环回jetty",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/408"
+    "web_url": "https://gitcode.com/cann/hixl/issues/408",
+    "working_days_open": 3
   },
   {
     "iid": 407,
@@ -62,8 +112,12 @@
     "author": "songmingyang",
     "title": "[Roadmap] HIXL 2026 H2 roadmap",
     "labels": [],
+    "assignees": [
+      "songmingyang"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/407"
+    "web_url": "https://gitcode.com/cann/hixl/issues/407",
+    "working_days_open": 3
   },
   {
     "iid": 405,
@@ -73,8 +127,12 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: HIXL是否支持升级兼容性？",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/405"
+    "web_url": "https://gitcode.com/cann/hixl/issues/405",
+    "working_days_open": 3
   },
   {
     "iid": 404,
@@ -84,8 +142,12 @@
     "author": "huchunmei_123",
     "title": "[Question|问题咨询]: pull_cache接口测试，batch_index：1；size：1*1024*1024，a2精度校验失败，a3 ok",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/404"
+    "web_url": "https://gitcode.com/cann/hixl/issues/404",
+    "working_days_open": 3
   },
   {
     "iid": 403,
@@ -95,8 +157,12 @@
     "author": "wang-chunyang",
     "title": "[Question|问题咨询]: A3，报告 The parameter memHandle is invalid、Failed to deregister mem、hcclRet -> 1 问题",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/403"
+    "web_url": "https://gitcode.com/cann/hixl/issues/403",
+    "working_days_open": 4
   },
   {
     "iid": 402,
@@ -106,8 +172,13 @@
     "author": "jieke275",
     "title": "[Question|问题咨询]: 单机调试PD分离adxl连接超时",
     "labels": [],
+    "assignees": [
+      "xumengxuan",
+      "jiazhaoyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/402"
+    "web_url": "https://gitcode.com/cann/hixl/issues/402",
+    "working_days_open": 4
   },
   {
     "iid": 401,
@@ -117,8 +188,12 @@
     "author": "leijie-ww",
     "title": "[Question|问题咨询]: A5-PR标卡+PD分离+ConnectorV1的推理场景下，发送curl请求后，D节点推理出现报错 json object has no property called 'rank_count'",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/401"
+    "web_url": "https://gitcode.com/cann/hixl/issues/401",
+    "working_days_open": 5
   },
   {
     "iid": 400,
@@ -128,8 +203,12 @@
     "author": "qq_40005102",
     "title": "[Question|问题咨询]: vllm框架、双机PD分离场景，发送curl请求，报kvcache传输失败",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/400"
+    "web_url": "https://gitcode.com/cann/hixl/issues/400",
+    "working_days_open": 6
   },
   {
     "iid": 399,
@@ -139,8 +218,12 @@
     "author": "gcw_pfzw85mp",
     "title": "[Feature-Request|需求反馈]: 将昇腾社区关于hixl单边通信库的问题导入hixl仓issue",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/399"
+    "web_url": "https://gitcode.com/cann/hixl/issues/399",
+    "working_days_open": 6
   },
   {
     "iid": 398,
@@ -150,8 +233,12 @@
     "author": "xumengxuan",
     "title": "[RFC]：自动建链支持根据传输方向自动创建链路",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/398"
+    "web_url": "https://gitcode.com/cann/hixl/issues/398",
+    "working_days_open": 6
   },
   {
     "iid": 397,
@@ -161,8 +248,12 @@
     "author": "wanghui390",
     "title": "[Question|问题咨询]: 根据Mooncake的文档,  如果TransferEngine 的 metadata_server 使用 P2Phandshake模式，在数据传输前，会通过RPC有数据 交互，但是抓包并看没有看到这部分交互。",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/397"
+    "web_url": "https://gitcode.com/cann/hixl/issues/397",
+    "working_days_open": 6
   },
   {
     "iid": 396,
@@ -172,8 +263,12 @@
     "author": "bbsh112",
     "title": "[Question|问题咨询]:  A5 Server UBOE+D2RH  链路模型推理服务KV传输性能问题",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/cann/hixl/issues/396"
+    "web_url": "https://gitcode.com/cann/hixl/issues/396",
+    "working_days_open": 6
   },
   {
     "iid": 395,
@@ -183,8 +278,12 @@
     "author": "ccccccxy",
     "title": "[Bug-Report|缺陷反馈]: MOONCAKE REAL REAL同卡部署传输失败",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/395"
+    "web_url": "https://gitcode.com/cann/hixl/issues/395",
+    "working_days_open": 7
   },
   {
     "iid": 394,
@@ -194,8 +293,12 @@
     "author": "gcw_FYN1wICt",
     "title": "[Question|问题咨询]: A5 HOST ROCE异构验证Mooncake池化，求指导如何配置",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/394"
+    "web_url": "https://gitcode.com/cann/hixl/issues/394",
+    "working_days_open": 7
   },
   {
     "iid": 393,
@@ -205,8 +308,12 @@
     "author": "gcw_FYN1wICt",
     "title": "[Question|问题咨询]: A5机器查ROCE IP",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/393"
+    "web_url": "https://gitcode.com/cann/hixl/issues/393",
+    "working_days_open": 7
   },
   {
     "iid": 392,
@@ -216,8 +323,12 @@
     "author": "chenpengjhony",
     "title": "[Question|问题咨询]: HOST RDMA链路编程咨询",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/392"
+    "web_url": "https://gitcode.com/cann/hixl/issues/392",
+    "working_days_open": 8
   },
   {
     "iid": 391,
@@ -227,8 +338,12 @@
     "author": "gcw_iupKrO77",
     "title": "[Bug-Report|缺陷反馈]: A2机器minimax2.5 池化设置HCCL_INTRA_ROCE_ENABLE=1，请求报错",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/391"
+    "web_url": "https://gitcode.com/cann/hixl/issues/391",
+    "working_days_open": 8
   },
   {
     "iid": 390,
@@ -238,8 +353,12 @@
     "author": "xumengxuan",
     "title": "[RFC]：HIXL支持打包发布deb/rpm包",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/390"
+    "web_url": "https://gitcode.com/cann/hixl/issues/390",
+    "working_days_open": 8
   },
   {
     "iid": 389,
@@ -249,8 +368,12 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]: llm_datadist V2库的 listenIpInfo 选项目前只接受单个 ip:port 格式？",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/389"
+    "web_url": "https://gitcode.com/cann/hixl/issues/389",
+    "working_days_open": 9
   },
   {
     "iid": 388,
@@ -260,8 +383,12 @@
     "author": "Mutu010",
     "title": "[Bug-Report|缺陷反馈]: hixl_example_d2rd 样例执行失败",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/388"
+    "web_url": "https://gitcode.com/cann/hixl/issues/388",
+    "working_days_open": 10
   },
   {
     "iid": 387,
@@ -271,8 +398,12 @@
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: docs/build.md目录下 ，离线编译源码，下载安装第三方开源依赖，开源软件cann-cmake链接无法下载",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/387"
+    "web_url": "https://gitcode.com/cann/hixl/issues/387",
+    "working_days_open": 10
   },
   {
     "iid": 385,
@@ -282,8 +413,12 @@
     "author": "gcw_HC48V26H",
     "title": "[Bug-Report|缺陷反馈]: 执行bash benchmarks/run_all_bench.sh后，报错TypeError: info() missing 1 required positional argument: 'msg'",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/385"
+    "web_url": "https://gitcode.com/cann/hixl/issues/385",
+    "working_days_open": 11
   },
   {
     "iid": 384,
@@ -293,8 +428,12 @@
     "author": "sinat_22339175",
     "title": "[Question|问题咨询]:  请求传输失败",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/cann/hixl/issues/384"
+    "web_url": "https://gitcode.com/cann/hixl/issues/384",
+    "working_days_open": 12
   },
   {
     "iid": 383,
@@ -304,8 +443,12 @@
     "author": "wangqixin",
     "title": "[Question|问题咨询]: 我们在部署大模型后测试mooncake，当前的情况是这种报错，帮忙看一下是否是mooncake传输引擎哪的问题",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/383"
+    "web_url": "https://gitcode.com/cann/hixl/issues/383",
+    "working_days_open": 12
   },
   {
     "iid": 382,
@@ -315,8 +458,12 @@
     "author": "qq_53572475",
     "title": "[Question|问题咨询]: Mooncake DP2TP8 GLM5.1-w4a8，传输报错Failed to connect to target: 141.111.32.82:20502, status: 503900 ",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 12,
-    "web_url": "https://gitcode.com/cann/hixl/issues/382"
+    "web_url": "https://gitcode.com/cann/hixl/issues/382",
+    "working_days_open": 12
   },
   {
     "iid": 381,
@@ -326,8 +473,12 @@
     "author": "gcw_HC48V26H",
     "title": "[Question|问题咨询]: 安装编译完成后，执行bash benchmarks/run_all_bench.sh报错",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/381"
+    "web_url": "https://gitcode.com/cann/hixl/issues/381",
+    "working_days_open": 12
   },
   {
     "iid": 380,
@@ -337,8 +488,12 @@
     "author": "wanghui390",
     "title": "[Question|问题咨询]: Mooncake store setup失败",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/380"
+    "web_url": "https://gitcode.com/cann/hixl/issues/380",
+    "working_days_open": 12
   },
   {
     "iid": 379,
@@ -348,8 +503,12 @@
     "author": "wulu0120",
     "title": "[Question|问题咨询]: 使用mooncake的transfer_sync_read从远端获取数据，建链正常，报错 failed to connect target, status 503900",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/379"
+    "web_url": "https://gitcode.com/cann/hixl/issues/379",
+    "working_days_open": 12
   },
   {
     "iid": 378,
@@ -359,8 +518,12 @@
     "author": "tangjie66",
     "title": "[Bug-Report|缺陷反馈]: 代码里aclrtWaitAndResetNotify和aclrtLaunchKernelWithConfig的入参超时时间是ms还是s",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/378"
+    "web_url": "https://gitcode.com/cann/hixl/issues/378",
+    "working_days_open": 12
   },
   {
     "iid": 377,
@@ -370,8 +533,12 @@
     "author": "A-Liuhao",
     "title": "[Documentation|文档反馈]: HIXL资料书架中部分技术文章链接失效",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/377"
+    "web_url": "https://gitcode.com/cann/hixl/issues/377",
+    "working_days_open": 13
   },
   {
     "iid": 376,
@@ -381,8 +548,12 @@
     "author": "wanghui390",
     "title": "[Question|问题咨询]: hixl连接两个设备，使用connect，传入IP和端口，就可以连接，是怎么做权限校验的",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/376"
+    "web_url": "https://gitcode.com/cann/hixl/issues/376",
+    "working_days_open": 13
   },
   {
     "iid": 375,
@@ -392,8 +563,12 @@
     "author": "huchunmei_123",
     "title": "[Bug-Report|缺陷反馈]: 验证 mem_handle 输出指针为NULL时返回 HIXL_PARAM_INVALID，库内部空指针解引用导致Segfault",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/375"
+    "web_url": "https://gitcode.com/cann/hixl/issues/375",
+    "working_days_open": 13
   },
   {
     "iid": 374,
@@ -403,8 +578,12 @@
     "author": "tianlianga1",
     "title": "[Question|问题咨询]: hccl和hixl底层共用一套物理传输链路嘛？ 那在使用hixl传输时是不是会降低npu卡并行计算通信的效率？",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/374"
+    "web_url": "https://gitcode.com/cann/hixl/issues/374",
+    "working_days_open": 13
   },
   {
     "iid": 373,
@@ -414,8 +593,12 @@
     "author": "wanghui390",
     "title": "[Question|问题咨询]: 超节点D2D传输，如果一次传输一个50GB显存，是会同时使用7条HCCS链路传输（并行），还是只使用一个HCCS链路的一个Lane呢？",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/373"
+    "web_url": "https://gitcode.com/cann/hixl/issues/373",
+    "working_days_open": 13
   },
   {
     "iid": 372,
@@ -425,8 +608,12 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]: 接口测试, Initialize接口入参options中OPTION_DEVICE_ID超出范围，plog无 \"SetDevice failed\"报错",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/372"
+    "web_url": "https://gitcode.com/cann/hixl/issues/372",
+    "working_days_open": 13
   },
   {
     "iid": 371,
@@ -436,8 +623,12 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: llm_datadist_v1/llm_utils.py 的 check_transfer_config() 方法中格式字符串中{0}被使用2次，会导致始终取第一个参数num_tensors_to_transfer的数值，造成语义混乱",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/371"
+    "web_url": "https://gitcode.com/cann/hixl/issues/371",
+    "working_days_open": 13
   },
   {
     "iid": 370,
@@ -447,8 +638,12 @@
     "author": "zhaomingchu",
     "title": "[Bug-Report|缺陷反馈]: Deepseek适配KV Pool，ROCE通信异常",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/370"
+    "web_url": "https://gitcode.com/cann/hixl/issues/370",
+    "working_days_open": 14
   },
   {
     "iid": 369,
@@ -458,8 +653,12 @@
     "author": "leijie-ww",
     "title": "[Bug-Report|缺陷反馈]: A3+Qwen3.5+PD分离场景下首次hixl传输数据异常",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/369"
+    "web_url": "https://gitcode.com/cann/hixl/issues/369",
+    "working_days_open": 14
   },
   {
     "iid": 368,
@@ -469,8 +668,12 @@
     "author": "A-Liuhao",
     "title": "[Feature-Request|需求反馈]: 代码检视skill建议增加文档/日志规范检查",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/368"
+    "web_url": "https://gitcode.com/cann/hixl/issues/368",
+    "working_days_open": 15
   },
   {
     "iid": 367,
@@ -480,8 +683,12 @@
     "author": "A-Liuhao",
     "title": "[Documentation|文档反馈]: benchmark性能数据展示优化建议",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/367"
+    "web_url": "https://gitcode.com/cann/hixl/issues/367",
+    "working_days_open": 15
   },
   {
     "iid": 366,
@@ -491,8 +698,12 @@
     "author": "qq_56278931",
     "title": "[Documentation|文档反馈]: TTFHW--SKILLS验证仓库的编译&UT/DT&样例执行情况问题反馈",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/366"
+    "web_url": "https://gitcode.com/cann/hixl/issues/366",
+    "working_days_open": 15
   },
   {
     "iid": 365,
@@ -502,8 +713,12 @@
     "author": "willzhuyx",
     "title": "[Bug-Report|缺陷反馈]: A5 Server通过1825网卡通过RoCE进行通讯，Mooncake transfer engine启动失败",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/365"
+    "web_url": "https://gitcode.com/cann/hixl/issues/365",
+    "working_days_open": 15
   },
   {
     "iid": 364,
@@ -513,8 +728,12 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: kNotifyDefaultWaitTimeMs和kCustomTimeoutMs问题咨询",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/364"
+    "web_url": "https://gitcode.com/cann/hixl/issues/364",
+    "working_days_open": 15
   },
   {
     "iid": 363,
@@ -524,8 +743,12 @@
     "author": "super_chao_x",
     "title": "[Bug-Report|缺陷反馈]: hixl建链、断链后重连失败",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/363"
+    "web_url": "https://gitcode.com/cann/hixl/issues/363",
+    "working_days_open": 16
   },
   {
     "iid": 362,
@@ -535,8 +758,13 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: 异步建链，增加线程数后，效果不符合预期",
     "labels": [],
+    "assignees": [
+      "zhaozhihui",
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 9,
-    "web_url": "https://gitcode.com/cann/hixl/issues/362"
+    "web_url": "https://gitcode.com/cann/hixl/issues/362",
+    "working_days_open": 17
   },
   {
     "iid": 361,
@@ -546,8 +774,12 @@
     "author": "gcw_RywTBohB",
     "title": "[Documentation|文档反馈]: C/C++ API的接口文档为什么只体现了3个接口？建议参考Python API进行优化",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/361"
+    "web_url": "https://gitcode.com/cann/hixl/issues/361",
+    "working_days_open": 17
   },
   {
     "iid": 360,
@@ -557,8 +789,12 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]: 单边通信接口query_register_mem_status测试，组网1p1d,  参数异常comm_id值为-1, link失败了，为啥还打印[pull_cache] success",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/360"
+    "web_url": "https://gitcode.com/cann/hixl/issues/360",
+    "working_days_open": 17
   },
   {
     "iid": 359,
@@ -568,8 +804,12 @@
     "author": "Sterling-Gong",
     "title": "[Bug-Report|缺陷反馈]: mooncake benchmark bandwidth example cannot run",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/359"
+    "web_url": "https://gitcode.com/cann/hixl/issues/359",
+    "working_days_open": 17
   },
   {
     "iid": 358,
@@ -579,8 +819,12 @@
     "author": "tianlianga1",
     "title": "[Question|问题咨询]:目前支持vnpu的场景嘛？我在vnpu场景下运行MooncakeDistributedStore.setup报 Failed to connect to target: 172.30.132.83:20348, status: 103900, errmsg: E19999: Inner Errorl",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/cann/hixl/issues/358"
+    "web_url": "https://gitcode.com/cann/hixl/issues/358",
+    "working_days_open": 18
   },
   {
     "iid": 357,
@@ -590,8 +834,12 @@
     "author": "msjopp",
     "title": "[Bug-Report|缺陷反馈]: mooncake + hixl 双机16p kvcache传输 报错ErrorNo: 103900 [HIXL]invalid msg len:272 of create channel, must = 176",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/357"
+    "web_url": "https://gitcode.com/cann/hixl/issues/357",
+    "working_days_open": 18
   },
   {
     "iid": 356,
@@ -601,8 +849,12 @@
     "author": "super_chao_x",
     "title": "[Bug-Report|缺陷反馈]: HIXL 批量获取接口，存在重复上报IO的情况",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/356"
+    "web_url": "https://gitcode.com/cann/hixl/issues/356",
+    "working_days_open": 18
   },
   {
     "iid": 355,
@@ -612,8 +864,12 @@
     "author": "chenbing9527",
     "title": "[Question|问题咨询]: 环境上找不到npu_peermem.ko",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/355"
+    "web_url": "https://gitcode.com/cann/hixl/issues/355",
+    "working_days_open": 18
   },
   {
     "iid": 354,
@@ -623,8 +879,12 @@
     "author": "sinat_22339175",
     "title": "[Bug-Report|缺陷反馈]:  PD网络隔离恢复后HCCS仍然无法通信",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/354"
+    "web_url": "https://gitcode.com/cann/hixl/issues/354",
+    "working_days_open": 18
   },
   {
     "iid": 353,
@@ -634,8 +894,12 @@
     "author": "bbsh112",
     "title": "[Question|问题咨询]: A5 UBOE 双机PD分离拉起后跑推理时，出现的D2RH传输，以及 D2D 传输失败问题",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 22,
-    "web_url": "https://gitcode.com/cann/hixl/issues/353"
+    "web_url": "https://gitcode.com/cann/hixl/issues/353",
+    "working_days_open": 19
   },
   {
     "iid": 352,
@@ -645,8 +909,12 @@
     "author": "SincoTeng",
     "title": "[Bug-Report|缺陷反馈] 多进程hstu训练场景，每个进程同时初始化client与server，client连接其他进程的server，比较高概率出现连接超时，无法正常连接通信",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/352"
+    "web_url": "https://gitcode.com/cann/hixl/issues/352",
+    "working_days_open": 19
   },
   {
     "iid": 351,
@@ -656,8 +924,12 @@
     "author": "youyx",
     "title": "[RFC]: FabricMem 异步传输 aclrtStreamQuery 快速失败",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/351"
+    "web_url": "https://gitcode.com/cann/hixl/issues/351",
+    "working_days_open": 19
   },
   {
     "iid": 349,
@@ -667,8 +939,13 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: A2性能相关问题咨询（多卡性能、小IO时延）",
     "labels": [],
+    "assignees": [
+      "xumengxuan",
+      "zhaozhihui"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/349"
+    "web_url": "https://gitcode.com/cann/hixl/issues/349",
+    "working_days_open": 19
   },
   {
     "iid": 348,
@@ -678,8 +955,12 @@
     "author": "M__Cheng",
     "title": "[Bug-Report|缺陷反馈]: mooncake store 4p场景下传输报错",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/348"
+    "web_url": "https://gitcode.com/cann/hixl/issues/348",
+    "working_days_open": 21
   },
   {
     "iid": 347,
@@ -689,8 +970,12 @@
     "author": "super_chao_x",
     "title": "[Bug-Report|缺陷反馈]: GetTransferStatus failed, invalid req",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/347"
+    "web_url": "https://gitcode.com/cann/hixl/issues/347",
+    "working_days_open": 21
   },
   {
     "iid": 346,
@@ -700,8 +985,12 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: HIXL连接规格并发上限咨询",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 7,
-    "web_url": "https://gitcode.com/cann/hixl/issues/346"
+    "web_url": "https://gitcode.com/cann/hixl/issues/346",
+    "working_days_open": 21
   },
   {
     "iid": 345,
@@ -711,8 +1000,12 @@
     "author": "postWater1",
     "title": "[Question|问题咨询]: A2双机混部+VLLMAscend18.0+mooncake backend场景，部分链路建链失败，报错Failed to connect to target: xxxxx, status: 503900",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 9,
-    "web_url": "https://gitcode.com/cann/hixl/issues/345"
+    "web_url": "https://gitcode.com/cann/hixl/issues/345",
+    "working_days_open": 22
   },
   {
     "iid": 344,
@@ -722,8 +1015,10 @@
     "author": "p_ch",
     "title": "[Bug-Report|缺陷反馈]: Failed to link clusters",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/344"
+    "web_url": "https://gitcode.com/cann/hixl/issues/344",
+    "working_days_open": 22
   },
   {
     "iid": 343,
@@ -733,8 +1028,12 @@
     "author": "hucheng-star",
     "title": "[Bug-Report|缺陷反馈]: GLM5.1 PD分离场景kv cache传输超过200ms+，异常",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/343"
+    "web_url": "https://gitcode.com/cann/hixl/issues/343",
+    "working_days_open": 22
   },
   {
     "iid": 342,
@@ -744,8 +1043,12 @@
     "author": "super_chao_x",
     "title": "[Bug-Report|缺陷反馈]: 使用GetTransferStatus 批量获取接口后，存在user data等于空，业务无法正常处理",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/342"
+    "web_url": "https://gitcode.com/cann/hixl/issues/342",
+    "working_days_open": 23
   },
   {
     "iid": 341,
@@ -755,8 +1058,12 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: deallocate_blocks_cache中cache配置重复，无报错",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/341"
+    "web_url": "https://gitcode.com/cann/hixl/issues/341",
+    "working_days_open": 23
   },
   {
     "iid": 340,
@@ -766,8 +1073,12 @@
     "author": "OPALUS",
     "title": "[Question|问题咨询]: 注冊内存失败，报错]Failed to register mem",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/340"
+    "web_url": "https://gitcode.com/cann/hixl/issues/340",
+    "working_days_open": 23
   },
   {
     "iid": 339,
@@ -777,8 +1088,12 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: SECURITY.md  权限表示法中使用了破折号而非连字符",
     "labels": [],
+    "assignees": [
+      "whh_smile"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/339"
+    "web_url": "https://gitcode.com/cann/hixl/issues/339",
+    "working_days_open": 23
   },
   {
     "iid": 305,
@@ -788,8 +1103,12 @@
     "author": "qq_58644813",
     "title": "[Bug-Report|缺陷反馈]: A2双机混部，总缓存1.6T缓存一半奔溃",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/cann/hixl/issues/305"
+    "web_url": "https://gitcode.com/cann/hixl/issues/305",
+    "working_days_open": 24
   },
   {
     "iid": 304,
@@ -799,8 +1118,12 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: python样例push_blocks_sample.py执行失败，plog有报错cache_key: (18446744073709551615, 0) does not exist",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/304"
+    "web_url": "https://gitcode.com/cann/hixl/issues/304",
+    "working_days_open": 24
   },
   {
     "iid": 303,
@@ -810,8 +1133,12 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: conda里执行ut样例，执行失败2个用例",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/303"
+    "web_url": "https://gitcode.com/cann/hixl/issues/303",
+    "working_days_open": 26
   },
   {
     "iid": 302,
@@ -821,8 +1148,12 @@
     "author": "tangjie66",
     "title": "[RFC]: HIXL 单边通信支持 UBG 协议+支持自动选取scaleout口",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/302"
+    "web_url": "https://gitcode.com/cann/hixl/issues/302",
+    "working_days_open": 26
   },
   {
     "iid": 301,
@@ -832,8 +1163,13 @@
     "author": "gcw_IHBa4woR",
     "title": "[Bug-Report|缺陷反馈]:  GLM-5.1 W4A8 PD分离+MoonCake Store场景，910C使用 ROCE（非HCCS）不定期出现MoonCake 传输失败问题",
     "labels": [],
+    "assignees": [
+      "xumengxuan",
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/301"
+    "web_url": "https://gitcode.com/cann/hixl/issues/301",
+    "working_days_open": 26
   },
   {
     "iid": 300,
@@ -843,8 +1179,12 @@
     "author": "SincoTeng",
     "title": "[Bug-Report|缺陷反馈]: 多进程场景，每个进程同时初始化client与server，client连接其他进程的server，比较高概率出现连接超时，无法正常连接通信",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/300"
+    "web_url": "https://gitcode.com/cann/hixl/issues/300",
+    "working_days_open": 26
   },
   {
     "iid": 299,
@@ -854,8 +1194,12 @@
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: 容器场景跑hixl用例socket失败",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/299"
+    "web_url": "https://gitcode.com/cann/hixl/issues/299",
+    "working_days_open": 27
   },
   {
     "iid": 298,
@@ -865,8 +1209,12 @@
     "author": "lugang11",
     "title": "[Feature-Request|需求反馈]: LocalCommRes 模块增强需求文档",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/298"
+    "web_url": "https://gitcode.com/cann/hixl/issues/298",
+    "working_days_open": 27
   },
   {
     "iid": 297,
@@ -876,8 +1224,12 @@
     "author": "bbsh112",
     "title": "[Question|问题咨询]: vllm服务化脚本添加使能uboe的环境变量后触发报错",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/297"
+    "web_url": "https://gitcode.com/cann/hixl/issues/297",
+    "working_days_open": 27
   },
   {
     "iid": 296,
@@ -887,8 +1239,13 @@
     "author": "Mknmkn123",
     "title": "[Documentation|文档反馈]: CS单边通信易用性问题汇总",
     "labels": [],
+    "assignees": [
+      "Mutu010",
+      "Mknmkn123"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/296"
+    "web_url": "https://gitcode.com/cann/hixl/issues/296",
+    "working_days_open": 27
   },
   {
     "iid": 295,
@@ -898,8 +1255,12 @@
     "author": "wufeng15",
     "title": "[Documentation|文档反馈]: 新增的hixl 支持A5的特性，请补充example工程和 D2D、RH2D、H2H等",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/295"
+    "web_url": "https://gitcode.com/cann/hixl/issues/295",
+    "working_days_open": 28
   },
   {
     "iid": 294,
@@ -909,8 +1270,12 @@
     "author": "andy_git",
     "title": "[Feature-Request|需求反馈]: HIXL CS单边接口A5支持Qos相关能力",
     "labels": [],
+    "assignees": [
+      "andy_git"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/294"
+    "web_url": "https://gitcode.com/cann/hixl/issues/294",
+    "working_days_open": 28
   },
   {
     "iid": 293,
@@ -920,8 +1285,12 @@
     "author": "advheng",
     "title": "[Question|问题咨询]: hixl 与 MemFabric 在mooncake中集成时在功能、底层传输路径上有何异同，两者是否有依赖关系呢？",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/293"
+    "web_url": "https://gitcode.com/cann/hixl/issues/293",
+    "working_days_open": 28
   },
   {
     "iid": 292,
@@ -931,8 +1300,12 @@
     "author": "Menphina",
     "title": "[Question|问题咨询]: fabric_mem 在 D2rH/rH2D/rH2H/H2rH 方向触发 SDMA link error(0x222)",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 7,
-    "web_url": "https://gitcode.com/cann/hixl/issues/292"
+    "web_url": "https://gitcode.com/cann/hixl/issues/292",
+    "working_days_open": 28
   },
   {
     "iid": 291,
@@ -942,8 +1315,12 @@
     "author": "hjx_here",
     "title": "[Feature-Request|需求反馈]: 需要mooncake支持torch_npu.empty_with_swapped_memory创建的虚拟内存tensor进行注册",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 15,
-    "web_url": "https://gitcode.com/cann/hixl/issues/291"
+    "web_url": "https://gitcode.com/cann/hixl/issues/291",
+    "working_days_open": 29
   },
   {
     "iid": 290,
@@ -953,8 +1330,12 @@
     "author": "super_chao_x",
     "title": "[Question|问题咨询]: 关于HIXL over ROCE场景下内存注册与反注册咨询",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/290"
+    "web_url": "https://gitcode.com/cann/hixl/issues/290",
+    "working_days_open": 29
   },
   {
     "iid": 289,
@@ -964,8 +1345,12 @@
     "author": "M__Cheng",
     "title": "[Question] Python样例文档对torch/torch_npu依赖的安装说明过于简略，仅提供外部链接而无具体版本要求和安装命令，开发者难以快速完成环境准备",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/289"
+    "web_url": "https://gitcode.com/cann/hixl/issues/289",
+    "working_days_open": 29
   },
   {
     "iid": 288,
@@ -975,8 +1360,12 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: CS单边通信--日志维测：同一行报错日志中remote engine不带下划线，local_engine带下划线，请统一格式",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/288"
+    "web_url": "https://gitcode.com/cann/hixl/issues/288",
+    "working_days_open": 30
   },
   {
     "iid": 287,
@@ -986,8 +1375,12 @@
     "author": "M__Cheng",
     "title": "[Documentation|文档反馈]:  用户体验问题，代码和文档描述不匹配",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/287"
+    "web_url": "https://gitcode.com/cann/hixl/issues/287",
+    "working_days_open": 30
   },
   {
     "iid": 286,
@@ -997,8 +1390,12 @@
     "author": "lwx1255555",
     "title": "[Bug-Report|缺陷反馈]: readme中的链接失效",
     "labels": [],
+    "assignees": [
+      "qq_34775310"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/286"
+    "web_url": "https://gitcode.com/cann/hixl/issues/286",
+    "working_days_open": 30
   },
   {
     "iid": 285,
@@ -1008,8 +1405,12 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]: conda使用的是python3.14，基于master仓编译hixl子包，安装后，执行测试用例，报/usr/local/Ascend/cann-9.1.0/python/site-packages/llm_datadist_v1/llm_wrapper.so: undefined symbol: _PyThreadState_UncheckedGet，是否要兼容",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/285"
+    "web_url": "https://gitcode.com/cann/hixl/issues/285",
+    "working_days_open": 30
   },
   {
     "iid": 284,
@@ -1019,8 +1420,12 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]: hixl master仓编出来的包是9.0.0，目前主线是9.1.0，开源仓版本是否需要和主线一致",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/284"
+    "web_url": "https://gitcode.com/cann/hixl/issues/284",
+    "working_days_open": 31
   },
   {
     "iid": 283,
@@ -1030,8 +1435,12 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: CS单边通信接口：不支持hixl链路池功能，但是plog无不支持该功能报错和其他报错",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/283"
+    "web_url": "https://gitcode.com/cann/hixl/issues/283",
+    "working_days_open": 31
   },
   {
     "iid": 282,
@@ -1041,8 +1450,12 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: CS单边通信接口：hccs 通信，Dr2D，plog日志报错[TransportBase][BatchTransferAsync]Does not support this interface",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/282"
+    "web_url": "https://gitcode.com/cann/hixl/issues/282",
+    "working_days_open": 31
   },
   {
     "iid": 281,
@@ -1052,8 +1465,12 @@
     "author": "A-Liuhao",
     "title": "[RFC]: HIXL支持Python API",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/281"
+    "web_url": "https://gitcode.com/cann/hixl/issues/281",
+    "working_days_open": 31
   },
   {
     "iid": 280,
@@ -1063,8 +1480,12 @@
     "author": "ZhaoBaiwei",
     "title": "[RFC]: HIXL 编译&LLT 在GCC14版本下验证",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/280"
+    "web_url": "https://gitcode.com/cann/hixl/issues/280",
+    "working_days_open": 32
   },
   {
     "iid": 279,
@@ -1074,8 +1495,12 @@
     "author": "lining23666",
     "title": "[Question|问题咨询]: 使用malloc的内存调用RegisterMem注册失败",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/279"
+    "web_url": "https://gitcode.com/cann/hixl/issues/279",
+    "working_days_open": 33
   },
   {
     "iid": 278,
@@ -1085,8 +1510,12 @@
     "author": "xumengxuan",
     "title": "[RFC]: 编译安装运行支持 Python 3.14",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/278"
+    "web_url": "https://gitcode.com/cann/hixl/issues/278",
+    "working_days_open": 33
   },
   {
     "iid": 277,
@@ -1096,8 +1525,19 @@
     "author": "lugang11",
     "title": "[Feature-Request|需求反馈]: HIXL_CI改进",
     "labels": [],
+    "assignees": [
+      "xumengxuan",
+      "jiazhaoyang",
+      "lining23666",
+      "youyx",
+      "zhujingjing",
+      "zhaozhihui",
+      "AlexRen998916",
+      "lugang11"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/277"
+    "web_url": "https://gitcode.com/cann/hixl/issues/277",
+    "working_days_open": 33
   },
   {
     "iid": 276,
@@ -1107,8 +1547,12 @@
     "author": "A-Liuhao",
     "title": "[Bug-Report|缺陷反馈]: .pre-commit-config.yaml中使用了github链接，导致CI超时",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/276"
+    "web_url": "https://gitcode.com/cann/hixl/issues/276",
+    "working_days_open": 34
   },
   {
     "iid": 275,
@@ -1118,8 +1562,12 @@
     "author": "lining23666",
     "title": "[RFC]: HIXL支持UBoE协议传输",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/275"
+    "web_url": "https://gitcode.com/cann/hixl/issues/275",
+    "working_days_open": 34
   },
   {
     "iid": 274,
@@ -1129,8 +1577,12 @@
     "author": "qq_41478219",
     "title": "[Question|问题咨询]: 我的服务器配置如下应该如何搭建相关大模型部署环境",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/274"
+    "web_url": "https://gitcode.com/cann/hixl/issues/274",
+    "working_days_open": 34
   },
   {
     "iid": 273,
@@ -1140,8 +1592,12 @@
     "author": "qq_41478219",
     "title": "[Question|问题咨询]:  HIXL 对 Device UBoE 的支持在实际业务中如何使用？与现有传输模式有何关系？",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/273"
+    "web_url": "https://gitcode.com/cann/hixl/issues/273",
+    "working_days_open": 34
   },
   {
     "iid": 272,
@@ -1151,8 +1607,12 @@
     "author": "OPALUS",
     "title": "[Question|问题咨询]:  Can't find remoteBuffer by key[0x12c1c0000000][262144]",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/272"
+    "web_url": "https://gitcode.com/cann/hixl/issues/272",
+    "working_days_open": 34
   },
   {
     "iid": 271,
@@ -1162,8 +1622,12 @@
     "author": "M__Cheng",
     "title": "[Bug-Report|缺陷反馈]: 云平台执行bash tests/run_test.sh失败",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/271"
+    "web_url": "https://gitcode.com/cann/hixl/issues/271",
+    "working_days_open": 35
   },
   {
     "iid": 270,
@@ -1173,8 +1637,12 @@
     "author": "he_ziwei",
     "title": "[Question|问题咨询]: [HcclOneSidedService][ExchangeMemDescFullMesh]timeout",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/270"
+    "web_url": "https://gitcode.com/cann/hixl/issues/270",
+    "working_days_open": 36
   },
   {
     "iid": 269,
@@ -1184,8 +1652,12 @@
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]:  轻度问题（文件引用/死代码/链接失效）",
     "labels": [],
+    "assignees": [
+      "dreamNway"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/269"
+    "web_url": "https://gitcode.com/cann/hixl/issues/269",
+    "working_days_open": 36
   },
   {
     "iid": 268,
@@ -1195,8 +1667,12 @@
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]: 中等问题（拼写错误/参数描述错误）",
     "labels": [],
+    "assignees": [
+      "qq_43499814"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/268"
+    "web_url": "https://gitcode.com/cann/hixl/issues/268",
+    "working_days_open": 36
   },
   {
     "iid": 267,
@@ -1206,8 +1682,12 @@
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]: 中等问题（拼写错误/参数描述错误）",
     "labels": [],
+    "assignees": [
+      "czhcode"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/267"
+    "web_url": "https://gitcode.com/cann/hixl/issues/267",
+    "working_days_open": 36
   },
   {
     "iid": 266,
@@ -1217,8 +1697,12 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: 并发测试（链路与同步传输并发），plog日志有ERROR报错：ParseCommResourceConfig: ErrorNo: 103900() [HIXL]parse CommResourceConfig json failed, json=",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/266"
+    "web_url": "https://gitcode.com/cann/hixl/issues/266",
+    "working_days_open": 36
   },
   {
     "iid": 265,
@@ -1228,8 +1712,13 @@
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]: 代码扫描问题",
     "labels": [],
+    "assignees": [
+      "xumengxuan",
+      "maodou9"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/265"
+    "web_url": "https://gitcode.com/cann/hixl/issues/265",
+    "working_days_open": 36
   },
   {
     "iid": 264,
@@ -1239,8 +1728,12 @@
     "author": "he_ziwei",
     "title": "[Question|问题咨询]: 单向建链时失败 ra socket send",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/264"
+    "web_url": "https://gitcode.com/cann/hixl/issues/264",
+    "working_days_open": 37
   },
   {
     "iid": 263,
@@ -1250,8 +1743,12 @@
     "author": "gcw_RywTBohB",
     "title": "[Documentation|文档反馈]: 1.Fabric Mem还是FabricMem，请全文保持统一 2.表格中的内容不正确",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/263"
+    "web_url": "https://gitcode.com/cann/hixl/issues/263",
+    "working_days_open": 37
   },
   {
     "iid": 262,
@@ -1261,8 +1758,12 @@
     "author": "gcw_RywTBohB",
     "title": "[Documentation|文档反馈]: 格式错误，应该是与上下文保持一致，加粗显示",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/262"
+    "web_url": "https://gitcode.com/cann/hixl/issues/262",
+    "working_days_open": 37
   },
   {
     "iid": 261,
@@ -1272,8 +1773,12 @@
     "author": "gcw_RywTBohB",
     "title": "[Documentation|文档反馈]: 格式低错",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/261"
+    "web_url": "https://gitcode.com/cann/hixl/issues/261",
+    "working_days_open": 37
   },
   {
     "iid": 260,
@@ -1283,8 +1788,12 @@
     "author": "gcw_RywTBohB",
     "title": "[Documentation|文档反馈]: \"1、A2的产品名称不准确。 2、下面列表给出\"",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/260"
+    "web_url": "https://gitcode.com/cann/hixl/issues/260",
+    "working_days_open": 37
   },
   {
     "iid": 259,
@@ -1294,8 +1803,12 @@
     "author": "Mknmkn123",
     "title": "[Documentation|文档反馈]: skill扫描文档问题",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/259"
+    "web_url": "https://gitcode.com/cann/hixl/issues/259",
+    "working_days_open": 37
   },
   {
     "iid": 258,
@@ -1305,8 +1818,12 @@
     "author": "youyx",
     "title": "[RFC]: HIXL benchmark重构",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/258"
+    "web_url": "https://gitcode.com/cann/hixl/issues/258",
+    "working_days_open": 38
   },
   {
     "iid": 257,
@@ -1316,8 +1833,12 @@
     "author": "tianlianga1",
     "title": "[Question|问题咨询]: 目前支持单卡多进程通信吗？",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/257"
+    "web_url": "https://gitcode.com/cann/hixl/issues/257",
+    "working_days_open": 38
   },
   {
     "iid": 256,
@@ -1327,8 +1848,12 @@
     "author": "wenke1312",
     "title": "[Question|问题咨询]: mooncake store使用ascend协议，单卡未注册地址为啥也可以正常运行，地址注册是必须的？",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/256"
+    "web_url": "https://gitcode.com/cann/hixl/issues/256",
+    "working_days_open": 38
   },
   {
     "iid": 255,
@@ -1338,8 +1863,12 @@
     "author": "wenke1312",
     "title": "[Bug-Report|缺陷反馈]: mooncake store使用ascend协议，注册时会存现报错",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/255"
+    "web_url": "https://gitcode.com/cann/hixl/issues/255",
+    "working_days_open": 38
   },
   {
     "iid": 254,
@@ -1349,8 +1878,13 @@
     "author": "A-Liuhao",
     "title": "[Bug-Report|缺陷反馈]: 执行bash tests/run_test.sh -t=py出现段错误",
     "labels": [],
+    "assignees": [
+      "andy_git",
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/254"
+    "web_url": "https://gitcode.com/cann/hixl/issues/254",
+    "working_days_open": 40
   },
   {
     "iid": 253,
@@ -1360,8 +1894,12 @@
     "author": "A-Liuhao",
     "title": "【HIXL任务挑战赛】持续更新中",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/253"
+    "web_url": "https://gitcode.com/cann/hixl/issues/253",
+    "working_days_open": 40
   },
   {
     "iid": 252,
@@ -1371,8 +1909,12 @@
     "author": "weixin_44928100",
     "title": "[Question|问题咨询]: 配置好mooncake store，使用vllm bench进行多轮测试，第一轮ttft能下降，第二轮ttft与关闭prefix caching一样，没有提升，日志显示external prefix caching rate都是保持的50%",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/252"
+    "web_url": "https://gitcode.com/cann/hixl/issues/252",
+    "working_days_open": 40
   },
   {
     "iid": 251,
@@ -1382,8 +1924,12 @@
     "author": "weixin_44928100",
     "title": "[Question|问题咨询]: global_segment_size大小如何进行计算和配置咨询",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/251"
+    "web_url": "https://gitcode.com/cann/hixl/issues/251",
+    "working_days_open": 40
   },
   {
     "iid": 250,
@@ -1393,8 +1939,13 @@
     "author": "zhao-pengboA",
     "title": "[Question|问题咨询]:  HCCL_INTRA_ROCE_ENABLE和 HCCL_INTRA_PCIE_ENABLE配置和通信链路关系咨询",
     "labels": [],
+    "assignees": [
+      "youyx",
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/250"
+    "web_url": "https://gitcode.com/cann/hixl/issues/250",
+    "working_days_open": 40
   },
   {
     "iid": 249,
@@ -1404,8 +1955,12 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: hixl接口，option配置环境变量OPTION_RDMA_SERVICE_LEVEL：-1 ，未做异常值效验",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/249"
+    "web_url": "https://gitcode.com/cann/hixl/issues/249",
+    "working_days_open": 41
   },
   {
     "iid": 248,
@@ -1415,8 +1970,12 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: hixl接口，option配置环境变量OPTION_RDMA_TRAFFIC_CLASS：-1 ，未做异常值效验",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/248"
+    "web_url": "https://gitcode.com/cann/hixl/issues/248",
+    "working_days_open": 41
   },
   {
     "iid": 247,
@@ -1426,8 +1985,12 @@
     "author": "jpollo",
     "title": "[Bug-Report|缺陷反馈]: hixl ERROR LOG 打印需要优化",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/247"
+    "web_url": "https://gitcode.com/cann/hixl/issues/247",
+    "working_days_open": 41
   },
   {
     "iid": 246,
@@ -1437,8 +2000,12 @@
     "author": "ZhaoBaiwei",
     "title": "[RFC]: HIXL仓重复头文件整改",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/246"
+    "web_url": "https://gitcode.com/cann/hixl/issues/246",
+    "working_days_open": 42
   },
   {
     "iid": 245,
@@ -1448,8 +2015,12 @@
     "author": "M__Cheng",
     "title": "[RFC]: HIXL Engine 支持 Notify 和 AutoConnect 能力",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/245"
+    "web_url": "https://gitcode.com/cann/hixl/issues/245",
+    "working_days_open": 42
   },
   {
     "iid": 244,
@@ -1459,8 +2030,12 @@
     "author": "AlexRen998916",
     "title": "[RFC]: 构建效率优化，编译支持依赖子包的源码和二进制",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/244"
+    "web_url": "https://gitcode.com/cann/hixl/issues/244",
+    "working_days_open": 42
   },
   {
     "iid": 243,
@@ -1470,8 +2045,12 @@
     "author": "P1GGYii",
     "title": "[Bug-Report|缺陷反馈]: RegisterHostTransFinishedFlag 初始化标志位时：malloc 未判空且失败路径未释放，可能导致崩溃/泄漏",
     "labels": [],
+    "assignees": [
+      "weixin_47490833"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/243"
+    "web_url": "https://gitcode.com/cann/hixl/issues/243",
+    "working_days_open": 42
   },
   {
     "iid": 242,
@@ -1481,8 +2060,12 @@
     "author": "P1GGYii",
     "title": "[Bug-Report|缺陷反馈]: 对端交换的内存描述符校验不完整，cache_table_size 未校验 （cwe-20）",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/242"
+    "web_url": "https://gitcode.com/cann/hixl/issues/242",
+    "working_days_open": 42
   },
   {
     "iid": 241,
@@ -1492,8 +2075,12 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: 主线，TransferAsync接口参数测试op_descs：均不填写_optional_args，执行用例，未作异常校验",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/241"
+    "web_url": "https://gitcode.com/cann/hixl/issues/241",
+    "working_days_open": 43
   },
   {
     "iid": 240,
@@ -1503,8 +2090,12 @@
     "author": "tangjie66",
     "title": "[RFC]: LLM-DataDist动态请求缓冲区",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/240"
+    "web_url": "https://gitcode.com/cann/hixl/issues/240",
+    "working_days_open": 43
   },
   {
     "iid": 239,
@@ -1514,8 +2105,12 @@
     "author": "Leo___Gao",
     "title": "[Bug-Report|缺陷反馈]: ScalableAllocator::Finalize 中 delete    与自定义池分配器释放方式不匹配",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/239"
+    "web_url": "https://gitcode.com/cann/hixl/issues/239",
+    "working_days_open": 44
   },
   {
     "iid": 238,
@@ -1525,8 +2120,12 @@
     "author": "Leo___Gao",
     "title": "[Bug-Report|缺陷反馈]: RegisterHostTransFinishedFlag 中 malloc 返回值未做空指针检查",
     "labels": [],
+    "assignees": [
+      "weixin_56406373"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/238"
+    "web_url": "https://gitcode.com/cann/hixl/issues/238",
+    "working_days_open": 44
   },
   {
     "iid": 237,
@@ -1536,8 +2135,12 @@
     "author": "lvran01",
     "title": "[Question|问题咨询]: A5 环境，测试 Ascend device -> remote device 的传输性能，报错连接失败",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/237"
+    "web_url": "https://gitcode.com/cann/hixl/issues/237",
+    "working_days_open": 44
   },
   {
     "iid": 236,
@@ -1547,8 +2150,12 @@
     "author": "A-Liuhao",
     "title": "[Documentation|文档反馈]: 建议优化统一“数据传输方向”的相关表述",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/236"
+    "web_url": "https://gitcode.com/cann/hixl/issues/236",
+    "working_days_open": 44
   },
   {
     "iid": 229,
@@ -1558,8 +2165,12 @@
     "author": "xumengxuan",
     "title": "[RFC]：组件依赖工程公共仓",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/229"
+    "web_url": "https://gitcode.com/cann/hixl/issues/229",
+    "working_days_open": 45
   },
   {
     "iid": 227,
@@ -1569,8 +2180,13 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: HIXL的benchmark性能测试，相关疑问点汇总",
     "labels": [],
+    "assignees": [
+      "A-Liuhao",
+      "zhaozhihui"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/227"
+    "web_url": "https://gitcode.com/cann/hixl/issues/227",
+    "working_days_open": 45
   },
   {
     "iid": 226,
@@ -1580,8 +2196,12 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]: HIXL的benchmark性能标杆数据，是如何测试出来的，可选参数比较多",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/226"
+    "web_url": "https://gitcode.com/cann/hixl/issues/226",
+    "working_days_open": 45
   },
   {
     "iid": 225,
@@ -1591,8 +2211,12 @@
     "author": "A-Liuhao",
     "title": "[Bug-Report|缺陷反馈]: Python3.13.11版本跑样例报错 undefined symbol: _PyThreadState_UncheckedGet",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 7,
-    "web_url": "https://gitcode.com/cann/hixl/issues/225"
+    "web_url": "https://gitcode.com/cann/hixl/issues/225",
+    "working_days_open": 46
   },
   {
     "iid": 224,
@@ -1602,8 +2226,12 @@
     "author": "A-Liuhao",
     "title": "[Documentation|文档反馈]: CMake版本说明",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/224"
+    "web_url": "https://gitcode.com/cann/hixl/issues/224",
+    "working_days_open": 46
   },
   {
     "iid": 223,
@@ -1613,8 +2241,12 @@
     "author": "A-Liuhao",
     "title": "[Documentation|文档反馈]: HIXL支持的python版本范围和CANN包支持的范围不一致，需要明确支持的范围",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/223"
+    "web_url": "https://gitcode.com/cann/hixl/issues/223",
+    "working_days_open": 46
   },
   {
     "iid": 222,
@@ -1624,8 +2256,12 @@
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: 双机执行， 使能传输后端引擎=hixl，建链报错",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/222"
+    "web_url": "https://gitcode.com/cann/hixl/issues/222",
+    "working_days_open": 47
   },
   {
     "iid": 221,
@@ -1635,8 +2271,12 @@
     "author": "lyy_666",
     "title": "【文档捉虫-正确性问题】Atlas 300I A2推理卡只支持PCIe 5.0，不支持HCCS和RoCE，接口文档规格描述有误",
     "labels": [],
+    "assignees": [
+      "lyy_666"
+    ],
     "user_notes_count": 9,
-    "web_url": "https://gitcode.com/cann/hixl/issues/221"
+    "web_url": "https://gitcode.com/cann/hixl/issues/221",
+    "working_days_open": 47
   },
   {
     "iid": 220,
@@ -1646,8 +2286,10 @@
     "author": "zhao-pengboA",
     "title": "[Question|问题咨询]: docker",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/220"
+    "web_url": "https://gitcode.com/cann/hixl/issues/220",
+    "working_days_open": 48
   },
   {
     "iid": 219,
@@ -1657,8 +2299,12 @@
     "author": "chengdu_xiaowu",
     "title": "[Question|问题咨询]: hixl通信问题",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/219"
+    "web_url": "https://gitcode.com/cann/hixl/issues/219",
+    "working_days_open": 48
   },
   {
     "iid": 218,
@@ -1668,8 +2314,12 @@
     "author": "he_ziwei",
     "title": "[Question|问题咨询]: 单边建链超时",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/218"
+    "web_url": "https://gitcode.com/cann/hixl/issues/218",
+    "working_days_open": 49
   },
   {
     "iid": 217,
@@ -1679,8 +2329,12 @@
     "author": "lvran01",
     "title": "[Question|问题咨询]: 建链超时",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/217"
+    "web_url": "https://gitcode.com/cann/hixl/issues/217",
+    "working_days_open": 49
   },
   {
     "iid": 216,
@@ -1690,8 +2344,12 @@
     "author": "ZhaoBaiwei",
     "title": "[RFC]: 安装效率优化：统一安装路径、提升复制效率、改造打包脚本",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/216"
+    "web_url": "https://gitcode.com/cann/hixl/issues/216",
+    "working_days_open": 50
   },
   {
     "iid": 215,
@@ -1701,8 +2359,12 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 代码逻辑/一致性问题",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/215"
+    "web_url": "https://gitcode.com/cann/hixl/issues/215",
+    "working_days_open": 50
   },
   {
     "iid": 214,
@@ -1712,8 +2374,12 @@
     "author": "zhujingjing",
     "title": "[Documentation|文档反馈]: pre-commit使用指导书中使用步骤描述不够清晰",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/214"
+    "web_url": "https://gitcode.com/cann/hixl/issues/214",
+    "working_days_open": 50
   },
   {
     "iid": 213,
@@ -1723,8 +2389,12 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 注释/文档描述错误",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/213"
+    "web_url": "https://gitcode.com/cann/hixl/issues/213",
+    "working_days_open": 50
   },
   {
     "iid": 212,
@@ -1734,8 +2404,12 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 文档中的拼写错误",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/212"
+    "web_url": "https://gitcode.com/cann/hixl/issues/212",
+    "working_days_open": 50
   },
   {
     "iid": 211,
@@ -1745,8 +2419,12 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 错误信息/用户提示中的拼写错误",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/211"
+    "web_url": "https://gitcode.com/cann/hixl/issues/211",
+    "working_days_open": 50
   },
   {
     "iid": 210,
@@ -1756,8 +2434,12 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 文件名拼写错误",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/210"
+    "web_url": "https://gitcode.com/cann/hixl/issues/210",
+    "working_days_open": 51
   },
   {
     "iid": 209,
@@ -1767,8 +2449,12 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 变量/函数名拼写错误",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/209"
+    "web_url": "https://gitcode.com/cann/hixl/issues/209",
+    "working_days_open": 51
   },
   {
     "iid": 208,
@@ -1778,8 +2464,12 @@
     "author": "Ming-Yan",
     "title": "[RFC]: HIXL支持获取全量传输结果",
     "labels": [],
+    "assignees": [
+      "Ming-Yan"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/208"
+    "web_url": "https://gitcode.com/cann/hixl/issues/208",
+    "working_days_open": 51
   },
   {
     "iid": 207,
@@ -1789,8 +2479,12 @@
     "author": "Ming-Yan",
     "title": "[RFC]: HIXL支持异步建链/断链实现",
     "labels": [],
+    "assignees": [
+      "Ming-Yan"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/207"
+    "web_url": "https://gitcode.com/cann/hixl/issues/207",
+    "working_days_open": 51
   },
   {
     "iid": 206,
@@ -1800,8 +2494,12 @@
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]: HIXL单边通信库开发指南资料问题",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/206"
+    "web_url": "https://gitcode.com/cann/hixl/issues/206",
+    "working_days_open": 51
   },
   {
     "iid": 205,
@@ -1811,8 +2509,12 @@
     "author": "ZhouZongjin",
     "title": "[Question|问题咨询]: Mooncake Dummy/Real Clinet相关",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/205"
+    "web_url": "https://gitcode.com/cann/hixl/issues/205",
+    "working_days_open": 51
   },
   {
     "iid": 198,
@@ -1822,8 +2524,12 @@
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]: LLM-DataDist开发指南资料问题，更新添加中",
     "labels": [],
+    "assignees": [
+      "lwx1255555"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/198"
+    "web_url": "https://gitcode.com/cann/hixl/issues/198",
+    "working_days_open": 52
   },
   {
     "iid": 197,
@@ -1833,8 +2539,12 @@
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]: LLM-DataDist开发指南资料问题",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/197"
+    "web_url": "https://gitcode.com/cann/hixl/issues/197",
+    "working_days_open": 52
   },
   {
     "iid": 196,
@@ -1844,8 +2554,12 @@
     "author": "A-Liuhao",
     "title": "【💡需求征集】：2026 H1",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/196"
+    "web_url": "https://gitcode.com/cann/hixl/issues/196",
+    "working_days_open": 53
   },
   {
     "iid": 195,
@@ -1855,8 +2569,12 @@
     "author": "Mknmkn123",
     "title": "[Documentation|文档反馈]: hixl文档描述问题",
     "labels": [],
+    "assignees": [
+      "xiao_jiang1273"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/195"
+    "web_url": "https://gitcode.com/cann/hixl/issues/195",
+    "working_days_open": 53
   },
   {
     "iid": 194,
@@ -1866,8 +2584,12 @@
     "author": "A-Liuhao",
     "title": "【🔥社区任务发布】：文档捉虫",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/194"
+    "web_url": "https://gitcode.com/cann/hixl/issues/194",
+    "working_days_open": 53
   },
   {
     "iid": 193,
@@ -1877,8 +2599,12 @@
     "author": "he_ziwei",
     "title": "[Question|问题咨询]: pull_blocks报错了",
     "labels": [],
+    "assignees": [
+      "tangjie66"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/193"
+    "web_url": "https://gitcode.com/cann/hixl/issues/193",
+    "working_days_open": 53
   },
   {
     "iid": 192,
@@ -1888,8 +2614,12 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 环境准备：描述的有点不太合理",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/192"
+    "web_url": "https://gitcode.com/cann/hixl/issues/192",
+    "working_days_open": 54
   },
   {
     "iid": 191,
@@ -1899,8 +2629,12 @@
     "author": "ZhaoBaiwei",
     "title": "[RFC]: 补充Mooncake Dummy/Real Clinet 样例",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/191"
+    "web_url": "https://gitcode.com/cann/hixl/issues/191",
+    "working_days_open": 54
   },
   {
     "iid": 190,
@@ -1910,8 +2644,12 @@
     "author": "liyu_ascend",
     "title": "[Feature-Request|需求反馈]: A2支持读写本地/远端SSD",
     "labels": [],
+    "assignees": [
+      "songmingyang"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/190"
+    "web_url": "https://gitcode.com/cann/hixl/issues/190",
+    "working_days_open": 55
   },
   {
     "iid": 189,
@@ -1921,8 +2659,12 @@
     "author": "tanteacher",
     "title": "[Question|问题咨询]:  hixl可以支持单卡上npu到cpu数据的搬迁吗？ 有参考的样例代码吗",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/189"
+    "web_url": "https://gitcode.com/cann/hixl/issues/189",
+    "working_days_open": 55
   },
   {
     "iid": 188,
@@ -1932,8 +2674,12 @@
     "author": "AlexRen998916",
     "title": "[RFC]: 支持device profiling",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/188"
+    "web_url": "https://gitcode.com/cann/hixl/issues/188",
+    "working_days_open": 55
   },
   {
     "iid": 187,
@@ -1943,8 +2689,12 @@
     "author": "u014270003",
     "title": "[Question|问题咨询]: <img src=x>",
     "labels": [],
+    "assignees": [
+      "zhujingjing"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/187"
+    "web_url": "https://gitcode.com/cann/hixl/issues/187",
+    "working_days_open": 55
   },
   {
     "iid": 186,
@@ -1954,8 +2704,12 @@
     "author": "xumengxuan",
     "title": "[Bug-Report|缺陷反馈]: ut偶现core",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/186"
+    "web_url": "https://gitcode.com/cann/hixl/issues/186",
+    "working_days_open": 56
   },
   {
     "iid": 185,
@@ -1965,8 +2719,12 @@
     "author": "tianlianga1",
     "title": "[Question|问题咨询]: The ranktable information check failed, Reason:[The IP is used repeatedly.] ",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 9,
-    "web_url": "https://gitcode.com/cann/hixl/issues/185"
+    "web_url": "https://gitcode.com/cann/hixl/issues/185",
+    "working_days_open": 56
   },
   {
     "iid": 184,
@@ -1976,8 +2734,12 @@
     "author": "ZhaoBaiwei",
     "title": "[Question|问题咨询]: Mooncake 0.3.9 使用Ascend Direct Transport时的资源开销",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/184"
+    "web_url": "https://gitcode.com/cann/hixl/issues/184",
+    "working_days_open": 56
   },
   {
     "iid": 183,
@@ -1987,8 +2749,12 @@
     "author": "u010199356",
     "title": "[Question|问题咨询]: [ERROR] [llmdatadist_connector_v1.py:148] - kv cache pull blocks failed",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/183"
+    "web_url": "https://gitcode.com/cann/hixl/issues/183",
+    "working_days_open": 56
   },
   {
     "iid": 182,
@@ -1998,8 +2764,12 @@
     "author": "tianlianga1",
     "title": "[Question|问题咨询]: mooncake-store访问超时Failed to connect, remote engine:172.30.132.120:20096, timeout:10000 ms",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 12,
-    "web_url": "https://gitcode.com/cann/hixl/issues/182"
+    "web_url": "https://gitcode.com/cann/hixl/issues/182",
+    "working_days_open": 56
   },
   {
     "iid": 181,
@@ -2009,8 +2779,12 @@
     "author": "lugang11",
     "title": "[RFC]: hixl适配loaclcomres自动生成",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/181"
+    "web_url": "https://gitcode.com/cann/hixl/issues/181",
+    "working_days_open": 57
   },
   {
     "iid": 180,
@@ -2020,8 +2794,12 @@
     "author": "wanglong9",
     "title": "[Bug-Report|缺陷反馈]: Python wrapper 负向路径遗漏空指针检查导致本地 DoS",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/180"
+    "web_url": "https://gitcode.com/cann/hixl/issues/180",
+    "working_days_open": 59
   },
   {
     "iid": 179,
@@ -2031,8 +2809,12 @@
     "author": "zhaozhihui",
     "title": "[Roadmap] hixl roadmap Apr. 2026",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/179"
+    "web_url": "https://gitcode.com/cann/hixl/issues/179",
+    "working_days_open": 60
   },
   {
     "iid": 178,
@@ -2042,8 +2824,12 @@
     "author": "qq_34873042",
     "title": "[Bug-Report|缺陷反馈]: mooncake segement 链接报错",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/178"
+    "web_url": "https://gitcode.com/cann/hixl/issues/178",
+    "working_days_open": 60
   },
   {
     "iid": 177,
@@ -2053,8 +2839,12 @@
     "author": "qq_29707523",
     "title": "[Bug-Report|缺陷反馈]: vllm ascend te挂死，mooncake store挂死",
     "labels": [],
+    "assignees": [
+      "andy_git"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/177"
+    "web_url": "https://gitcode.com/cann/hixl/issues/177",
+    "working_days_open": 61
   },
   {
     "iid": 176,
@@ -2064,8 +2854,12 @@
     "author": "zhaozhihui",
     "title": "[RFC]: TransferAsync支持回调模式",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/176"
+    "web_url": "https://gitcode.com/cann/hixl/issues/176",
+    "working_days_open": 61
   },
   {
     "iid": 175,
@@ -2075,8 +2869,12 @@
     "author": "gcw_pfzw85mp",
     "title": "[Documentation|文档反馈]: 需要以列表的形式呈现所有算子对不同硬件的支持情况",
     "labels": [],
+    "assignees": [
+      "andy_git"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/175"
+    "web_url": "https://gitcode.com/cann/hixl/issues/175",
+    "working_days_open": 61
   },
   {
     "iid": 174,
@@ -2086,8 +2884,12 @@
     "author": "jiazhaoyang",
     "title": "[RFC]: hixl异构通用服务器",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/174"
+    "web_url": "https://gitcode.com/cann/hixl/issues/174",
+    "working_days_open": 61
   },
   {
     "iid": 173,
@@ -2097,8 +2899,12 @@
     "author": "cann_cm",
     "title": "[Documentation|文档反馈]:建议部署文档和算子保持一致，不建议提供超大的构建镜像",
     "labels": [],
+    "assignees": [
+      "andy_git"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/173"
+    "web_url": "https://gitcode.com/cann/hixl/issues/173",
+    "working_days_open": 62
   },
   {
     "iid": 172,
@@ -2108,8 +2914,12 @@
     "author": "zhaozhihui",
     "title": "[RFC]: HIXL支持异步建链/断链",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/172"
+    "web_url": "https://gitcode.com/cann/hixl/issues/172",
+    "working_days_open": 62
   },
   {
     "iid": 171,
@@ -2119,8 +2929,12 @@
     "author": "KKKzkx",
     "title": "[Bug-Report|缺陷反馈]: pd分离八机A2，kvpool过程报错，failed to connect to target:ip:port, status: 503900",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/171"
+    "web_url": "https://gitcode.com/cann/hixl/issues/171",
+    "working_days_open": 62
   },
   {
     "iid": 170,
@@ -2130,8 +2944,12 @@
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: build.md中，1、场景一：使用Docker部署，创建容器失败。2、删除docker中多余内容",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/170"
+    "web_url": "https://gitcode.com/cann/hixl/issues/170",
+    "working_days_open": 65
   },
   {
     "iid": 169,
@@ -2141,8 +2959,12 @@
     "author": "xumengxuan",
     "title": "[RFC]: Host Roce 支持 TC/SL 重传超次配置",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/169"
+    "web_url": "https://gitcode.com/cann/hixl/issues/169",
+    "working_days_open": 65
   },
   {
     "iid": 168,
@@ -2152,8 +2974,12 @@
     "author": "jieke275",
     "title": "[Question|问题咨询]: 编译报错 error: ignoring attributes on template argument ‘int (*)(FILE*)’ [-Werror=ignored-attributes]",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/168"
+    "web_url": "https://gitcode.com/cann/hixl/issues/168",
+    "working_days_open": 66
   },
   {
     "iid": 167,
@@ -2163,8 +2989,12 @@
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: 两个Sever端，互相发起建链，只有一条链路建链成功，另一条链路建链超时失败",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/167"
+    "web_url": "https://gitcode.com/cann/hixl/issues/167",
+    "working_days_open": 67
   },
   {
     "iid": 166,
@@ -2174,8 +3004,12 @@
     "author": "wujiao_swag",
     "title": "[Question|问题咨询]: Server端发起建链，建链的engine传入自身的ip和port，报错看不出异常所在",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/166"
+    "web_url": "https://gitcode.com/cann/hixl/issues/166",
+    "working_days_open": 67
   },
   {
     "iid": 165,
@@ -2185,8 +3019,12 @@
     "author": "wujiao_swag",
     "title": "[Question|问题咨询]: 构造一个传输异常的用例，比如 本端地址有部分未进行申请注册，为什么 对端会有DestroyChannel和Finalize的报错",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/165"
+    "web_url": "https://gitcode.com/cann/hixl/issues/165",
+    "working_days_open": 67
   },
   {
     "iid": 164,
@@ -2196,8 +3034,12 @@
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: 断链日志的timeout值 不正确",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/164"
+    "web_url": "https://gitcode.com/cann/hixl/issues/164",
+    "working_days_open": 67
   },
   {
     "iid": 163,
@@ -2207,8 +3049,12 @@
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: 单Server、单Client发起建链，建链成功，断链传入remote_engine不是建链时的remote_engine，仍断链成功",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/163"
+    "web_url": "https://gitcode.com/cann/hixl/issues/163",
+    "working_days_open": 67
   },
   {
     "iid": 162,
@@ -2218,8 +3064,12 @@
     "author": "chengdu_xiaowu",
     "title": "[Question|问题咨询]: hixl和llm datalist是否支持PCIE SW？",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/162"
+    "web_url": "https://gitcode.com/cann/hixl/issues/162",
+    "working_days_open": 67
   },
   {
     "iid": 161,
@@ -2229,8 +3079,12 @@
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: ub通路 进行D2D数据传输， 单Server，多Client向单Server发起建链，建链超时失败",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/161"
+    "web_url": "https://gitcode.com/cann/hixl/issues/161",
+    "working_days_open": 69
   },
   {
     "iid": 160,
@@ -2240,8 +3094,12 @@
     "author": "Mknmkn123",
     "title": "[Documentation|文档反馈]: build.md中，文档中bash build.sh -h的参数和实际参数不一致",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/160"
+    "web_url": "https://gitcode.com/cann/hixl/issues/160",
+    "working_days_open": 69
   },
   {
     "iid": 159,
@@ -2251,8 +3109,12 @@
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: 跑本地验证tests，core dumped了",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/159"
+    "web_url": "https://gitcode.com/cann/hixl/issues/159",
+    "working_days_open": 69
   },
   {
     "iid": 158,
@@ -2262,8 +3124,12 @@
     "author": "Mknmkn123",
     "title": "[Documentation|文档反馈]: build.md文件本地验证(tests)章节，执行bash tests/run_test.sh如果第三方插件放在指定目录没有告诉用户该如何执行",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/158"
+    "web_url": "https://gitcode.com/cann/hixl/issues/158",
+    "working_days_open": 69
   },
   {
     "iid": 157,
@@ -2273,8 +3139,12 @@
     "author": "yilunh",
     "title": "[Bug-Report|缺陷反馈]:多次linkdown时底层抛出异常 LLMStatusCode.LLM_FAILED，无法构造CQE故障",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/157"
+    "web_url": "https://gitcode.com/cann/hixl/issues/157",
+    "working_days_open": 70
   },
   {
     "iid": 156,
@@ -2284,8 +3154,12 @@
     "author": "gcw_uHTeVGM0",
     "title": "[Bug-Report|缺陷反馈]: 性能压测不符合预期",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/156"
+    "web_url": "https://gitcode.com/cann/hixl/issues/156",
+    "working_days_open": 71
   },
   {
     "iid": 154,
@@ -2295,8 +3169,12 @@
     "author": "ascend-robot",
     "title": "CVE-2026-33210",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/154"
+    "web_url": "https://gitcode.com/cann/hixl/issues/154",
+    "working_days_open": 71
   },
   {
     "iid": 153,
@@ -2306,8 +3184,12 @@
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: 样例readme中增加支持A5芯片",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/153"
+    "web_url": "https://gitcode.com/cann/hixl/issues/153",
+    "working_days_open": 72
   },
   {
     "iid": 152,
@@ -2317,8 +3199,12 @@
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: hixl接口，建链时序测试，client侧先Connect再注册，报错得错误码不符合预期",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/152"
+    "web_url": "https://gitcode.com/cann/hixl/issues/152",
+    "working_days_open": 72
   },
   {
     "iid": 151,
@@ -2328,8 +3214,12 @@
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: hixl接口，注册完成后，未调用建链接口，直接调用传输数据接口，错误码报PARAM_INVALID（103900）不符合预期",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/151"
+    "web_url": "https://gitcode.com/cann/hixl/issues/151",
+    "working_days_open": 72
   },
   {
     "iid": 150,
@@ -2339,8 +3229,12 @@
     "author": "windlzr",
     "title": "[Bug-Report|缺陷反馈]: 单机多进程运行mooncake benchmark，不使用中转缓存池模式，HCCS直传报错\"Can't find remoteBuffer by key\"",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/150"
+    "web_url": "https://gitcode.com/cann/hixl/issues/150",
+    "working_days_open": 73
   },
   {
     "iid": 149,
@@ -2350,8 +3244,12 @@
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: 【日志维测】日志打印换行不符合规范",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/149"
+    "web_url": "https://gitcode.com/cann/hixl/issues/149",
+    "working_days_open": 73
   },
   {
     "iid": 148,
@@ -2361,8 +3259,12 @@
     "author": "gcw_hESHsBck",
     "title": "[Bug-Report|缺陷反馈]: xds复用调用vllm-ascend调mooncake，发送相同推理请求，第二次推理请求get缓存报错",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/148"
+    "web_url": "https://gitcode.com/cann/hixl/issues/148",
+    "working_days_open": 74
   },
   {
     "iid": 147,
@@ -2372,8 +3274,12 @@
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: A5上不支持OPTION_RDMA_TRAFFIC_CLASS、OPTION_BUFFER_POOL等一些option，报错维测日志不合理",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/147"
+    "web_url": "https://gitcode.com/cann/hixl/issues/147",
+    "working_days_open": 74
   },
   {
     "iid": 146,
@@ -2383,8 +3289,13 @@
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: 断链前 先进行 解注册内存，无报错",
     "labels": [],
+    "assignees": [
+      "zhaozhihui",
+      "AlexRen998916"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/146"
+    "web_url": "https://gitcode.com/cann/hixl/issues/146",
+    "working_days_open": 75
   },
   {
     "iid": 145,
@@ -2394,8 +3305,12 @@
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: 重复建链，上报错误 LLM_FAILED",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/145"
+    "web_url": "https://gitcode.com/cann/hixl/issues/145",
+    "working_days_open": 75
   },
   {
     "iid": 144,
@@ -2405,8 +3320,12 @@
     "author": "liweijie2000",
     "title": "[Feature-Request|需求反馈]: 本地使用mooncake-transfer进行性能测试时对本地拷贝函数aclrtMemcpyBatch中调用的拷贝算子的profiling抓取",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/144"
+    "web_url": "https://gitcode.com/cann/hixl/issues/144",
+    "working_days_open": 75
   },
   {
     "iid": 143,
@@ -2416,8 +3335,12 @@
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: 下一代芯片单边通信，开启Auto Connect模式，不发起建链，数据传输上报 参数错误",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/143"
+    "web_url": "https://gitcode.com/cann/hixl/issues/143",
+    "working_days_open": 77
   },
   {
     "iid": 142,
@@ -2427,8 +3350,12 @@
     "author": "M__Cheng",
     "title": "[RFC]: adxl engine对接到hixl  cs接口",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/142"
+    "web_url": "https://gitcode.com/cann/hixl/issues/142",
+    "working_days_open": 77
   },
   {
     "iid": 141,
@@ -2438,8 +3365,12 @@
     "author": "wufeng15",
     "title": "[Feature-Request|需求反馈]:  是否有不依赖物理环境的仿真方式进行早期代码熟悉？都依赖物理设备，门坎太高 ",
     "labels": [],
+    "assignees": [
+      "songmingyang"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/141"
+    "web_url": "https://gitcode.com/cann/hixl/issues/141",
+    "working_days_open": 78
   },
   {
     "iid": 140,
@@ -2449,8 +3380,12 @@
     "author": "Michael-Yi",
     "title": "[Documentation|文档反馈]: buffer pool的设计文档以及A2 benchmark测试数据的结论",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/140"
+    "web_url": "https://gitcode.com/cann/hixl/issues/140",
+    "working_days_open": 79
   },
   {
     "iid": 139,
@@ -2460,8 +3395,12 @@
     "author": "zhang-wangze",
     "title": "[Question|问题咨询]: Mooncake transport engine + ROCE传输，注册内存是否有64GB上限？",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/139"
+    "web_url": "https://gitcode.com/cann/hixl/issues/139",
+    "working_days_open": 79
   },
   {
     "iid": 138,
@@ -2471,8 +3410,12 @@
     "author": "jiazhaoyang",
     "title": "[RFC]: A2/A3适配CS接口",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/138"
+    "web_url": "https://gitcode.com/cann/hixl/issues/138",
+    "working_days_open": 79
   },
   {
     "iid": 137,
@@ -2482,8 +3425,12 @@
     "author": "wufeng15",
     "title": "[Documentation|文档反馈]: hixl下新增的cs目录的功能缺少说明",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/137"
+    "web_url": "https://gitcode.com/cann/hixl/issues/137",
+    "working_days_open": 80
   },
   {
     "iid": 136,
@@ -2493,8 +3440,12 @@
     "author": "hjchen2",
     "title": "请问buffer pool模式有计划支持TransferAsync吗",
     "labels": [],
+    "assignees": [
+      "songmingyang"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/136"
+    "web_url": "https://gitcode.com/cann/hixl/issues/136",
+    "working_days_open": 80
   },
   {
     "iid": 135,
@@ -2504,8 +3455,12 @@
     "author": "zhanghongge",
     "title": "[Bug-Report|缺陷反馈]: 281个文件的版权声明不标准，建议修改成附件E列的内容",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/135"
+    "web_url": "https://gitcode.com/cann/hixl/issues/135",
+    "working_days_open": 80
   },
   {
     "iid": 134,
@@ -2515,8 +3470,12 @@
     "author": "he_ziwei",
     "title": "[Question|问题咨询]: link_clusters报错了，返回值不等于LLMStatusCode.LLM_SUCCESS",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/134"
+    "web_url": "https://gitcode.com/cann/hixl/issues/134",
+    "working_days_open": 81
   },
   {
     "iid": 133,
@@ -2526,8 +3485,12 @@
     "author": "cuixiaojin",
     "title": "[Question|问题咨询]: 使用mooncake主线(commit：41b1969)的transfer engine测试失败,关键字：find remoteBuffer",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/133"
+    "web_url": "https://gitcode.com/cann/hixl/issues/133",
+    "working_days_open": 81
   },
   {
     "iid": 132,
@@ -2537,8 +3500,13 @@
     "author": "zhaozhihui",
     "title": "[RFC] HIXL支持TCP Keepalive",
     "labels": [],
+    "assignees": [
+      "xumengxuan",
+      "zhaozhihui"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/132"
+    "web_url": "https://gitcode.com/cann/hixl/issues/132",
+    "working_days_open": 81
   },
   {
     "iid": 131,
@@ -2548,8 +3516,12 @@
     "author": "jiangyaoguo",
     "title": "[Bug-Report|缺陷反馈]: datadist初始化失败，Address already in use",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/131"
+    "web_url": "https://gitcode.com/cann/hixl/issues/131",
+    "working_days_open": 82
   },
   {
     "iid": 130,
@@ -2559,8 +3531,12 @@
     "author": "Y11451",
     "title": "[Question|问题咨询]:llm_datadist pull_cache超时",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/130"
+    "web_url": "https://gitcode.com/cann/hixl/issues/130",
+    "working_days_open": 82
   },
   {
     "iid": 129,
@@ -2570,8 +3546,12 @@
     "author": "sinat_22339175",
     "title": "[Bug-Report|缺陷反馈]:  数据传输时内存类型校验失败",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/129"
+    "web_url": "https://gitcode.com/cann/hixl/issues/129",
+    "working_days_open": 82
   },
   {
     "iid": 128,
@@ -2581,8 +3561,13 @@
     "author": "zhaozhihui",
     "title": "[RFC]: HIXL支持host api profiling",
     "labels": [],
+    "assignees": [
+      "zhaozhihui",
+      "AlexRen998916"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/128"
+    "web_url": "https://gitcode.com/cann/hixl/issues/128",
+    "working_days_open": 83
   },
   {
     "iid": 127,
@@ -2592,8 +3577,12 @@
     "author": "heartStrive",
     "title": "[Bug-Report|缺陷反馈]: transfer type不一致",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/127"
+    "web_url": "https://gitcode.com/cann/hixl/issues/127",
+    "working_days_open": 83
   },
   {
     "iid": 126,
@@ -2603,8 +3592,12 @@
     "author": "A-Liuhao",
     "title": "[Bug-Report|缺陷反馈]: 代码仓存在python语法规范问题以及单词拼写错误",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/126"
+    "web_url": "https://gitcode.com/cann/hixl/issues/126",
+    "working_days_open": 84
   },
   {
     "iid": 125,
@@ -2614,8 +3607,12 @@
     "author": "wujiao_swag",
     "title": "[Documentation|文档反馈]: hixl 支持配置 OPTION_LOCAL_COMM_RES，文档未说明如何配置",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/125"
+    "web_url": "https://gitcode.com/cann/hixl/issues/125",
+    "working_days_open": 85
   },
   {
     "iid": 124,
@@ -2625,8 +3622,13 @@
     "author": "wujiao_swag",
     "title": "[Documentation|文档反馈]: LLM-Datadist单侧建链 使能hixl传输后端功能，文档未刷新",
     "labels": [],
+    "assignees": [
+      "lwx1255555",
+      "zhaozhihui"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/124"
+    "web_url": "https://gitcode.com/cann/hixl/issues/124",
+    "working_days_open": 85
   },
   {
     "iid": 123,
@@ -2636,8 +3638,12 @@
     "author": "zhaozhihui",
     "title": "[Bug-Report|缺陷反馈]: 代码仓看着没有使用numpy, data_type.py中导入并没有使用，可以将numpy相关的删除掉。",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/123"
+    "web_url": "https://gitcode.com/cann/hixl/issues/123",
+    "working_days_open": 85
   },
   {
     "iid": 122,
@@ -2647,8 +3653,12 @@
     "author": "wenke1312",
     "title": "[Bug-Report|缺陷反馈]: mooncake store使用ascend协议报transfer failed",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/122"
+    "web_url": "https://gitcode.com/cann/hixl/issues/122",
+    "working_days_open": 85
   },
   {
     "iid": 121,
@@ -2658,8 +3668,12 @@
     "author": "gcw_UQE6G7Ro",
     "title": "补全yaml文件中三方库引用类型",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/121"
+    "web_url": "https://gitcode.com/cann/hixl/issues/121",
+    "working_days_open": 86
   },
   {
     "iid": 120,
@@ -2669,8 +3683,12 @@
     "author": "jiangyaoguo",
     "title": "[Bug-Report|缺陷反馈]: 建链失败",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/120"
+    "web_url": "https://gitcode.com/cann/hixl/issues/120",
+    "working_days_open": 87
   },
   {
     "iid": 119,
@@ -2680,8 +3698,12 @@
     "author": "gfmyeung",
     "title": "[Question|问题咨询]:  Is it possible to pass a stream to hixl batch write similar to TransportRoceMem::Write?",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/119"
+    "web_url": "https://gitcode.com/cann/hixl/issues/119",
+    "working_days_open": 87
   },
   {
     "iid": 118,
@@ -2691,8 +3713,12 @@
     "author": "A-Liuhao",
     "title": "[Documentation|文档反馈]: README中CANN软件包下载链接失效",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/118"
+    "web_url": "https://gitcode.com/cann/hixl/issues/118",
+    "working_days_open": 88
   },
   {
     "iid": 117,
@@ -2702,8 +3728,12 @@
     "author": "gcw_Z35TLLfa",
     "title": "[Bug-Report|缺陷反馈]: 编译报错",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/117"
+    "web_url": "https://gitcode.com/cann/hixl/issues/117",
+    "working_days_open": 89
   },
   {
     "iid": 116,
@@ -2713,8 +3743,12 @@
     "author": "duduzeng",
     "title": "[Documentation|文档反馈]: 请在benchmarks/README.md 中明确提示编译bash build.sh时需要使用 --examples参数，否则全量编译无build/benchmarks 可执行文件",
     "labels": [],
+    "assignees": [
+      "andy_git"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/116"
+    "web_url": "https://gitcode.com/cann/hixl/issues/116",
+    "working_days_open": 92
   },
   {
     "iid": 115,
@@ -2724,8 +3758,12 @@
     "author": "duduzeng",
     "title": "[Bug-Report|缺陷反馈]: benchmark A2双机测试，connect失败",
     "labels": [],
+    "assignees": [
+      "zhujingjing"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/115"
+    "web_url": "https://gitcode.com/cann/hixl/issues/115",
+    "working_days_open": 92
   },
   {
     "iid": 114,
@@ -2735,8 +3773,12 @@
     "author": "wandongdong",
     "title": "[Bug-Report|缺陷反馈]: example的mooncake单卡用例报错",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/114"
+    "web_url": "https://gitcode.com/cann/hixl/issues/114",
+    "working_days_open": 93
   },
   {
     "iid": 113,
@@ -2746,8 +3788,12 @@
     "author": "duduzeng",
     "title": "[Question|问题咨询]: [SingleDeviceIp]'device_ip' is not set correctly,must be set when multi Server or HCCL_INTRA_ROCE_ENABLE enabled 建议添加问题定位手册",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/113"
+    "web_url": "https://gitcode.com/cann/hixl/issues/113",
+    "working_days_open": 94
   },
   {
     "iid": 112,
@@ -2757,8 +3803,12 @@
     "author": "zhaozhihui",
     "title": "[Roadmap] hixl roadmap Feb. & Mar. 2026",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/cann/hixl/issues/112"
+    "web_url": "https://gitcode.com/cann/hixl/issues/112",
+    "working_days_open": 94
   },
   {
     "iid": 111,
@@ -2768,8 +3818,12 @@
     "author": "wandongdong",
     "title": "[Bug-Report|缺陷反馈]: example用例执行报错",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/111"
+    "web_url": "https://gitcode.com/cann/hixl/issues/111",
+    "working_days_open": 95
   },
   {
     "iid": 110,
@@ -2779,8 +3833,12 @@
     "author": "ZhaoBaiwei",
     "title": "[Feature-Request|需求反馈]: 提供Mooncake Store在使用Ascend Direct Transport的性能数据",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/hixl/issues/110"
+    "web_url": "https://gitcode.com/cann/hixl/issues/110",
+    "working_days_open": 95
   },
   {
     "iid": 109,
@@ -2790,8 +3848,12 @@
     "author": "heijian123",
     "title": "[Bug-Report|缺陷反馈]: 启动ascend direct transport失败",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/109"
+    "web_url": "https://gitcode.com/cann/hixl/issues/109",
+    "working_days_open": 95
   },
   {
     "iid": 108,
@@ -2801,8 +3863,12 @@
     "author": "yuanlang321",
     "title": "[Feature-Request|需求反馈]: 针对申请内存的类型打印，可以增加对应的类型，方便定位问题",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/108"
+    "web_url": "https://gitcode.com/cann/hixl/issues/108",
+    "working_days_open": 95
   },
   {
     "iid": 107,
@@ -2812,8 +3878,12 @@
     "author": "ZhaoBaiwei",
     "title": "[Question|问题咨询]: 使用ascend direct transport调用Mooncake Transfer Engine传输接口时，精度问题",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/107"
+    "web_url": "https://gitcode.com/cann/hixl/issues/107",
+    "working_days_open": 96
   },
   {
     "iid": 106,
@@ -2823,8 +3893,12 @@
     "author": "M__Cheng",
     "title": "[RFC]: 支持client侧自动清理异常链路资源&&自动建链模式",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/106"
+    "web_url": "https://gitcode.com/cann/hixl/issues/106",
+    "working_days_open": 96
   },
   {
     "iid": 105,
@@ -2834,8 +3908,12 @@
     "author": "sinat_22339175",
     "title": "[Question|问题咨询]: datadist走hccs   报错",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/cann/hixl/issues/105"
+    "web_url": "https://gitcode.com/cann/hixl/issues/105",
+    "working_days_open": 96
   },
   {
     "iid": 104,
@@ -2845,8 +3923,12 @@
     "author": "wandongdong",
     "title": "[Bug-Report|缺陷反馈]: tests编译报错",
     "labels": [],
+    "assignees": [
+      "wandongdong"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/104"
+    "web_url": "https://gitcode.com/cann/hixl/issues/104",
+    "working_days_open": 97
   },
   {
     "iid": 103,
@@ -2856,8 +3938,12 @@
     "author": "wandongdong",
     "title": "[Documentation|文档反馈]: examples的cpp用例README文档乱码",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/103"
+    "web_url": "https://gitcode.com/cann/hixl/issues/103",
+    "working_days_open": 98
   },
   {
     "iid": 102,
@@ -2867,8 +3953,12 @@
     "author": "ascend-robot",
     "title": "CVE-2025-27788",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 7,
-    "web_url": "https://gitcode.com/cann/hixl/issues/102"
+    "web_url": "https://gitcode.com/cann/hixl/issues/102",
+    "working_days_open": 98
   },
   {
     "iid": 101,
@@ -2878,8 +3968,12 @@
     "author": "zhaozhihui",
     "title": "[Bug-Report|缺陷反馈]: 执行run_example.sh报错",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/101"
+    "web_url": "https://gitcode.com/cann/hixl/issues/101",
+    "working_days_open": 98
   },
   {
     "iid": 100,
@@ -2889,8 +3983,12 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 1. Atlas-cann-A3-ops 包名不对，是Ascend-cann-A3-ops  2. 社区包已经不带beta后缀了，取包链接/文档/编译后的子包请更新",
     "labels": [],
+    "assignees": [
+      "chenkunjie0506"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/100"
+    "web_url": "https://gitcode.com/cann/hixl/issues/100",
+    "working_days_open": 99
   },
   {
     "iid": 99,
@@ -2900,8 +3998,12 @@
     "author": "songmingyang",
     "title": "[RFC]: HIXL适配Mooncake社区Dummy/Real Client分离式架构",
     "labels": [],
+    "assignees": [
+      "songmingyang"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/99"
+    "web_url": "https://gitcode.com/cann/hixl/issues/99",
+    "working_days_open": 99
   },
   {
     "iid": 98,
@@ -2911,8 +4013,12 @@
     "author": "youyx",
     "title": "[Bug-Report|缺陷反馈]: 使用mooncake TE传输，设置ASCEND_USE_SHORT_CONNECTION，每次传输后进行解注册unregister报错",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/98"
+    "web_url": "https://gitcode.com/cann/hixl/issues/98",
+    "working_days_open": 100
   },
   {
     "iid": 97,
@@ -2922,8 +4028,12 @@
     "author": "youyx",
     "title": "[Bug-Report|缺陷反馈]: 中转模式下两进程互相传输时D2D传输报错",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/97"
+    "web_url": "https://gitcode.com/cann/hixl/issues/97",
+    "working_days_open": 100
   },
   {
     "iid": 96,
@@ -2933,8 +4043,12 @@
     "author": "weixin_39767879",
     "title": "[Bug-Report|缺陷反馈]: license扫描工具的模板文件中license的描述信息不规范，需要修改。",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/96"
+    "web_url": "https://gitcode.com/cann/hixl/issues/96",
+    "working_days_open": 101
   },
   {
     "iid": 95,
@@ -2944,8 +4058,12 @@
     "author": "Sterling-Gong",
     "title": "[Feature-Request|需求反馈]: 支持建链后更新 memory segment",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/95"
+    "web_url": "https://gitcode.com/cann/hixl/issues/95",
+    "working_days_open": 103
   },
   {
     "iid": 94,
@@ -2955,8 +4073,13 @@
     "author": "capt4in",
     "title": "[Documentation|文档反馈]: https://gitcode.com/cann/hixl/blob/master/docs/build.md使用的镜像还需要再安装cann包，不易用，建议参考ops-nn，拉取镜像后开箱即用",
     "labels": [],
+    "assignees": [
+      "chenkunjie0506",
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/94"
+    "web_url": "https://gitcode.com/cann/hixl/issues/94",
+    "working_days_open": 103
   },
   {
     "iid": 93,
@@ -2966,8 +4089,12 @@
     "author": "M__Cheng",
     "title": "[Documentation|文档反馈]: example/python 目录下README.md 排版错乱",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/93"
+    "web_url": "https://gitcode.com/cann/hixl/issues/93",
+    "working_days_open": 104
   },
   {
     "iid": 92,
@@ -2977,8 +4104,12 @@
     "author": "jonyguo",
     "title": "[Question|问题咨询]: 预计啥时候可以直接通过 pip install 来安装 hixl 这个组件？",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/92"
+    "web_url": "https://gitcode.com/cann/hixl/issues/92",
+    "working_days_open": 105
   },
   {
     "iid": 91,
@@ -2988,8 +4119,12 @@
     "author": "zhaozhihui",
     "title": "[Feature-Request|需求反馈]: 单边通信使用的通信域名字优化",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/91"
+    "web_url": "https://gitcode.com/cann/hixl/issues/91",
+    "working_days_open": 107
   },
   {
     "iid": 90,
@@ -2999,8 +4134,12 @@
     "author": "ZhaoBaiwei",
     "title": "[Feature-Request|需求反馈]: Mooncake Store对接样例修改",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/90"
+    "web_url": "https://gitcode.com/cann/hixl/issues/90",
+    "working_days_open": 108
   },
   {
     "iid": 89,
@@ -3010,8 +4149,13 @@
     "author": "zhaozhihui",
     "title": "[RFC]:HIXL支持报错上报error message",
     "labels": [],
+    "assignees": [
+      "A-Liuhao",
+      "zhaozhihui"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/89"
+    "web_url": "https://gitcode.com/cann/hixl/issues/89",
+    "working_days_open": 109
   },
   {
     "iid": 88,
@@ -3021,8 +4165,12 @@
     "author": "zhaozhihui",
     "title": "[Roadmap] hixl roadmap 2026 H1",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 11,
-    "web_url": "https://gitcode.com/cann/hixl/issues/88"
+    "web_url": "https://gitcode.com/cann/hixl/issues/88",
+    "working_days_open": 109
   },
   {
     "iid": 87,
@@ -3032,8 +4180,12 @@
     "author": "songmingyang",
     "title": "[Question|问题咨询]: Roce网卡收发数据存在多打一时可能存在丢包导致传输超时，如何在交换机配置PFC？",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/87"
+    "web_url": "https://gitcode.com/cann/hixl/issues/87",
+    "working_days_open": 110
   },
   {
     "iid": 86,
@@ -3043,8 +4195,12 @@
     "author": "yuanlang321",
     "title": "[Feature-Request|需求反馈]: 在客户离线场景安装，发现部分依赖没有显示的告知，需要对依赖显示的明确，并对离线场景的出来给出方法，",
     "labels": [],
+    "assignees": [
+      "chenkunjie0506"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/86"
+    "web_url": "https://gitcode.com/cann/hixl/issues/86",
+    "working_days_open": 111
   },
   {
     "iid": 85,
@@ -3054,8 +4210,12 @@
     "author": "hjchen2",
     "title": "A2 x86 16卡机器hixi建链报错",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/85"
+    "web_url": "https://gitcode.com/cann/hixl/issues/85",
+    "working_days_open": 112
   },
   {
     "iid": 84,
@@ -3065,8 +4225,12 @@
     "author": "huchunmei_123",
     "title": "[Bug-Report|缺陷反馈]: 链路池仅配置client，option测试_高水位:1_低水位:1，执行退出且无error日志",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/84"
+    "web_url": "https://gitcode.com/cann/hixl/issues/84",
+    "working_days_open": 112
   },
   {
     "iid": 83,
@@ -3076,8 +4240,12 @@
     "author": "huchunmei_123",
     "title": "[Bug-Report|缺陷反馈]: 链路池日志打印需优化",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/83"
+    "web_url": "https://gitcode.com/cann/hixl/issues/83",
+    "working_days_open": 112
   },
   {
     "iid": 82,
@@ -3087,8 +4255,12 @@
     "author": "wujiao_swag",
     "title": "[Bug-Report|缺陷反馈]: 链路池，链路池日志关键信息high_waterline、low_waterline打印与 option具体配置信息不符，请修改",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/82"
+    "web_url": "https://gitcode.com/cann/hixl/issues/82",
+    "working_days_open": 114
   },
   {
     "iid": 81,
@@ -3098,8 +4270,12 @@
     "author": "wujiao_swag",
     "title": "[Documentation|文档反馈]: 链路池，配置option驱逐链路的时候，本端/远端Engine都需要配置option值，否则无法驱逐链路，且option相互独立，资料需增加该说明",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/81"
+    "web_url": "https://gitcode.com/cann/hixl/issues/81",
+    "working_days_open": 114
   },
   {
     "iid": 80,
@@ -3109,8 +4285,12 @@
     "author": "m0_37870649",
     "title": "[Bug-Report|缺陷反馈]: Mooncake transfer failed",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/80"
+    "web_url": "https://gitcode.com/cann/hixl/issues/80",
+    "working_days_open": 114
   },
   {
     "iid": 79,
@@ -3120,8 +4300,12 @@
     "author": "heijian123",
     "title": "[Bug-Report|缺陷反馈]: 使用adxl连接超时",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/79"
+    "web_url": "https://gitcode.com/cann/hixl/issues/79",
+    "working_days_open": 115
   },
   {
     "iid": 78,
@@ -3131,8 +4315,12 @@
     "author": "wandongdong",
     "title": "[Bug-Report|缺陷反馈]: 构建-手动安装-源码编译报错",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/78"
+    "web_url": "https://gitcode.com/cann/hixl/issues/78",
+    "working_days_open": 115
   },
   {
     "iid": 77,
@@ -3142,8 +4330,12 @@
     "author": "Sterling-Gong",
     "title": "[Feature-Request|需求反馈]: register mem 的时候校验起始地址 2M 对齐（fastfail），避免到 transfer 才报错",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/77"
+    "web_url": "https://gitcode.com/cann/hixl/issues/77",
+    "working_days_open": 116
   },
   {
     "iid": 76,
@@ -3153,8 +4345,13 @@
     "author": "yuanlang321",
     "title": "[Feature-Request|需求反馈]: 调研mooncake或者hixl的相关接口，在报错的时候，可以打印出error message ，帮助客户快速定位根因",
     "labels": [],
+    "assignees": [
+      "A-Liuhao",
+      "songmingyang"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/76"
+    "web_url": "https://gitcode.com/cann/hixl/issues/76",
+    "working_days_open": 117
   },
   {
     "iid": 75,
@@ -3164,8 +4361,12 @@
     "author": "jiazhaoyang",
     "title": "[RFC]: 提供HIXL CS单边通信UB相关接口",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/75"
+    "web_url": "https://gitcode.com/cann/hixl/issues/75",
+    "working_days_open": 117
   },
   {
     "iid": 74,
@@ -3175,8 +4376,12 @@
     "author": "yejiajun",
     "title": "[Question|问题咨询]: Mooncake TE选择adxl时，vllm拉起mooncake_client的时候，AscendDirectTransport注册内存类型0和1有什么区别",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/74"
+    "web_url": "https://gitcode.com/cann/hixl/issues/74",
+    "working_days_open": 118
   },
   {
     "iid": 73,
@@ -3186,8 +4391,12 @@
     "author": "sinat_22339175",
     "title": "[Bug-Report|缺陷反馈]: mooncake TE 与 datadist 时延差异较大",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/73"
+    "web_url": "https://gitcode.com/cann/hixl/issues/73",
+    "working_days_open": 118
   },
   {
     "iid": 72,
@@ -3197,8 +4406,12 @@
     "author": "yejiajun",
     "title": "[Bug-Report|缺陷反馈]: 跨机卡和卡之间可以ping通，但是adxl建链超时",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/72"
+    "web_url": "https://gitcode.com/cann/hixl/issues/72",
+    "working_days_open": 119
   },
   {
     "iid": 71,
@@ -3208,8 +4421,12 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]: 安装1月4日社区组合包后，通过社区仓编译社区子包，编译成功后，无build/examples/cpp路径",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/71"
+    "web_url": "https://gitcode.com/cann/hixl/issues/71",
+    "working_days_open": 121
   },
   {
     "iid": 70,
@@ -3219,8 +4436,12 @@
     "author": "yejiajun",
     "title": "[Question|问题咨询]: 跨机传输失败  Failed to connect to target: ip:port ,  status: 103900   ",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/70"
+    "web_url": "https://gitcode.com/cann/hixl/issues/70",
+    "working_days_open": 121
   },
   {
     "iid": 69,
@@ -3230,8 +4451,12 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: A3 ops包名不对，已由910_93变成A3了",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/69"
+    "web_url": "https://gitcode.com/cann/hixl/issues/69",
+    "working_days_open": 121
   },
   {
     "iid": 68,
@@ -3241,8 +4466,12 @@
     "author": "Sterling-Gong",
     "title": "[Question|问题咨询]: 当设置 HCCL_HOST_SOCKET_PORT_RANGE/HCCL_NPU_SOCKET_PORT_RANGE 时，会出现建链超时的情况",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/68"
+    "web_url": "https://gitcode.com/cann/hixl/issues/68",
+    "working_days_open": 123
   },
   {
     "iid": 67,
@@ -3252,8 +4481,12 @@
     "author": "lugang11",
     "title": "[RFC]: 提供HIXL CS单边通信API——client内存管理、创建传输任务",
     "labels": [],
+    "assignees": [
+      "lugang11"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/67"
+    "web_url": "https://gitcode.com/cann/hixl/issues/67",
+    "working_days_open": 124
   },
   {
     "iid": 66,
@@ -3263,8 +4496,12 @@
     "author": "ascend-robot",
     "title": "CVE-2025-30898",
     "labels": [],
+    "assignees": [
+      "zhujingjing"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/66"
+    "web_url": "https://gitcode.com/cann/hixl/issues/66",
+    "working_days_open": 124
   },
   {
     "iid": 65,
@@ -3274,8 +4511,12 @@
     "author": "gcw_Lh0bwqQJ",
     "title": "[Bug-Report|缺陷反馈]: 使用mooncake store的pd分离集成时多机失败",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/65"
+    "web_url": "https://gitcode.com/cann/hixl/issues/65",
+    "working_days_open": 125
   },
   {
     "iid": 64,
@@ -3285,8 +4526,13 @@
     "author": "zhaozhihui",
     "title": "[RFC] 提供HIXL CS单边通信API",
     "labels": [],
+    "assignees": [
+      "jiazhaoyang",
+      "zhaozhihui"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/64"
+    "web_url": "https://gitcode.com/cann/hixl/issues/64",
+    "working_days_open": 126
   },
   {
     "iid": 63,
@@ -3296,8 +4542,12 @@
     "author": "qlang",
     "title": "[Feature-Request|需求反馈]: base端口可配置",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/63"
+    "web_url": "https://gitcode.com/cann/hixl/issues/63",
+    "working_days_open": 127
   },
   {
     "iid": 62,
@@ -3307,8 +4557,12 @@
     "author": "AlexRen998916",
     "title": "[Documentation|文档反馈]: build.md里面“安装社区版CANN kernels包”章节内命令选项不存在",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/62"
+    "web_url": "https://gitcode.com/cann/hixl/issues/62",
+    "working_days_open": 128
   },
   {
     "iid": 61,
@@ -3318,8 +4572,12 @@
     "author": "bululu123",
     "title": "[Question|问题咨询]: mooncake store put_from/get_into测试adxl能力出现报错 Failed to connect to target: 10.170.27.165:20613, status: 103900",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 7,
-    "web_url": "https://gitcode.com/cann/hixl/issues/61"
+    "web_url": "https://gitcode.com/cann/hixl/issues/61",
+    "working_days_open": 128
   },
   {
     "iid": 60,
@@ -3329,8 +4587,13 @@
     "author": "dingdairong",
     "title": "[Documentation|文档反馈]: 有没有A2性能测试数据，如果有请归档在社区",
     "labels": [],
+    "assignees": [
+      "chenkunjie0506",
+      "zhujingjing"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/60"
+    "web_url": "https://gitcode.com/cann/hixl/issues/60",
+    "working_days_open": 128
   },
   {
     "iid": 59,
@@ -3340,8 +4603,12 @@
     "author": "q60099284",
     "title": "[Documentation|文档反馈]: export HCCL_INTRA_ROCE_ENABLE=0时报错，only set HCCL_INTRA_ROCE_ENABLE, and the val is zero, pls set HCCL_INTRA_PCIE_ENABLE",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/59"
+    "web_url": "https://gitcode.com/cann/hixl/issues/59",
+    "working_days_open": 129
   },
   {
     "iid": 58,
@@ -3351,8 +4618,12 @@
     "author": "q60099284",
     "title": "[Bug-Report|缺陷反馈]: batch_put_get_sample.py用例，未设置export HCCL_INTRA_ROCE_ENABLE，A3环境,双机跑不通",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/58"
+    "web_url": "https://gitcode.com/cann/hixl/issues/58",
+    "working_days_open": 130
   },
   {
     "iid": 57,
@@ -3362,8 +4633,12 @@
     "author": "zhaozhihui",
     "title": "[Roadmap] hixl roadmap Jan. 2026",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/57"
+    "web_url": "https://gitcode.com/cann/hixl/issues/57",
+    "working_days_open": 130
   },
   {
     "iid": 56,
@@ -3373,8 +4648,12 @@
     "author": "x1314aq",
     "title": "[Bug-Report|缺陷反馈]: unregisterLocalMemoryBatch失败未处理导致后续registerLocalMemoryBatch失败报错",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/56"
+    "web_url": "https://gitcode.com/cann/hixl/issues/56",
+    "working_days_open": 130
   },
   {
     "iid": 55,
@@ -3384,8 +4663,12 @@
     "author": "waimaidaole",
     "title": "[Documentation|文档反馈]: README中链接失效",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/55"
+    "web_url": "https://gitcode.com/cann/hixl/issues/55",
+    "working_days_open": 132
   },
   {
     "iid": 54,
@@ -3395,8 +4678,12 @@
     "author": "x1314aq",
     "title": "[Bug-Report|缺陷反馈]: AdxlEngine 建链超时（10s没有结果）",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/54"
+    "web_url": "https://gitcode.com/cann/hixl/issues/54",
+    "working_days_open": 133
   },
   {
     "iid": 53,
@@ -3406,8 +4693,12 @@
     "author": "qq_54572005",
     "title": "[Bug-Report|缺陷反馈]: Mindie 背靠背组网pull kv 走roce通信出现超时",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/53"
+    "web_url": "https://gitcode.com/cann/hixl/issues/53",
+    "working_days_open": 134
   },
   {
     "iid": 52,
@@ -3417,8 +4708,12 @@
     "author": "wujiao_swag",
     "title": "[Documentation|文档反馈]: 资料文档中，ranktable等通信文档设置能否增加跳转链接",
     "labels": [],
+    "assignees": [
+      "lwx1255555"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/52"
+    "web_url": "https://gitcode.com/cann/hixl/issues/52",
+    "working_days_open": 137
   },
   {
     "iid": 51,
@@ -3428,8 +4723,12 @@
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: 接口组合测试_调用异步传输，先断链，再调用状态查询接口，现象是GetTransferStatus得状态返回COMPLETED了，不符合预期",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/51"
+    "web_url": "https://gitcode.com/cann/hixl/issues/51",
+    "working_days_open": 138
   },
   {
     "iid": 50,
@@ -3439,8 +4738,12 @@
     "author": "lookat119",
     "title": "[Question|问题咨询]: src/hixl代码为空，是还有部分没开源？",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/50"
+    "web_url": "https://gitcode.com/cann/hixl/issues/50",
+    "working_days_open": 138
   },
   {
     "iid": 49,
@@ -3450,8 +4753,12 @@
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: 在A2 HCCS场景，跑对端是HOST申请内存方式的异常用例，日志有报错，但异步接口返回成功，不符合预期",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/49"
+    "web_url": "https://gitcode.com/cann/hixl/issues/49",
+    "working_days_open": 140
   },
   {
     "iid": 48,
@@ -3461,8 +4768,12 @@
     "author": "weixin_43469570",
     "title": "[Bug-Report|缺陷反馈]: Failed to connect to target:192.168.0.59:20337, status: 503900",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/48"
+    "web_url": "https://gitcode.com/cann/hixl/issues/48",
+    "working_days_open": 143
   },
   {
     "iid": 46,
@@ -3472,8 +4783,12 @@
     "author": "ZhaoBaiwei",
     "title": "[RFC]: HIXL添加Notify机制",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/cann/hixl/issues/46"
+    "web_url": "https://gitcode.com/cann/hixl/issues/46",
+    "working_days_open": 145
   },
   {
     "iid": 45,
@@ -3483,8 +4798,12 @@
     "author": "luoayang",
     "title": "[Question|问题咨询]: Hccl接口咨询",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/45"
+    "web_url": "https://gitcode.com/cann/hixl/issues/45",
+    "working_days_open": 145
   },
   {
     "iid": 44,
@@ -3494,8 +4813,12 @@
     "author": "Mknmkn123",
     "title": "[Documentation|文档反馈]: mooncake_store网络readme中有遗漏信息，请补齐",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/44"
+    "web_url": "https://gitcode.com/cann/hixl/issues/44",
+    "working_days_open": 145
   },
   {
     "iid": 43,
@@ -3505,8 +4828,12 @@
     "author": "gcw_V70cs4TN",
     "title": "[Bug-Report|缺陷反馈]: 使用mk 做kvcache缓存池时 报Client is not initialized",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/43"
+    "web_url": "https://gitcode.com/cann/hixl/issues/43",
+    "working_days_open": 145
   },
   {
     "iid": 42,
@@ -3516,8 +4843,12 @@
     "author": "M__Cheng",
     "title": "[RFC] 支持HixIServer，提供对接HCCL单边通信API能力",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/42"
+    "web_url": "https://gitcode.com/cann/hixl/issues/42",
+    "working_days_open": 145
   },
   {
     "iid": 41,
@@ -3527,8 +4858,12 @@
     "author": "zhong_lin",
     "title": "[Bug-Report|缺陷反馈]: 外层readme描述存在误解",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/41"
+    "web_url": "https://gitcode.com/cann/hixl/issues/41",
+    "working_days_open": 145
   },
   {
     "iid": 40,
@@ -3538,8 +4873,12 @@
     "author": "xumengxuan",
     "title": "[RFC]:支持HixlClient，提供对接HCCL单边通信API能力",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/40"
+    "web_url": "https://gitcode.com/cann/hixl/issues/40",
+    "working_days_open": 146
   },
   {
     "iid": 39,
@@ -3549,8 +4888,12 @@
     "author": "AlexRen998916",
     "title": "[RFC]:支持HixlEngine，提供对接HCCL单边通信API能力",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/cann/hixl/issues/39"
+    "web_url": "https://gitcode.com/cann/hixl/issues/39",
+    "working_days_open": 146
   },
   {
     "iid": 38,
@@ -3560,8 +4903,12 @@
     "author": "zhaozhihui",
     "title": "[RFC]:LLM-DataDist对接HCCL单边通信库",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/38"
+    "web_url": "https://gitcode.com/cann/hixl/issues/38",
+    "working_days_open": 146
   },
   {
     "iid": 37,
@@ -3571,8 +4918,12 @@
     "author": "zhaozhihui",
     "title": "[RFC]:HIXL对接HCCL单边通信库",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/37"
+    "web_url": "https://gitcode.com/cann/hixl/issues/37",
+    "working_days_open": 146
   },
   {
     "iid": 36,
@@ -3582,8 +4933,12 @@
     "author": "yuanlang321",
     "title": "[Bug-Report|缺陷反馈]: 在编译hixl的时候，发现cann包的路径写死了，我们实际安装的路径不一定是root用户的默认目录，建议优化一下脚本",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/36"
+    "web_url": "https://gitcode.com/cann/hixl/issues/36",
+    "working_days_open": 148
   },
   {
     "iid": 35,
@@ -3593,8 +4948,12 @@
     "author": "qwqinyang",
     "title": "[Bug-Report|缺陷反馈]: 执行hixl仓中的mooncake sample用例batch_put_get_sample.py后出现报错",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/35"
+    "web_url": "https://gitcode.com/cann/hixl/issues/35",
+    "working_days_open": 149
   },
   {
     "iid": 34,
@@ -3604,8 +4963,12 @@
     "author": "yuanlang321",
     "title": "[Bug-Report|缺陷反馈]: sample的执行目录不准确，请优化， 同步readme给一个可以直接执行的例子",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/34"
+    "web_url": "https://gitcode.com/cann/hixl/issues/34",
+    "working_days_open": 150
   },
   {
     "iid": 33,
@@ -3615,8 +4978,12 @@
     "author": "youyx",
     "title": "[Requirement|需求建议]: A3支持基于HCCS的D2RH直传-FabricMem模式",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/33"
+    "web_url": "https://gitcode.com/cann/hixl/issues/33",
+    "working_days_open": 153
   },
   {
     "iid": 32,
@@ -3626,8 +4993,12 @@
     "author": "fangxinnan",
     "title": "[Requirement|需求建议]:  Added support for IPv6 in Mooncake",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/32"
+    "web_url": "https://gitcode.com/cann/hixl/issues/32",
+    "working_days_open": 154
   },
   {
     "iid": 31,
@@ -3637,8 +5008,12 @@
     "author": "yuanlang321",
     "title": "[Requirement|需求建议]: sample 测试，发现多处需要侵入式修改才可以运行，并且其他几个sample没有入口说明",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/31"
+    "web_url": "https://gitcode.com/cann/hixl/issues/31",
+    "working_days_open": 155
   },
   {
     "iid": 30,
@@ -3648,8 +5023,12 @@
     "author": "ye-wo-dong-shan",
     "title": "[Question|问题咨询]: 单机内push 和get 结果错乱",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/30"
+    "web_url": "https://gitcode.com/cann/hixl/issues/30",
+    "working_days_open": 156
   },
   {
     "iid": 29,
@@ -3659,8 +5038,12 @@
     "author": "yuanlang321",
     "title": "[Question|问题咨询]: mooncake store + python 的acl接口调研，程序 退出必现崩溃问题",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/29"
+    "web_url": "https://gitcode.com/cann/hixl/issues/29",
+    "working_days_open": 156
   },
   {
     "iid": 28,
@@ -3670,8 +5053,12 @@
     "author": "zhaozhihui",
     "title": "[Roadmap] hixl roadmap Dec. 2025",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 8,
-    "web_url": "https://gitcode.com/cann/hixl/issues/28"
+    "web_url": "https://gitcode.com/cann/hixl/issues/28",
+    "working_days_open": 157
   },
   {
     "iid": 27,
@@ -3681,8 +5068,12 @@
     "author": "liyu_ascend",
     "title": "[Question|问题咨询]: vllm + mooncake PD分离部署，kv transfer  传输速率咨询",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 7,
-    "web_url": "https://gitcode.com/cann/hixl/issues/27"
+    "web_url": "https://gitcode.com/cann/hixl/issues/27",
+    "working_days_open": 157
   },
   {
     "iid": 26,
@@ -3692,8 +5083,12 @@
     "author": "youyx",
     "title": "[Question|问题咨询]: 调试过程中建链报错",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/26"
+    "web_url": "https://gitcode.com/cann/hixl/issues/26",
+    "working_days_open": 160
   },
   {
     "iid": 25,
@@ -3703,8 +5098,12 @@
     "author": "wujiao_swag",
     "title": "[Documentation|文档反馈]: A2 未说明 HCCS/RDMA协议下的关系，资料上应该添加限制",
     "labels": [],
+    "assignees": [
+      "lwx1255555"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/25"
+    "web_url": "https://gitcode.com/cann/hixl/issues/25",
+    "working_days_open": 162
   },
   {
     "iid": 24,
@@ -3714,8 +5113,12 @@
     "author": "cuixiaojin",
     "title": "[Bug-Report|缺陷反馈]: AdxlEngine Connect没有结果返回",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/24"
+    "web_url": "https://gitcode.com/cann/hixl/issues/24",
+    "working_days_open": 162
   },
   {
     "iid": 23,
@@ -3725,8 +5128,10 @@
     "author": "ZhaoBaiwei",
     "title": "[Question|问题咨询]: 在运行Mooncake对接样例时，遇到Put Failed错误",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/hixl/issues/23"
+    "web_url": "https://gitcode.com/cann/hixl/issues/23",
+    "working_days_open": 162
   },
   {
     "iid": 22,
@@ -3736,8 +5141,12 @@
     "author": "youyx",
     "title": "[Requirement|需求建议]: Hixl对接mooncake transfer engine V1版本",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 8,
-    "web_url": "https://gitcode.com/cann/hixl/issues/22"
+    "web_url": "https://gitcode.com/cann/hixl/issues/22",
+    "working_days_open": 163
   },
   {
     "iid": 21,
@@ -3747,8 +5156,12 @@
     "author": "zhengwu7",
     "title": "[Question|问题咨询]: mooncake测试样例编译报错",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 7,
-    "web_url": "https://gitcode.com/cann/hixl/issues/21"
+    "web_url": "https://gitcode.com/cann/hixl/issues/21",
+    "working_days_open": 163
   },
   {
     "iid": 20,
@@ -3758,8 +5171,12 @@
     "author": "ZhaoBaiwei",
     "title": "[RFC]:HIXL添加链路池机制",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 6,
-    "web_url": "https://gitcode.com/cann/hixl/issues/20"
+    "web_url": "https://gitcode.com/cann/hixl/issues/20",
+    "working_days_open": 164
   },
   {
     "iid": 19,
@@ -3769,8 +5186,13 @@
     "author": "dty_30041779",
     "title": "[Bug-Report|缺陷反馈]: 用例执行失败，有HCCL报错",
     "labels": [],
+    "assignees": [
+      "xumengxuan",
+      "AlexRen998916"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/19"
+    "web_url": "https://gitcode.com/cann/hixl/issues/19",
+    "working_days_open": 165
   },
   {
     "iid": 18,
@@ -3780,8 +5202,12 @@
     "author": "q60099284",
     "title": "[Question|问题咨询]: 执行client benchmark 报错，报销信息连接失败",
     "labels": [],
+    "assignees": [
+      "xumengxuan"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/18"
+    "web_url": "https://gitcode.com/cann/hixl/issues/18",
+    "working_days_open": 165
   },
   {
     "iid": 17,
@@ -3791,8 +5217,13 @@
     "author": "ZhaoBaiwei",
     "title": "[Question|问题咨询]: 对接Mooncake Store时，host侧内存传输时memory type校验报错",
     "labels": [],
+    "assignees": [
+      "youyx",
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/17"
+    "web_url": "https://gitcode.com/cann/hixl/issues/17",
+    "working_days_open": 167
   },
   {
     "iid": 16,
@@ -3802,8 +5233,13 @@
     "author": "mrh1024",
     "title": "[Question|问题咨询]: 基于mooncake adxl A2环境跑双机读报错 Failed to connect to segment",
     "labels": [],
+    "assignees": [
+      "youyx",
+      "zhaozhihui"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/16"
+    "web_url": "https://gitcode.com/cann/hixl/issues/16",
+    "working_days_open": 167
   },
   {
     "iid": 15,
@@ -3813,8 +5249,12 @@
     "author": "happppy",
     "title": "[Question|问题咨询]: 调用HIXL接口出现建链超时，hccl_socket_manager: wait socket establish timeout",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/15"
+    "web_url": "https://gitcode.com/cann/hixl/issues/15",
+    "working_days_open": 168
   },
   {
     "iid": 14,
@@ -3824,8 +5264,12 @@
     "author": "happppy",
     "title": "[Question|问题咨询]: 调用HIXL接口建链报错，HCCS模式，[drv][devmm][share_log_read_in_single_module]Invalid para",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/14"
+    "web_url": "https://gitcode.com/cann/hixl/issues/14",
+    "working_days_open": 168
   },
   {
     "iid": 13,
@@ -3835,8 +5279,13 @@
     "author": "weixin_45443546",
     "title": "[Bug-Report|缺陷反馈]: examples/python/pull_blocks_sample.py执行这个用例时，调用datalist link接口报错",
     "labels": [],
+    "assignees": [
+      "xumengxuan",
+      "AlexRen998916"
+    ],
     "user_notes_count": 10,
-    "web_url": "https://gitcode.com/cann/hixl/issues/13"
+    "web_url": "https://gitcode.com/cann/hixl/issues/13",
+    "working_days_open": 168
   },
   {
     "iid": 12,
@@ -3846,8 +5295,13 @@
     "author": "weixin_45443546",
     "title": "[Bug-Report|缺陷反馈]: 使用omni infer进行单卡两卡pd分离推理，datadist建链报错",
     "labels": [],
+    "assignees": [
+      "xumengxuan",
+      "AlexRen998916"
+    ],
     "user_notes_count": 15,
-    "web_url": "https://gitcode.com/cann/hixl/issues/12"
+    "web_url": "https://gitcode.com/cann/hixl/issues/12",
+    "working_days_open": 170
   },
   {
     "iid": 11,
@@ -3857,8 +5311,13 @@
     "author": "Orangesir",
     "title": "[Requirement|需求建议]:  NPU的mooncake store 有512卡的链接数的限制， 希望可以放开这个限制",
     "labels": [],
+    "assignees": [
+      "youyx",
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 5,
-    "web_url": "https://gitcode.com/cann/hixl/issues/11"
+    "web_url": "https://gitcode.com/cann/hixl/issues/11",
+    "working_days_open": 171
   },
   {
     "iid": 10,
@@ -3868,8 +5327,12 @@
     "author": "ZhaoBaiwei",
     "title": "[Requirement|需求建议]: 提供与Mooncake集成的用例与使用文档",
     "labels": [],
+    "assignees": [
+      "ZhaoBaiwei"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/10"
+    "web_url": "https://gitcode.com/cann/hixl/issues/10",
+    "working_days_open": 171
   },
   {
     "iid": 9,
@@ -3879,8 +5342,12 @@
     "author": "youyx",
     "title": "[Documentation|文档反馈]: 编译CANN包后安装路径问题",
     "labels": [],
+    "assignees": [
+      "zhujingjing"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/9"
+    "web_url": "https://gitcode.com/cann/hixl/issues/9",
+    "working_days_open": 172
   },
   {
     "iid": 8,
@@ -3890,8 +5357,12 @@
     "author": "hjchen2",
     "title": "在mooncake store中开启buffer pool时传输报错",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 18,
-    "web_url": "https://gitcode.com/cann/hixl/issues/8"
+    "web_url": "https://gitcode.com/cann/hixl/issues/8",
+    "working_days_open": 172
   },
   {
     "iid": 7,
@@ -3901,8 +5372,12 @@
     "author": "M__Cheng",
     "title": "[RFC]: HIXL新增异步传输和状态查询特性",
     "labels": [],
+    "assignees": [
+      "M__Cheng"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/7"
+    "web_url": "https://gitcode.com/cann/hixl/issues/7",
+    "working_days_open": 172
   },
   {
     "iid": 6,
@@ -3912,8 +5387,12 @@
     "author": "A-Liuhao",
     "title": "[RFC]：HIXL自动获取可用端口并支持用户可查询",
     "labels": [],
+    "assignees": [
+      "A-Liuhao"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/6"
+    "web_url": "https://gitcode.com/cann/hixl/issues/6",
+    "working_days_open": 172
   },
   {
     "iid": 5,
@@ -3923,8 +5402,12 @@
     "author": "AlexRen998916",
     "title": "[RFC]: HIXL支持容器内不需要额外映射/etc/hccn.conf",
     "labels": [],
+    "assignees": [
+      "AlexRen998916"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/5"
+    "web_url": "https://gitcode.com/cann/hixl/issues/5",
+    "working_days_open": 172
   },
   {
     "iid": 4,
@@ -3934,8 +5417,12 @@
     "author": "usagigi",
     "title": "[Question|问题咨询]: ChannelMsgHandler::DeregisterMem为什么不删除segment_table_记录",
     "labels": [],
+    "assignees": [
+      "youyx"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/hixl/issues/4"
+    "web_url": "https://gitcode.com/cann/hixl/issues/4",
+    "working_days_open": 174
   },
   {
     "iid": 3,
@@ -3945,8 +5432,13 @@
     "author": "A-Liuhao",
     "title": "[RFC]: 增加hixl性能测试benchmark",
     "labels": [],
+    "assignees": [
+      "xumengxuan",
+      "A-Liuhao"
+    ],
     "user_notes_count": 9,
-    "web_url": "https://gitcode.com/cann/hixl/issues/3"
+    "web_url": "https://gitcode.com/cann/hixl/issues/3",
+    "working_days_open": 176
   },
   {
     "iid": 2,
@@ -3956,8 +5448,12 @@
     "author": "leichaoaizhaojie",
     "title": "[Bug-Report|缺陷反馈]: Mooncake adxl内存池场景只put影响TPOT",
     "labels": [],
+    "assignees": [
+      "songmingyang"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/hixl/issues/2"
+    "web_url": "https://gitcode.com/cann/hixl/issues/2",
+    "working_days_open": 176
   },
   {
     "iid": 1,
@@ -3967,7 +5463,11 @@
     "author": "zhaozhihui",
     "title": "[Roadmap] hixl roadmap Nov. 2025",
     "labels": [],
+    "assignees": [
+      "zhaozhihui"
+    ],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/hixl/issues/1"
+    "web_url": "https://gitcode.com/cann/hixl/issues/1",
+    "working_days_open": 177
   }
 ]

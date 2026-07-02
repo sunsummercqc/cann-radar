@@ -1,5 +1,18 @@
 [
   {
+    "iid": 19,
+    "state": "opened",
+    "created_at": "2026-07-02",
+    "closed_at": "",
+    "author": "jingdemeng",
+    "title": "【社区任务】[Documentation|文档反馈]: 04_tasks/01_community-task-2026/docs/202605/aclblasTrsmBatched_task_doc.md性能基准需要修改",
+    "labels": [],
+    "assignees": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/19",
+    "working_days_open": 1
+  },
+  {
     "iid": 18,
     "state": "opened",
     "created_at": "2026-06-30",
@@ -7,8 +20,10 @@
     "author": "lqq12345677",
     "title": "cla签署问题",
     "labels": [],
-    "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/18"
+    "assignees": [],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/18",
+    "working_days_open": 3
   },
   {
     "iid": 17,
@@ -18,8 +33,12 @@
     "author": "lqq12345677",
     "title": "[Documentation|文档反馈]: ",
     "labels": [],
-    "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/17"
+    "assignees": [
+      "songchangxia"
+    ],
+    "user_notes_count": 2,
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/17",
+    "working_days_open": 6
   },
   {
     "iid": 16,
@@ -29,8 +48,12 @@
     "author": "Xavier_Qiu",
     "title": "[Question|问题咨询]: 【社区任务】Im2col 算子复用已有 op_api 时，与仓内已有 Im2col op type 疑似冲突导致 561103",
     "labels": [],
+    "assignees": [
+      "fullt"
+    ],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/16"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/16",
+    "working_days_open": 8
   },
   {
     "iid": 14,
@@ -40,8 +63,12 @@
     "author": "a1465114862",
     "title": "[Question|问题咨询]: 仓库中收录的(CANN算子挑战赛初赛/erf)答案不满足原题目要求",
     "labels": [],
+    "assignees": [
+      "jackwangc"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/14"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/14",
+    "working_days_open": 17
   },
   {
     "iid": 12,
@@ -51,8 +78,10 @@
     "author": "iyl",
     "title": "[Documentation|文档反馈]: 04_tasks/01_community-task-2026/README.md的参考算子设计文档模板链接打开为空",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/12"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/12",
+    "working_days_open": 19
   },
   {
     "iid": 11,
@@ -62,8 +91,10 @@
     "author": "YO_Y_O_",
     "title": "【CLA校验异常】PR#230已签署CLA但cann-cla/no标签不通过",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 3,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/11"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/11",
+    "working_days_open": 21
   },
   {
     "iid": 10,
@@ -73,8 +104,10 @@
     "author": "CyndiZ",
     "title": "[Question|问题咨询]: 非连续tensor的stride如何获取",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/10"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/10",
+    "working_days_open": 23
   },
   {
     "iid": 9,
@@ -84,8 +117,10 @@
     "author": "LiJianhao2",
     "title": "[Bug-Report|缺陷反馈]: 在设计文档PR下评论compile，无法触发CI",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/9"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/9",
+    "working_days_open": 26
   },
   {
     "iid": 8,
@@ -95,8 +130,12 @@
     "author": "TreamTik",
     "title": "[Feature]: 【社区任务】Roll算子贡献",
     "labels": [],
-    "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/8"
+    "assignees": [
+      "TreamTik"
+    ],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/8",
+    "working_days_open": 27
   },
   {
     "iid": 6,
@@ -106,8 +145,10 @@
     "author": "szdaniel",
     "title": "[Question|问题咨询]: SlideTilingAttention A100耗时疑问",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 4,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/6"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/6",
+    "working_days_open": 33
   },
   {
     "iid": 5,
@@ -115,10 +156,12 @@
     "created_at": "2026-05-11",
     "closed_at": "",
     "author": "weixin_63661754",
-    "title": "[Documentation|文档反馈]: ",
+    "title": "[Documentation|文档反馈]: 【社区任务】任务书描述不清晰",
     "labels": [],
-    "user_notes_count": 0,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/5"
+    "assignees": [],
+    "user_notes_count": 1,
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/5",
+    "working_days_open": 38
   },
   {
     "iid": 4,
@@ -128,8 +171,12 @@
     "author": "unny",
     "title": "[Feature]: aclnnForeachRoundOffNumberV2 支持 DT_INT16 数据类型",
     "labels": [],
+    "assignees": [
+      "unny"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/4"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/4",
+    "working_days_open": 38
   },
   {
     "iid": 3,
@@ -139,8 +186,13 @@
     "author": "chaojixiaomou",
     "title": "[Documentation|文档反馈]: Sign 算子任务书中的 PR 合入路径存在多余字符，代码样例链接疑似不匹配",
     "labels": [],
+    "assignees": [
+      "Albertq",
+      "fullt"
+    ],
     "user_notes_count": 2,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/3"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/3",
+    "working_days_open": 42
   },
   {
     "iid": 2,
@@ -150,8 +202,12 @@
     "author": "qq_53242130",
     "title": "[Documentation|文档反馈]: 建议补充参考论文的标题、DOI 和可访问说明",
     "labels": [],
+    "assignees": [
+      "TianXL"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/2"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/2",
+    "working_days_open": 42
   },
   {
     "iid": 1,
@@ -161,7 +217,11 @@
     "author": "ilovescrapy",
     "title": "[Bug-Report|缺陷反馈]: 路径问题导致无法正常clone该仓",
     "labels": [],
+    "assignees": [
+      "syeren"
+    ],
     "user_notes_count": 1,
-    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/1"
+    "web_url": "https://gitcode.com/cann/cann-ops-competitions/issues/1",
+    "working_days_open": 43
   }
 ]

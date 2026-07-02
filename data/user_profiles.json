@@ -33858,5 +33858,65 @@
     "total_repo_count": 6,
     "total_contributions": 237,
     "user_type": "developer"
+  },
+  {
+    "user_name": "2301_79689297",
+    "nick_name": "2301_79689297",
+    "user_id": 1271251,
+    "starred_repos": [
+      "cann/ge",
+      "cann/graph-autofusion"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 0,
+    "total_contributions": 1,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "WangShuying5",
+    "nick_name": "WangShuying",
+    "user_id": 7025825,
+    "starred_repos": [
+      "Ascend/torchair"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 9,
+    "total_contributions": 496,
+    "user_type": "contributor"
+  },
+  {
+    "user_name": "2403_89134876",
+    "nick_name": "陆叶702",
+    "user_id": 3766936,
+    "starred_repos": [
+      "cann/ge",
+      "cann/hixl",
+      "cann/graph-autofusion",
+      "cann/torchtitan-npu"
+    ],
+    "fans_count": 0,
+    "follow_count": 1,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 3,
+    "user_type": "developer"
+  },
+  {
+    "user_name": "weixin_42886776",
+    "nick_name": "豳州牧之",
+    "user_id": 4221507,
+    "starred_repos": [
+      "cann/ge"
+    ],
+    "fans_count": 0,
+    "follow_count": 5,
+    "original_repo_count": 0,
+    "total_repo_count": 1,
+    "total_contributions": 132,
+    "user_type": "developer"
   }
 ]
