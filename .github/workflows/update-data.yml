@@ -95,7 +95,7 @@ jobs:
           fi
 
       - name: Install Python dependencies
-        run: python -m pip install PyYAML
+        run: python -m pip install PyYAML chinese-calendar
 
       - name: Collect all data
         run: python collector.py all

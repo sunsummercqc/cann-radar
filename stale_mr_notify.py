@@ -3,27 +3,25 @@
 """stale_mr_notify.py — 超期 MR 扫描与邮件通知。
 
 扫描 data/mrs/ 中所有 opened 状态的 MR，筛选出：
-  1. 开启时间超过指定天数（默认 14 天）
-  2. 包含指定 label（默认 ci-pipeline-passed）
-  3. 距离上次通知 ≥ 7 天 或 尚未通知（通过 data/stale_mr_notified.json 去重）
+  1. 开启时间超过指定天数（默认 14 个工作日）
+  2. 距离上次通知 ≥ 7 个工作日 或 尚未通知（通过 data/stale_mr_notified.json 去重）
 
 升级机制：
   - 第 1 次通知：仅提醒开发者本人
-  - 第 2 次通知（距上次 ≥7 天 MR 仍 open）：提醒开发者并抄送管理员
+  - 第 2 次通知（距上次 ≥7 个工作日 MR 仍 open）：提醒开发者并抄送管理员
   - 此后永久跳过
 
-按作者分为三类：
-  - 内部开发者 + 有邮箱 → 直接发个人提醒邮件
-  - 内部开发者 + 无邮箱 → 收入管理员汇总报告
-  - 外部开发者           → 收入管理员汇总报告
+内/外判定基于 gitcode_2_mail.txt：
+  - 有有效邮箱 → 发个人提醒邮件
+  - 有记录但邮箱为 null → 管理员汇总报告（无邮箱）
+  - 不在映射中 → 管理员汇总报告（外部开发者）
 
-管理员邮箱优先取 --report-to 参数，否则读取 config/admin_email.txt（CI 从私仓注入）。
+工作日计算使用 chinese_calendar，自动排除周末及中国法定节假日（含调休）。
 
 用法：
     python stale_mr_notify.py --dry-run
     python stale_mr_notify.py
-    python stale_mr_notify.py --stale-days 7 --label ci-pipeline-passed
-    python stale_mr_notify.py --no-label
+    python stale_mr_notify.py --stale-days 7
     python stale_mr_notify.py --report-to admin@huawei.com
     python stale_mr_notify.py --test someone@huawei.com
 """
@@ -34,7 +32,7 @@ import json
 import smtplib
 import sys
 from collections import defaultdict
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 from email.header import Header
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -43,20 +41,27 @@ from pathlib import Path
 
 import yaml
 
+try:
+    from chinese_calendar import is_workday
+except ImportError:
+    def is_workday(d):
+        return d.weekday() < 5
+    print("  ⚠ chinese_calendar 未安装，仅排除周末（不排除法定节假日）")
+
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 MRS_DIR = DATA_DIR / "mrs"
 REPOS_CONFIG_PATH = Path("config/repos.yml")
 MAIL_MAP_PATH = Path("config/gitcode_2_mail.txt")
 SMTP_CONFIG_PATH = Path("config/smtp_config.ini")
-INTERNAL_DEVS_PATH = Path("config/internal_developers.txt")
 ADMIN_EMAIL_PATH = Path("config/admin_email.txt")
 NOTIFIED_PATH = DATA_DIR / "stale_mr_notified.json"
 
 DEFAULT_STALE_DAYS = 14
-DEFAULT_LABEL = "ci-pipeline-passed"
 RESEND_INTERVAL_DAYS = 7
 MAX_NOTIFY_COUNT = 2
+
+CONTACT_INFO = "如有疑问请联系夏国正 x00806611"
 
 
 def load_notify_repo_paths():
@@ -74,6 +79,7 @@ def load_notify_repo_paths():
 
 
 def load_mail_map():
+    """返回 {username: email 或 None}。None 表示邮箱映射存在但两列均为 null。"""
     mapping = {}
     if not MAIL_MAP_PATH.exists():
         print(f"  ✗ 邮箱映射文件不存在: {MAIL_MAP_PATH}")
@@ -88,19 +94,19 @@ def load_mail_map():
         email = col2 if col2 and col2 != "null" else col3
         if email and email != "null":
             mapping[username] = email
+        else:
+            mapping[username] = None
     return mapping
 
 
-def load_internal_developers():
-    devs = set()
-    if not INTERNAL_DEVS_PATH.exists():
-        print(f"  ✗ 内部开发者名单不存在: {INTERNAL_DEVS_PATH}")
-        return devs
-    for line in INTERNAL_DEVS_PATH.read_text(encoding="utf-8").splitlines():
-        name = line.strip()
-        if name and not name.startswith("#"):
-            devs.add(name)
-    return devs
+def _has_valid_email(mail_map, author):
+    """author 在 mail_map 中且有有效邮箱。"""
+    return mail_map.get(author) is not None
+
+
+def _has_null_email(mail_map, author):
+    """author 在 mail_map 中但两列邮箱均为 null。"""
+    return author in mail_map and mail_map[author] is None
 
 
 def load_admin_email():
@@ -130,6 +136,26 @@ def save_notified(notified):
 def _mr_key(repo_path, iid):
     safe = repo_path.replace("/", "__")
     return f"{safe}!{iid}"
+
+
+def _working_days_between(start_date, end_date):
+    """计算 start_date（含）到 end_date（含）之间的工作天数，排除周末和法定节假日。"""
+    count = 0
+    d = start_date
+    while d <= end_date:
+        if is_workday(d):
+            count += 1
+        d += timedelta(days=1)
+    return count
+
+
+def _working_days_since(date_str):
+    """从 date_str 到今天的累计工作天数（含当日）。"""
+    try:
+        start = datetime.strptime(date_str[:10], "%Y-%m-%d").date()
+        return _working_days_between(start, date.today())
+    except (ValueError, TypeError):
+        return 0
 
 
 SMTP_CONFIG_TEMPLATE = """\
@@ -183,15 +209,16 @@ def _check_mr_notify_status(key, notified, today):
     if not last_at:
         return False, 0
     try:
-        last_dt = datetime.strptime(last_at[:10], "%Y-%m-%d")
+        last_date = datetime.strptime(last_at[:10], "%Y-%m-%d").date()
     except ValueError:
         return False, 0
-    if (today - last_dt).days >= RESEND_INTERVAL_DAYS:
+    working_days = _working_days_between(last_date, today)
+    if working_days >= RESEND_INTERVAL_DAYS:
         return True, count + 1
     return False, 0
 
 
-def scan_stale_mrs(stale_days, target_label, require_label, notify_paths=None, notified=None):
+def scan_stale_mrs(stale_days, notify_paths=None, notified=None):
     today = datetime.now()
     stale_by_author = defaultdict(list)
     stats = {
@@ -224,7 +251,7 @@ def scan_stale_mrs(stale_days, target_label, require_label, notify_paths=None, n
                 continue
             key = _mr_key(repo_path, iid)
 
-            should_notify, stage = _check_mr_notify_status(key, notified, today)
+            should_notify, stage = _check_mr_notify_status(key, notified, today.date())
             if not should_notify:
                 if key in notified:
                     stats["skipped_done"] += 1
@@ -235,18 +262,10 @@ def scan_stale_mrs(stale_days, target_label, require_label, notify_paths=None, n
             created_at = mr.get("created_at", "")
             if not created_at:
                 continue
-            try:
-                created = datetime.strptime(created_at[:10], "%Y-%m-%d")
-            except ValueError:
-                continue
-            days_open = (today - created).days
+            days_open = _working_days_since(created_at)
             if days_open <= stale_days:
                 continue
             stats["stale_all"] += 1
-
-            labels = mr.get("labels") or []
-            if require_label and target_label and target_label not in labels:
-                continue
             stats["stale_matched"] += 1
 
             if stage == 2:
@@ -265,7 +284,7 @@ def scan_stale_mrs(stale_days, target_label, require_label, notify_paths=None, n
                 "created_at": created_at,
                 "days_open": days_open,
                 "web_url": mr.get("web_url", ""),
-                "labels": labels,
+                "labels": mr.get("labels") or [],
                 "notify_stage": stage,
             })
 
@@ -301,7 +320,7 @@ def build_html_email(author, mrs, is_escalated=False):
     return f"""<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:720px;margin:0 auto">
   <h2 style="color:#1a1d2e;font-size:18px;margin-bottom:4px">超期 MR 提醒</h2>
   <p style="color:#666;font-size:13px;margin-bottom:16px">
-    Hi {author}，您有 <strong style="color:#e05f5f">{len(mrs)}</strong> 个 MR 已开启超过 14 天且 CI 已通过，请及时处理。
+    Hi {author}，您有 <strong style="color:#e05f5f">{len(mrs)}</strong> 个 MR 已开启超过 14 个工作日，请及时处理。
   </p>
   {escalation_note}
   <table style="width:100%;border-collapse:collapse;font-size:13px;border:1px solid #e2e4ea;border-radius:8px;overflow:hidden">
@@ -319,6 +338,7 @@ def build_html_email(author, mrs, is_escalated=False):
   <p style="color:#999;font-size:11px;margin-top:16px">
     此邮件由 CANN Radar 自动发送，请检查 MR 状态后及时合并或关闭。
   </p>
+  <p style="color:#999;font-size:11px">{CONTACT_INFO}</p>
 </div>"""
 
 
@@ -351,38 +371,37 @@ def _build_author_mr_section(title, label_color, author_mrs_dict):
   </h3>{author_blocks}"""
 
 
-def build_admin_report_html(stats, internal_no_email, external_authors, stale_days, target_label):
-    internal_section = _build_author_mr_section(
-        "内部开发者（无邮箱映射）", "#e05f5f", internal_no_email,
+def build_admin_report_html(stats, null_email_authors, external_authors, stale_days):
+    null_section = _build_author_mr_section(
+        "有映射但无邮箱", "#e05f5f", null_email_authors,
     )
     external_section = _build_author_mr_section(
         "外部开发者", "#f5a623", external_authors,
     )
 
-    total_internal = sum(len(mrs) for mrs in internal_no_email.values())
+    total_null = sum(len(mrs) for mrs in null_email_authors.values())
     total_external = sum(len(mrs) for mrs in external_authors.values())
     stage2_total = stats.get("stage2_count", 0)
 
     return f"""<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:720px;margin:0 auto">
   <h2 style="color:#1a1d2e;font-size:18px;margin-bottom:4px">超期 MR 管理员汇总报告</h2>
   <p style="color:#666;font-size:13px;margin-bottom:16px">
-    扫描条件：开启超过 <strong>{stale_days}</strong> 天{'，label=' + target_label if target_label else ''}（距上次通知≥{RESEND_INTERVAL_DAYS}天可重发，最多{MAX_NOTIFY_COUNT}次）
+    扫描条件：开启超过 <strong>{stale_days}</strong> 个工作日（距上次通知≥{RESEND_INTERVAL_DAYS}个工作日可重发，最多{MAX_NOTIFY_COUNT}次）
   </p>
   <table style="font-size:13px;border-collapse:collapse;margin-bottom:20px">
     <tr><td style="padding:4px 16px 4px 0;color:#666">扫描仓库</td><td><strong>{stats['repos_scanned']}</strong></td></tr>
     <tr><td style="padding:4px 16px 4px 0;color:#666">Opened MR 总数</td><td><strong>{stats['total_opened']}</strong></td></tr>
-    <tr><td style="padding:4px 16px 4px 0;color:#666">超期 MR（不限 label）</td><td><strong>{stats['stale_all']}</strong></td></tr>
-    <tr><td style="padding:4px 16px 4px 0;color:#666">匹配超期 MR</td><td><strong>{stats['stale_matched']}</strong></td></tr>
+    <tr><td style="padding:4px 16px 4px 0;color:#666">超期 MR</td><td><strong>{stats['stale_matched']}</strong></td></tr>
     <tr><td style="padding:4px 16px 4px 0;color:#666">首次通知</td><td><strong>{stats.get('stage1_count', 0)}</strong></td></tr>
     <tr><td style="padding:4px 16px 4px 0;color:#666">二次升级通知</td><td><strong style="color:#e05f5f">{stage2_total}</strong></td></tr>
-    <tr><td style="padding:4px 16px 4px 0;color:#666">近{RESEND_INTERVAL_DAYS}天已通知跳过</td><td><strong>{stats['skipped_recent']}</strong></td></tr>
+    <tr><td style="padding:4px 16px 4px 0;color:#666">近{RESEND_INTERVAL_DAYS}个工作日已通知跳过</td><td><strong>{stats['skipped_recent']}</strong></td></tr>
     <tr><td style="padding:4px 16px 4px 0;color:#666">已达上限永久跳过</td><td><strong>{stats['skipped_done']}</strong></td></tr>
-    <tr><td style="padding:4px 16px 4px 0;color:#666">内部无邮箱 MR 数</td><td><strong style="color:#e05f5f">{total_internal}</strong></td></tr>
+    <tr><td style="padding:4px 16px 4px 0;color:#666">有映射无邮箱 MR 数</td><td><strong style="color:#e05f5f">{total_null}</strong></td></tr>
     <tr><td style="padding:4px 16px 4px 0;color:#666">外部开发者 MR 数</td><td><strong style="color:#f5a623">{total_external}</strong></td></tr>
   </table>
-  {internal_section}
+  {null_section}
   {external_section}
-  <p style="color:#999;font-size:11px;margin-top:20px">CANN Radar 自动生成 · 内部无邮箱开发者及外部开发者需管理员介入联系</p>
+  <p style="color:#999;font-size:11px;margin-top:20px">CANN Radar 自动生成 · {CONTACT_INFO}</p>
 </div>"""
 
 
@@ -411,15 +430,15 @@ def send_one_email(cfg, to_email, subject, html_body, cc_email=None):
         smtp.sendmail(sender, recipients, msg.as_string())
 
 
-def _send_personal_emails(internal_with_email, target_label, smtp_cfg, notified_data, admin_email, args):
+def _send_personal_emails(has_email_authors, smtp_cfg, notified_data, admin_email, args):
     sent = 0
     failed = 0
     test_sent = False
 
-    for author, (email, mrs) in sorted(internal_with_email.items(), key=lambda x: -len(x[1][1])):
+    for author, (email, mrs) in sorted(has_email_authors.items(), key=lambda x: -len(x[1][1])):
         has_stage2 = any(m.get("notify_stage") == 2 for m in mrs)
         stage2_count = sum(1 for m in mrs if m.get("notify_stage") == 2)
-        subject = f"[CANN] 您有 {len(mrs)} 个超期未关闭的 MR（{'CI已通过' if target_label else '需处理'}）"
+        subject = f"[CANN] 您有 {len(mrs)} 个超期未关闭的 MR（需处理）"
         if has_stage2:
             subject += " [二次提醒]"
         html = build_html_email(author, mrs, is_escalated=has_stage2)
@@ -477,9 +496,7 @@ def _mark_notified(notified_data, mrs):
 def main():
     parser = argparse.ArgumentParser(description="超期 MR 扫描与邮件通知")
     parser.add_argument("--dry-run", action="store_true", help="仅打印结果，不发送邮件")
-    parser.add_argument("--stale-days", type=int, default=DEFAULT_STALE_DAYS, help=f"超期天数阈值（默认 {DEFAULT_STALE_DAYS}）")
-    parser.add_argument("--label", default=DEFAULT_LABEL, help=f"需要匹配的 label（默认 {DEFAULT_LABEL}）")
-    parser.add_argument("--no-label", action="store_true", help="不按 label 过滤，所有超期 MR 均纳入")
+    parser.add_argument("--stale-days", type=int, default=DEFAULT_STALE_DAYS, help=f"超期工作日阈值（默认 {DEFAULT_STALE_DAYS}）")
     parser.add_argument("--report-to", help="管理员汇总报告发送到此邮箱（覆盖 config/admin_email.txt）")
     parser.add_argument("--test", metavar="EMAIL", help="测试模式：仅发送1封样本到指定邮箱，不发给实际作者")
     parser.add_argument("--init-smtp", action="store_true", help="生成 SMTP 配置模板到 config/smtp_config.ini")
@@ -489,22 +506,15 @@ def main():
         init_smtp_config()
         return 0
 
-    require_label = not args.no_label
-    target_label = "" if args.no_label else args.label
-
     print(f"=== 超期 MR 扫描 ===")
-    print(f"  超期天数: >{args.stale_days}天")
-    print(f"  Label 过滤: {'无' if args.no_label else target_label}")
-    print(f"  升级间隔: 距上次通知≥{RESEND_INTERVAL_DAYS}天可重发（最多{MAX_NOTIFY_COUNT}次）")
+    print(f"  超期天数: >{args.stale_days} 个工作日")
+    print(f"  升级间隔: 距上次通知≥{RESEND_INTERVAL_DAYS} 个工作日可重发（最多{MAX_NOTIFY_COUNT}次）")
     if args.test:
         print(f"  模式: 测试（仅1封样本发送到 {args.test}）")
     elif args.dry_run:
         print(f"  模式: dry-run（不发送）")
     else:
         print(f"  模式: 正式发送")
-
-    internal_devs = load_internal_developers()
-    print(f"  内部开发者: {len(internal_devs)} 人")
 
     notify_paths = load_notify_repo_paths()
     if not notify_paths:
@@ -525,16 +535,15 @@ def main():
         print(f"  管理员邮箱: 未配置（将不发送汇总报告）")
 
     stale_by_author, stats = scan_stale_mrs(
-        args.stale_days, target_label, require_label, notify_paths, notified_data.get("notified", {}),
+        args.stale_days, notify_paths, notified_data.get("notified", {}),
     )
     print(f"\n  扫描结果:")
     print(f"    仓库: {stats['repos_scanned']}")
     print(f"    Opened MR: {stats['total_opened']}")
-    print(f"    超期 MR（不限 label）: {stats['stale_all']}")
-    print(f"    匹配超期 MR: {stats['stale_matched']}")
+    print(f"    超期 MR: {stats['stale_matched']}")
     print(f"    首次通知: {stats['stage1_count']}")
     print(f"    二次升级: {stats['stage2_count']}")
-    print(f"    近{RESEND_INTERVAL_DAYS}天已通知跳过: {stats['skipped_recent']}")
+    print(f"    近{RESEND_INTERVAL_DAYS}个工作日已通知跳过: {stats['skipped_recent']}")
     print(f"    已达上限跳过: {stats['skipped_done']}")
     print(f"    涉及作者: {len(stale_by_author)}")
 
@@ -542,32 +551,30 @@ def main():
         print("\n  ✓ 无新增/待升级超期 MR，无需通知")
         return 0
 
-    # 分类：内部有邮箱 / 内部无邮箱 / 外部
-    internal_with_email = {}
-    internal_no_email = {}
+    # 新分类：有邮箱 / null邮箱 / 不在映射中
+    has_email_authors = {}
+    null_email_authors = {}
     external_authors = {}
 
     for author, mrs in stale_by_author.items():
-        if author in internal_devs:
-            email = mail_map.get(author)
-            if email:
-                internal_with_email[author] = (email, mrs)
-            else:
-                internal_no_email[author] = mrs
+        if _has_valid_email(mail_map, author):
+            has_email_authors[author] = (mail_map[author], mrs)
+        elif _has_null_email(mail_map, author):
+            null_email_authors[author] = mrs
         else:
             external_authors[author] = mrs
 
     print(f"\n  分类结果:")
-    print(f"    内部+有邮箱: {len(internal_with_email)} 人（{sum(len(v[1]) for v in internal_with_email.values())} 个 MR）")
-    print(f"    内部+无邮箱: {len(internal_no_email)} 人（{sum(len(v) for v in internal_no_email.values())} 个 MR）")
+    print(f"    有邮箱: {len(has_email_authors)} 人（{sum(len(v[1]) for v in has_email_authors.values())} 个 MR）")
+    print(f"    有映射无邮箱: {len(null_email_authors)} 人（{sum(len(v) for v in null_email_authors.values())} 个 MR）")
     print(f"    外部开发者: {len(external_authors)} 人（{sum(len(v) for v in external_authors.values())} 个 MR）")
 
     if not admin_email:
-        if internal_no_email or external_authors:
+        if null_email_authors or external_authors:
             print(f"\n  ⚠ 管理员邮箱未配置，以下用户无法收到通知：")
-            for a in sorted(internal_no_email.keys()):
-                ids = ", ".join(f"#{m['iid']}" for m in internal_no_email[a])
-                print(f"    内部无邮箱: {a} ({ids})")
+            for a in sorted(null_email_authors.keys()):
+                ids = ", ".join(f"#{m['iid']}" for m in null_email_authors[a])
+                print(f"    有映射无邮箱: {a} ({ids})")
             for a in sorted(external_authors.keys()):
                 ids = ", ".join(f"#{m['iid']}" for m in external_authors[a])
                 print(f"    外部开发者: {a} ({ids})")
@@ -581,46 +588,46 @@ def main():
 
     notified_changed = False
 
-    # 发送个人通知（仅内部有邮箱者）
+    # 发送个人通知（有邮箱者）
     print(f"\n=== 发送个人通知 ===")
-    if not internal_with_email:
-        print("  （无内部+有邮箱的开发者，跳过个人通知）")
+    if not has_email_authors:
+        print("  （无有邮箱的开发者，跳过个人通知）")
     else:
         sent, failed = _send_personal_emails(
-            internal_with_email, target_label, smtp_cfg, notified_data, admin_email, args,
+            has_email_authors, smtp_cfg, notified_data, admin_email, args,
         )
         if sent > 0 and not args.dry_run:
             notified_changed = True
         if not args.dry_run:
             print(f"\n  个人通知: 已发送 {sent}, 失败 {failed}")
 
-    # 发送管理员汇总报告（内部无邮箱 + 外部开发者）
+    # 发送管理员汇总报告（null邮箱 + 外部开发者）
     if args.dry_run:
-        if admin_email and (internal_no_email or external_authors):
+        if admin_email and (null_email_authors or external_authors):
             print(f"\n=== 管理员汇总报告 ===")
             print(f"  → 将发送到 {admin_email} [dry-run，未发送]")
-            print(f"    内部无邮箱: {len(internal_no_email)} 人")
+            print(f"    有映射无邮箱: {len(null_email_authors)} 人")
             print(f"    外部开发者: {len(external_authors)} 人")
-        elif not admin_email and (internal_no_email or external_authors):
+        elif not admin_email and (null_email_authors or external_authors):
             print(f"\n=== 管理员汇总报告 ===")
             print(f"  → 管理员邮箱未配置，跳过发送 [dry-run]")
-    elif admin_email and (internal_no_email or external_authors):
+    elif admin_email and (null_email_authors or external_authors):
         print(f"\n=== 发送管理员汇总报告 → {admin_email} ===")
         admin_html = build_admin_report_html(
-            stats, internal_no_email, external_authors, args.stale_days, target_label,
+            stats, null_email_authors, external_authors, args.stale_days,
         )
         try:
             send_one_email(
                 smtp_cfg, admin_email,
-                f"[CANN] 超期 MR 管理员报告（内部无邮箱 {len(internal_no_email)} 人，外部 {len(external_authors)} 人）",
+                f"[CANN] 超期 MR 管理员报告（无邮箱 {len(null_email_authors)} 人，外部 {len(external_authors)} 人）",
                 admin_html,
             )
             print(f"  ✓ 管理员汇总报告已发送")
             notified_data["admin_report_last_sent"] = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
             notified_data["admin_report_summary"] = {
-                "internal_no_email": len(internal_no_email),
+                "null_email": len(null_email_authors),
                 "external": len(external_authors),
-                "total_mrs": sum(len(v) for v in internal_no_email.values()) + sum(len(v) for v in external_authors.values()),
+                "total_mrs": sum(len(v) for v in null_email_authors.values()) + sum(len(v) for v in external_authors.values()),
             }
             notified_changed = True
         except Exception as e:
