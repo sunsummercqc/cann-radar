@@ -34,6 +34,18 @@ on:
         description: '管理员汇总报告发送邮箱（覆盖私仓配置）'
         type: string
         default: ''
+      run_issue_notify:
+        description: '是否执行超期 Issue 通知'
+        type: boolean
+        default: false
+      issue_stale_days:
+        description: 'Issue 超期工作日数（默认 14）'
+        type: number
+        default: 14
+      issue_test_email:
+        description: 'Issue 通知测试邮箱（填写后仅发送到该邮箱）'
+        type: string
+        default: ''
 
 permissions:
   contents: write
@@ -133,5 +145,28 @@ jobs:
           git add data/stale_mr_notified.json
           git diff --staged --quiet && echo "No tracking changes" || (
             git commit -m "chore: 更新超期 MR 通知记录 $(date -u '+%Y-%m-%d')"
+            git push
+          )
+
+      - name: Notify stale issue assignees
+        if: github.event.inputs.run_issue_notify == 'true' || github.event_name == 'schedule'
+        run: |
+          ARGS="--stale-days ${{ github.event.inputs.issue_stale_days || 14 }}"
+          if [ -n "${{ github.event.inputs.issue_test_email }}" ]; then
+            ARGS="$ARGS --test ${{ github.event.inputs.issue_test_email }}"
+          fi
+          if [ -n "${{ github.event.inputs.admin_report_to }}" ]; then
+            ARGS="$ARGS --report-to ${{ github.event.inputs.admin_report_to }}"
+          fi
+          python stale_issue_notify.py $ARGS
+
+      - name: Commit notified issue tracking
+        if: github.event.inputs.run_issue_notify == 'true' || github.event_name == 'schedule'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/stale_issue_notified.json
+          git diff --staged --quiet && echo "No tracking changes" || (
+            git commit -m "chore: 更新超期 Issue 通知记录 $(date -u '+%Y-%m-%d')"
             git push
           )

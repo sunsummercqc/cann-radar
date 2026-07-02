@@ -1827,7 +1827,10 @@ async function main() {
       const nonRequirementOver14d = issues.filter(i => {
         if (i.state !== 'opened') return false;
         const title = (i.title || '');
-        const isRequirement = title.includes('[RFC]') || title.includes('[Feature-Request|需求反馈]');
+        const labels = (i.labels || []);
+        const isRequirement = title.includes('[RFC]') 
+          || title.includes('[Feature-Request|需求反馈]')
+          || labels.includes('requirement');
         if (isRequirement) return false;
         const created = new Date(i.created_at);
         return (now - created) > fourteenDaysMs;
@@ -1837,7 +1840,10 @@ async function main() {
       const requirementOver90d = issues.filter(i => {
         if (i.state !== 'opened') return false;
         const title = (i.title || '');
-        const isRequirement = title.includes('[RFC]') || title.includes('[Feature-Request|需求反馈]');
+        const labels = (i.labels || []);
+        const isRequirement = title.includes('[RFC]') 
+          || title.includes('[Feature-Request|需求反馈]')
+          || labels.includes('requirement');
         if (!isRequirement) return false;
         const created = new Date(i.created_at);
         return (now - created) > ninetyDaysMs;

@@ -1183,6 +1183,7 @@ def _fetch_repo_issues(repo, issues_dir):
         for issue in data["issues"]:
             closed_raw = issue.get("closed_at") or ""
             labels = issue.get("labels") or []
+            assignees_raw = issue.get("assignees") or []
             all_issues.append({
                 "iid":             issue.get("iid"),
                 "state":           issue.get("state", "opened"),
@@ -1191,6 +1192,7 @@ def _fetch_repo_issues(repo, issues_dir):
                 "author":          (issue.get("author") or {}).get("username", ""),
                 "title":           issue.get("title") or "",
                 "labels":          [label.get("name", "") if isinstance(label, dict) else str(label) for label in labels],
+                "assignees":       [a.get("username", "") if isinstance(a, dict) else str(a) for a in assignees_raw],
                 "user_notes_count": issue.get("user_notes_count") or 0,
                 "web_url":         issue.get("web_url") or "",
             })
@@ -1967,6 +1969,7 @@ def collect_community_issues():
             for issue in data["issues"]:
                 closed_raw = issue.get("closed_at") or ""
                 labels = issue.get("labels") or []
+                assignees_raw = issue.get("assignees") or []
                 all_issues.append({
                     "iid": issue.get("iid"),
                     "state": issue.get("state", "opened"),
@@ -1975,6 +1978,7 @@ def collect_community_issues():
                     "author": (issue.get("author") or {}).get("username", ""),
                     "title": issue.get("title") or "",
                     "labels": [label.get("name", "") if isinstance(label, dict) else str(label) for label in labels],
+                    "assignees": [a.get("username", "") if isinstance(a, dict) else str(a) for a in assignees_raw],
                     "user_notes_count": issue.get("user_notes_count") or 0,
                     "web_url": issue.get("web_url") or "",
                 })
