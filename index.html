@@ -1823,7 +1823,7 @@ async function main() {
         return elapsed > oneDayMs && (i.user_notes_count || 0) === 0;
       }).sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
 
-      // 2. 非requirement且超过14天未关闭的issue（按创建时间降序）
+      // 2. 非requirement且超过14个工作日未关闭的issue
       const nonRequirementOver14d = issues.filter(i => {
         if (i.state !== 'opened') return false;
         const title = (i.title || '');
@@ -1832,11 +1832,11 @@ async function main() {
           || title.includes('[Feature-Request|需求反馈]')
           || labels.includes('requirement');
         if (isRequirement) return false;
-        const created = new Date(i.created_at);
-        return (now - created) > fourteenDaysMs;
+        const wd = i.working_days_open ?? Math.floor((now - new Date(i.created_at)) / oneDayMs);
+        return wd > 14;
       }).sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
 
-      // 3. requirement且超过90天未关闭的issue（按创建时间降序）
+      // 3. requirement且超过90个工作日未关闭的issue
       const requirementOver90d = issues.filter(i => {
         if (i.state !== 'opened') return false;
         const title = (i.title || '');
@@ -1845,8 +1845,8 @@ async function main() {
           || title.includes('[Feature-Request|需求反馈]')
           || labels.includes('requirement');
         if (!isRequirement) return false;
-        const created = new Date(i.created_at);
-        return (now - created) > ninetyDaysMs;
+        const wd = i.working_days_open ?? Math.floor((now - new Date(i.created_at)) / oneDayMs);
+        return wd > 90;
       }).sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
 
       // 渲染特殊统计的HTML结构
@@ -1863,14 +1863,14 @@ async function main() {
             ` : ''}
             ${nonRequirementOver14d.length > 0 ? `
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px">
-                <div style="font-size:13px;font-weight:600;color:#f5a623;margin-bottom:8px">非Requirement超过14天未关闭 (${nonRequirementOver14d.length})</div>
+                <div style="font-size:13px;font-weight:600;color:#f5a623;margin-bottom:8px">非Requirement超过14个工作日未关闭 (${nonRequirementOver14d.length})</div>
                 <div id="non-req-list" style="font-size:12px;color:var(--text-3);line-height:1.6"></div>
                 <div id="non-req-pagination" class="pagination" style="margin-top:8px"></div>
               </div>
             ` : ''}
             ${requirementOver90d.length > 0 ? `
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px">
-                <div style="font-size:13px;font-weight:600;color:#5b8def;margin-bottom:8px">Requirement超过90天未关闭 (${requirementOver90d.length})</div>
+                <div style="font-size:13px;font-weight:600;color:#5b8def;margin-bottom:8px">Requirement超过90个工作日未关闭 (${requirementOver90d.length})</div>
                 <div id="req-list" style="font-size:12px;color:var(--text-3);line-height:1.6"></div>
                 <div id="req-pagination" class="pagination" style="margin-top:8px"></div>
               </div>
@@ -1896,10 +1896,10 @@ async function main() {
         const pageItems = list.slice(start, start + SPECIAL_PAGE_SIZE);
 
         const listHtml = pageItems.map((i, idx) => {
-          const days = Math.floor((now - new Date(i.created_at)) / oneDayMs);
+          const days = i.working_days_open ?? Math.floor((now - new Date(i.created_at)) / oneDayMs);
           const url = i.web_url || `https://gitcode.com/${repoPath}/issues/${i.iid}`;
           const labelStr = type === 'noReply' ? '' : ` · ${(i.labels || []).join(', ') || '无标签'}`;
-          return `<div style="margin-bottom:4px"><span style="color:var(--text-4);font-size:11px">${start + idx + 1}</span> <a href="${url}" target="_blank" style="color:var(--accent);text-decoration:none">#${i.iid}</a> · 创建 ${i.created_at} · 已 ${days} 天${type === 'noReply' ? '未回复' : ''}${labelStr}</div>`;
+          return `<div style="margin-bottom:4px"><span style="color:var(--text-4);font-size:11px">${start + idx + 1}</span> <a href="${url}" target="_blank" style="color:var(--accent);text-decoration:none">#${i.iid}</a> · 创建 ${i.created_at} · 已 ${days} 个工作日${type === 'noReply' ? '未回复' : ''}${labelStr}</div>`;
         }).join('');
         document.getElementById(containerId).innerHTML = listHtml;
 
@@ -2073,15 +2073,12 @@ async function main() {
       });
       window.addEventListener('resize', () => mrChart2.resize());
 
-      // 开启时间超过14天的MR统计
-      const fourteenDaysMs = 14 * 24 * 3600 * 1000;
-      const nowMs = Date.now();
-
+      // 开启时间超过14个工作日的MR统计
       const staleMRs = mrs.filter(m => {
         if (m.state !== 'opened') return false;
         if (!m.created_at) return false;
-        const created = new Date(m.created_at).getTime();
-        return (nowMs - created) > fourteenDaysMs;
+        const wd = m.working_days_open ?? Math.floor((Date.now() - new Date(m.created_at).getTime()) / 86400000);
+        return wd > 14;
       }).sort((a, b) => {
         const aTime = new Date(a.created_at).getTime();
         const bTime = new Date(b.created_at).getTime();
@@ -2091,7 +2088,7 @@ async function main() {
       if (staleMRs.length > 0) {
         const staleMRData = staleMRs.map(m => {
           const createdAt = m.created_at;
-          const openDays = Math.floor((nowMs - new Date(createdAt).getTime()) / (24 * 3600 * 1000));
+          const openDays = m.working_days_open ?? Math.floor((Date.now() - new Date(createdAt).getTime()) / 86400000);
           return { ...m, openDays };
         });
 
@@ -2108,7 +2105,7 @@ async function main() {
             <div style="font-size:14px;font-weight:600;color:var(--text);margin-bottom:12px">特殊规则统计</div>
             <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px">
               <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
-                <div style="font-size:13px;font-weight:600;color:#f5a623">开启时间超过14天的MR (<span id="stale-mr-count">${staleMRData.length}</span>)</div>
+                <div style="font-size:13px;font-weight:600;color:#f5a623">开启时间超过14个工作日的MR (<span id="stale-mr-count">${staleMRData.length}</span>)</div>
                 <button id="stale-mr-export-btn" style="padding:4px 12px;font-size:12px;background:var(--accent);color:#fff;border:none;border-radius:4px;cursor:pointer">导出 Excel</button>
               </div>
               <div class="table-wrapper">

@@ -32,6 +32,12 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
 
+try:
+    from chinese_calendar import is_workday
+except ImportError:
+    def is_workday(d):
+        return d.weekday() < 5
+
 # 修复 Windows GBK 控制台编码问题
 if sys.platform == "win32":
     import io
@@ -155,6 +161,23 @@ HEADERS = {
 REQUEST_DELAY = 0.3
 # 用户信息请求间隔（较慢，避免频繁）
 USER_REQUEST_DELAY = 0.2
+
+
+def _working_days_open(created_date_str):
+    """从创建日期到今天的累计工作天数（排除周末和法定节假日）。"""
+    try:
+        from datetime import date
+        created = date.fromisoformat(created_date_str[:10])
+        count = 0
+        d = created
+        today = date.today()
+        while d <= today:
+            if is_workday(d):
+                count += 1
+            d += __import__('datetime').timedelta(days=1)
+        return count
+    except Exception:
+        return 0
 
 # ─── HTTP 工具 ────────────────────────────────────────────────────────────────
 
@@ -1195,6 +1218,7 @@ def _fetch_repo_issues(repo, issues_dir):
                 "assignees":       [a.get("username", "") if isinstance(a, dict) else str(a) for a in assignees_raw],
                 "user_notes_count": issue.get("user_notes_count") or 0,
                 "web_url":         issue.get("web_url") or "",
+                "working_days_open": _working_days_open((issue.get("created_at") or "")[:10]),
             })
 
         if total and len(all_issues) >= total or len(data["issues"]) < 100:
@@ -1282,6 +1306,7 @@ def _fetch_repo_mrs(repo, mrs_dir):
                 "author":     (mr.get("author") or {}).get("username", ""),
                 "web_url":    mr.get("web_url") or "",
                 "labels":     [label.get("name", "") if isinstance(label, dict) else str(label) for label in ent_labels],
+                "working_days_open": _working_days_open((mr.get("created_at") or "")[:10]),
             })
 
         if (total and len(all_mrs) >= total) or len(data["content"]) < 100:
@@ -1981,6 +2006,7 @@ def collect_community_issues():
                     "assignees": [a.get("username", "") if isinstance(a, dict) else str(a) for a in assignees_raw],
                     "user_notes_count": issue.get("user_notes_count") or 0,
                     "web_url": issue.get("web_url") or "",
+                    "working_days_open": _working_days_open((issue.get("created_at") or "")[:10]),
                 })
             if len(data["issues"]) < 100:
                 break
@@ -2036,6 +2062,7 @@ def collect_community_mrs():
                     "author": (mr.get("author") or {}).get("username", ""),
                     "web_url": mr.get("web_url") or "",
                     "labels": [label.get("name", "") if isinstance(label, dict) else str(label) for label in ent_labels],
+                    "working_days_open": _working_days_open((mr.get("created_at") or "")[:10]),
                 })
             if len(data["content"]) < 100:
                 break

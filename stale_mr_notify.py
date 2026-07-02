@@ -263,7 +263,7 @@ def scan_stale_mrs(stale_days, notify_paths=None, notified=None):
             created_at = mr.get("created_at", "")
             if not created_at:
                 continue
-            days_open = _working_days_since(created_at)
+            days_open = mr.get("working_days_open") or _working_days_since(created_at)
             if days_open <= stale_days:
                 continue
             stats["stale_all"] += 1

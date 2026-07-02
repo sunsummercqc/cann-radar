@@ -1,5 +1,19 @@
 [
   {
+    "iid": 481,
+    "state": "opened",
+    "created_at": "2026-07-02",
+    "closed_at": "",
+    "author": "zjun0",
+    "title": "[Documentation|文档反馈]: 二维码图片太大了，可以优雅一点",
+    "labels": [],
+    "assignees": [
+      "medivh-x"
+    ],
+    "user_notes_count": 0,
+    "web_url": "https://gitcode.com/cann/ge/issues/481"
+  },
+  {
     "iid": 480,
     "state": "opened",
     "created_at": "2026-07-01",
@@ -7,6 +21,9 @@
     "author": "hugo111",
     "title": "GE Development Roadmap (2026 Q3)",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/ge/issues/480"
   },
@@ -18,6 +35,7 @@
     "author": "jgx12",
     "title": "[Bug-Report|缺陷反馈]: fp16与bf16输入addmm算子WeightNz场景，transdata出现插入不一致问题",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/479"
   },
@@ -29,6 +47,9 @@
     "author": "flyswa",
     "title": "[Documentation|文档反馈]: zh/README.md中的链接失效",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/478"
   },
@@ -40,6 +61,7 @@
     "author": "zhaozhixuan",
     "title": "[Feature-Request|需求反馈]: rts引擎支持在op上打上实现方式的属性",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/ge/issues/477"
   },
@@ -51,6 +73,9 @@
     "author": "hugo111",
     "title": "[RFC]: 面向算子编程语言封装友好性接入层",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/476"
   },
@@ -62,6 +87,9 @@
     "author": "hugo111",
     "title": "[RFC]: 语言无关自定义算子高阶优化",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/474"
   },
@@ -73,6 +101,9 @@
     "author": "hugo111",
     "title": "[RFC]: 基于符号化推导结果通过codegen对host上shape计算类kernel进行优化",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/473"
   },
@@ -84,6 +115,9 @@
     "author": "Mexyy",
     "title": "[RFC]: GE框架静态shape多流新增加权算法和自动择优能力；动态shape接入DAG多流算法",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/ge/issues/472"
   },
@@ -95,6 +129,9 @@
     "author": "hugo111",
     "title": "[RFC]: 图模式Agentic开发维测支持",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/471"
   },
@@ -106,6 +143,9 @@
     "author": "kobemini",
     "title": "[Feature-Request|需求反馈]: 模型输入异步拷贝",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/ge/issues/470"
   },
@@ -117,6 +157,9 @@
     "author": "qq_40517592",
     "title": "[Bug-Report|缺陷反馈]: tf在线推理，静态shape+切图场景，模型执行失败",
     "labels": [],
+    "assignees": [
+      "qq_40517592"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/469"
   },
@@ -128,6 +171,9 @@
     "author": "gcw_pfzw85mp",
     "title": "[Feature-Request|需求反馈]: 将昇腾社区关于图开发的问题导入ge仓issue",
     "labels": [],
+    "assignees": [
+      "gcw_3CxwvBIO"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/468"
   },
@@ -139,6 +185,9 @@
     "author": "gothizzz",
     "title": "[Documentation|文档反馈]: build.md 依赖/UT章节与Dockerfile若干缺口（lcov可选性未标注、UT未提示ASAN默认开启、Dockerfile基于EOL的ubuntu18.04）",
     "labels": [],
+    "assignees": [
+      "gcw_3CxwvBIO"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/467"
   },
@@ -150,6 +199,9 @@
     "author": "gothizzz",
     "title": "[Bug-Report|缺陷反馈]: x86 默认开启 ASAN 导致 UT 编译阶段 gen_esb 崩溃，--asan=false 因脚本缓存陈旧不生效",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/466"
   },
@@ -161,6 +213,9 @@
     "author": "captainmiaow",
     "title": "[算子开发][内测体验][Graph Engine][Documentation|文档反馈]: zh/user-guides/dflow/dflow_dev/python/quick_start.md \"获取样例\"链接文本无实际链接",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/465"
   },
@@ -172,6 +227,9 @@
     "author": "captainmiaow",
     "title": "[算子开发][内测体验][Graph Engine][Documentation|文档反馈]: docs/zh/user-guides/dflow/dflow_dev/cpp/preparations.md shell注释用#",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/464"
   },
@@ -183,6 +241,9 @@
     "author": "captainmiaow",
     "title": "[算子开发][内测体验][Graph Engine][Documentation|文档反馈]: docs/zh/user-guides/llm_datadist/llm_datadist_dev/cpp/quick_start.md缺少AUTO_USE_UC_MEMORY描述",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/463"
   },
@@ -194,6 +255,9 @@
     "author": "captainmiaow",
     "title": "[算子开发][内测体验][Graph Engine] [Documentation|文档反馈]:docs/zh/user-guides/dflow/dflow_dev/python/special_topics.md中FLOW_FUNC_REGISTRAR代码有语法错误",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/462"
   },
@@ -205,6 +269,9 @@
     "author": "captainmiaow",
     "title": "[算子开发][内测体验][Graph Engine][Documentation|文档反馈]: docs/zh/user-guides/dflow/dflow_dev/python/dataflow_running.md中不同图片编号重复",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/461"
   },
@@ -216,6 +283,9 @@
     "author": "captainmiaow",
     "title": "[算子开发][内测体验][Graph Engine][Documentation|文档反馈]: docs/zh/quick_install.md中有提及950，但很多子文档中未写明是否支持950或A5",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/460"
   },
@@ -227,6 +297,9 @@
     "author": "captainmiaow",
     "title": "[算子开发][内测体验][Graph Engine][Documentation|文档反馈]:llm_datadist_dev/python/quick_start.md描述文字重复",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/459"
   },
@@ -238,6 +311,9 @@
     "author": "hugo111",
     "title": "[Documentation|文档反馈]: ",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/458"
   },
@@ -249,6 +325,9 @@
     "author": "HGHAAQq",
     "title": "[Question|问题咨询]: PTO算子上MDC推理报错",
     "labels": [],
+    "assignees": [
+      "Chang-an-HW"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/455"
   },
@@ -260,6 +339,10 @@
     "author": "wei_shi",
     "title": "[Bug-Report|缺陷反馈]: reduce融合norm-like阈值日志与实际不符",
     "labels": [],
+    "assignees": [
+      "wei_shi",
+      "Chang-an-HW"
+    ],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/ge/issues/454"
   },
@@ -271,6 +354,9 @@
     "author": "TimeVShow",
     "title": "[Bug-Report|缺陷反馈]: GE.roll算子精度异常",
     "labels": [],
+    "assignees": [
+      "Chang-an-HW"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/453"
   },
@@ -282,6 +368,9 @@
     "author": "HGHAAQq",
     "title": "[Question|问题咨询]: 1952 PTO开发框架，PTO自定义算子ATC转模型报错，但没有报错详情",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/452"
   },
@@ -293,6 +382,9 @@
     "author": "weixin_47253752",
     "title": "[Bug-Report|缺陷反馈]: 1952 主线版本 ATC转om，有ERROR日志，但是不应该功能",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/451"
   },
@@ -304,6 +396,9 @@
     "author": "j18351891940",
     "title": "[Bug-Report|缺陷反馈]:  mdc网络开启自动融合Cast Reshape后接多个Cast产生融合节点&&cse优化失效",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/450"
   },
@@ -315,6 +410,9 @@
     "author": "wtf_newage",
     "title": "【fix】解决pack算子lowering时，输入纯scalar场景",
     "labels": [],
+    "assignees": [
+      "wtf_newage"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/449"
   },
@@ -326,6 +424,9 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]: 使用conda环境编译compiler包时，会不受当前conda环境限制，无差别地为所有发现的Python版本编译",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/448"
   },
@@ -337,6 +438,7 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: aclmdlExecuteAsync和aclrtSynchronizeStream间时延，单次推理符合msprof性能数据，多次推理时延异常拉长",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 7,
     "web_url": "https://gitcode.com/cann/ge/issues/447"
   },
@@ -348,6 +450,7 @@
     "author": "zutao",
     "title": "[Bug-Report|缺陷反馈]: Pytorch 在线推理 Qwen3-0.6B 模型使能npugraph_ex推理失败 ",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/446"
   },
@@ -359,6 +462,9 @@
     "author": "aishenghuo_aidaka",
     "title": "[Question|问题咨询]: ATC工具模型转换时完成之后运行报错",
     "labels": [],
+    "assignees": [
+      "du-hua1024"
+    ],
     "user_notes_count": 9,
     "web_url": "https://gitcode.com/cann/ge/issues/443"
   },
@@ -370,6 +476,9 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: AIagent发现的一些问题",
     "labels": [],
+    "assignees": [
+      "du-hua1024"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/442"
   },
@@ -381,6 +490,9 @@
     "author": "j18351891940",
     "title": "[Bug-Report|缺陷反馈]: mdc网络开启自动融合与Aipp pass和CastReshapeCast pass有冲突",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/440"
   },
@@ -392,6 +504,7 @@
     "author": "m0_68855833",
     "title": "[Question|问题咨询]: JIT 编译缓存：磁盘空间与老化规则",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/441"
   },
@@ -403,6 +516,9 @@
     "author": "gcw_cNancIvg",
     "title": "[Question|问题咨询]: AscendC 自动向量化后计算出错，求 CCE 向量化触发条件及局部禁用方法",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/439"
   },
@@ -414,6 +530,9 @@
     "author": "gcw_bjTgaH1Z",
     "title": "[Question|问题咨询]: CANN针对框架动静图的算子内存布局、调度逻辑的区别",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/438"
   },
@@ -425,6 +544,9 @@
     "author": "2301_80288985",
     "title": "[Question|问题咨询]:尝试将ONNX模型转换为支持动态BatchSize的OM模型，以适配推理时不同的批处理大小",
     "labels": [],
+    "assignees": [
+      "du-hua1024"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/444"
   },
@@ -436,6 +558,9 @@
     "author": "gcw_QOyI0tVS",
     "title": "模型编译阶段报错： Unknown ATC error code(1343266818)",
     "labels": [],
+    "assignees": [
+      "du-hua1024"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/445"
   },
@@ -447,6 +572,9 @@
     "author": "liuchengji3",
     "title": "[Question|问题咨询]: CANN8.5转换，CANN9.0推理异常，300IDUO有校验报错，910无校验报错",
     "labels": [],
+    "assignees": [
+      "yuht9"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/435"
   },
@@ -458,6 +586,9 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: md文档中拼写问题",
     "labels": [],
+    "assignees": [
+      "Mutu010"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/434"
   },
@@ -469,6 +600,9 @@
     "author": "Dksnsksk",
     "title": "[Question|问题咨询]: ONNX通过ATC转为OM模型的问题",
     "labels": [],
+    "assignees": [
+      "ClarkXie"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/432"
   },
@@ -480,6 +614,10 @@
     "author": "maxinyuan1",
     "title": "[Bug-Report|缺陷反馈]: GE调用HCCL的HcomPlugin::Initialize接口和HcomPlugin::Finalize()不是同一线程导致getdevice失败",
     "labels": [],
+    "assignees": [
+      "yuchen97",
+      "chenqian1365"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/431"
   },
@@ -491,6 +629,9 @@
     "author": "gcw_blkm9jRu",
     "title": "[Documentation|文档反馈]: 源码构建指导文档，环境验证需要区分三种环境部署方式。cannlab方式部署的环境，环境验证部分不符合，需要改进",
     "labels": [],
+    "assignees": [
+      "ClarkXie"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/430"
   },
@@ -502,6 +643,9 @@
     "author": "gcw_blkm9jRu",
     "title": "[Bug-Report|缺陷反馈]: GE master分支编译错误",
     "labels": [],
+    "assignees": [
+      "ClarkXie"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/429"
   },
@@ -513,6 +657,9 @@
     "author": "gcw_blkm9jRu",
     "title": "[Documentation|文档反馈]: 开源项目资源默认目录描述错误",
     "labels": [],
+    "assignees": [
+      "ClarkXie"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/428"
   },
@@ -524,6 +671,9 @@
     "author": "gcw_blkm9jRu",
     "title": "从CannLab链接登录gitcode时，短信登录和密码登录无反应",
     "labels": [],
+    "assignees": [
+      "ClarkXie"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/427"
   },
@@ -535,6 +685,10 @@
     "author": "gcw_blkm9jRu",
     "title": "[Documentation|文档反馈]: 需要具有解释性描述，2级标题符，便于理解",
     "labels": [],
+    "assignees": [
+      "lihuachao",
+      "yuchen97"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/426"
   },
@@ -546,6 +700,9 @@
     "author": "ling-DT",
     "title": "fix: 修复autofuse模块代码质量告警（magic number、const修饰、冗余头文件）",
     "labels": [],
+    "assignees": [
+      "ling-DT"
+    ],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/ge/issues/425"
   },
@@ -557,6 +714,9 @@
     "author": "chenweiheng",
     "title": "[Feature-Request|需求反馈]: 新增StridedSliceV2 lowering注册",
     "labels": [],
+    "assignees": [
+      "chenweiheng"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/424"
   },
@@ -568,6 +728,9 @@
     "author": "pan-tong",
     "title": "[Feature-Request|需求反馈]: 调整常量折叠V2 soname匹配规则",
     "labels": [],
+    "assignees": [
+      "pan-tong"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/423"
   },
@@ -579,6 +742,9 @@
     "author": "small-hzyyyyy",
     "title": "[Question|问题咨询]: ReduceMax算子通过onnx转om后执行结果shape错误",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/ge/issues/422"
   },
@@ -590,6 +756,9 @@
     "author": "song-dongdong5",
     "title": "[Question|问题咨询]: exeom解析网站无法打开，后续是否还能使用",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/421"
   },
@@ -601,6 +770,9 @@
     "author": "lyppp11",
     "title": "[Question|问题咨询]: 初次学习ascendc ,算子编译不过",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/420"
   },
@@ -612,6 +784,9 @@
     "author": "jichen123",
     "title": "[Documentation|文档反馈]: 安装三方依赖时下载速度过慢，建议参考官方的方式增加对应pip源配置的提示",
     "labels": [],
+    "assignees": [
+      "wuzheng-hw"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/419"
   },
@@ -623,6 +798,9 @@
     "author": "jichen123",
     "title": "[Feature-Request|需求反馈]: 手动安装软件包方式当前针对daily和已发布版本，存在不一致的安装体验",
     "labels": [],
+    "assignees": [
+      "wuzheng-hw"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/418"
   },
@@ -634,6 +812,9 @@
     "author": "jichen123",
     "title": "[Bug-Report|缺陷反馈]: quick_start中一站式开发平台描述存在误导",
     "labels": [],
+    "assignees": [
+      "wuzheng-hw"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/417"
   },
@@ -645,6 +826,7 @@
     "author": "B1anrK",
     "title": "[Question|问题咨询]: 咨询tfa在数据读取时的行为",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/416"
   },
@@ -656,6 +838,7 @@
     "author": "liuchengji3",
     "title": "[Question|问题咨询]: 适配aclgraphsavemodel，跨版本模型运行报错",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/415"
   },
@@ -667,6 +850,9 @@
     "author": "TingShiJieDeXuanNa",
     "title": "[Question|问题咨询]: 哪些ONNX算子昇腾不支持",
     "labels": [],
+    "assignees": [
+      "yuchen97"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/414"
   },
@@ -678,6 +864,9 @@
     "author": "xiong-pan",
     "title": "[Bug-Report|缺陷反馈]: if算子编译完成后加载模型报错",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/413"
   },
@@ -689,6 +878,9 @@
     "author": "nichorians",
     "title": "[Question|问题咨询]: GE模式是否支持mxfp8",
     "labels": [],
+    "assignees": [
+      "gcw_3CxwvBIO"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/412"
   },
@@ -700,6 +892,9 @@
     "author": "yaocaihong",
     "title": "昇腾社区链接跳转失败",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/411"
   },
@@ -711,6 +906,9 @@
     "author": "xiong-pan",
     "title": "[Question|问题咨询]: 对接cmo算子，图编译时报错",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/410"
   },
@@ -722,6 +920,9 @@
     "author": "whh_smile",
     "title": "[Bug-Report|缺陷反馈]:gcc=14.3.0，python=3.14，其他均满足要求，master分支编ge包失败",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/408"
   },
@@ -733,6 +934,9 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: OM模型可以指定调度的AI Core数量，时延优化的角度是建议如何调度？",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/407"
   },
@@ -744,6 +948,9 @@
     "author": "Y_Keven",
     "title": "[Question|问题咨询]: aclmdlLoadFromFile接口返回的错误码是否有变更",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/406"
   },
@@ -755,6 +962,7 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: 数据搬移（如aclrtMemcpy）与推理（如aclmdlExecuteAsync）是否能并行？多个数据搬移能否并行？",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/405"
   },
@@ -766,6 +974,9 @@
     "author": "dingdairong",
     "title": "[Bug-Report|缺陷反馈]: ge 图模式，用例执行完成之后，有一个报错：ValueError: invalid literal for int() with base 10: '0+git010098d'",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/403"
   },
@@ -777,6 +988,9 @@
     "author": "jiangxinyu3",
     "title": "[Bug-Report|缺陷反馈]: libhcom_executor.so: undefined symbol: _ZN4hccl31ReleaseA5AicpuGraphSyncResourceEPKc",
     "labels": [],
+    "assignees": [
+      "jiangxinyu3"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/402"
   },
@@ -788,6 +1002,9 @@
     "author": "guoxin_hw",
     "title": "[Documentation|文档反馈]: 【VOD跟踪】cBLAS层级关系包括在GE下面很难理解",
     "labels": [],
+    "assignees": [
+      "zhangfan_hanq"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/401"
   },
@@ -799,6 +1016,9 @@
     "author": "iskezh",
     "title": "[Question|问题咨询]: 新增算子修改aclnn接口导致如下问题运行失败：[ERROR] GE(86776,): ErrorNo: 4294967295(failed) 无法运行",
     "labels": [],
+    "assignees": [
+      "Chang-an-HW"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/400"
   },
@@ -810,6 +1030,9 @@
     "author": "tang-haojie",
     "title": "[Bug-Report|缺陷反馈]: https://gitcode.com/cann/ge/blob/master/docs/offline_compile.md中部分章节命令不对",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/399"
   },
@@ -821,6 +1044,9 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 工具扫描：注释中的拼写错误",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/398"
   },
@@ -832,6 +1058,9 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 工具扫描：变量名拼写错误（影响代码可读性）",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/397"
   },
@@ -843,6 +1072,9 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 工具扫描：公共 API 头文件拼写错误",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/396"
   },
@@ -854,6 +1086,9 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]:  工具扫描：错误码枚举名拼写错误&错误码描述文本拼写错误",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/395"
   },
@@ -865,6 +1100,9 @@
     "author": "daiwei18",
     "title": "[Bug-Report|缺陷反馈]: 新环境安装失败",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/394"
   },
@@ -876,6 +1114,9 @@
     "author": "liu_xiao_han",
     "title": "[Bug-Report|缺陷反馈]: 310P3上跑含nms的onnx模型报错",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/393"
   },
@@ -887,6 +1128,9 @@
     "author": "eco_zsj",
     "title": "[Bug-Report|缺陷反馈]: a5 2a+x环境 reducescatter算子，静态图模式，aiv展开模式，控核配置65核时，用例执行会卡住",
     "labels": [],
+    "assignees": [
+      "KenChow"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/392"
   },
@@ -898,6 +1142,9 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]:  master仓编出来的包是9.0.0，目前主线是9.1.0，ge开源仓版本是否需要和主线一致",
     "labels": [],
+    "assignees": [
+      "kantao1"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/391"
   },
@@ -909,6 +1156,9 @@
     "author": "xiebangrui2025",
     "title": "自动融合断图性能优化设计方案",
     "labels": [],
+    "assignees": [
+      "xiebangrui2025"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/390"
   },
@@ -920,6 +1170,9 @@
     "author": "pan-tong",
     "title": "[BUG] HostCpuEngine::DlopenLib 加载失败时不应上报 E19999 / 打 ERROR 日志",
     "labels": [],
+    "assignees": [
+      "pan-tong"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/389"
   },
@@ -931,6 +1184,9 @@
     "author": "stevenaw0",
     "title": "[Bug-Report|缺陷反馈]: loop_ops.h:1116:89: error: no matching function for call to ‘StrJoin(const std::vector<long int>&)’",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/388"
   },
@@ -942,6 +1198,10 @@
     "author": "yuchen97",
     "title": "[Bug-Report|缺陷反馈]: 【外部开发者】TensorMoveDeletePass 使用 std::stoi 缺少异常安全处理",
     "labels": [],
+    "assignees": [
+      "yuchen97",
+      "Mexyy"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/387"
   },
@@ -953,6 +1213,9 @@
     "author": "sched-yield",
     "title": "[Question|问题咨询]: CANN 9.0.0 版本使用 es 接口时，cmake 是否还需 add_es_library",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/386"
   },
@@ -964,6 +1227,9 @@
     "author": "soulboy66",
     "title": "[Bug-Report|缺陷反馈]: 自定义算子入图报错",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/385"
   },
@@ -975,6 +1241,9 @@
     "author": "stevenaw0",
     "title": "新增TensorMove消除优化二期（特殊源节点 + 多TM消费 + 冲突检查）",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/384"
   },
@@ -986,6 +1255,9 @@
     "author": "pan-tong",
     "title": "[Feature|需求建议] 支持常量折叠 V2 Host CPU 与 AICPU 路由能力",
     "labels": [],
+    "assignees": [
+      "pan-tong"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/383"
   },
@@ -997,6 +1269,9 @@
     "author": "sisyphus11",
     "title": "[Bug-Report|缺陷反馈]: pytorch通过torch air转om过程中pytorch 模型输入与om模型输入数量与顺序不一样",
     "labels": [],
+    "assignees": [
+      "du-hua1024"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/382"
   },
@@ -1008,6 +1283,9 @@
     "author": "Mexyy",
     "title": "[Feature-Request|需求反馈]: 【外部开发者】在流分配日志里添加graph name打印",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/381"
   },
@@ -1019,6 +1297,9 @@
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]: 工具扫描问题汇总",
     "labels": [],
+    "assignees": [
+      "du-hua1024"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/380"
   },
@@ -1030,6 +1311,9 @@
     "author": "huchunmei_123",
     "title": "[Documentation|文档反馈]: 工具扫描问题",
     "labels": [],
+    "assignees": [
+      "du-hua1024"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/379"
   },
@@ -1041,6 +1325,9 @@
     "author": "qq_40181027",
     "title": "[Bug-Report|缺陷反馈]: Ascend 910B4-1 上 aclmdlExecute 执行 OM 模型返回 507011",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/378"
   },
@@ -1052,6 +1339,9 @@
     "author": "qlang",
     "title": "[Bug-Report|缺陷反馈]:使用 ES 构图接口构造出来的Graph对象调用GetAllOpNames接口返回结果为空",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/377"
   },
@@ -1063,6 +1353,10 @@
     "author": "dingdairong",
     "title": "[Feature-Request|需求反馈]: ge图模式data dump数据比较不支持比较数据的有效部分，或者可配置的只比较数据的有效部分",
     "labels": [],
+    "assignees": [
+      "chenqian1365",
+      "SeasonChu"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/376"
   },
@@ -1074,6 +1368,10 @@
     "author": "dingdairong",
     "title": "[Feature-Request|需求反馈]: ge图data dump数据和base line比较，仅支持单个step比较，不支持，多个step批量比较",
     "labels": [],
+    "assignees": [
+      "chenqian1365",
+      "SeasonChu"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/375"
   },
@@ -1085,6 +1383,10 @@
     "author": "dingdairong",
     "title": "[Feature-Request|需求反馈]: ge图data dump，dump出来的tensor dtype类型是bool的不支持比较，比较结果显示为NAN",
     "labels": [],
+    "assignees": [
+      "chenqian1365",
+      "SeasonChu"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/374"
   },
@@ -1096,6 +1398,9 @@
     "author": "qlang",
     "title": "[Bug-Report|缺陷反馈]: 日志不明确",
     "labels": [],
+    "assignees": [
+      "SeasonChu"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/373"
   },
@@ -1107,6 +1412,10 @@
     "author": "dingdairong",
     "title": "[Bug-Report|缺陷反馈]: 自定义pass，加载失败",
     "labels": [],
+    "assignees": [
+      "hugo111",
+      "yuchen97"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/372"
   },
@@ -1118,6 +1427,9 @@
     "author": "sjtulxh",
     "title": "[Question|问题咨询]: 算子调用时找不到tiling函数",
     "labels": [],
+    "assignees": [
+      "shengnan666"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/371"
   },
@@ -1129,6 +1441,9 @@
     "author": "Amengclass",
     "title": "[Question|问题咨询]: GE组件中的InferShapeForPreprocess中出现报错",
     "labels": [],
+    "assignees": [
+      "shengnan666"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/370"
   },
@@ -1140,6 +1455,9 @@
     "author": "Mrxxx7",
     "title": "[Question|问题咨询]: fusion pass问题咨询",
     "labels": [],
+    "assignees": [
+      "shengnan666"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/369"
   },
@@ -1151,6 +1469,9 @@
     "author": "gcw_t2g2KsgC",
     "title": "[Bug-Report|缺陷反馈]: 参数校验代码存在 batchIndex 数组越界风险",
     "labels": [],
+    "assignees": [
+      "yanqingshang"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/368"
   },
@@ -1162,6 +1483,9 @@
     "author": "yuchen97",
     "title": "[Bug-Report|缺陷反馈]: 【外部开发者】TilingContextBuilder::BuildRtTensor 未初始化 TensorData size，导致 tiling 阶段 gert::Tensor::GetSize() 返回 0",
     "labels": [],
+    "assignees": [
+      "peacesheep"
+    ],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/ge/issues/367"
   },
@@ -1173,6 +1497,9 @@
     "author": "Mexyy",
     "title": "[Bug-Report|缺陷反馈]: 【外部开发者】【文档捉虫】ge/runtime/v2/subscriber/目录下部分文件存在日志规范问题",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/366"
   },
@@ -1184,6 +1511,9 @@
     "author": "zhangshuoleiokok",
     "title": "[Documentation|文档反馈]: SetLocalMemorySize该接口如果是SIMT,SIMD混合编程，必须设置，否则就会报ub错误。",
     "labels": [],
+    "assignees": [
+      "ClarkXie"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/365"
   },
@@ -1195,6 +1525,9 @@
     "author": "Mexyy",
     "title": "[Bug-Report|缺陷反馈]: 【外部开发者】【文档捉虫】ge/runtime/v2/kernel/目录下部分文件存在日志规范问题",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/364"
   },
@@ -1206,6 +1539,9 @@
     "author": "xuyafei",
     "title": "[RFC]: Autofuse支持MM+Elemwise融合",
     "labels": [],
+    "assignees": [
+      "xuyafei"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/363"
   },
@@ -1217,6 +1553,9 @@
     "author": "yuchen97",
     "title": "[Bug-Report|缺陷反馈]: 【外部开发者】【文档捉虫】graph_manager.cc和graph_prepare.cc存在日志规范问题",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/362"
   },
@@ -1228,6 +1567,9 @@
     "author": "gcw_t2g2KsgC",
     "title": "[Question|问题咨询]: data_compressor.cpp 中 BYPASS 模式逻辑相关问题",
     "labels": [],
+    "assignees": [
+      "yuchen97"
+    ],
     "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/ge/issues/361"
   },
@@ -1239,6 +1581,10 @@
     "author": "justin-zhao",
     "title": "[Bug-Report|缺陷反馈]: ATC转换工具调用失败",
     "labels": [],
+    "assignees": [
+      "yuchen97",
+      "lijunyu_111"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/360"
   },
@@ -1250,6 +1596,9 @@
     "author": "ascend-robot",
     "title": "CVE-2026-42033",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/359"
   },
@@ -1261,6 +1610,9 @@
     "author": "ascend-robot",
     "title": "CVE-2026-27820",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/358"
   },
@@ -1272,6 +1624,9 @@
     "author": "Aaaaaa_369",
     "title": "[Question|问题咨询]: ge profiling性能采集支持EP模式，还是支持RC模式，还是都支持呢，可以具体解释下吗",
     "labels": [],
+    "assignees": [
+      "gcw_3CxwvBIO"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/357"
   },
@@ -1283,6 +1638,9 @@
     "author": "ascend-robot",
     "title": "CVE-2026-42037",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/356"
   },
@@ -1294,6 +1652,9 @@
     "author": "ascend-robot",
     "title": "CVE-2026-42038",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/354"
   },
@@ -1305,6 +1666,9 @@
     "author": "ascend-robot",
     "title": "CVE-2026-42042",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/ge/issues/353"
   },
@@ -1316,6 +1680,9 @@
     "author": "huang-chuhong",
     "title": "[Documentation|文档反馈]: ATC 参数冲突、编译约束与推理性能瓶颈，缺乏实战级交叉场景指导",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/352"
   },
@@ -1327,6 +1694,9 @@
     "author": "Mexyy",
     "title": "[Bug-Report|缺陷反馈]: 【外部开发者】【文档捉虫】stream_allocator.cc里存在单词拼写错误",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/349"
   },
@@ -1338,6 +1708,9 @@
     "author": "ascend-robot",
     "title": "CVE-2026-42035",
     "labels": [],
+    "assignees": [
+      "Jett_Woo"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/348"
   },
@@ -1349,6 +1722,9 @@
     "author": "ascend-robot",
     "title": "CVE-2022-37344",
     "labels": [],
+    "assignees": [
+      "Jett_Woo"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/347"
   },
@@ -1360,6 +1736,9 @@
     "author": "yy4192009",
     "title": "[Bug-Report|缺陷反馈]: ge-dt-runner / ge-ut-st skill 中 cmake 变量名错误，导致 cmake 配置中断",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/346"
   },
@@ -1371,6 +1750,9 @@
     "author": "yy4192009",
     "title": "[Bug-Report|缺陷反馈]: cann-toolkit-installer skill 中下载URL拼装错误，wget 返回 404",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/345"
   },
@@ -1382,6 +1764,9 @@
     "author": "Mexyy",
     "title": "[Feature-Request|需求反馈]: 【外部开发者】静态shape流分配新增DFX维测日志",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/344"
   },
@@ -1393,6 +1778,9 @@
     "author": "dingdairong",
     "title": "[Feature-Request|需求反馈]: ge图执行的profiling中，有流间同步的event，能否增加recored 到wait的连接线指示，便于分析同步关系。",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/343"
   },
@@ -1404,6 +1792,9 @@
     "author": "ethan_shenze",
     "title": "[Question|问题咨询]: 在一个GE Session里面，是否支持动态修改AICore核数？",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/342"
   },
@@ -1415,6 +1806,9 @@
     "author": "leironghao1",
     "title": "[Question|问题咨询]: aiv_pytorch_alltoallv_static_graph用例报错",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/341"
   },
@@ -1426,6 +1820,9 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]: ge-compiler编包失败",
     "labels": [],
+    "assignees": [
+      "Chang-an-HW"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/340"
   },
@@ -1437,6 +1834,9 @@
     "author": "demoauguste",
     "title": "[Question|问题咨询]: 算子动态图模式下执行正常，静态图执行出现精度问题",
     "labels": [],
+    "assignees": [
+      "Chang-an-HW"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/339"
   },
@@ -1448,6 +1848,7 @@
     "author": "ascend-robot",
     "title": "CVE-2026-22020",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 10,
     "web_url": "https://gitcode.com/cann/ge/issues/338"
   },
@@ -1459,6 +1860,9 @@
     "author": "Mexyy",
     "title": "[Feature-Request|需求反馈]: 【外部开发者】动态shape场景下，自定义算子入图的维测日志增强",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/337"
   },
@@ -1470,6 +1874,9 @@
     "author": "Liangweiyan1034",
     "title": "[Bug-Report|缺陷反馈]: 编译GE报错缺“scope_guard.h”",
     "labels": [],
+    "assignees": [
+      "luhengh"
+    ],
     "user_notes_count": 7,
     "web_url": "https://gitcode.com/cann/ge/issues/336"
   },
@@ -1481,6 +1888,9 @@
     "author": "zhaowenrui666",
     "title": "[Bug-Report|缺陷反馈]: runtime/v2 以及compiler/engines/cpu_engine仓中日志有些语法错误",
     "labels": [],
+    "assignees": [
+      "zhaowenrui666"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/335"
   },
@@ -1492,6 +1902,9 @@
     "author": "imhandsome1",
     "title": "[Bug-Report|缺陷反馈]: 配置图融合关闭非生效",
     "labels": [],
+    "assignees": [
+      "luhengh"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/334"
   },
@@ -1503,6 +1916,9 @@
     "author": "Jasmine1111111",
     "title": "[Bug-Report|缺陷反馈]: ATC转换中报错Unsupported_Operator(EZ3003): No supported Ops kernel and engine are found for [/block/enc_surface/inc/conv_1/Conv], optype [Conv2D]",
     "labels": [],
+    "assignees": [
+      "kantao1"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/332"
   },
@@ -1514,6 +1930,9 @@
     "author": "yuchen97",
     "title": "[Bug-Report|缺陷反馈]: 【外部开发者】【文档捉虫】tests/depends/aihacb_autofusion 路径下 CMake 语法警告“参数间缺少空格分隔”",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/331"
   },
@@ -1525,6 +1944,9 @@
     "author": "LetsAiGo",
     "title": "[Bug-Report|缺陷反馈]: 在Tiling函数中调用 context->GetInputShape(0) 返回 nullptr，没有按官网API指导书的描述返回，请定位分析",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 10,
     "web_url": "https://gitcode.com/cann/ge/issues/330"
   },
@@ -1536,6 +1958,9 @@
     "author": "jiangjiawei",
     "title": "[Bug-Report|缺陷反馈]: MaskedScatter算子执行tiling未调度到TilingPrepare4MaskedScatter",
     "labels": [],
+    "assignees": [
+      "luanchaowei"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/329"
   },
@@ -1547,6 +1972,9 @@
     "author": "chen-yuqi-ba",
     "title": "[Bug-Report|缺陷反馈]: GE错误码上报代码中，包含语法/低级错误",
     "labels": [],
+    "assignees": [
+      "KenChow"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/328"
   },
@@ -1558,6 +1986,9 @@
     "author": "luhengh",
     "title": "[Feature-Request|需求反馈]: 在线和离线场景的精度模式保持一致",
     "labels": [],
+    "assignees": [
+      "luhengh"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/327"
   },
@@ -1569,6 +2000,9 @@
     "author": "zhanxiaojie111",
     "title": "[Question|问题咨询]: 测试ci看护日志报错，",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/326"
   },
@@ -1580,6 +2014,9 @@
     "author": "Helmar",
     "title": "[Bug-Report|缺陷反馈]: OpsKernelExecutorManager析构过程中coredump",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/318"
   },
@@ -1591,6 +2028,9 @@
     "author": "KenChow",
     "title": "[Bug-Report|缺陷反馈]: 【外部开发者】【文档捉虫】GE错误码信息模板存在若干格式问题",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/316"
   },
@@ -1602,6 +2042,9 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]:  样例 格式错误",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/315"
   },
@@ -1613,6 +2056,9 @@
     "author": "luhengh",
     "title": "[Bug-Report|缺陷反馈]:  【910B3】Qwen2.5-0.5B-Instruct 在固定 shape [1,16] 的 step_00 前向中，eager NPU 正常，但 GE 图模式返回 NaN",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/ge/issues/314"
   },
@@ -1624,6 +2070,9 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 目录名拼写错误",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/313"
   },
@@ -1635,6 +2084,9 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 样例中CASE_NAME 拼写错误",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/312"
   },
@@ -1646,6 +2098,9 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 环境准备安装CANN软件描述，建议优化下",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/311"
   },
@@ -1657,6 +2112,9 @@
     "author": "maqijun",
     "title": "[Question|问题咨询]: CaptureTensor中index的具体含义是什么，目前看代码都填了0",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/309"
   },
@@ -1668,6 +2126,9 @@
     "author": "luhengh",
     "title": "[Bug-Report|缺陷反馈]: 【离线推理场景】在910B3的云环境执行aclinit报错",
     "labels": [],
+    "assignees": [
+      "luhengh"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/308"
   },
@@ -1679,6 +2140,9 @@
     "author": "wangrulong",
     "title": "[Question|问题咨询]: ",
     "labels": [],
+    "assignees": [
+      "SeasonChu"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/307"
   },
@@ -1690,6 +2154,9 @@
     "author": "jiangjiawei",
     "title": "[Question|问题咨询]: tik的算子可以通过check_supported返回false之后走aicpu，ascendc的算子如何实现走aicpu",
     "labels": [],
+    "assignees": [
+      "yuht9"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/306"
   },
@@ -1701,6 +2168,9 @@
     "author": "tang-haojie",
     "title": "[RFC]: 复用Pytorch算子定义与meta推导，自动生成GE对应算子交付件",
     "labels": [],
+    "assignees": [
+      "yuht9"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/305"
   },
@@ -1712,6 +2182,9 @@
     "author": "zjun0",
     "title": "[Documentation|文档反馈]: agent目录是否需要调整？",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/304"
   },
@@ -1723,6 +2196,9 @@
     "author": "hcx111111111111",
     "title": "[Bug-Report|缺陷反馈]: A5 pta allreduce单算子混跑静态图用例失败",
     "labels": [],
+    "assignees": [
+      "lijunyu_111"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/303"
   },
@@ -1734,6 +2210,9 @@
     "author": "ware2009",
     "title": "[Feature-Request|需求反馈]: 动态shape网络开启多线程后，发现launch线程上存在气泡，分析发现主要原因是内存线程上存在较长时间的流同步，导致后续Alloc一直在等待，进而launch也被阻塞等待",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/302"
   },
@@ -1745,6 +2224,9 @@
     "author": "guoziqi2025",
     "title": "[Question|问题咨询]: pytorch跑图模式HCCL，发现算子下发不一致",
     "labels": [],
+    "assignees": [
+      "yuht9"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/301"
   },
@@ -1756,6 +2238,9 @@
     "author": "Evan112233",
     "title": "[Bug-Report|缺陷反馈]: acl graph图编译内存越界报错",
     "labels": [],
+    "assignees": [
+      "wqtshg_wt"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/300"
   },
@@ -1767,6 +2252,9 @@
     "author": "kobemini",
     "title": "[RFC]: GE框架的Python化能力",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/299"
   },
@@ -1778,6 +2266,9 @@
     "author": "jinyuan-zhang",
     "title": "[Question|问题咨询]: 同一个Session多线程异步执行图的场景可行性咨询",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/298"
   },
@@ -1789,6 +2280,9 @@
     "author": "gcw_SUaZx3UQ",
     "title": "[Question|问题咨询]: TensorMove插入时机",
     "labels": [],
+    "assignees": [
+      "ClarkXie"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/297"
   },
@@ -1800,6 +2294,9 @@
     "author": "chenyiyuan",
     "title": "[Question|问题咨询]: 动态 shape 切换耗时久且偶发异常，咨询无阻塞支持及 profile 要求",
     "labels": [],
+    "assignees": [
+      "ClarkXie"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/296"
   },
@@ -1811,6 +2308,9 @@
     "author": "stevenaw0",
     "title": "[Bug-Report|缺陷反馈]: run_tests.sh -u=ge_common成功，单独执行ut_libge_multiparts_utest报错",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/295"
   },
@@ -1822,6 +2322,9 @@
     "author": "woodenman",
     "title": "[Bug-Report|缺陷反馈]: prepareaftercheckandupdateinput后输入错了",
     "labels": [],
+    "assignees": [
+      "Mexyy"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/294"
   },
@@ -1833,6 +2336,9 @@
     "author": "zhaosusu",
     "title": "[Question|问题咨询]: A5调用算子的图模式无法生成fusion_result.json",
     "labels": [],
+    "assignees": [
+      "lijunyu_111"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/292"
   },
@@ -1844,6 +2350,9 @@
     "author": "wang-minbo",
     "title": "[Bug-Report|缺陷反馈]: Ascend推理结果与PyTorch结果存在明显偏差",
     "labels": [],
+    "assignees": [
+      "wqtshg_wt"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/291"
   },
@@ -1855,6 +2364,9 @@
     "author": "medivh-x",
     "title": "[Feature-Request|需求反馈]: AF支持完全基于接口调用的PGO调优。",
     "labels": [],
+    "assignees": [
+      "shengnan666"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/290"
   },
@@ -1866,6 +2378,12 @@
     "author": "Mexyy",
     "title": "[RFC]: GE框架静态shape多流并行增强",
     "labels": [],
+    "assignees": [
+      "Mexyy",
+      "Crane-Liu",
+      "mahaosen",
+      "xionglan2"
+    ],
     "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/ge/issues/289"
   },
@@ -1877,6 +2395,9 @@
     "author": "lilinjie11",
     "title": "[Bug-Report|缺陷反馈]: 更新0317CANN包之后，模型权重更新报错",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/288"
   },
@@ -1888,6 +2409,9 @@
     "author": "whlhost",
     "title": "[Bug-Report|缺陷反馈]: compiler/api/aclgrph/ge_ir_build.cc文件中SetInputs 函数潜在的越界风险",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/287"
   },
@@ -1899,6 +2423,9 @@
     "author": "2502_92224338",
     "title": "[Question|问题咨询]: 昇腾 910 多卡并行训练管道破损识别模型时，出现负载不均、精度抖动，CANN 层面有哪些分布式训练调优方法？",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/286"
   },
@@ -1910,6 +2437,9 @@
     "author": "JH1223D",
     "title": "[Question|问题咨询]: 道破损数据集存在类别不均衡（正常样本远多于破损样本），在 CANN + 昇腾 910 环境下如何高效实现均衡采样与损失函数优化？",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/285"
   },
@@ -1921,6 +2451,9 @@
     "author": "JH1223D",
     "title": "[Question|问题咨询]: 模型在昇腾910上训练时出现梯度消失或收敛缓慢，与CANN混合精度（FP16）相关的常见原因和解决方案有哪些？",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/284"
   },
@@ -1932,6 +2465,9 @@
     "author": "kby06099",
     "title": "[Question|问题咨询]: 在昇腾 910 上使用 CANN 训练管道破损视觉识别模型时，小目标裂纹、微小腐蚀点检测精度偏低，该如何针对性优化算子与训练配置？",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/283"
   },
@@ -1943,6 +2479,9 @@
     "author": "gcw_ji5T6r1g",
     "title": "[Question|问题咨询]: Pytorch/TensorFlow 模型通过 CANN 迁移到昇腾 NPU 后，部分层回退 CPU 导致推理延迟，如何通过 CANN 工具定位并解决？",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/282"
   },
@@ -1954,6 +2493,9 @@
     "author": "cannellery",
     "title": "[Question|问题咨询]: 关于 MindIE 部署 Qwen3 模型提示“算子不支持”的问题",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/281"
   },
@@ -1965,6 +2507,9 @@
     "author": "ZCL2026chw",
     "title": "[Question|问题咨询]: 调用原生接口失去推理过程",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/279"
   },
@@ -1976,6 +2521,9 @@
     "author": "2502_92224338",
     "title": "[Question|问题咨询]:  系统已经扫描到文件都烦还是抛出ConcatDataset异常",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/278"
   },
@@ -1987,6 +2535,9 @@
     "author": "JH1223D",
     "title": "[Question|问题咨询]: MindSpeed在pytorch后端进行Qwen2.5-7b模型预训练报错：AttributeError(\"module 'torch._C' has no attribute '_DistStoreError'\") ",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/277"
   },
@@ -1998,6 +2549,9 @@
     "author": "2403_87816892",
     "title": "[Question|问题咨询]:  在使用昇腾多卡并行进行大模型训练时，遇到的8卡模型切分失败",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/276"
   },
@@ -2009,6 +2563,9 @@
     "author": "kby06099",
     "title": "[Question|问题咨询]: config里配置的data.nc无法解析",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/275"
   },
@@ -2020,6 +2577,9 @@
     "author": "cannellery",
     "title": "[Question|问题咨询]: 关于 GitCode ModelScope 适配 Qwen3 / Kimi-1.5 等新架构模型的推理环境问题",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/274"
   },
@@ -2031,6 +2591,9 @@
     "author": "guofengchan",
     "title": "[Question|问题咨询]: 关于多 Batch 推理时显存占用过高",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/272"
   },
@@ -2042,6 +2605,9 @@
     "author": "linhai1985",
     "title": "[Question|问题咨询]: YOLOv11 在开启 BF16 混合精度推理时 Softmax 算子出现数值溢出",
     "labels": [],
+    "assignees": [
+      "Chang-an-HW"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/271"
   },
@@ -2053,6 +2619,9 @@
     "author": "huliang1981",
     "title": "[Question|问题咨询]: GE 编译器在处理 YOLOv11 动态 Batch 时内存占用过高",
     "labels": [],
+    "assignees": [
+      "Chang-an-HW"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/270"
   },
@@ -2064,6 +2633,9 @@
     "author": "shyouyou",
     "title": "[Question|问题咨询]: 咨询 YOLOv11 模型转换时 Dynamic Batch Size 的档位配置与推理对齐问题",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/269"
   },
@@ -2075,6 +2647,9 @@
     "author": "wendell_s",
     "title": "[Bug-Report|缺陷反馈]: Volcano Scheduler 数据大小异常 / Pod 无法调度",
     "labels": [],
+    "assignees": [
+      "Chang-an-HW"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/268"
   },
@@ -2086,6 +2661,9 @@
     "author": "chenyingchang",
     "title": "[Question|问题咨询]: 用鲲鹏编译器适配Python语言出现无法兼容，因为无法调试，请问用昇腾编译器需要哪些插件组件",
     "labels": [],
+    "assignees": [
+      "luhengh"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/267"
   },
@@ -2097,6 +2675,9 @@
     "author": "liyinghao10",
     "title": "[Question|问题咨询]: 图模式在meta被拦截后回退成单算子模式",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/266"
   },
@@ -2108,6 +2689,9 @@
     "author": "chenyingchang",
     "title": "[Question|问题咨询]: 如何在华为云上申请mindstudio insight的资源",
     "labels": [],
+    "assignees": [
+      "luhengh"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/265"
   },
@@ -2119,6 +2703,9 @@
     "author": "chenyingchang",
     "title": "[Question|问题咨询]: 从GITCODE上安装的openclaw后，没有出现附件上传按钮，同时也不识别夸克网盘的链接和提取码，需要如何解决",
     "labels": [],
+    "assignees": [
+      "luhengh"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/264"
   },
@@ -2130,6 +2717,9 @@
     "author": "chenyingchang",
     "title": "[Question|问题咨询]: 安装了autoclaw和openclaw，autoclaw无法打开浏览器，提示要按照openclaw，二者无法关联",
     "labels": [],
+    "assignees": [
+      "luhengh"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/263"
   },
@@ -2141,6 +2731,9 @@
     "author": "chenyingchang",
     "title": "[Question|问题咨询]: 无法通过Openclaw自动提交代码",
     "labels": [],
+    "assignees": [
+      "shengnan666"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/262"
   },
@@ -2152,6 +2745,9 @@
     "author": "sakuraqqz",
     "title": "[Bug-Report|缺陷反馈]: 新增op_graph的UT报错。",
     "labels": [],
+    "assignees": [
+      "luhengh"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/261"
   },
@@ -2163,6 +2759,9 @@
     "author": "shengnan666",
     "title": "[Bug-Report|缺陷反馈]: UT 用例 dump_node_info_wrong 在写 /var 目录，这是不合理的",
     "labels": [],
+    "assignees": [
+      "wqtshg_wt"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/260"
   },
@@ -2174,6 +2773,9 @@
     "author": "shengnan666",
     "title": "[Bug-Report|缺陷反馈]: 使用 build.sh 编译失败",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/259"
   },
@@ -2185,6 +2787,9 @@
     "author": "shengnan666",
     "title": "[Feature-Request|需求反馈]: UT 测试无法准确地按照失败 target 做重执行",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/258"
   },
@@ -2196,6 +2801,9 @@
     "author": "hugo111",
     "title": "eager style api在ut中的定义与正式对外的不一致，请归一",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/ge/issues/257"
   },
@@ -2207,6 +2815,9 @@
     "author": "bachelor-dou",
     "title": "[Question|问题咨询]: 动态shape分档档位设置对性能是否有影响",
     "labels": [],
+    "assignees": [
+      "KenChow"
+    ],
     "user_notes_count": 11,
     "web_url": "https://gitcode.com/cann/ge/issues/256"
   },
@@ -2218,6 +2829,9 @@
     "author": "song-dongdong5",
     "title": "[Question|问题咨询]: 如何在om编译的日志里找到模型里一共需要执行多少task",
     "labels": [],
+    "assignees": [
+      "KenChow"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/255"
   },
@@ -2229,6 +2843,9 @@
     "author": "hhllhhh",
     "title": "[Feature-Request|需求反馈]: 昇腾800T/I A2服务器的910B3/910B4卡支持算力切分",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/254"
   },
@@ -2240,6 +2857,9 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: 相同Device调用aclrtMalloc申请的内存能否不同Context共用或者相同Context不同Stream共用？",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/253"
   },
@@ -2251,6 +2871,9 @@
     "author": "weixin_62729566",
     "title": "[Question|问题咨询]: CANN长时序大模型推理显存占用与内存优化咨询",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/252"
   },
@@ -2262,6 +2885,9 @@
     "author": "jikai-tyler",
     "title": "ISSUE每日统计分析-ge",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/251"
   },
@@ -2273,6 +2899,9 @@
     "author": "loopgs",
     "title": "[Question|问题咨询]: CANN时序文本数据聚类与向量相似度计算加速咨询",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/250"
   },
@@ -2284,6 +2913,9 @@
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: 执行bash tests/run_test.sh --ut报错",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/249"
   },
@@ -2295,6 +2927,9 @@
     "author": "liuf9",
     "title": "[Bug-Report|缺陷反馈]: FAScore算子输入数量在GE第一张图上与算子原型对不上",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/248"
   },
@@ -2306,6 +2941,9 @@
     "author": "tj_zat",
     "title": "[Question|问题咨询]: 关于CANN多模态并发推理的架构与性能优化咨询",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/247"
   },
@@ -2317,6 +2955,9 @@
     "author": "lvlg_1010",
     "title": "[Bug-Report|缺陷反馈]: Qwen3-30B MoE 模型 LoRA 训练报错，Fused MoE LoRA 功能未实现",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/246"
   },
@@ -2328,6 +2969,9 @@
     "author": "xiaoqiang5120",
     "title": "[Bug-Report|缺陷反馈]: GLM-4-9B 推理时 PTA call acl api failed (ERR00100)，GE 初始化失败",
     "labels": [],
+    "assignees": [
+      "lidaoming1"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/245"
   },
@@ -2339,6 +2983,9 @@
     "author": "Mknmkn123",
     "title": "[Bug-Report|缺陷反馈]: build.sh编译过程报错",
     "labels": [],
+    "assignees": [
+      "kantao1"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/244"
   },
@@ -2350,6 +2997,9 @@
     "author": "weixin_44069433",
     "title": "[Bug-Report|缺陷反馈]: 【ATC】dynamic_batch / dynamic_image_size 使用行为与预期不一致，batch推理无加速",
     "labels": [],
+    "assignees": [
+      "kantao1"
+    ],
     "user_notes_count": 7,
     "web_url": "https://gitcode.com/cann/ge/issues/243"
   },
@@ -2361,6 +3011,9 @@
     "author": "zhangjianning",
     "title": "GE在静态图模式背景下是否会对输入数据量为0的算子进行拦截呢",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/241"
   },
@@ -2372,6 +3025,9 @@
     "author": "weixin_46091272",
     "title": "[Bug-Report|缺陷反馈]:【ATC转换失败】 在Ascend310P3上将YOLO11 ONNX转换为OM时ATC失败：注意力模块中的Reshape形状推断错误",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 17,
     "web_url": "https://gitcode.com/cann/ge/issues/239"
   },
@@ -2383,6 +3039,9 @@
     "author": "SHerlocKZH",
     "title": "[Bug-Report|缺陷反馈]: tensflow模型推理性能劣化的问题，目前定位到ATC转换问题",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/238"
   },
@@ -2394,6 +3053,9 @@
     "author": "St_Universe",
     "title": "[Bug-Report|缺陷反馈]: Reciprocal算子反向精度异常",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/237"
   },
@@ -2405,6 +3067,9 @@
     "author": "ascend-robot",
     "title": "CVE-2026-33186",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/236"
   },
@@ -2416,6 +3081,9 @@
     "author": "hugo111",
     "title": "[Documentation|文档反馈]: triton add custom自定义算子入图的demo没有体现静态下沉效果的观测手段",
     "labels": [],
+    "assignees": [
+      "coconut_tree"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/235"
   },
@@ -2427,6 +3095,9 @@
     "author": "B1anrK",
     "title": "[Question|问题咨询]: TF框架模型推理如何开关HF32",
     "labels": [],
+    "assignees": [
+      "jikai-tyler"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/234"
   },
@@ -2438,6 +3109,9 @@
     "author": "zhangjianning",
     "title": "[Question|问题咨询]: 想确认相同的两次流程ge::TensorUtils::GetSize这个函数获取到的inputsize为甚么会不一致",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/233"
   },
@@ -2449,6 +3123,9 @@
     "author": "howard__zhu",
     "title": "[Bug-Report|缺陷反馈]: 图模式下自定义算子问题排查困难，不能直接看出自定义算子是否生效",
     "labels": [],
+    "assignees": [
+      "lijunyu_111"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/231"
   },
@@ -2460,6 +3137,9 @@
     "author": "wujiao_swag",
     "title": "[Question|问题咨询]: python版本：python3.12,gcc版本：3.13.0，cmake版本3.20.1，离线编译三种子包，编译报错",
     "labels": [],
+    "assignees": [
+      "zhuhaoran5"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/230"
   },
@@ -2471,6 +3151,9 @@
     "author": "alistair_pan",
     "title": "[Question|问题咨询]: GE模式下批跑出现Failed to copy output tensor data to the given buffer，单跑不可复现",
     "labels": [],
+    "assignees": [
+      "guopeian"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/229"
   },
@@ -2482,6 +3165,9 @@
     "author": "Calm040912",
     "title": "[Bug-Report|缺陷反馈]: opComplie占用大量时间",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 11,
     "web_url": "https://gitcode.com/cann/ge/issues/232"
   },
@@ -2493,6 +3179,9 @@
     "author": "weixin_48164752",
     "title": "[Question|问题咨询]: onnx转为om，模型结果错误",
     "labels": [],
+    "assignees": [
+      "tang-haojie"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/280"
   },
@@ -2504,6 +3193,9 @@
     "author": "medivh-x",
     "title": "[Feature-Request|需求反馈]: AF支持Host scalar输入的融合算子Kernel生成",
     "labels": [],
+    "assignees": [
+      "shengnan666"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/228"
   },
@@ -2515,6 +3207,9 @@
     "author": "Jeff_BetterMe",
     "title": "[Bug-Report|缺陷反馈]: 线程调用ACL推理接口出现随机崩溃",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/227"
   },
@@ -2526,6 +3221,9 @@
     "author": "B1anrK",
     "title": "[Question|问题咨询]: A5标卡TF图模式，读取模型pb进行推理，构建dataset报错",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/226"
   },
@@ -2537,6 +3235,9 @@
     "author": "ascend-robot",
     "title": "CVE-2026-33210",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 8,
     "web_url": "https://gitcode.com/cann/ge/issues/225"
   },
@@ -2548,6 +3249,9 @@
     "author": "richelieuqian",
     "title": "[Question|问题咨询]: Torchair-ge编译模型入图时报错 All dims in original shape[-1] of frozen data should be greater than 0",
     "labels": [],
+    "assignees": [
+      "du-hua1024"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/224"
   },
@@ -2559,6 +3263,9 @@
     "author": "qq_44809513",
     "title": "[Bug-Report|缺陷反馈]: 反卷积的反量化scale转D后为全0",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/223"
   },
@@ -2570,6 +3277,9 @@
     "author": "liuf9",
     "title": "[Question|问题咨询]: GE走acl流程转换mslite模型时，会把conv2d的输入全转成fp16",
     "labels": [],
+    "assignees": [
+      "du-hua1024"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/222"
   },
@@ -2581,6 +3291,7 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: 推理OM模型时，各个算子会将中间输入/输出通过DDR搬移，这块内存是否不用显式分配？如何判断这些临时内存不会超出内存限制？",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/221"
   },
@@ -2592,6 +3303,7 @@
     "author": "MinghuiZhang",
     "title": "[Question|问题咨询]: 新增算子原型参数GE动态图不通，如何验证GE参数",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/220"
   },
@@ -2603,6 +3315,9 @@
     "author": "zhao_jiangjiang",
     "title": "[Bug-Report|缺陷反馈]: 多线程调用同一个om模型，报错Assert (workspace->GetSize() <= args.GetWorkspaceCap()) failed",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/219"
   },
@@ -2614,6 +3329,9 @@
     "author": "gcw_pfzw85mp",
     "title": "[Bug-Report|缺陷反馈]: webIDE上无法执行验签命令",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/218"
   },
@@ -2625,6 +3343,9 @@
     "author": "gcw_pfzw85mp",
     "title": "[Documentation|文档反馈]: 文档中的 HDK 25.5.T2.B001 很突兀，无解释",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/ge/issues/217"
   },
@@ -2636,6 +3357,9 @@
     "author": "gcw_pfzw85mp",
     "title": "[Bug-Report|缺陷反馈]: 环境准备已经安装了libtool，执行环境检查脚本仍然报错说libtool未安装",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/216"
   },
@@ -2647,6 +3371,9 @@
     "author": "xiemengna98",
     "title": "[Bug-Report|缺陷反馈]: mdc_op_test加载om时报错",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/215"
   },
@@ -2658,6 +3385,9 @@
     "author": "m0_58016603",
     "title": "[Question|问题咨询]: 加载om报错",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/214"
   },
@@ -2669,6 +3399,9 @@
     "author": "niuniu2827611",
     "title": "[Question|问题咨询]: ascend310系列硬件支持？",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/213"
   },
@@ -2680,6 +3413,9 @@
     "author": "B1anrK",
     "title": "[Question|问题咨询]:A5标卡推荐模型精度问题咨询",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/212"
   },
@@ -2691,6 +3427,10 @@
     "author": "zouyizhou",
     "title": "[Question|问题咨询]: groundingdino算力切分场景下，om推理报padv3算子超时",
     "labels": [],
+    "assignees": [
+      "Guanam2020",
+      "hugo111"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/211"
   },
@@ -2702,6 +3442,9 @@
     "author": "stevenaw0",
     "title": "[Bug-Report|缺陷反馈]: develop分支ut编译报错",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/210"
   },
@@ -2713,6 +3456,10 @@
     "author": "zhao_jiangjiang",
     "title": "[Bug-Report|缺陷反馈]: 多个线程同时调用一个om模型的Session，执行推理时报错。",
     "labels": [],
+    "assignees": [
+      "Guanam2020",
+      "hugo111"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/209"
   },
@@ -2724,6 +3471,9 @@
     "author": "gcw_uSrTCWQC",
     "title": "[Bug-Report|缺陷反馈]: 多次调用aclmdlLoadFromMemWithMem，模型加载时延增加明显",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/208"
   },
@@ -2735,6 +3485,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: sample简介处链接优化，建议统一修改",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/206"
   },
@@ -2746,6 +3499,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 5_add_zero_pass_in_custom_op 需要用户手工按照指导一步步创建自定义算子工程，才能进行下一步骤，不易用",
     "labels": [],
+    "assignees": [
+      "zhangfeifan0709"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/205"
   },
@@ -2757,6 +3513,9 @@
     "author": "sisyphus11",
     "title": "[Bug-Report|缺陷反馈]: atc命令使用的过程中上报Stream labels are not supported in SingleStream mode",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/204"
   },
@@ -2768,6 +3527,9 @@
     "author": "m1tsuk1",
     "title": "[Bug-Report|缺陷反馈]: ",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/203"
   },
@@ -2779,6 +3541,9 @@
     "author": "shichangkuo",
     "title": "[Bug-Report|缺陷反馈]: 使用cpp加载TensorFlow模型，程序执行时出现coredump",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/202"
   },
@@ -2790,6 +3555,9 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: 模型中出现大量零值，或者接近零值的输入数据，会导致输出数据与PyTorch输出相比相关性很低，如何解决？",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/201"
   },
@@ -2801,6 +3569,9 @@
     "author": "zhanghongge",
     "title": "[Bug-Report|缺陷反馈]: 18个文件的版权声明不标准，建议修改成附件E列的内容",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/200"
   },
@@ -2812,6 +3583,9 @@
     "author": "tmj1128",
     "title": "[Bug-Report|缺陷反馈]: 5_add_zero_pass_in_custom_op 执行在线推理执行失败",
     "labels": [],
+    "assignees": [
+      "zhangfeifan0709"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/199"
   },
@@ -2823,6 +3597,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 3_fuse_matmul_add_pass_with_pattern_matcher_config中部分日志和实际打印不一致",
     "labels": [],
+    "assignees": [
+      "zhangfeifan0709"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/198"
   },
@@ -2834,6 +3611,9 @@
     "author": "tmj1128",
     "title": "[Bug-Report|缺陷反馈]: 3_fuse_matmul_add_pass_with_pattern_matcher_config sample，ATC离线推理失败",
     "labels": [],
+    "assignees": [
+      "zhangfeifan0709"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/197"
   },
@@ -2845,6 +3625,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: fussion_pass sample中存在超链接建议优化",
     "labels": [],
+    "assignees": [
+      "zhangfeifan0709"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/196"
   },
@@ -2856,6 +3639,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]:  2_fuse_matmul_add_pass_with_capture_tensor sample程序运行在线推理步骤命令错误",
     "labels": [],
+    "assignees": [
+      "zhangfeifan0709"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/195"
   },
@@ -2867,6 +3653,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 1_fuse_matmul_add_pass sampe执行完后存在异常告警，请确认",
     "labels": [],
+    "assignees": [
+      "zhangfeifan0709"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/194"
   },
@@ -2878,6 +3667,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 2_sample_resnet50_imagenet_classification_dynmaic_batch sample中omModelPath参数值",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/193"
   },
@@ -2889,6 +3681,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: acl sample中存在标点符号问题，建议修改",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/192"
   },
@@ -2900,6 +3695,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 2_sample_resnet50_imagenet_classification_dynamic_batch sample中环境要求建议与其他sample保持一致",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/191"
   },
@@ -2911,6 +3709,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: acl sample命名编号重复",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/190"
   },
@@ -2922,6 +3723,9 @@
     "author": "xyz2606",
     "title": "[Bug-Report|缺陷反馈]: ",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/189"
   },
@@ -2933,6 +3737,9 @@
     "author": "tmj1128",
     "title": "[Bug-Report|缺陷反馈]: 自定义算子编译工程，生成算子 kernel 的 npubin 文件，执行报错",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/188"
   },
@@ -2944,6 +3751,9 @@
     "author": "ascend-robot",
     "title": "CVE-2026-3381",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/187"
   },
@@ -2955,6 +3765,10 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: ascendc_add_custom sample，安装cann包链接跳转失败",
     "labels": [],
+    "assignees": [
+      "hugo111",
+      "wuzhengzhen"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/186"
   },
@@ -2966,6 +3780,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 自定义算子编译工程sample中未说明sample运行所需的pytorch版本",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/185"
   },
@@ -2977,6 +3794,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 自定义算子编译工程中存在执行步骤不清晰，建议修改",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/184"
   },
@@ -2988,6 +3808,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: acl sample中测试图片下载部分，无法直接下载图片",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/183"
   },
@@ -2999,6 +3822,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 1_sample_resnet50_imagenet_classification sample中存在描述不清晰处，建议修改",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/182"
   },
@@ -3010,6 +3836,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 点击acl sample文件夹，未直接展示readme内容",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/181"
   },
@@ -3021,6 +3850,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: acl sample环境要求部分建议和其他sample保持一致",
     "labels": [],
+    "assignees": [
+      "fu-jun2"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/180"
   },
@@ -3032,6 +3864,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: example中新增一个自定义算子sample，但是介绍中并未列举，请新增对应链接",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/179"
   },
@@ -3043,6 +3878,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 自定义算子编译工程，安装 Triton-Ascend链接为空",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/178"
   },
@@ -3054,6 +3892,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 自定义算子编译工程sample中安装cann软件步骤建议与其他sample保持一致",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/177"
   },
@@ -3065,6 +3906,9 @@
     "author": "zjun0",
     "title": "[Bug-Report|缺陷反馈]: 链接失效",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/176"
   },
@@ -3076,6 +3920,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 离线编译指导中提到联网环境、离线环境不清晰",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/175"
   },
@@ -3087,6 +3934,9 @@
     "author": "wujiao_swag",
     "title": "[Documentation|文档反馈]: 离线编译指导，缺失 离线环境 单独下载三方依赖tar包后的执行操作命令",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/174"
   },
@@ -3098,6 +3948,9 @@
     "author": "Y11451",
     "title": "[Question|问题咨询]: 在910B3、8机环境下，进行PD分离时遇到PrintStreamTimeoutSnapshotInfo流同步失败，超时问题",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/173"
   },
@@ -3109,6 +3962,7 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: 在多芯片环境中调用aclrtMalloc，不用指定Device，那么是否所有NPU都可以访问这块DDR",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/172"
   },
@@ -3120,6 +3974,9 @@
     "author": "wuzhengzhen",
     "title": "[Question|问题咨询]: 自定义算子入图   ge的outputs现在是个unknown,InferShape好像目前没有进去，",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/ge/issues/171"
   },
@@ -3131,6 +3988,9 @@
     "author": "wear-underpants-on-rainy-days",
     "title": "[Question|问题咨询]: 转模型失败，报：GetConstData: ErrorNo: 4294967295(failed)Call memcpy failed, total value size is 0",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/170"
   },
@@ -3142,6 +4002,9 @@
     "author": "tmj1128",
     "title": "安装根目录下的requirements.txt依赖，存在下述报错",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/169"
   },
@@ -3153,6 +4016,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: readme首页中Latest News中未及时更新，最近还是12/26项目首次上线",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/168"
   },
@@ -3164,6 +4030,9 @@
     "author": "maqijun",
     "title": "[Documentation|文档反馈]: 2-安装软件包 ops包下载链接404",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/167"
   },
@@ -3175,6 +4044,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: es sample中日志打印的标点符号中英文错乱，和文档中的标点符号不一致，请修改一致 ",
     "labels": [],
+    "assignees": [
+      "du-hua1024"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/166"
   },
@@ -3186,6 +4058,10 @@
     "author": "chenqi317",
     "title": "[Bug-Report|缺陷反馈]:  算子custom包运行时，如果缺少cust_opsproto_rt2.0.so，不会加载custom包的tiling so",
     "labels": [],
+    "assignees": [
+      "Guanam2020",
+      "hugo111"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/165"
   },
@@ -3197,6 +4073,10 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 软件包下载链接失效，请更新",
     "labels": [],
+    "assignees": [
+      "hugo111",
+      "yelongjian"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/164"
   },
@@ -3208,6 +4088,10 @@
     "author": "pan-tong",
     "title": "[Question|问题咨询]: BarrierTakeMany没有下沉走npu",
     "labels": [],
+    "assignees": [
+      "Guanam2020",
+      "hugo111"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/163"
   },
@@ -3219,6 +4103,9 @@
     "author": "ascend-robot",
     "title": "CVE-2023-40283",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/162"
   },
@@ -3230,6 +4117,9 @@
     "author": "ascend-robot",
     "title": "CVE-2026-27171",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/160"
   },
@@ -3241,6 +4131,9 @@
     "author": "shengnan666",
     "title": "[Bug-Report|缺陷反馈]: 使用 build.sh 完成构建后，仓下出现 untracked 文件",
     "labels": [],
+    "assignees": [
+      "wqtshg_wt"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/159"
   },
@@ -3252,6 +4145,9 @@
     "author": "shengnan666",
     "title": "[Bug-Report|缺陷反馈]: bash build.sh 需要 pybind11，但是指导文档中没有说明",
     "labels": [],
+    "assignees": [
+      "wqtshg_wt"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/158"
   },
@@ -3263,6 +4159,7 @@
     "author": "weixin_63683025",
     "title": "[Bug-Report|缺陷反馈]: ",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/157"
   },
@@ -3274,6 +4171,7 @@
     "author": "gcw_ddEr6eGy",
     "title": "[Question|问题咨询]: ExecuteGraphWithStreamAsync报错：ErrorNo: 145000(Parameter invalid.)",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/ge/issues/156"
   },
@@ -3285,6 +4183,7 @@
     "author": "fenglin28",
     "title": "[Question|问题咨询]: 如何使 GE 框架判定算子输出为空 Tensor 并跳过 tiling/kernellaunch 阶段",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/155"
   },
@@ -3296,6 +4195,7 @@
     "author": "liuhaoyu35",
     "title": "[Bug-Report|缺陷反馈]: HCCL AllReduce算子静态图输入数据量被修改",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/154"
   },
@@ -3307,6 +4207,9 @@
     "author": "wmg1",
     "title": "[Bug-Report|缺陷反馈]: 相同图，在不同cann环境情况下，infershape时的图不一样，有一个节点的ge::data shape从[65000, 4096] 变成[65000, 2048]",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/153"
   },
@@ -3318,6 +4221,9 @@
     "author": "wuxiyuan",
     "title": "[Bug-Report|缺陷反馈]: 执行compile task出现core dumped",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/152"
   },
@@ -3329,6 +4235,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 安装软件包时，安装toolkit包和安装ops包命令不一致，建议修改一致",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/151"
   },
@@ -3340,6 +4249,9 @@
     "author": "tmj1128",
     "title": "[Bug-Report|缺陷反馈]: 执行ut/st用例时，存在CMake告警，建议清理",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/149"
   },
@@ -3351,6 +4263,9 @@
     "author": "nkufree",
     "title": "[Question|问题咨询]: RopeWithSinCosCache输出shape没有正确设置",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 7,
     "web_url": "https://gitcode.com/cann/ge/issues/148"
   },
@@ -3362,6 +4277,7 @@
     "author": "tmj1128",
     "title": "[Bug-Report|缺陷反馈]: docker容器创建时报错",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/147"
   },
@@ -3373,6 +4289,9 @@
     "author": "chenxingyu18",
     "title": "[Bug-Report|缺陷反馈]: CastLike静态图下Ge报错输入个数不匹配",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/146"
   },
@@ -3384,6 +4303,7 @@
     "author": "zjun0",
     "title": "[Bug-Report|缺陷反馈]: 代码风格保持一致",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/145"
   },
@@ -3395,6 +4315,9 @@
     "author": "hugo111",
     "title": "[Bug-Report|缺陷反馈]: 本地编译ge_compiler失败  CMake Error at build/modules/Findopenssl.cmake:90",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/144"
   },
@@ -3406,6 +4329,7 @@
     "author": "sched-yield",
     "title": "[Documentation|文档反馈]: 图模式开发文档【同步运行Graph】页面内，示例代码和实际 API 不匹配",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 11,
     "web_url": "https://gitcode.com/cann/ge/issues/143"
   },
@@ -3417,6 +4341,9 @@
     "author": "hantao55_",
     "title": "[Bug-Report|缺陷反馈]: D-FINE模型，ATC转换后执行推理报错Illegal instruction，在Gather算子AI Core异常。",
     "labels": [],
+    "assignees": [
+      "chenqian1365"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/142"
   },
@@ -3428,6 +4355,9 @@
     "author": "chenxingyu18",
     "title": "[Question|问题咨询]: CastLike报错输入个数不匹配",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/141"
   },
@@ -3439,6 +4369,11 @@
     "author": "zjun0",
     "title": "[Bug-Report|缺陷反馈]: Docker容器问题，请审视后修正",
     "labels": [],
+    "assignees": [
+      "hugo111",
+      "fu-jun2",
+      "yelongjian"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/140"
   },
@@ -3450,6 +4385,10 @@
     "author": "zjun0",
     "title": "[Bug-Report|缺陷反馈]: atc执行命令过程中有大量告警",
     "labels": [],
+    "assignees": [
+      "hugo111",
+      "fu-jun2"
+    ],
     "user_notes_count": 7,
     "web_url": "https://gitcode.com/cann/ge/issues/139"
   },
@@ -3461,6 +4400,9 @@
     "author": "zjun0",
     "title": "[Bug-Report|缺陷反馈]: ge仓库编译有大量告警，请组织修复",
     "labels": [],
+    "assignees": [
+      "wangxiaotian995"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/138"
   },
@@ -3472,6 +4414,9 @@
     "author": "zjun0",
     "title": "[Bug-Report|缺陷反馈]: CANN toolkit安装包提示语格式错误",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/137"
   },
@@ -3483,6 +4428,9 @@
     "author": "ascend-robot",
     "title": "CVE-2025-15341",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/136"
   },
@@ -3494,6 +4442,9 @@
     "author": "shengnan666",
     "title": "GE Development Roadmap (2026 H1)",
     "labels": [],
+    "assignees": [
+      "shengnan666"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/135"
   },
@@ -3505,6 +4456,9 @@
     "author": "zjun0",
     "title": "[Bug-Report|缺陷反馈]: ge-compiler编译失败",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 8,
     "web_url": "https://gitcode.com/cann/ge/issues/134"
   },
@@ -3516,6 +4470,9 @@
     "author": "gcw_ddEr6eGy",
     "title": "[Question|问题咨询]: GE找不到自定义算子",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/133"
   },
@@ -3527,6 +4484,9 @@
     "author": "ascend-robot",
     "title": "CVE-2023-45853",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/132"
   },
@@ -3538,6 +4498,9 @@
     "author": "ascend-robot",
     "title": "CVE-2023-4785",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/131"
   },
@@ -3549,6 +4512,9 @@
     "author": "ascend-robot",
     "title": "CVE-2022-41717",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/130"
   },
@@ -3560,6 +4526,9 @@
     "author": "ascend-robot",
     "title": "CVE-2023-24535",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/129"
   },
@@ -3571,6 +4540,9 @@
     "author": "ascend-robot",
     "title": "CVE-2023-33953",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/128"
   },
@@ -3582,6 +4554,9 @@
     "author": "ascend-robot",
     "title": "CVE-2024-24786",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/127"
   },
@@ -3593,6 +4568,9 @@
     "author": "ascend-robot",
     "title": "CVE-2022-2996",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/126"
   },
@@ -3604,6 +4582,9 @@
     "author": "ascend-robot",
     "title": "CVE-2025-27788",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/125"
   },
@@ -3615,6 +4596,9 @@
     "author": "ascend-robot",
     "title": "CVE-2025-53605",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/124"
   },
@@ -3626,6 +4610,9 @@
     "author": "ascend-robot",
     "title": "CVE-2023-32732",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/123"
   },
@@ -3637,6 +4624,9 @@
     "author": "ascend-robot",
     "title": "CVE-2023-32731",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/122"
   },
@@ -3648,6 +4638,9 @@
     "author": "ascend-robot",
     "title": "CVE-2023-1428",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/121"
   },
@@ -3659,6 +4652,9 @@
     "author": "ascend-robot",
     "title": "CVE-2022-3509",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/120"
   },
@@ -3670,6 +4666,9 @@
     "author": "ascend-robot",
     "title": "CVE-2022-3510",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 10,
     "web_url": "https://gitcode.com/cann/ge/issues/119"
   },
@@ -3681,6 +4680,9 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: ATC所生成OM的LayerNorm算子时延，与相同CCE生成的单算子推理时延差异巨大",
     "labels": [],
+    "assignees": [
+      "lijunyu_111"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/118"
   },
@@ -3692,6 +4694,9 @@
     "author": "zhaoxingyin-zxy",
     "title": "[Bug-Report|缺陷反馈]: cann版本升级后, atc转换模型推理时GE报错",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/117"
   },
@@ -3703,6 +4708,9 @@
     "author": "wuxiyuan",
     "title": "[Bug-Report|缺陷反馈]: 结果数据异常",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/116"
   },
@@ -3714,6 +4722,9 @@
     "author": "zjun0",
     "title": "[Bug-Report|缺陷反馈]: 编译失败",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/115"
   },
@@ -3725,6 +4736,9 @@
     "author": "zjun0",
     "title": "[Bug-Report|缺陷反馈]:环境信息中的cann目录名称不对",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/114"
   },
@@ -3736,6 +4750,9 @@
     "author": "zjun0",
     "title": "[Bug-Report|缺陷反馈]: 下载链接中Ascend-cann-toolkit_是9.0的版本，但是ops提供8.5.0的版本？",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/113"
   },
@@ -3747,6 +4764,9 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: CANN从8.0.RC3升级到8.5.0后，单算子编译失败",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/112"
   },
@@ -3758,6 +4778,9 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: Atlas-cann-A3-ops 包名不对，是Ascend-cann-A3-ops",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/111"
   },
@@ -3769,6 +4792,7 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: ATC生成的CCE代码中，显然存在数据依赖的vector指令间没有使用pipe_barrier(PIPE_V);",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/110"
   },
@@ -3780,6 +4804,7 @@
     "author": "liuwanke152",
     "title": "[Question|问题咨询]: 图模式下MC2使用的aicpu流是怎么申请的",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/109"
   },
@@ -3791,6 +4816,9 @@
     "author": "condfuse_3",
     "title": "[Question|问题咨询]: FRACTAL_ZN公式推导transpose后的结果 最后两维是K0，N0，还是N0，K0 https://www.hiascend.com/document/detail/zh/CANNCommunityEdition/850/graph/graphdevg/atlas_ascendc_10_0099.html",
     "labels": [],
+    "assignees": [
+      "lijunyu_111"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/108"
   },
@@ -3802,6 +4830,9 @@
     "author": "ascend-robot",
     "title": "CVE-2025-62408",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/107"
   },
@@ -3813,6 +4844,9 @@
     "author": "ascend-robot",
     "title": "CVE-2023-30608",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/106"
   },
@@ -3824,6 +4858,9 @@
     "author": "ascend-robot",
     "title": "CVE-2022-1941",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/105"
   },
@@ -3835,6 +4872,9 @@
     "author": "ascend-robot",
     "title": "CVE-2025-4565",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/104"
   },
@@ -3846,6 +4886,9 @@
     "author": "ascend-robot",
     "title": "CVE-2024-7254",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/103"
   },
@@ -3857,6 +4900,9 @@
     "author": "ascend-robot",
     "title": "CVE-2024-7254",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/102"
   },
@@ -3868,6 +4914,9 @@
     "author": "ascend-robot",
     "title": "CVE-2022-3171",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/101"
   },
@@ -3879,6 +4928,9 @@
     "author": "ascend-robot",
     "title": "CVE-2024-2410",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/100"
   },
@@ -3890,6 +4942,9 @@
     "author": "weixin_39767879",
     "title": "[Bug-Report|缺陷反馈]: license扫描工具的模板文件中license的描述信息不规范，需要修改。",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/99"
   },
@@ -3901,6 +4956,9 @@
     "author": "linyf950",
     "title": "[Bug-Report|缺陷反馈]: HCCL AllGather算子静态图输入数据5G时报错",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/98"
   },
@@ -3912,6 +4970,9 @@
     "author": "ascend-robot",
     "title": "CVE-2026-22184",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/97"
   },
@@ -3923,6 +4984,9 @@
     "author": "ascend-robot",
     "title": "CVE-2026-0994",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/96"
   },
@@ -3934,6 +4998,9 @@
     "author": "gts_sjj",
     "title": "[Question|问题咨询]: support tiling sink日志信息如何能实现",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/95"
   },
@@ -3945,6 +5012,9 @@
     "author": "panzhihui1",
     "title": "[Bug-Report|缺陷反馈]: mindspore CANN 9.0.0 B020升级适配，自定义aicpu算子调用失败",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/94"
   },
@@ -3956,6 +5026,9 @@
     "author": "KKhappylearning",
     "title": "[Question|问题咨询]:  AfterSecondInferformat原图origin_format修改后原图不连续了",
     "labels": [],
+    "assignees": [
+      "Guanam2020"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/93"
   },
@@ -3967,6 +5040,9 @@
     "author": "ascend-robot",
     "title": "CVE-2023-44487",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/92"
   },
@@ -3978,6 +5054,7 @@
     "author": "xiong-pan",
     "title": "[Question|问题咨询]: 调用CompileGraph接口之后调用RunGeGraphAsync报错",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/91"
   },
@@ -3989,6 +5066,7 @@
     "author": "xiong-pan",
     "title": "[Question|问题咨询]:ge::GetConstMemorySize接口返回值为-1，但是没有任何报错日志",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/90"
   },
@@ -4000,6 +5078,9 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: CANN从8.0.RC3升级到8.5.0后，ATC转换工具导出CCE异常",
     "labels": [],
+    "assignees": [
+      "lijunyu_111"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/89"
   },
@@ -4011,6 +5092,9 @@
     "author": "zjun0",
     "title": "[Feature-Request|需求反馈]: GE开源环境完备的docker镜像",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/ge/issues/88"
   },
@@ -4022,6 +5106,7 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: OM模型内存分配问题，能否不同输入间内存连续，以及不同OM能否共用内存",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/87"
   },
@@ -4033,6 +5118,9 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: 改变矩阵维度后，OM算子的入口数据变成6个维度，不符合FRACTAL_NZ格式的定义(B, N1, M1, M0, N0)",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/86"
   },
@@ -4044,6 +5132,9 @@
     "author": "zjun0",
     "title": "[Documentation|文档反馈]: 文档格式问题",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/85"
   },
@@ -4055,6 +5146,7 @@
     "author": "zjun0",
     "title": "[Documentation|文档反馈]: 样例输出信息，描述不准确",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/84"
   },
@@ -4066,6 +5158,9 @@
     "author": "zjun0",
     "title": "[Documentation|文档反馈]: 建议链接到本仓库中的构建文档",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/83"
   },
@@ -4077,6 +5172,9 @@
     "author": "zjun0",
     "title": "[Question|问题咨询]: 编译GE出现boost编译失败，error: 'enable_if_t'",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/ge/issues/82"
   },
@@ -4088,6 +5186,9 @@
     "author": "tttmmmppp",
     "title": "[Question|问题咨询]: 仅修改矩阵维度，得到的OM模型新增了Send/Recv算子",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/81"
   },
@@ -4099,6 +5200,10 @@
     "author": "RiddleTan",
     "title": "[Bug-Report|缺陷反馈]: 全量编译失败",
     "labels": [],
+    "assignees": [
+      "songchangxia",
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/80"
   },
@@ -4110,6 +5215,9 @@
     "author": "oah28",
     "title": "[Question|问题咨询]: EmbeddingBag算子跑geir的动态模式GE报错 Op[Node_Output]'s input __input0 shape contains negative or zero dimension",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/79"
   },
@@ -4121,6 +5229,9 @@
     "author": "xiong-pan-1",
     "title": "[Question|问题咨询]: ge.aicoreNum参数在什么版本下支持",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/78"
   },
@@ -4132,6 +5243,9 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]: 子包卸载，卸载模块只删除子包自己安装的内容，未删除用户写进去的文件，如__pycache__",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/77"
   },
@@ -4143,6 +5257,9 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]:  1） 取包链接未更新成正式包取包链接（不带beta后缀的）2）编译的子包也是带beta后缀",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/76"
   },
@@ -4154,6 +5271,9 @@
     "author": "tingwood",
     "title": "[Bug-Report|缺陷反馈]: 安装toolkit包失败",
     "labels": [],
+    "assignees": [
+      "zhanj"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/75"
   },
@@ -4165,6 +5285,7 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 安装软件包处存在异常字符，请全量排查并修改",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/74"
   },
@@ -4176,6 +5297,7 @@
     "author": "gcw_WS0ZjpeZ",
     "title": "[Question|问题咨询]: 数据维度转换",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/73"
   },
@@ -4187,6 +5309,9 @@
     "author": "niuniu2827611",
     "title": "[Question|问题咨询]: OM2问题咨询",
     "labels": [],
+    "assignees": [
+      "shengnan666"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/72"
   },
@@ -4198,6 +5323,9 @@
     "author": "Hulmos",
     "title": "[Feature-Request|需求反馈]: 将.ONNX模型转换为.om报错显示找不到矩阵乘算子",
     "labels": [],
+    "assignees": [
+      "lijunyu_111"
+    ],
     "user_notes_count": 8,
     "web_url": "https://gitcode.com/cann/ge/issues/71"
   },
@@ -4209,6 +5337,9 @@
     "author": "yangxinglong",
     "title": "[Documentation|文档反馈]: ",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/70"
   },
@@ -4220,6 +5351,9 @@
     "author": "m0_48427312",
     "title": "[Question|问题咨询]: ",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/69"
   },
@@ -4231,6 +5365,9 @@
     "author": "zhangyuxiang0119",
     "title": "[Question|问题咨询]: 在MindSpore下调用aclop算子，无法使用acldump",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/68"
   },
@@ -4242,6 +5379,9 @@
     "author": "scanz",
     "title": "[Feature-Request|需求反馈]: CosyVoice3 尝试把onnx转换为om推理权重报错算子不支持",
     "labels": [],
+    "assignees": [
+      "lijunyu_111"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/66"
   },
@@ -4253,6 +5393,9 @@
     "author": "wuwanxu",
     "title": "[Question|问题咨询]: deepseek模型，pd分离场景下，p侧在npu_fused_infer_attention_score处断图",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/65"
   },
@@ -4264,6 +5407,9 @@
     "author": "libotao316",
     "title": "[Question|问题咨询]: OCR模型，onnx格式模型经atc工具转换为om模型后无法正常推理。",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/64"
   },
@@ -4275,6 +5421,9 @@
     "author": "qq_42803442",
     "title": "[Bug-Report|缺陷反馈]: MatMulV2的右矩阵离线提前转置后再MM计算和转置在线随路做后再MM计算存在误差",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/63"
   },
@@ -4286,6 +5435,7 @@
     "author": "fengaov",
     "title": "[Bug-Report|缺陷反馈]: torchair输出切片时有精度问题",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/62"
   },
@@ -4297,6 +5447,9 @@
     "author": "fengaov",
     "title": "[Bug-Report|缺陷反馈]: 图模式与融合优化器不兼容",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/61"
   },
@@ -4308,6 +5461,9 @@
     "author": "qq_42803442",
     "title": "[Bug-Report|缺陷反馈]: 进行torch.compile时内部会自动转成.contiguous，但是GE静态图缺了这个自动转contiguous的过程，导致了精度误差",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/60"
   },
@@ -4319,6 +5475,7 @@
     "author": "capt4in",
     "title": "[Documentation|文档反馈]: 文档中多处拼写或描写错误，请优化一下",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/59"
   },
@@ -4330,6 +5487,9 @@
     "author": "yanyawen",
     "title": "[Documentation|文档反馈]: 源码构建的build.md里面安装python依赖在第一步，但是下载仓库在第三步",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/58"
   },
@@ -4341,6 +5501,7 @@
     "author": "oah28",
     "title": "[Question|问题咨询]: MaxPoolWithArgmax算子在跑geir时是正常的，但是用tf直调显示找不到Targmax属性",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/57"
   },
@@ -4352,6 +5513,9 @@
     "author": "meisanyouiem",
     "title": "[Bug-Report|缺陷反馈]: Session 析构时的时间段内，其他不同线程上的Session无法正常下发任务",
     "labels": [],
+    "assignees": [
+      "wang-bin-789"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/56"
   },
@@ -4363,6 +5527,9 @@
     "author": "liuks",
     "title": "[Question|问题咨询]: GE算子融合策略支持用户自定义规则吗？支持的话需要怎么配置使能？",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/55"
   },
@@ -4374,6 +5541,9 @@
     "author": "jxlang",
     "title": "[Bug-Report|缺陷反馈]: 镜像用不了",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/54"
   },
@@ -4385,6 +5555,7 @@
     "author": "fullt",
     "title": "[Documentation|文档反馈]: 1_sample_resnet50_imagenet_classification样例中昇腾AI处理器的版本获取链接错误",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/53"
   },
@@ -4396,6 +5567,7 @@
     "author": "liuks",
     "title": "[Question|问题咨询]: 如果跳过了SuperKernel融合，从哪里可以看出来呢？有什么比较详细的信息吗？",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/52"
   },
@@ -4407,6 +5579,7 @@
     "author": "liuks",
     "title": "[Question|问题咨询]: GE如何解决动态shape的问题？",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/51"
   },
@@ -4418,6 +5591,9 @@
     "author": "jiucheng_",
     "title": "[Bug-Report|缺陷反馈]: recommendation算子报错",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 5,
     "web_url": "https://gitcode.com/cann/ge/issues/50"
   },
@@ -4429,6 +5605,9 @@
     "author": "jiucheng_",
     "title": "[Bug-Report|缺陷反馈]: 执行fusion_pass脚本报错",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/49"
   },
@@ -4440,6 +5619,9 @@
     "author": "jiucheng_",
     "title": "[Bug-Report|缺陷反馈]: dflow算子报错",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/48"
   },
@@ -4451,6 +5633,9 @@
     "author": "jiucheng_",
     "title": "[Bug-Report|缺陷反馈]: 跑es算子报错",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/47"
   },
@@ -4462,6 +5647,9 @@
     "author": "hanru-xu",
     "title": "[Question|问题咨询]: GE侧transdata的infer_shape逻辑，应该是transfer_shape_utils.cc这个文件",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/46"
   },
@@ -4473,6 +5661,9 @@
     "author": "tingwood",
     "title": "[Bug-Report|缺陷反馈]: 修改doc下readme这类说明，合入时建议可跳过compile步骤，影响效率。",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/45"
   },
@@ -4484,6 +5675,7 @@
     "author": "jiucheng_",
     "title": "[Bug-Report|缺陷反馈]: ",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/44"
   },
@@ -4495,6 +5687,9 @@
     "author": "yanan-rock",
     "title": "[Question|问题咨询]: 请问执行loadgraph函数后报错，怎么解决",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/43"
   },
@@ -4506,6 +5701,7 @@
     "author": "liuks",
     "title": "[Question|问题咨询]: 昇腾的ge的开源特性会支持到鸿蒙cann kit里吗？",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/42"
   },
@@ -4517,6 +5713,9 @@
     "author": "liuks",
     "title": "[Question|问题咨询]: 自定义算子入图已经可用了吗，怎么使用呢，是否有文档？用自动融合了还需要手写算子吗？任意图都可以下沉吗？",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/41"
   },
@@ -4528,6 +5727,9 @@
     "author": "BoyangZhang",
     "title": "[Question|问题咨询]: Cdist图模式中，参数p生效的值",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/40"
   },
@@ -4539,6 +5741,9 @@
     "author": "shengnan666",
     "title": "[Question|问题咨询]: 使用 atc 编译时，预期编译出静态 shape 的 om，但是实际产生了动态 shape 的 om，可以如何分析产生动态 shape 的位置？",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/39"
   },
@@ -4550,6 +5755,9 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]: conda的gcc和系统gcc不一致，在该conda编包，安装编好的包，在该conda中执行用例，报错gcc问题",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/38"
   },
@@ -4561,6 +5769,9 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: gen_esb检查环境变量部分只说明检查一个环境变量",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/37"
   },
@@ -4572,6 +5783,9 @@
     "author": "weixin_59837223",
     "title": "[Documentation|文档反馈]: 安装2.7.1版本的torch和torch_npu后，再安装torchvision，会卸载torch装成2.4.0版本的，导致版本不配套，需要指定torchvision与torch的配套关系，安装对应版本的torchvision",
     "labels": [],
+    "assignees": [
+      "lining23666"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/36"
   },
@@ -4583,6 +5797,7 @@
     "author": "feng_zhenqiang",
     "title": "[Bug-Report|缺陷反馈]: 自动融合模块三方库下载链接不规范",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 0,
     "web_url": "https://gitcode.com/cann/ge/issues/35"
   },
@@ -4594,6 +5809,7 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: gen_esb所需的环境变量是下面两个，单独设置如何设置；如果不单独设置，source ${install_path}/cann/set_env.sh是否就免去设置，此处说明不清晰，建议优化",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/34"
   },
@@ -4605,6 +5821,7 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: Graph Builder Code Generator中gen_esb文件未说明在哪个目录下",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/33"
   },
@@ -4616,6 +5833,7 @@
     "author": "weixin_59837223",
     "title": "[Documentation|文档反馈]: 执行st用例测试时，cmake版本大于3.5会报错",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/32"
   },
@@ -4627,6 +5845,7 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 安装ops包链接处只有A2下载链接，没有A3下载链接",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/31"
   },
@@ -4638,6 +5857,7 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 关闭验签方式的命令参数麻烦添加说明，哪个参数表示device_id，哪个参数表示使能和关闭",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/30"
   },
@@ -4649,6 +5869,9 @@
     "author": "xiong-pan-1",
     "title": "[Bug-Report|缺陷反馈]: 910B acl后端模型转换报错finalize failed",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/29"
   },
@@ -4660,6 +5883,9 @@
     "author": "malin0",
     "title": "[Feature-Request|需求反馈]: 有没有构建前依赖检查脚本",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/28"
   },
@@ -4671,6 +5897,9 @@
     "author": "weixin_59837223",
     "title": "[Documentation|文档反馈]: 执行ge编译的时候，日志告警信息显示为紫色。",
     "labels": [],
+    "assignees": [
+      "dongjiangtao"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/27"
   },
@@ -4682,6 +5911,9 @@
     "author": "weixin_59837223",
     "title": "[Documentation|文档反馈]:conda环境 编译执行UT测试用例时，报错/usr/bin/ld: cannot find -ljasan，原因是gcc，g++,需要重新安装，并且创建软链后才能执行，",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/26"
   },
@@ -4693,6 +5925,7 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: recommendation sample环境要求部分建议将链接修改为源码构建-安装软件包处，否则用户将跳转至昇腾官网寻找对应cann包",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/25"
   },
@@ -4704,6 +5937,7 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: custom_es_api sample快速开始-安装指导链接跳转不正确",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/24"
   },
@@ -4715,6 +5949,7 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]:  custom_es_api sample链接跳转为空",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/23"
   },
@@ -4726,6 +5961,9 @@
     "author": "weixin_59837223",
     "title": "[Documentation|文档反馈]: 依赖安装部分 patch 未列举",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/22"
   },
@@ -4737,6 +5975,7 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]: 进行子包编译过程中，会有-- Performing Test ABSL_INTERNAL_AT_LEAST_CXX17 - Failed 打印，不影响编译，请评估下为啥会有该打印或者该打印是否合理",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/21"
   },
@@ -4748,6 +5987,9 @@
     "author": "malin0",
     "title": "[Requirement|需求建议]: 关于cann toolkit版本兼容前后范围",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/20"
   },
@@ -4759,6 +6001,7 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]: 依赖安装部分lcov libasan4未列举",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/19"
   },
@@ -4770,6 +6013,9 @@
     "author": "malin0",
     "title": "[Requirement|需求建议]: 有没有常见问题链接",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/18"
   },
@@ -4781,6 +6027,7 @@
     "author": "tmj1128",
     "title": "[Documentation|文档反馈]:ops包下载步骤中目前只有A2系列产品软件包下载链接，没有A3系列产品软件包下载链接，且只放了x86的链接，没有arrch的链接",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/17"
   },
@@ -4792,6 +6039,7 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: 依赖安装中：ccache/asan/autoconf/automake/libtool/gperf/graph-easy(可选)  有歧义，会误认为都是可选的",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/16"
   },
@@ -4803,6 +6051,9 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]: dflow子包编译失败: grep: /build/product/onetrack/sys_version/sys_version.conf: No such file or directory",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/15"
   },
@@ -4814,6 +6065,10 @@
     "author": "Leah11",
     "title": "[Requirement|需求建议]: Windows操作系统下ATC转换支持NHWC格式输入",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606",
+      "wqtshg_wt"
+    ],
     "user_notes_count": 7,
     "web_url": "https://gitcode.com/cann/ge/issues/14"
   },
@@ -4825,6 +6080,7 @@
     "author": "whh_smile",
     "title": "[Question|问题咨询]: gcc==7.3.0, 编译ge_compiler子包失败，报错/usr/bin/ld: cannot find -lstdc++fs",
     "labels": [],
+    "assignees": [],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/13"
   },
@@ -4836,6 +6092,9 @@
     "author": "whh_smile",
     "title": "[Documentation|文档反馈]: soc_name：表示NPU型号名称，即{soc_version}删除“ascend”后剩余的内容。这句话不太准确，A3的ops包名已变更为Atlas-cann-A3-ops_cannversionlinux−{cann_version}_linux-cann  v ​  ersion  l ​  inux−{arch}.run",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 1,
     "web_url": "https://gitcode.com/cann/ge/issues/12"
   },
@@ -4847,6 +6106,9 @@
     "author": "song-dongdong5",
     "title": "[Question|问题咨询]: 编译模型显示SaveToExeOmModel失败",
     "labels": [],
+    "assignees": [
+      "stevenaw0"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/11"
   },
@@ -4858,6 +6120,9 @@
     "author": "malin0",
     "title": "[Documentation|文档反馈]: ",
     "labels": [],
+    "assignees": [
+      "yelongjian"
+    ],
     "user_notes_count": 9,
     "web_url": "https://gitcode.com/cann/ge/issues/10"
   },
@@ -4869,6 +6134,9 @@
     "author": "guoziqi2025",
     "title": "[Question|问题咨询]: 调用ge::Status HcomOpsKernelInfoStore::LoadTask(ge::GETaskInfo &task)这个接口传的task看起来给两个进程传的不一样",
     "labels": [],
+    "assignees": [
+      "yangyongqiang0606"
+    ],
     "user_notes_count": 3,
     "web_url": "https://gitcode.com/cann/ge/issues/9"
   },
@@ -4880,6 +6148,9 @@
     "author": "healthwang",
     "title": "[Requirement|需求建议]: autofuse需要补充readme介绍",
     "labels": [],
+    "assignees": [
+      "wangxiaotian995"
+    ],
     "user_notes_count": 2,
     "web_url": "https://gitcode.com/cann/ge/issues/5"
   },
@@ -4891,6 +6162,9 @@
     "author": "kobemini",
     "title": "[RFC]:  GE支持高效的IR构图之ES构图",
     "labels": [],
+    "assignees": [
+      "kobemini"
+    ],
     "user_notes_count": 6,
     "web_url": "https://gitcode.com/cann/ge/issues/4"
   },
@@ -4902,6 +6176,9 @@
     "author": "ClarkXie",
     "title": "[RFC]: GE支持模型编译生成原生可执行代码",
     "labels": [],
+    "assignees": [
+      "ClarkXie"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/3"
   },
@@ -4913,6 +6190,9 @@
     "author": "niuyuhu",
     "title": "[RFC]: Ascgen自动融合特性全面融入MLIR生态",
     "labels": [],
+    "assignees": [
+      "niuyuhu"
+    ],
     "user_notes_count": 4,
     "web_url": "https://gitcode.com/cann/ge/issues/2"
   },
@@ -4924,6 +6204,9 @@
     "author": "hugo111",
     "title": "[RFC]: 语言无关自定义算子接入GE",
     "labels": [],
+    "assignees": [
+      "hugo111"
+    ],
     "user_notes_count": 9,
     "web_url": "https://gitcode.com/cann/ge/issues/1"
   }
