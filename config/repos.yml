@@ -32,7 +32,7 @@ repos:
 - path: cann/hixl
   display_name: hixl
   enabled: true
-  notify: false
+  notify: true
   goals:
   - metric: star
     label: Star 数
@@ -60,7 +60,7 @@ repos:
 - path: cann/graph-autofusion
   display_name: auto-fusion
   enabled: true
-  notify: false
+  notify: true
   goals:
   - metric: star
     label: Star 数
@@ -88,7 +88,7 @@ repos:
 - path: cann/torchtitan-npu
   display_name: torchtitan-npu
   enabled: true
-  notify: false
+  notify: true
   goals:
   - metric: star
     label: Star 数
