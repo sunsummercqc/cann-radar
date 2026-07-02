@@ -196,26 +196,27 @@ def load_smtp_config():
 
 
 def _check_mr_notify_status(key, notified, today):
-    """返回 (should_notify, notify_stage)。
+    """返回 (should_notify, notify_stage, skip_reason)。
     notify_stage: 0=跳过, 1=首次通知, 2=二次升级通知
+    skip_reason: ''=不跳过, 'waiting'=未到重发间隔, 'max'=已达上限
     """
     if key not in notified:
-        return True, 1
+        return True, 1, ''
     record = notified[key]
     count = record.get("count", 1)
     if count >= MAX_NOTIFY_COUNT:
-        return False, 0
+        return False, 0, 'max'
     last_at = record.get("notified_at", "")
     if not last_at:
-        return False, 0
+        return False, 0, 'max'
     try:
         last_date = datetime.strptime(last_at[:10], "%Y-%m-%d").date()
     except ValueError:
-        return False, 0
+        return False, 0, 'max'
     working_days = _working_days_between(last_date, today)
     if working_days >= RESEND_INTERVAL_DAYS:
-        return True, count + 1
-    return False, 0
+        return True, count + 1, ''
+    return False, 0, 'waiting'
 
 
 def scan_stale_mrs(stale_days, notify_paths=None, notified=None):
@@ -223,7 +224,7 @@ def scan_stale_mrs(stale_days, notify_paths=None, notified=None):
     stale_by_author = defaultdict(list)
     stats = {
         "total_opened": 0, "stale_all": 0, "stale_matched": 0,
-        "repos_scanned": 0, "skipped_recent": 0, "skipped_done": 0,
+        "repos_scanned": 0, "skipped_waiting": 0, "skipped_max": 0,
         "stage1_count": 0, "stage2_count": 0,
     }
 
@@ -251,12 +252,12 @@ def scan_stale_mrs(stale_days, notify_paths=None, notified=None):
                 continue
             key = _mr_key(repo_path, iid)
 
-            should_notify, stage = _check_mr_notify_status(key, notified, today.date())
+            should_notify, stage, skip_reason = _check_mr_notify_status(key, notified, today.date())
             if not should_notify:
-                if key in notified:
-                    stats["skipped_done"] += 1
+                if skip_reason == 'max':
+                    stats["skipped_max"] += 1
                 else:
-                    stats["skipped_recent"] += 1
+                    stats["skipped_waiting"] += 1
                 continue
 
             created_at = mr.get("created_at", "")
@@ -394,8 +395,8 @@ def build_admin_report_html(stats, null_email_authors, external_authors, stale_d
     <tr><td style="padding:4px 16px 4px 0;color:#666">超期 MR</td><td><strong>{stats['stale_matched']}</strong></td></tr>
     <tr><td style="padding:4px 16px 4px 0;color:#666">首次通知</td><td><strong>{stats.get('stage1_count', 0)}</strong></td></tr>
     <tr><td style="padding:4px 16px 4px 0;color:#666">二次升级通知</td><td><strong style="color:#e05f5f">{stage2_total}</strong></td></tr>
-    <tr><td style="padding:4px 16px 4px 0;color:#666">近{RESEND_INTERVAL_DAYS}个工作日已通知跳过</td><td><strong>{stats['skipped_recent']}</strong></td></tr>
-    <tr><td style="padding:4px 16px 4px 0;color:#666">已达上限永久跳过</td><td><strong>{stats['skipped_done']}</strong></td></tr>
+    <tr><td style="padding:4px 16px 4px 0;color:#666">未到重发间隔跳过</td><td><strong>{stats['skipped_waiting']}</strong></td></tr>
+    <tr><td style="padding:4px 16px 4px 0;color:#666">已达上限永久跳过</td><td><strong>{stats['skipped_max']}</strong></td></tr>
     <tr><td style="padding:4px 16px 4px 0;color:#666">有映射无邮箱 MR 数</td><td><strong style="color:#e05f5f">{total_null}</strong></td></tr>
     <tr><td style="padding:4px 16px 4px 0;color:#666">外部开发者 MR 数</td><td><strong style="color:#f5a623">{total_external}</strong></td></tr>
   </table>
@@ -543,8 +544,8 @@ def main():
     print(f"    超期 MR: {stats['stale_matched']}")
     print(f"    首次通知: {stats['stage1_count']}")
     print(f"    二次升级: {stats['stage2_count']}")
-    print(f"    近{RESEND_INTERVAL_DAYS}个工作日已通知跳过: {stats['skipped_recent']}")
-    print(f"    已达上限跳过: {stats['skipped_done']}")
+    print(f"    未到重发间隔跳过: {stats['skipped_waiting']}")
+    print(f"    已达上限永久跳过: {stats['skipped_max']}")
     print(f"    涉及作者: {len(stale_by_author)}")
 
     if not stale_by_author:
