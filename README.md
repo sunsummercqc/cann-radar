@@ -1,6 +1,6 @@
-# CANN GitCode 数据分析
+# CANN GitCode 数据分析与超期通知
 
-对指定 GitCode 仓库的 Star / Fork / Issue / MR 数据进行采集与可视化分析，跟踪社区用户构成、参与深度和运营目标达成情况。
+对指定 GitCode 仓库的 Star / Fork / Issue / MR 数据进行采集与可视化分析，跟踪社区用户构成、参与深度和运营目标达成情况。同时自动扫描超期未关闭的 MR 和 Issue，通过邮件提醒相关开发者及时处理。
 
 在线查看：https://kennchow.github.io/cann-stars/
 
@@ -81,6 +81,7 @@
 | `path` | GitCode 仓库路径（注意大小写需与 API 返回一致，通常为小写） |
 | `display_name` | 前端展示名称 |
 | `enabled` | 设为 `false` 可临时隐藏，无需删除配置 |
+| `notify` | 设为 `true` 启用该仓库的超期 MR/Issue 邮件通知 |
 | `goals` | 统一运营目标配置，可选，数组可为空 `[]` |
 
 ### 移除仓库
@@ -144,6 +145,54 @@
 
 修改 `config/internal_developers.txt` 并推送到 `main` 后，会触发自动采集和部署流程。
 
+> **注意**：网页看板仍使用 `internal_developers.txt` 判定内外。邮件通知则基于 `config/gitcode_2_mail.txt`（私仓注入）：在该文件中有有效邮箱映射的用户视为可通知用户，两列均为 `null` 或不在映射中的用户将汇总发给管理员处理。
+
+## 超期通知
+
+每天 22:00 CST 自动扫描各仓库的超期 MR 和 Issue，通过邮件提醒开发者及时处理。
+
+### 通知规则
+
+| 项目 | MR | Issue |
+|---|---|---|
+| 条件 | opened + 超期 14 个工作日以上 | opened + **非Requirement** + 超期 14 个工作日以上 |
+| 通知对象 | MR 作者 | Issue 的 assignees（负责人） |
+| 升级机制 | 首次提醒本人；≥7 个工作日后仍 open 则二次提醒并抄送管理员；最多 2 次 | 同 MR |
+| 去重 | 按 issue/MR 维度，已通知的不会重复 | 同 MR |
+| 工作日 | 排除周末 + 中国法定节假日（`chinese-calendar`） | 同 MR |
+
+### Requirement 判定
+
+Issue 标题含 `[RFC]` 或 `[Feature-Request|需求反馈]`，或 labels 含 `requirement`，视为 Requirement（不参与非Requirement 超期通知）。
+
+### 管理员报告
+
+以下情况汇总发给管理员（邮箱配置在私仓 `admin_email.txt`）：
+- 有映射但邮箱为 null 的开发者
+- 不在 `gitcode_2_mail.txt` 中的外部开发者
+- 未分配负责人的 Issue
+
+### 手动触发
+
+在 GitHub Actions 页面 → `Daily Data Update` → `Run workflow`，可填写参数手动触发通知：
+
+- `run_stale_notify` / `run_issue_notify`：启用 MR / Issue 通知
+- `stale_days` / `issue_stale_days`：超期阈值
+- `test_email` / `issue_test_email`：测试模式（仅发 1 封样本）
+- `admin_report_to`：覆盖管理员邮箱
+
+### 本地测试
+
+```bash
+# MR 通知
+python stale_mr_notify.py --dry-run
+python stale_mr_notify.py --test your_email@example.com
+
+# Issue 通知
+python stale_issue_notify.py --dry-run
+python stale_issue_notify.py --test your_email@example.com
+```
+
 ## 数据采集
 
 ```bash
@@ -169,11 +218,11 @@ python collector.py report       # 输出文字报告
 
 `all` 命令按依赖关系分层并发执行，采集效率约为串行的 3~5 倍。
 
-**环境要求**：Python 3.8+，无需第三方依赖。
+**环境要求**：Python 3.8+，需要 `PyYAML` 和 `chinese-calendar`（CI 自动安装，本地运行需手动安装）。
 
 ### 自动更新
 
-CI（GitHub Actions）每天 22:00 CST 自动运行全量采集并提交数据到 `main`，触发 GitHub Pages 部署。也可在 Actions 页面手动触发。讨论参与者采集复用同一定时任务，不新增独立 cron。
+CI（GitHub Actions）每天 22:00 CST 自动运行全量采集并提交数据到 `main`，触发 GitHub Pages 部署。同一定时任务也会执行 MR 和 Issue 的超期通知扫描。也可在 Actions 页面手动触发。
 
 ## 讨论参与者采集
 
@@ -203,23 +252,27 @@ python -m http.server 8080
 ## 项目结构
 
 ```
-config/repos.yml        # 仓库配置（增减仓库、设定目标）
-config/discussions.yml  # 讨论链接配置（外部讨论参与者采集）
+config/repos.yml          # 仓库配置（增减仓库、设定目标、启用通知）
+config/discussions.yml    # 讨论链接配置（外部讨论参与者采集）
 config/internal_developers.txt # 内部开发者用户名名单
-collector.py             # 数据采集器
-index.html               # 前端页面（单文件，含所有图表逻辑）
-data/                    # 采集数据（自动生成，已纳入版本控制）
-  repos.json             # 仓库基本信息（采集输出）
-  stars/                 # 各仓库 Star 用户列表
-  forks/                 # 各仓库 Fork 明细
-  issues/                # 各仓库 Issue 详情
-  mrs/                   # 各仓库 MR 详情
-  dlevel_summary.json    # D0/D1/D2 汇总（前端主数据源）
+collector.py              # 数据采集器
+stale_mr_notify.py        # 超期 MR 邮件通知
+stale_issue_notify.py     # 超期 Issue 邮件通知
+index.html                # 前端页面（单文件，含所有图表逻辑）
+data/                     # 采集数据（自动生成，已纳入版本控制）
+  repos.json              # 仓库基本信息（采集输出）
+  stars/                  # 各仓库 Star 用户列表
+  forks/                  # 各仓库 Fork 明细
+  issues/                 # 各仓库 Issue 详情（含 assignees、working_days_open）
+  mrs/                    # 各仓库 MR 详情（含 labels、working_days_open）
+  stale_mr_notified.json  # MR 通知追踪记录
+  stale_issue_notified.json # Issue 通知追踪记录
+  dlevel_summary.json     # D0/D1/D2 汇总（前端主数据源）
   discussion_participants.json # 讨论参与者汇总与日级趋势
   ...
 .github/workflows/
-  update-data.yml        # 每日自动采集
-  deploy.yml             # GitHub Pages 部署
+  update-data.yml         # 每日自动采集 + 超期通知
+  deploy.yml              # GitHub Pages 部署
 ```
 
 ## 免责声明
